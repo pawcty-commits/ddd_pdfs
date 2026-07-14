@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
+  "papers": [
+    {
+      "id": "mock2026_p1",
+      "title": "2026 模擬卷 / 2026 Mock",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2026-04-08",
+      "jsonPath": "mock2026/p1/questions.json",
+      "imageBaseUrl": "mock2026/p1",
+      "pdfUrl": "mock2026/p1/paper.pdf",
+      "examStartTime": "08:30",
+      "examEndTime": "10:45",
+      "durationMinutes": 135
+    },
+    {
+      "id": "mock2026_p2",
+      "title": "2026 模擬卷 / 2026 Mock",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2026-04-08",
+      "jsonPath": "mock2026/p2/questions.json",
+      "imageBaseUrl": "mock2026/p2",
+      "pdfUrl": "mock2026/p2/paper.pdf",
+      "examStartTime": "11:30",
+      "examEndTime": "12:45",
+      "durationMinutes": 75
+    },
+
+    {
+      "id": "2023_p1",
+      "title": "2023 DSE",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2023-04-14",
+      "jsonPath": "2023/p1/questions.json",
+      "imageBaseUrl": "2023/p1",
+      "pdfUrl": "2023/p1/paper.pdf",
+      "examStartTime": "08:30",
+      "examEndTime": "10:45",
+      "durationMinutes": 135
+    },
+    {
+      "id": "2023_p2",
+      "title": "2023 DSE",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2023-04-14",
+      "jsonPath": "2023/p2/questions.json",
+      "imageBaseUrl": "2023/p2",
+      "pdfUrl": "2023/p2/paper.pdf",
+      "examStartTime": "11:30",
+      "examEndTime": "12:45",
+      "durationMinutes": 75
+    }
+  ]
+}
