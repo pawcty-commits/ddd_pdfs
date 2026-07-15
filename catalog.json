@@ -4,51 +4,75 @@
   "papers": [
 
     {
-      "_comment": "★ 今天的模擬考 → timedExam: true（跟時間開考、倒數、錄音、收卷）",
+      "_note": "★ 今日試卷：timedExam=true, source=both（既能作答又能下載）",
+      "id": "today_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2026-07-15",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "today/p1/questions.json",
+      "imageBaseUrl": "today/p1",
+      "pdfUrl": "today/p1/paper.pdf"
+    },
+    {
+      "id": "today_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2026-07-15",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "today/p2/questions.json",
+      "imageBaseUrl": "today/p2",
+      "pdfUrl": "today/p2/paper.pdf"
+    },
+
+    {
+      "_note": "★ 過往試卷（有切圖）：source=pastpaper → 只顯示「網上作答」",
+      "id": "2023_p1",
+      "title": "2023",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2023-04-14",
+      "timedExam": false,
+      "source": "pastpaper",
+      "jsonPath": "2023/p1/questions.json",
+      "imageBaseUrl": "2023/p1"
+    },
+    {
+      "id": "2023_p2",
+      "title": "2023",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2023-04-14",
+      "timedExam": false,
+      "source": "pastpaper",
+      "jsonPath": "2023/p2/questions.json",
+      "imageBaseUrl": "2023/p2"
+    },
+
+    {
+      "_note": "★ 生成的試卷（只有 PDF）：source=generated → 只顯示「下載試卷」",
       "id": "mock2026_p1",
-      "title": "2026 模擬卷 / 2026 Mock",
+      "title": "2026",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "longQuestion",
       "examDate": "2026-04-08",
-      "timedExam": true,
-      "jsonPath": "mock2026/p1/questions.json",
-      "imageBaseUrl": "mock2026/p1",
+      "timedExam": false,
+      "source": "generated",
       "pdfUrl": "mock2026/p1/paper.pdf"
     },
     {
       "id": "mock2026_p2",
-      "title": "2026 模擬卷 / 2026 Mock",
+      "title": "2026",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "mc",
       "examDate": "2026-04-08",
-      "timedExam": true,
-      "jsonPath": "mock2026/p2/questions.json",
-      "imageBaseUrl": "mock2026/p2",
+      "timedExam": false,
+      "source": "generated",
       "pdfUrl": "mock2026/p2/paper.pdf"
-    },
-
-    {
-      "_comment": "★ 過往試卷 → timedExam: false（或直接省略），隨時可做",
-      "id": "2023_p1",
-      "title": "2023 DSE",
-      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
-      "type": "longQuestion",
-      "examDate": "2023-04-14",
-      "timedExam": false,
-      "jsonPath": "2023/p1/questions.json",
-      "imageBaseUrl": "2023/p1",
-      "pdfUrl": "2023/p1/paper.pdf"
-    },
-    {
-      "id": "2023_p2",
-      "title": "2023 DSE",
-      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
-      "type": "mc",
-      "examDate": "2023-04-14",
-      "timedExam": false,
-      "jsonPath": "2023/p2/questions.json",
-      "imageBaseUrl": "2023/p2",
-      "pdfUrl": "2023/p2/paper.pdf"
     }
   ]
 }
