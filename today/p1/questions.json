@@ -1,0 +1,544 @@
+{
+  "paperTitle": "HKDSE Mathematics Compulsory Part — Paper 1 (Mock)",
+  "paperTitleZh": "香港中學文憑試 數學 必修部分 — 試卷一（模擬卷）",
+  "year": 2026,
+  "durationMinutes": 135,
+  "totalMarks": 105,
+  "instructionsZh": "本試卷分為三部分：甲部(1)、甲部(2) 及 乙部。所有答案須詳列步驟。除特別指明外，數值答案須為準確值或準確至三位有效數字。本試卷的圖形不一定依比例繪畫。",
+  "instructionsEn": "This paper consists of THREE sections, A(1), A(2) and B. Unless otherwise specified, all working must be clearly shown. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures. The diagrams in this paper are not necessarily drawn to scale.",
+  "sections": [
+    {
+      "id": "sectionA1",
+      "titleZh": "甲部(1)",
+      "titleEn": "Section A(1)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionA2",
+      "titleZh": "甲部(2)",
+      "titleEn": "Section A(2)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionB",
+      "titleZh": "乙部",
+      "titleEn": "Section B",
+      "marks": 35,
+      "deductionCapUpp": 0
+    }
+  ],
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 2,
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "化簡 \\frac{x^{5} y^{-3}}{(x^{-2} y)^{4}} ，並以正指數表示答案。",
+          "questionTextEn": "Simplify \\frac{x^{5} y^{-3}}{(x^{-2} y)^{4}} and express your answer with positive indices.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 2,
+      "categoryZh": "公式變換",
+      "categoryEn": "Change of Subject",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "使 h 成為公式 \\frac{3h+5}{h-2} = k 的主項。",
+          "questionTextEn": "Make h the subject of the formula \\frac{3h+5}{h-2} = k .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 2,
+      "categoryZh": "估算與誤差",
+      "categoryEn": "Estimation and Error",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "若一包茶葉的重量在準確至最接近的 10 g 時量得為 250 g ，則該包茶葉稱為正常。求一包正常茶葉的最小可能重量。",
+          "questionTextEn": "A packet of tea is termed regular if its weight is measured as 250 g correct to the nearest 10 g . Find the least possible weight of a regular packet of tea.",
+          "totalMarks": 1
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "現有 4 包正常茶葉。該 4 包茶葉的總重量有可能為 1024 g 嗎？試解釋你的答案。",
+          "questionTextEn": "There are 4 regular packets of tea. Is it possible that the total weight of these 4 packets of tea is 1024 g ? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "因式分解",
+      "categoryEn": "Factorization",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "因式分解 25m^{2} - 20mn + 4n^{2} 。",
+          "questionTextEn": "Factorize 25m^{2} - 20mn + 4n^{2} .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "因式分解 25m^{2} - 20mn + 4n^{2} - 15m + 6n 。",
+          "questionTextEn": "Factorize 25m^{2} - 20mn + 4n^{2} - 15m + 6n .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "一部相機以其標價的 20% 折扣售出。售出該相機後，利潤為 $260 而百分利潤為 25% 。求該相機的標價。",
+          "questionTextEn": "A camera is sold at a discount of 20% on its marked price. After selling the camera, the profit is $260 and the percentage profit is 25% . Find the marked price of the camera.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "一元一次不等式",
+      "categoryEn": "Linear Inequalities",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "考慮複合不等式 -3(x+2) > x - 14 或 2x + 5 \\le 1 …… (*) 。解 (*) 。",
+          "questionTextEn": "Consider the compound inequality -3(x+2) > x - 14 \\;\\text{ or }\\; 2x + 5 \\le 1 \\;\\cdots\\;(*) . Solve (*) .",
+          "totalMarks": 3
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "寫出滿足 (*) 的最大整數。",
+          "questionTextEn": "Write down the greatest integer satisfying (*) .",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "坐標變換與斜率",
+      "categoryEn": "Transformation in the Rectangular Coordinate Plane",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "點 A 及 B 的坐標分別為 (-6, 8) 及 (5, -2) 。 A 繞原點 O 順時針方向旋轉 90° 至 A' 。 B 關於 y 軸的反射影像為 B' 。寫出 A' 及 B' 的坐標。",
+          "questionTextEn": "The coordinates of the points A and B are (-6, 8) and (5, -2) respectively. A is rotated clockwise about the origin O through 90° to A' . B' is the reflection image of B with respect to the y-axis. Write down the coordinates of A' and B' .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求 A'B' 的斜率。",
+          "questionTextEn": "Find the slope of A'B' .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "全等三角形",
+      "categoryEn": "Congruent Triangles",
+      "figureSpecId": "FIG-Q8",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "在圖一中， ABCD 為四邊形。已知 AB = AD 及 \\angle BAC = \\angle DAC 。證明 \\triangle ABC \\cong \\triangle ADC 。",
+          "questionTextEn": "In Figure 1, ABCD is a quadrilateral. It is given that AB = AD and \\angle BAC = \\angle DAC . Prove that \\triangle ABC \\cong \\triangle ADC .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "若 \\angle ABC = 116° 及 \\angle BCD = 84° ，求 \\angle BAD 。",
+          "questionTextEn": "If \\angle ABC = 116° and \\angle BCD = 84° , find \\angle BAD .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "統計圖表與概率",
+      "categoryEn": "Statistical Tables and Probability",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "下表顯示某組 40 名學生完成一項工作所需時間的分佈。\n所需時間（分鐘） : 11-15 / 16-20 / 21-25 / 26-30 / 31-35\n頻數 : 4 / 10 / 14 / 8 / 4\n寫出該分佈的眾數組。",
+          "questionTextEn": "The table below shows the distribution of the times taken by a group of 40 students to finish a task.\nTime taken (minutes) : 11-15 / 16-20 / 21-25 / 26-30 / 31-35\nFrequency : 4 / 10 / 14 / 8 / 4\nWrite down the modal class of the distribution.",
+          "totalMarks": 1
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求該分佈的平均數。",
+          "questionTextEn": "Find the mean of the distribution.",
+          "totalMarks": 2
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "從該組學生中隨機選出一名學生。求該學生所需時間少於 20.5 分鐘的概率。",
+          "questionTextEn": "A student is randomly selected from the group. Find the probability that the time taken by the selected student is less than 20.5 minutes.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "變分",
+      "categoryEn": "Variation",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "已知 f(x) 是部分常數，而部分則與 x^{2} 成正變。已知 f(1) = 13 及 f(4) = 58 。求 f(x) 。",
+          "questionTextEn": "It is given that f(x) is partly constant and partly varies as x^{2} . Suppose that f(1) = 13 and f(4) = 58 . Find f(x) .",
+          "totalMarks": 3
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "寫出 y = f(x) 的圖像的 y 軸截距。",
+          "questionTextEn": "Write down the y-intercept of the graph of y = f(x) .",
+          "totalMarks": 1
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "設 k 為實數常數。求 k 的取值範圍，使方程 f(x) = k 有兩個不同的實根。",
+          "questionTextEn": "Let k be a real constant. Find the range of values of k such that the equation f(x) = k has two distinct real roots.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "統計數據的量度",
+      "categoryEn": "Measures of Central Tendency and Dispersion",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "下面的莖葉圖顯示某會所 12 名會員的年齡分佈。\n莖（十位） | 葉（個位）\n1 | 4 6 9\n2 | 2 5 a 8\n3 | 1 b 6 6\n4 | 8\n已知該分佈的中位數及四分位數間距分別為 27 及 15 。求 a 及 b 。",
+          "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the ages of the 12 members of a club.\nStem (tens) | Leaf (units)\n1 | 4 6 9\n2 | 2 5 a 8\n3 | 1 b 6 6\n4 | 8\nIt is given that the median and the inter-quartile range of the distribution are 27 and 15 respectively. Find a and b .",
+          "totalMarks": 3
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求該分佈的平均數及標準差。",
+          "questionTextEn": "Find the mean and the standard deviation of the distribution.",
+          "totalMarks": 2
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "現有一名 48 歲的會員離開該會所。求該分佈的中位數的改變。",
+          "questionTextEn": "A member aged 48 now leaves the club. Find the change in the median of the distribution.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "多項式的餘式定理與因式定理",
+      "categoryEn": "Remainder Theorem and Factor Theorem",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "設 p(x) = 2x^{3} + ax^{2} + bx - 33 ，其中 a 及 b 為常數。當 p(x) 除以 x^{2} - x + 4 時，餘式為 x - 13 。求 a 及 b 。",
+          "questionTextEn": "Let p(x) = 2x^{3} + ax^{2} + bx - 33 , where a and b are constants. When p(x) is divided by x^{2} - x + 4 , the remainder is x - 13 . Find a and b .",
+          "totalMarks": 3
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "x - 3 是否 p(x) 的因式？試解釋你的答案。",
+          "questionTextEn": "Is x - 3 a factor of p(x) ? Explain your answer.",
+          "totalMarks": 2
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "有人聲稱方程 p(x) = 0 有兩個無理根。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the equation p(x) = 0 has two irrational roots. Do you agree? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "相似立體圖形的體積與表面積",
+      "categoryEn": "Volumes and Surface Areas of Similar Solids",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "有兩個相似的實心金屬正圓錐。較小的圓錐與較大的圓錐的體積比為 8 : 27 。較大的圓錐的底半徑及高分別為 12 cm 及 18 cm 。以 \\pi 表示較小的圓錐的體積。",
+          "questionTextEn": "There are two similar solid metal right circular cones. The ratio of the volume of the smaller cone to the volume of the larger cone is 8 : 27 . The base radius and the height of the larger cone are 12 cm and 18 cm respectively. Express, in terms of \\pi , the volume of the smaller cone.",
+          "totalMarks": 3
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "該兩個圓錐被熔解並重鑄成一個底半徑為 8 cm 的實心正圓柱。求該圓柱的高。",
+          "questionTextEn": "The two cones are melted and recast into a solid right circular cylinder of base radius 8 cm . Find the height of the cylinder.",
+          "totalMarks": 2
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "有人聲稱該圓柱的總表面積小於該兩個圓錐的總表面積之和。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the total surface area of the cylinder is less than the sum of the total surface areas of the two cones. Do you agree? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "圓的方程",
+      "categoryEn": "Equations of Circles",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圓 C 的方程為 x^{2} + y^{2} - 24x - 10y + 120 = 0 。以 G 表示 C 的圓心。求 G 的坐標及 C 的半徑。",
+          "questionTextEn": "The equation of the circle C is x^{2} + y^{2} - 24x - 10y + 120 = 0 . Denote the centre of C by G . Find the coordinates of G and the radius of C .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "點 H 的坐標為 (18, 13) 。求 G 與 H 之間的距離。",
+          "questionTextEn": "The coordinates of the point H are (18, 13) . Find the distance between G and H .",
+          "totalMarks": 1
+        },
+        {
+          "label": "(c)(i)",
+          "questionTextZh": "設 P 為 C 上的動點。當 \\triangle GHP 的面積最大時，描述 GH 與 GP 之間的幾何關係。",
+          "questionTextEn": "Let P be a moving point on C . When the area of \\triangle GHP is the greatest, describe the geometric relationship between GH and GP .",
+          "totalMarks": 1
+        },
+        {
+          "label": "(c)(ii)",
+          "questionTextZh": "求此時 \\triangle GHP 的周界。",
+          "questionTextEn": "Find the perimeter of \\triangle GHP in this case.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "排列、組合與概率",
+      "categoryEn": "Permutations, Combinations and Probability",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "一個盒子內有 6 個紅球、 5 個綠球及 4 個黃球。現從盒中同時隨機抽出 4 個球。求所抽出的球中剛好有 2 個紅球的概率。",
+          "questionTextEn": "In a box, there are 6 red balls, 5 green balls and 4 yellow balls. 4 balls are randomly drawn from the box at the same time. Find the probability that exactly 2 red balls are drawn.",
+          "totalMarks": 3
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求所抽出的球中至少有 1 個紅球及至少有 1 個黃球的概率。",
+          "questionTextEn": "Find the probability that at least 1 red ball and at least 1 yellow ball are drawn.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "二次函數的圖像",
+      "categoryEn": "Graphs of Quadratic Functions",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "設 f(x) = 2x^{2} - 8kx + 10k^{2} + 12k + 6 ，其中 k 為實數常數。用配方法，以 k 表示 y = f(x) 的圖像的頂點坐標。",
+          "questionTextEn": "Let f(x) = 2x^{2} - 8kx + 10k^{2} + 12k + 6 , where k is a real constant. Using the method of completing the square, express, in terms of k , the coordinates of the vertex of the graph of y = f(x) .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求該頂點的 y 坐標的最小值，以及對應的 k 值。",
+          "questionTextEn": "Find the least value of the y-coordinate of the vertex and the corresponding value of k .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "有人聲稱：對任何實數 k ， y = f(x) 的圖像的頂點必在曲線 \\Gamma : y = \\frac{1}{2}x^{2} + 6x + 6 上。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that for any real constant k , the vertex of the graph of y = f(x) lies on the curve \\Gamma : y = \\frac{1}{2}x^{2} + 6x + 6 . Do you agree? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "等差數列與等比數列",
+      "categoryEn": "Arithmetic and Geometric Sequences",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "設 A(n) 為某等差數列的第 n 項。已知 A(3) = 23 及 A(9) = 53 。求 A(n) 。",
+          "questionTextEn": "Let A(n) be the nth term of an arithmetic sequence. It is given that A(3) = 23 and A(9) = 53 . Find A(n) .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求 A(1) + A(2) + \\cdots + A(50) 。",
+          "questionTextEn": "Find A(1) + A(2) + \\cdots + A(50) .",
+          "totalMarks": 1
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "設 G(n) 為某等比數列的第 n 項，其首項為 A(2) 而公比為 2 。求最小的 n 值，使 G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(50) 。",
+          "questionTextEn": "Let G(n) be the nth term of a geometric sequence with first term A(2) and common ratio 2 . Find the least value of n such that G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(50) .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 13,
+      "categoryZh": "立體圖形的三角學",
+      "categoryEn": "Trigonometry in 3-Dimensional Problems",
+      "figureSpecId": "FIG-Q18",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圖二所示為一個正四角錐 VABCD ，其正方形底面 ABCD 的邊長為 16 cm ，而該四角錐的高為 15 cm 。設 M 為 BC 的中點， O 為 ABCD 的中心。求 VM 。",
+          "questionTextEn": "Figure 2 shows a right pyramid VABCD with a square base ABCD of side 16 cm . The height of the pyramid is 15 cm . Let M be the mid-point of BC and O be the centre of ABCD . Find VM .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求平面 VBC 與底面 ABCD 之間的夾角。",
+          "questionTextEn": "Find the angle between the plane VBC and the base ABCD .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "設 N 為 AD 的中點。有學生聲稱平面 VBC 與平面 VAD 之間的夾角小於 60° 。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Let N be the mid-point of AD . A student claims that the angle between the plane VBC and the plane VAD is less than 60° . Do you agree? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 14,
+      "categoryZh": "圓的方程與切線",
+      "categoryEn": "Equations of Circles and Tangents",
+      "figureSpecId": null,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圓 C 的方程為 x^{2} + y^{2} - 12x - 16y = 0 。以 G 表示 C 的圓心。求 G 的坐標及 C 的半徑。",
+          "questionTextEn": "The equation of the circle C is x^{2} + y^{2} - 12x - 16y = 0 . Denote the centre of C by G . Find the coordinates of G and the radius of C .",
+          "totalMarks": 2
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "設直線 L : 3x + 4y - 100 = 0 。證明 L 是 C 的切線，並求切點 T 的坐標。",
+          "questionTextEn": "Let L : 3x + 4y - 100 = 0 . Prove that L is a tangent to C , and find the coordinates of the point of contact T .",
+          "totalMarks": 3
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "以 O 表示原點。有人聲稱 OT 是 C 的直徑。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Denote the origin by O . Someone claims that OT is a diameter of C . Do you agree? Explain your answer.",
+          "totalMarks": 2
+        },
+        {
+          "label": "(d)",
+          "questionTextZh": "設 P 為 C 上的動點，且 P 異於 O 及 T 。以 S 表示 \\triangle OPT 的面積。求 S 的最大值。",
+          "questionTextEn": "Let P be a moving point on C such that P is different from O and T . Denote the area of \\triangle OPT by S . Find the greatest value of S .",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}
