@@ -7,24 +7,24 @@
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "longQuestion",
-      "examDate": "2026-07-16",
+      "examDate": "2026-07-19",
       "timedExam": true,
       "source": "both",
       "jsonPath": "today/p1/questions.json",
       "imageBaseUrl": "today/p1",
-      "pdfUrl": "today/p1/paper.pdf"
+      "pdfUrl": "today/p1/paper_{lang}.pdf"
     },
     {
       "id": "today_p2",
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "mc",
-      "examDate": "2026-07-16",
+      "examDate": "2026-07-19",
       "timedExam": true,
       "source": "both",
       "jsonPath": "today/p2/questions.json",
       "imageBaseUrl": "today/p2",
-      "pdfUrl": "today/p2/paper.pdf"
+      "pdfUrl": "today/p2/paper_{lang}.pdf"
     }
   ]
 }
