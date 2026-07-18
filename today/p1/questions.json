@@ -42,8 +42,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "化簡 \\frac{x^{5} y^{-3}}{(x^{-2} y)^{4}} ，並以正指數表示答案。",
-          "questionTextEn": "Simplify \\frac{x^{5} y^{-3}}{(x^{-2} y)^{4}} and express your answer with positive indices.",
+          "questionTextZh": "化簡 \\frac{p^{7} q^{-2}}{(p^{-1} q)^{3}} ，並以正指數表示答案。",
+          "questionTextEn": "Simplify \\frac{p^{7} q^{-2}}{(p^{-1} q)^{3}} and express your answer with positive indices.",
           "totalMarks": 3
         }
       ]
@@ -60,8 +60,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "使 h 成為公式 \\frac{3h+5}{h-2} = k 的主項。",
-          "questionTextEn": "Make h the subject of the formula \\frac{3h+5}{h-2} = k .",
+          "questionTextZh": "使 h 成為公式 \\frac{3h+2}{2h-5} = k 的主項。",
+          "questionTextEn": "Make h the subject of the formula \\frac{3h+2}{2h-5} = k .",
           "totalMarks": 3
         }
       ]
@@ -78,14 +78,14 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "若一包茶葉的重量在準確至最接近的 10 g 時量得為 250 g ，則該包茶葉稱為正常。求一包正常茶葉的最小可能重量。",
-          "questionTextEn": "A packet of tea is termed regular if its weight is measured as 250 g correct to the nearest 10 g . Find the least possible weight of a regular packet of tea.",
+          "questionTextZh": "若一包糖的重量在準確至最接近的 20 g 時量得為 340 g ，則該包糖稱為合格。求一包合格糖的最小可能重量。",
+          "questionTextEn": "A packet of sugar is termed acceptable if its weight is measured as 340 g correct to the nearest 20 g . Find the least possible weight of an acceptable packet of sugar.",
           "totalMarks": 1
         },
         {
           "label": "(b)",
-          "questionTextZh": "現有 4 包正常茶葉。該 4 包茶葉的總重量有可能為 1024 g 嗎？試解釋你的答案。",
-          "questionTextEn": "There are 4 regular packets of tea. Is it possible that the total weight of these 4 packets of tea is 1024 g ? Explain your answer.",
+          "questionTextZh": "現有 5 包合格糖。該 5 包糖的總重量有可能為 1740 g 嗎？試解釋你的答案。",
+          "questionTextEn": "There are 5 acceptable packets of sugar. Is it possible that the total weight of these 5 packets is 1740 g ? Explain your answer.",
           "totalMarks": 2
         }
       ]
@@ -102,14 +102,14 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "因式分解 25m^{2} - 20mn + 4n^{2} 。",
-          "questionTextEn": "Factorize 25m^{2} - 20mn + 4n^{2} .",
+          "questionTextZh": "因式分解 16x^{2} - 24xy + 9y^{2} 。",
+          "questionTextEn": "Factorize 16x^{2} - 24xy + 9y^{2} .",
           "totalMarks": 2
         },
         {
           "label": "(b)",
-          "questionTextZh": "因式分解 25m^{2} - 20mn + 4n^{2} - 15m + 6n 。",
-          "questionTextEn": "Factorize 25m^{2} - 20mn + 4n^{2} - 15m + 6n .",
+          "questionTextZh": "因式分解 16x^{2} - 24xy + 9y^{2} + 8x - 6y 。",
+          "questionTextEn": "Factorize 16x^{2} - 24xy + 9y^{2} + 8x - 6y .",
           "totalMarks": 2
         }
       ]
@@ -126,8 +126,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "一部相機以其標價的 20% 折扣售出。售出該相機後，利潤為 $260 而百分利潤為 25% 。求該相機的標價。",
-          "questionTextEn": "A camera is sold at a discount of 20% on its marked price. After selling the camera, the profit is $260 and the percentage profit is 25% . Find the marked price of the camera.",
+          "questionTextZh": "一部熨斗以其標價的 20% 折扣售出。售出該熨斗後，利潤為 $240 而百分利潤為 30% 。求該熨斗的標價。",
+          "questionTextEn": "An iron is sold at a discount of 20% on its marked price. After selling the iron, the profit is $240 and the percentage profit is 30% . Find the marked price of the iron.",
           "totalMarks": 4
         }
       ]
@@ -144,8 +144,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "考慮複合不等式 -3(x+2) > x - 14 或 2x + 5 \\le 1 …… (*) 。解 (*) 。",
-          "questionTextEn": "Consider the compound inequality -3(x+2) > x - 14 \\;\\text{ or }\\; 2x + 5 \\le 1 \\;\\cdots\\;(*) . Solve (*) .",
+          "questionTextZh": "考慮複合不等式 -2(x + 1) \\ge x - 11 且 4x + 1 > x - 5 …… (*) 。解 (*) 。",
+          "questionTextEn": "Consider the compound inequality -2(x + 1) \\ge x - 11 \\;\\text{ and }\\; 4x + 1 > x - 5 \\;\\cdots\\;(*) . Solve (*) .",
           "totalMarks": 3
         },
         {
@@ -168,8 +168,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "點 A 及 B 的坐標分別為 (-6, 8) 及 (5, -2) 。 A 繞原點 O 順時針方向旋轉 90° 至 A' 。 B 關於 y 軸的反射影像為 B' 。寫出 A' 及 B' 的坐標。",
-          "questionTextEn": "The coordinates of the points A and B are (-6, 8) and (5, -2) respectively. A is rotated clockwise about the origin O through 90° to A' . B' is the reflection image of B with respect to the y-axis. Write down the coordinates of A' and B' .",
+          "questionTextZh": "點 A 及 B 的坐標分別為 (7, -3) 及 (-2, 5) 。 A 關於 y 軸的反射影像為 A' 。 B 繞原點 O 順時針方向旋轉 90° 至 B' 。寫出 A' 及 B' 的坐標。",
+          "questionTextEn": "The coordinates of the points A and B are (7, -3) and (-2, 5) respectively. A' is the reflection image of A with respect to the y-axis. B is rotated clockwise about the origin O through 90° to B' . Write down the coordinates of A' and B' .",
           "totalMarks": 2
         },
         {
@@ -198,8 +198,8 @@
         },
         {
           "label": "(b)",
-          "questionTextZh": "若 \\angle ABC = 116° 及 \\angle BCD = 84° ，求 \\angle BAD 。",
-          "questionTextEn": "If \\angle ABC = 116° and \\angle BCD = 84° , find \\angle BAD .",
+          "questionTextZh": "若 \\angle ABC = 104° 及 \\angle BCD = 88° ，求 \\angle BAD 。",
+          "questionTextEn": "If \\angle ABC = 104° and \\angle BCD = 88° , find \\angle BAD .",
           "totalMarks": 3
         }
       ]
@@ -216,8 +216,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "下表顯示某組 40 名學生完成一項工作所需時間的分佈。\n所需時間（分鐘） : 11-15 / 16-20 / 21-25 / 26-30 / 31-35\n頻數 : 4 / 10 / 14 / 8 / 4\n寫出該分佈的眾數組。",
-          "questionTextEn": "The table below shows the distribution of the times taken by a group of 40 students to finish a task.\nTime taken (minutes) : 11-15 / 16-20 / 21-25 / 26-30 / 31-35\nFrequency : 4 / 10 / 14 / 8 / 4\nWrite down the modal class of the distribution.",
+          "questionTextZh": "下表顯示某組 40 名工人完成一件產品所需時間的分佈。\n所需時間（分鐘） : 11-15 / 16-20 / 21-25 / 26-30 / 31-35\n頻數 : 5 / 11 / 13 / 7 / 4\n寫出該分佈的眾數組。",
+          "questionTextEn": "The table below shows the distribution of the times taken by a group of 40 workers to finish a product.\nTime taken (minutes) : 11-15 / 16-20 / 21-25 / 26-30 / 31-35\nFrequency : 5 / 11 / 13 / 7 / 4\nWrite down the modal class of the distribution.",
           "totalMarks": 1
         },
         {
@@ -228,8 +228,8 @@
         },
         {
           "label": "(c)",
-          "questionTextZh": "從該組學生中隨機選出一名學生。求該學生所需時間少於 20.5 分鐘的概率。",
-          "questionTextEn": "A student is randomly selected from the group. Find the probability that the time taken by the selected student is less than 20.5 minutes.",
+          "questionTextZh": "從該組工人中隨機選出一名工人。求該工人所需時間少於 20.5 分鐘的概率。",
+          "questionTextEn": "A worker is randomly selected from the group. Find the probability that the time taken by the selected worker is less than 20.5 minutes.",
           "totalMarks": 2
         }
       ]
@@ -246,8 +246,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "已知 f(x) 是部分常數，而部分則與 x^{2} 成正變。已知 f(1) = 13 及 f(4) = 58 。求 f(x) 。",
-          "questionTextEn": "It is given that f(x) is partly constant and partly varies as x^{2} . Suppose that f(1) = 13 and f(4) = 58 . Find f(x) .",
+          "questionTextZh": "已知 f(x) 是部分常數，而部分則與 x^{2} 成正變。已知 f(1) = 9 及 f(4) = 54 。求 f(x) 。",
+          "questionTextEn": "It is given that f(x) is partly constant and partly varies as x^{2} . Suppose that f(1) = 9 and f(4) = 54 . Find f(x) .",
           "totalMarks": 3
         },
         {
@@ -271,13 +271,13 @@
       "difficultyScore": 8,
       "categoryZh": "統計數據的量度",
       "categoryEn": "Measures of Central Tendency and Dispersion",
-      "figureSpecId": null,
+      "figureSpecId": "FIG-Q11",
       "totalMarks": 7,
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "下面的莖葉圖顯示某會所 12 名會員的年齡分佈。\n莖（十位） | 葉（個位）\n1 | 4 6 9\n2 | 2 5 a 8\n3 | 1 b 6 6\n4 | 8\n已知該分佈的中位數及四分位數間距分別為 27 及 15 。求 a 及 b 。",
-          "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the ages of the 12 members of a club.\nStem (tens) | Leaf (units)\n1 | 4 6 9\n2 | 2 5 a 8\n3 | 1 b 6 6\n4 | 8\nIt is given that the median and the inter-quartile range of the distribution are 27 and 15 respectively. Find a and b .",
+          "questionTextZh": "圖二中的莖葉圖顯示某會所 11 名會員的年齡分佈。已知該分佈的中位數及四分位數間距分別為 27 及 16 。求 a 及 b 。",
+          "questionTextEn": "The stem-and-leaf diagram in Figure 2 shows the distribution of the ages of the 11 members of a club. It is given that the median and the inter-quartile range of the distribution are 27 and 16 respectively. Find a and b .",
           "totalMarks": 3
         },
         {
@@ -288,8 +288,8 @@
         },
         {
           "label": "(c)",
-          "questionTextZh": "現有一名 48 歲的會員離開該會所。求該分佈的中位數的改變。",
-          "questionTextEn": "A member aged 48 now leaves the club. Find the change in the median of the distribution.",
+          "questionTextZh": "現有一名 43 歲的會員離開該會所。求該分佈的中位數的改變。",
+          "questionTextEn": "A member aged 43 now leaves the club. Find the change in the median of the distribution.",
           "totalMarks": 2
         }
       ]
@@ -306,8 +306,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "設 p(x) = 2x^{3} + ax^{2} + bx - 33 ，其中 a 及 b 為常數。當 p(x) 除以 x^{2} - x + 4 時，餘式為 x - 13 。求 a 及 b 。",
-          "questionTextEn": "Let p(x) = 2x^{3} + ax^{2} + bx - 33 , where a and b are constants. When p(x) is divided by x^{2} - x + 4 , the remainder is x - 13 . Find a and b .",
+          "questionTextZh": "設 p(x) = 2x^{3} + ax^{2} + bx - 12 ，其中 a 及 b 為常數。當 p(x) 除以 x^{2} - x + 3 時，餘式為 -8x - 3 。求 a 及 b 。",
+          "questionTextEn": "Let p(x) = 2x^{3} + ax^{2} + bx - 12 , where a and b are constants. When p(x) is divided by x^{2} - x + 3 , the remainder is -8x - 3 . Find a and b .",
           "totalMarks": 3
         },
         {
@@ -318,8 +318,8 @@
         },
         {
           "label": "(c)",
-          "questionTextZh": "有人聲稱方程 p(x) = 0 有兩個無理根。你是否同意？試解釋你的答案。",
-          "questionTextEn": "Someone claims that the equation p(x) = 0 has two irrational roots. Do you agree? Explain your answer.",
+          "questionTextZh": "有人聲稱方程 p(x) = 0 有三個相異實根。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the equation p(x) = 0 has three distinct real roots. Do you agree? Explain your answer.",
           "totalMarks": 2
         }
       ]
@@ -336,20 +336,20 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "有兩個相似的實心金屬正圓錐。較小的圓錐與較大的圓錐的體積比為 8 : 27 。較大的圓錐的底半徑及高分別為 12 cm 及 18 cm 。以 \\pi 表示較小的圓錐的體積。",
-          "questionTextEn": "There are two similar solid metal right circular cones. The ratio of the volume of the smaller cone to the volume of the larger cone is 8 : 27 . The base radius and the height of the larger cone are 12 cm and 18 cm respectively. Express, in terms of \\pi , the volume of the smaller cone.",
+          "questionTextZh": "有兩個相似的實心金屬正圓錐。較小的圓錐與較大的圓錐的體積比為 8 : 27 。較大的圓錐的底半徑及高分別為 18 cm 及 8 cm 。以 \\pi 表示較小的圓錐的體積。",
+          "questionTextEn": "There are two similar solid metal right circular cones. The ratio of the volume of the smaller cone to the volume of the larger cone is 8 : 27 . The base radius and the height of the larger cone are 18 cm and 8 cm respectively. Express, in terms of \\pi , the volume of the smaller cone.",
           "totalMarks": 3
         },
         {
           "label": "(b)",
-          "questionTextZh": "該兩個圓錐被熔解並重鑄成一個底半徑為 8 cm 的實心正圓柱。求該圓柱的高。",
-          "questionTextEn": "The two cones are melted and recast into a solid right circular cylinder of base radius 8 cm . Find the height of the cylinder.",
+          "questionTextZh": "該兩個圓錐被熔解並重鑄成一個底半徑為 4 cm 的實心正圓柱。求該圓柱的高。",
+          "questionTextEn": "The two cones are melted and recast into a solid right circular cylinder of base radius 4 cm . Find the height of the cylinder.",
           "totalMarks": 2
         },
         {
           "label": "(c)",
-          "questionTextZh": "有人聲稱該圓柱的總表面積小於該兩個圓錐的總表面積之和。你是否同意？試解釋你的答案。",
-          "questionTextEn": "Someone claims that the total surface area of the cylinder is less than the sum of the total surface areas of the two cones. Do you agree? Explain your answer.",
+          "questionTextZh": "有人聲稱該圓柱的曲面面積大於較大圓錐的曲面面積。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the curved surface area of the cylinder is greater than the curved surface area of the larger cone. Do you agree? Explain your answer.",
           "totalMarks": 2
         }
       ]
@@ -366,14 +366,14 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "圓 C 的方程為 x^{2} + y^{2} - 24x - 10y + 120 = 0 。以 G 表示 C 的圓心。求 G 的坐標及 C 的半徑。",
-          "questionTextEn": "The equation of the circle C is x^{2} + y^{2} - 24x - 10y + 120 = 0 . Denote the centre of C by G . Find the coordinates of G and the radius of C .",
+          "questionTextZh": "圓 C 的方程為 x^{2} + y^{2} - 20x - 16y + 139 = 0 。以 G 表示 C 的圓心。求 G 的坐標及 C 的半徑。",
+          "questionTextEn": "The equation of the circle C is x^{2} + y^{2} - 20x - 16y + 139 = 0 . Denote the centre of C by G . Find the coordinates of G and the radius of C .",
           "totalMarks": 2
         },
         {
           "label": "(b)",
-          "questionTextZh": "點 H 的坐標為 (18, 13) 。求 G 與 H 之間的距離。",
-          "questionTextEn": "The coordinates of the point H are (18, 13) . Find the distance between G and H .",
+          "questionTextZh": "點 H 的坐標為 (22, 8) 。求 G 與 H 之間的距離。",
+          "questionTextEn": "The coordinates of the point H are (22, 8) . Find the distance between G and H .",
           "totalMarks": 1
         },
         {
@@ -402,8 +402,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "一個盒子內有 6 個紅球、 5 個綠球及 4 個黃球。現從盒中同時隨機抽出 4 個球。求所抽出的球中剛好有 2 個紅球的概率。",
-          "questionTextEn": "In a box, there are 6 red balls, 5 green balls and 4 yellow balls. 4 balls are randomly drawn from the box at the same time. Find the probability that exactly 2 red balls are drawn.",
+          "questionTextZh": "一個盒子內有 8 個紅球、 4 個綠球及 3 個黃球。現從盒中同時隨機抽出 4 個球。求所抽出的球中剛好有 2 個紅球的概率。",
+          "questionTextEn": "In a box, there are 8 red balls, 4 green balls and 3 yellow balls. 4 balls are randomly drawn from the box at the same time. Find the probability that exactly 2 red balls are drawn.",
           "totalMarks": 3
         },
         {
@@ -426,8 +426,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "設 f(x) = 2x^{2} - 8kx + 10k^{2} + 12k + 6 ，其中 k 為實數常數。用配方法，以 k 表示 y = f(x) 的圖像的頂點坐標。",
-          "questionTextEn": "Let f(x) = 2x^{2} - 8kx + 10k^{2} + 12k + 6 , where k is a real constant. Using the method of completing the square, express, in terms of k , the coordinates of the vertex of the graph of y = f(x) .",
+          "questionTextZh": "設 f(x) = 2x^{2} - 8kx + 10k^{2} + 8k + 5 ，其中 k 為實數常數。用配方法，以 k 表示 y = f(x) 的圖像的頂點坐標。",
+          "questionTextEn": "Let f(x) = 2x^{2} - 8kx + 10k^{2} + 8k + 5 , where k is a real constant. Using the method of completing the square, express, in terms of k , the coordinates of the vertex of the graph of y = f(x) .",
           "totalMarks": 2
         },
         {
@@ -438,8 +438,8 @@
         },
         {
           "label": "(c)",
-          "questionTextZh": "有人聲稱：對任何實數 k ， y = f(x) 的圖像的頂點必在曲線 \\Gamma : y = \\frac{1}{2}x^{2} + 6x + 6 上。你是否同意？試解釋你的答案。",
-          "questionTextEn": "Someone claims that for any real constant k , the vertex of the graph of y = f(x) lies on the curve \\Gamma : y = \\frac{1}{2}x^{2} + 6x + 6 . Do you agree? Explain your answer.",
+          "questionTextZh": "有人聲稱：對任何實數 k ， y = f(x) 的圖像的頂點必在曲線 \\Gamma : y = \\frac{1}{2}x^{2} + 4x + 5 上。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that for any real constant k , the vertex of the graph of y = f(x) lies on the curve \\Gamma : y = \\frac{1}{2}x^{2} + 4x + 5 . Do you agree? Explain your answer.",
           "totalMarks": 2
         }
       ]
@@ -456,20 +456,20 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "設 A(n) 為某等差數列的第 n 項。已知 A(3) = 23 及 A(9) = 53 。求 A(n) 。",
-          "questionTextEn": "Let A(n) be the nth term of an arithmetic sequence. It is given that A(3) = 23 and A(9) = 53 . Find A(n) .",
+          "questionTextZh": "設 A(n) 為某等差數列的第 n 項。已知 A(3) = 19 及 A(8) = 44 。求 A(n) 。",
+          "questionTextEn": "Let A(n) be the nth term of an arithmetic sequence. It is given that A(3) = 19 and A(8) = 44 . Find A(n) .",
           "totalMarks": 2
         },
         {
           "label": "(b)",
-          "questionTextZh": "求 A(1) + A(2) + \\cdots + A(50) 。",
-          "questionTextEn": "Find A(1) + A(2) + \\cdots + A(50) .",
+          "questionTextZh": "求 A(1) + A(2) + \\cdots + A(45) 。",
+          "questionTextEn": "Find A(1) + A(2) + \\cdots + A(45) .",
           "totalMarks": 1
         },
         {
           "label": "(c)",
-          "questionTextZh": "設 G(n) 為某等比數列的第 n 項，其首項為 A(2) 而公比為 2 。求最小的 n 值，使 G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(50) 。",
-          "questionTextEn": "Let G(n) be the nth term of a geometric sequence with first term A(2) and common ratio 2 . Find the least value of n such that G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(50) .",
+          "questionTextZh": "設 G(n) 為某等比數列的第 n 項，其首項為 A(2) 而公比為 2 。求最小的 n 值，使 G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(45) 。",
+          "questionTextEn": "Let G(n) be the nth term of a geometric sequence with first term A(2) and common ratio 2 . Find the least value of n such that G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(45) .",
           "totalMarks": 3
         }
       ]
@@ -486,8 +486,8 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "圖二所示為一個正四角錐 VABCD ，其正方形底面 ABCD 的邊長為 16 cm ，而該四角錐的高為 15 cm 。設 M 為 BC 的中點， O 為 ABCD 的中心。求 VM 。",
-          "questionTextEn": "Figure 2 shows a right pyramid VABCD with a square base ABCD of side 16 cm . The height of the pyramid is 15 cm . Let M be the mid-point of BC and O be the centre of ABCD . Find VM .",
+          "questionTextZh": "圖三所示為一個正四角錐 VABCD ，其正方形底面 ABCD 的邊長為 10 cm ，而該四角錐的高為 12 cm 。設 M 為 BC 的中點， O 為 ABCD 的中心。求 VM 。",
+          "questionTextEn": "Figure 3 shows a right pyramid VABCD with a square base ABCD of side 10 cm . The height of the pyramid is 12 cm . Let M be the mid-point of BC and O be the centre of ABCD . Find VM .",
           "totalMarks": 2
         },
         {
@@ -498,8 +498,8 @@
         },
         {
           "label": "(c)",
-          "questionTextZh": "設 N 為 AD 的中點。有學生聲稱平面 VBC 與平面 VAD 之間的夾角小於 60° 。你是否同意？試解釋你的答案。",
-          "questionTextEn": "Let N be the mid-point of AD . A student claims that the angle between the plane VBC and the plane VAD is less than 60° . Do you agree? Explain your answer.",
+          "questionTextZh": "設 N 為 AD 的中點。有學生聲稱平面 VBC 與平面 VAD 之間的夾角大於 45° 。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Let N be the mid-point of AD . A student claims that the angle between the plane VBC and the plane VAD is greater than 45° . Do you agree? Explain your answer.",
           "totalMarks": 4
         }
       ]
@@ -516,14 +516,14 @@
       "parts": [
         {
           "label": "(a)",
-          "questionTextZh": "圓 C 的方程為 x^{2} + y^{2} - 12x - 16y = 0 。以 G 表示 C 的圓心。求 G 的坐標及 C 的半徑。",
-          "questionTextEn": "The equation of the circle C is x^{2} + y^{2} - 12x - 16y = 0 . Denote the centre of C by G . Find the coordinates of G and the radius of C .",
+          "questionTextZh": "圓 C 的方程為 x^{2} + y^{2} - 6x - 8y = 0 。以 G 表示 C 的圓心。求 G 的坐標及 C 的半徑。",
+          "questionTextEn": "The equation of the circle C is x^{2} + y^{2} - 6x - 8y = 0 . Denote the centre of C by G . Find the coordinates of G and the radius of C .",
           "totalMarks": 2
         },
         {
           "label": "(b)",
-          "questionTextZh": "設直線 L : 3x + 4y - 100 = 0 。證明 L 是 C 的切線，並求切點 T 的坐標。",
-          "questionTextEn": "Let L : 3x + 4y - 100 = 0 . Prove that L is a tangent to C , and find the coordinates of the point of contact T .",
+          "questionTextZh": "設直線 L : 3x + 4y - 50 = 0 。證明 L 是 C 的切線，並求切點 T 的坐標。",
+          "questionTextEn": "Let L : 3x + 4y - 50 = 0 . Prove that L is a tangent to C , and find the coordinates of the point of contact T .",
           "totalMarks": 3
         },
         {
