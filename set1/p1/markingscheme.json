@@ -1,0 +1,2040 @@
+{
+  "schemaVersion": "DSE_Marking_Rules v1.0",
+  "year": 2026,
+  "paperDate": "2026-07-21",
+  "paper": "Paper 1",
+  "totalMarks": 105,
+  "mathDelimiter": "$...$ (inline TeX)",
+  "globalRules": {
+    "markTypes": [
+      "M",
+      "A",
+      "PROOF",
+      "NONE"
+    ],
+    "followThrough": "M marks always follow through. A marks follow through ONLY when isFollowThrough = true.",
+    "deduction": {
+      "sectionA1MaxDeduction": 1,
+      "sectionA2MaxDeduction": 1,
+      "sectionBMaxDeduction": 0,
+      "types": [
+        "u",
+        "pp"
+      ],
+      "note": "No deduction in any step scoring 0."
+    },
+    "allowFullMarksIfAnswerCorrect": "A correct answer merits all marks unless a method is specified.",
+    "benefitOfDoubt": true,
+    "notationTolerance": "Different notation is NOT penalized.",
+    "fractionRule": "All fractional answers must be simplified."
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 2,
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "化簡 $\\dfrac{u^{9} v^{-4}}{(u^{-3} v)^{2}}$ ，並以正指數表示答案。",
+          "questionTextEn": "Simplify $\\dfrac{u^{9} v^{-4}}{(u^{-3} v)^{2}}$ and express your answer with positive indices.",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q1a_s1",
+              "displayText": "$(u^{-3} v)^{2} = u^{-6} v^{2}$",
+              "displayTextZh": "$(u^{-3} v)^{2} = u^{-6} v^{2}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "for expanding the power / 展開次方",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q1a_s2",
+              "displayText": "$\\dfrac{u^{9} v^{-4}}{u^{-6} v^{2}} = u^{9-(-6)} v^{-4-2} = u^{15} v^{-6}$",
+              "displayTextZh": "$\\dfrac{u^{9} v^{-4}}{u^{-6} v^{2}} = u^{9-(-6)} v^{-4-2} = u^{15} v^{-6}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "subtract indices / 相除時指數相減",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q1a_s3",
+              "displayText": "$= \\dfrac{u^{15}}{v^{6}}$",
+              "displayTextZh": "$= \\dfrac{u^{15}}{v^{6}}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "positive indices required / 必須以正指數表示",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 2,
+      "categoryZh": "公式變換",
+      "categoryEn": "Change of Subject",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "使 $h$ 成為公式 $\\dfrac{5h+2}{h-4} = k$ 的主項。",
+          "questionTextEn": "Make $h$ the subject of the formula $\\dfrac{5h+2}{h-4} = k$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q2a_s1",
+              "displayText": "$5h + 2 = k(h - 4)$",
+              "displayTextZh": "$5h + 2 = k(h - 4)$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "cross multiplication / 交叉相乘",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q2a_s2",
+              "displayText": "$5h - kh = -4k - 2 \\;\\Rightarrow\\; h(5 - k) = -(4k + 2)$",
+              "displayTextZh": "$5h - kh = -4k - 2 \\;\\Rightarrow\\; h(5 - k) = -(4k + 2)$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "group h terms / 集合含 h 的項",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q2a_s3",
+              "displayText": "$h = \\dfrac{4k + 2}{k - 5}$",
+              "displayTextZh": "$h = \\dfrac{4k + 2}{k - 5}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "or equivalent",
+              "acceptRoundedTo": null,
+              "equivalents": [
+                "$h = \\dfrac{-(4k+2)}{5-k}$"
+              ],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 2,
+      "categoryZh": "估算與誤差",
+      "categoryEn": "Estimation and Error",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "若一包咖啡豆的重量在準確至最接近的 $100 \\text{ g}$ 時量得為 $2400 \\text{ g}$ ，則該包咖啡豆稱為合格。求一包合格咖啡豆的最小可能重量。",
+          "questionTextEn": "A packet of coffee beans is termed acceptable if its weight is measured as $2400 \\text{ g}$ correct to the nearest $100 \\text{ g}$ . Find the least possible weight of an acceptable packet of coffee beans.",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q3a_s1",
+              "displayText": "$2400 - \\dfrac{100}{2} = 2350 \\text{ g}$",
+              "displayTextZh": "$2400 - \\dfrac{100}{2} = 2350 \\text{ g}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "u-1 if unit g missing / 漏寫單位 g 扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "現有 $6$ 包合格咖啡豆。該 $6$ 包咖啡豆的總重量有可能為 $14650 \\text{ g}$ 嗎？試解釋你的答案。",
+          "questionTextEn": "There are $6$ acceptable packets of coffee beans. Is it possible that the total weight of these $6$ packets is $14650 \\text{ g}$ ? Explain your answer.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q3b_s1",
+              "displayText": "$\\text{Greatest possible total} = 6 \\times 2450 = 14700 \\text{ g}$",
+              "displayTextZh": "最大可能總重量 $= 6 \\times 2450 = 14700 \\text{ g}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "use upper limit 2450 g / 使用上限 2450 g",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q3b_s2",
+              "displayText": "$14650 < 14700$ , so it IS possible",
+              "displayTextZh": "$14650 < 14700$ ，故有可能",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — conclusion required / 結論句必須寫出",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "因式分解",
+      "categoryEn": "Factorization",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "因式分解 $25x^{2} - 30xy + 9y^{2}$ 。",
+          "questionTextEn": "Factorize $25x^{2} - 30xy + 9y^{2}$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q4a_s1",
+              "displayText": "$25x^{2} - 30xy + 9y^{2} = (5x)^{2} - 2(5x)(3y) + (3y)^{2}$",
+              "displayTextZh": "$25x^{2} - 30xy + 9y^{2} = (5x)^{2} - 2(5x)(3y) + (3y)^{2}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "recognize perfect square / 辨認完全平方式",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q4a_s2",
+              "displayText": "$= (5x - 3y)^{2}$",
+              "displayTextZh": "$= (5x - 3y)^{2}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "因式分解 $25x^{2} - 30xy + 9y^{2} + 10x - 6y$ 。",
+          "questionTextEn": "Factorize $25x^{2} - 30xy + 9y^{2} + 10x - 6y$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q4b_s1",
+              "displayText": "$= (5x - 3y)^{2} + 2(5x - 3y)$",
+              "displayTextZh": "$= (5x - 3y)^{2} + 2(5x - 3y)$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "use result of (a) / 引用 (a)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q4b_s2",
+              "displayText": "$= (5x - 3y)(5x - 3y + 2)$",
+              "displayTextZh": "$= (5x - 3y)(5x - 3y + 2)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "pp-1 if not fully factorized / 未完全分解扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "一部空氣淨化機以其標價的 $30\\%$ 折扣售出。售出該空氣淨化機後，利潤為 $\\$224$ 而百分利潤為 $32\\%$ 。求該空氣淨化機的標價。",
+          "questionTextEn": "An air purifier is sold at a discount of $30\\%$ on its marked price. After selling the purifier, the profit is $\\$224$ and the percentage profit is $32\\%$ . Find the marked price of the purifier.",
+          "totalMarks": 4,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q5a_s1",
+              "displayText": "Let $\\$C$ be the cost. $32\\% \\times C = 224$",
+              "displayTextZh": "設成本為 $\\$C$ 。 $32\\% \\times C = 224$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "set up profit equation / 建立利潤方程",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q5a_s2",
+              "displayText": "$C = 700$",
+              "displayTextZh": "$C = 700$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q5a_s3",
+              "displayText": "$\\text{Selling price} = 700 + 224 = 924$ ; $\\text{MP} \\times (1 - 30\\%) = 924$",
+              "displayTextZh": "售價 $= 700 + 224 = 924$ ；標價 $\\times (1 - 30\\%) = 924$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "SP = MP x 70% / 售價 = 標價 x 70%",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q5a_s4",
+              "displayText": "$\\text{Marked price} = \\$1320$",
+              "displayTextZh": "標價 $= \\$1320$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "u-1 if $ missing / 漏寫 $ 扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "一元一次不等式",
+      "categoryEn": "Linear Inequalities",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "考慮複合不等式 $4(x + 2) \\ge x - 1$ 且 $7 - 2x > x - 8$ ……(\\*) 。解 (\\*) 。",
+          "questionTextEn": "Consider the compound inequality $4(x + 2) \\ge x - 1$ and $7 - 2x > x - 8$ ……(\\*) . Solve (\\*) .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q6a_s1",
+              "displayText": "$4(x+2) \\ge x - 1 \\;\\Rightarrow\\; 3x \\ge -9 \\;\\Rightarrow\\; x \\ge -3$",
+              "displayTextZh": "$4(x+2) \\ge x - 1 \\;\\Rightarrow\\; 3x \\ge -9 \\;\\Rightarrow\\; x \\ge -3$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q6a_s2",
+              "displayText": "$7 - 2x > x - 8 \\;\\Rightarrow\\; 15 > 3x \\;\\Rightarrow\\; x < 5$",
+              "displayTextZh": "$7 - 2x > x - 8 \\;\\Rightarrow\\; 15 > 3x \\;\\Rightarrow\\; x < 5$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q6a_s3",
+              "displayText": "Taking the intersection: $-3 \\le x < 5$",
+              "displayTextZh": "取交集： $-3 \\le x < 5$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "'and' -> intersection / 「且」取交集",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "寫出滿足 (\\*) 的最小整數。",
+          "questionTextEn": "Write down the least integer satisfying (\\*) .",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q6b_s1",
+              "displayText": "$-3$",
+              "displayTextZh": "$-3$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. from (a)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "坐標變換與斜率",
+      "categoryEn": "Transformation in the Rectangular Coordinate Plane",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "點 $A$ 及 $B$ 的坐標分別為 $(6, -8)$ 及 $(-3, 5)$ 。 $A$ 關於直線 $y = x$ 的反射影像為 $A'$ 。 $B$ 繞原點 $O$ 順時針方向旋轉 $90^\\circ$ 至 $B'$ 。寫出 $A'$ 及 $B'$ 的坐標。",
+          "questionTextEn": "The coordinates of the points $A$ and $B$ are $(6, -8)$ and $(-3, 5)$ respectively. $A'$ is the reflection image of $A$ with respect to the line $y = x$ . $B$ is rotated clockwise about the origin $O$ through $90^\\circ$ to $B'$ . Write down the coordinates of $A'$ and $B'$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q7a_s1",
+              "displayText": "$A' = (-8, 6)$",
+              "displayTextZh": "$A' = (-8, 6)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "reflection about the line y = x",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q7a_s2",
+              "displayText": "$B' = (5, 3)$",
+              "displayTextZh": "$B' = (5, 3)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "clockwise 90 degrees",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求 $A'B'$ 的斜率。",
+          "questionTextEn": "Find the slope of $A'B'$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q7b_s1",
+              "displayText": "$\\text{slope} = \\dfrac{3 - 6}{5 - (-8)}$",
+              "displayTextZh": "斜率 $= \\dfrac{3 - 6}{5 - (-8)}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1M f.t. from (a)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q7b_s2",
+              "displayText": "$= -\\dfrac{3}{13}$",
+              "displayTextZh": "$= -\\dfrac{3}{13}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "全等三角形",
+      "categoryEn": "Congruent Triangles",
+      "figureSpecId": "FIG-Q8",
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "在圖一中， $ABCD$ 為四邊形。已知 $AB = AD$ 及 $\\angle BAC = \\angle DAC$ 。證明 $\\triangle ABC \\cong \\triangle ADC$ 。",
+          "questionTextEn": "In Figure 1, $ABCD$ is a quadrilateral. It is given that $AB = AD$ and $\\angle BAC = \\angle DAC$ . Prove that $\\triangle ABC \\cong \\triangle ADC$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q8a_s1",
+              "displayText": "$AB = AD$ (given) ; $\\angle BAC = \\angle DAC$ (given) ; $AC = AC$ (common)",
+              "displayTextZh": "$AB = AD$ （已知）； $\\angle BAC = \\angle DAC$ （已知）； $AC = AC$ （公共邊）",
+              "markType": "PROOF",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "Case 1 with reasons = 2; Case 2 without reasons = 1",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q8a_s2",
+              "displayText": "$\\therefore \\triangle ABC \\cong \\triangle ADC$ (SAS)",
+              "displayTextZh": "$\\therefore \\triangle ABC \\cong \\triangle ADC$ （邊、角、邊）",
+              "markType": "PROOF",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "reason SAS required / 須寫理由「邊、角、邊」",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "若 $\\angle ABC = 100^\\circ$ 及 $\\angle BCD = 96^\\circ$ ，求 $\\angle BAD$ 。",
+          "questionTextEn": "If $\\angle ABC = 100^\\circ$ and $\\angle BCD = 96^\\circ$ , find $\\angle BAD$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q8b_s1",
+              "displayText": "$\\angle ADC = \\angle ABC = 100^\\circ$ (corr. $\\angle$s, $\\cong \\triangle$s)",
+              "displayTextZh": "$\\angle ADC = \\angle ABC = 100^\\circ$ （全等三角形的對應角）",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "use result of (a) / 引用 (a)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q8b_s2",
+              "displayText": "$\\angle BAD + \\angle ABC + \\angle BCD + \\angle ADC = 360^\\circ$",
+              "displayTextZh": "$\\angle BAD + \\angle ABC + \\angle BCD + \\angle ADC = 360^\\circ$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "angle sum of quadrilateral / 四邊形內角和",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q8b_s3",
+              "displayText": "$\\angle BAD = 360^\\circ - 100^\\circ - 100^\\circ - 96^\\circ = 64^\\circ$",
+              "displayTextZh": "$\\angle BAD = 360^\\circ - 100^\\circ - 100^\\circ - 96^\\circ = 64^\\circ$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "u-1 if degree symbol missing / 漏寫「度」扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "統計圖表與概率",
+      "categoryEn": "Statistical Tables and Probability",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "下表顯示某組 $60$ 名學生完成一項習作所需時間的分佈。\n所需時間（分鐘）： $6-10$ ； $11-15$ ； $16-20$ ； $21-25$ ； $26-30$\n頻數： $6$ ； $12$ ； $20$ ； $14$ ； $8$\n寫出該分佈的眾數組。",
+          "questionTextEn": "The table below shows the distribution of the times taken by a group of $60$ students to finish an assignment.\nTime taken (minutes): $6-10$ ; $11-15$ ; $16-20$ ; $21-25$ ; $26-30$\nFrequency: $6$ ; $12$ ; $20$ ; $14$ ; $8$\nWrite down the modal class of the distribution.",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q9a_s1",
+              "displayText": "$16-20$ minutes",
+              "displayTextZh": "$16-20$ 分鐘",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求該分佈的平均數。",
+          "questionTextEn": "Find the mean of the distribution.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q9b_s1",
+              "displayText": "$\\text{Mean} = \\dfrac{6(8) + 12(13) + 20(18) + 14(23) + 8(28)}{60} = \\dfrac{1110}{60}$",
+              "displayTextZh": "平均數 $= \\dfrac{6(8) + 12(13) + 20(18) + 14(23) + 8(28)}{60} = \\dfrac{1110}{60}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "use class marks / 使用組中點",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q9b_s2",
+              "displayText": "$= 18.5$ minutes",
+              "displayTextZh": "$= 18.5$ 分鐘",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "u-1 if unit missing / 漏寫單位扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "從該組學生中隨機選出一名學生。求該學生所需時間少於 $15.5$ 分鐘的概率。",
+          "questionTextEn": "A student is randomly selected from the group. Find the probability that the time taken by the selected student is less than $15.5$ minutes.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q9c_s1",
+              "displayText": "$P = \\dfrac{6 + 12}{60}$",
+              "displayTextZh": "$P = \\dfrac{6 + 12}{60}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q9c_s2",
+              "displayText": "$= \\dfrac{3}{10}$",
+              "displayTextZh": "$= \\dfrac{3}{10}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "simplify fraction / 分數須化至最簡",
+              "acceptRoundedTo": null,
+              "equivalents": [
+                "$0.3$"
+              ],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "變分",
+      "categoryEn": "Variation",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "已知 $f(x)$ 是部分常數，而部分則與 $x^{2}$ 成正變。已知 $f(1) = 9$ 及 $f(3) = 41$ 。求 $f(x)$ 。",
+          "questionTextEn": "It is given that $f(x)$ is partly constant and partly varies as $x^{2}$ . Suppose that $f(1) = 9$ and $f(3) = 41$ . Find $f(x)$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q10a_s1",
+              "displayText": "$f(x) = a + b x^{2}$ , $b \\neq 0$",
+              "displayTextZh": "$f(x) = a + b x^{2}$ ， $b \\neq 0$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "correct form / 部分變分形式",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q10a_s2",
+              "displayText": "$\\begin{cases} a + b = 9 \\\\ a + 9b = 41 \\end{cases} \\;\\Rightarrow\\; 8b = 32$",
+              "displayTextZh": "$\\begin{cases} a + b = 9 \\\\ a + 9b = 41 \\end{cases} \\;\\Rightarrow\\; 8b = 32$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "form simultaneous equations / 建立聯立方程",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q10a_s3",
+              "displayText": "$b = 4$ , $a = 5 \\;\\Rightarrow\\; f(x) = 5 + 4x^{2}$",
+              "displayTextZh": "$b = 4$ ， $a = 5 \\;\\Rightarrow\\; f(x) = 5 + 4x^{2}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "both correct / 兩者皆正確",
+              "acceptRoundedTo": null,
+              "equivalents": [
+                "$f(x) = 4x^{2} + 5$"
+              ],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "寫出 $y = f(x)$ 的圖像的 $y$ 軸截距。",
+          "questionTextEn": "Write down the $y$-intercept of the graph of $y = f(x)$ .",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q10b_s1",
+              "displayText": "$5$",
+              "displayTextZh": "$5$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. from (a)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "設 $k$ 為實數常數。求 $k$ 的取值範圍，使方程 $f(x) = k$ 有兩個不同的實根。",
+          "questionTextEn": "Let $k$ be a real constant. Find the range of values of $k$ such that the equation $f(x) = k$ has two distinct real roots.",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q10c_s1",
+              "displayText": "$5 + 4x^{2} = k \\;\\Rightarrow\\; x^{2} = \\dfrac{k - 5}{4}$",
+              "displayTextZh": "$5 + 4x^{2} = k \\;\\Rightarrow\\; x^{2} = \\dfrac{k - 5}{4}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q10c_s2",
+              "displayText": "Two distinct real roots $\\Leftrightarrow \\dfrac{k - 5}{4} > 0$",
+              "displayTextZh": "有兩個不同的實根 $\\Leftrightarrow \\dfrac{k - 5}{4} > 0$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "or use discriminant / 或用判別式",
+              "acceptRoundedTo": null,
+              "equivalents": [
+                "$\\Delta = 0 - 4(4)(5 - k) > 0$"
+              ],
+              "alternativeGroupId": "q10c_alt"
+            },
+            {
+              "id": "q10c_s3",
+              "displayText": "$k > 5$",
+              "displayTextZh": "$k > 5$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "統計數據的量度",
+      "categoryEn": "Measures of Central Tendency and Dispersion",
+      "figureSpecId": "FIG-Q11",
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圖二中的莖葉圖顯示某社團 $11$ 名成員的年齡分佈。已知該分佈的中位數及四分位數間距分別為 $26$ 及 $17$ 。求 $a$ 及 $b$ 。",
+          "questionTextEn": "The stem-and-leaf diagram in Figure 2 shows the distribution of the ages of the $11$ members of a society. It is given that the median and the inter-quartile range of the distribution are $26$ and $17$ respectively. Find $a$ and $b$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q11a_s1",
+              "displayText": "$\\text{Median} = \\text{the 6th datum} = 20 + a = 26 \\;\\Rightarrow\\; a = 6$",
+              "displayTextZh": "中位數 $=$ 第 $6$ 個數據 $= 20 + a = 26 \\;\\Rightarrow\\; a = 6$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "median = 6th of 11 data / 中位數為 11 個數據的第 6 個",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q11a_s2",
+              "displayText": "$Q_{1} = 19$ , $Q_{3} = 30 + b$ , $Q_{3} - Q_{1} = 17 \\;\\Rightarrow\\; b = 6$",
+              "displayTextZh": "$Q_{1} = 19$ ， $Q_{3} = 30 + b$ ， $Q_{3} - Q_{1} = 17 \\;\\Rightarrow\\; b = 6$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "Q1 = 3rd datum, Q3 = 9th datum",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q11a_s3",
+              "displayText": "$a = 6$ , $b = 6$",
+              "displayTextZh": "$a = 6$ ， $b = 6$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "both correct / 兩者皆正確",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求該分佈的平均數及標準差。",
+          "questionTextEn": "Find the mean and the standard deviation of the distribution.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q11b_s1",
+              "displayText": "$\\text{Mean} = \\dfrac{310}{11} \\approx 28.2$",
+              "displayTextZh": "平均數 $= \\dfrac{310}{11} \\approx 28.2$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": "28.2",
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q11b_s2",
+              "displayText": "$\\text{Standard deviation} \\approx 10.6$",
+              "displayTextZh": "標準差 $\\approx 10.6$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A r.t. 10.6",
+              "acceptRoundedTo": "10.6",
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "現有一名 $48$ 歲的成員離開該社團。求該分佈的中位數的改變。",
+          "questionTextEn": "A member aged $48$ now leaves the society. Find the change in the median of the distribution.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q11c_s1",
+              "displayText": "$\\text{New median} = \\dfrac{24 + 26}{2} = 25$",
+              "displayTextZh": "新中位數 $= \\dfrac{24 + 26}{2} = 25$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q11c_s2",
+              "displayText": "The median decreases by $26 - 25 = 1$",
+              "displayTextZh": "中位數減少 $26 - 25 = 1$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — direction must be stated / 須說明增減方向",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "多項式的餘式定理與因式定理",
+      "categoryEn": "Remainder Theorem and Factor Theorem",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "設 $p(x) = 2x^{3} + ax^{2} + bx - 18$ ，其中 $a$ 及 $b$ 為常數。當 $p(x)$ 除以 $x^{2} - 2x + 3$ 時，餘式為 $-5x - 15$ 。求 $a$ 及 $b$ 。",
+          "questionTextEn": "Let $p(x) = 2x^{3} + ax^{2} + bx - 18$ , where $a$ and $b$ are constants. When $p(x)$ is divided by $x^{2} - 2x + 3$ , the remainder is $-5x - 15$ . Find $a$ and $b$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q12a_s1",
+              "displayText": "$p(x) = (x^{2} - 2x + 3)(2x + t) + (-5x - 15)$",
+              "displayTextZh": "$p(x) = (x^{2} - 2x + 3)(2x + t) + (-5x - 15)$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "division algorithm / 除法算式",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q12a_s2",
+              "displayText": "Constant: $3t - 15 = -18 \\;\\Rightarrow\\; t = -1$",
+              "displayTextZh": "常數項： $3t - 15 = -18 \\;\\Rightarrow\\; t = -1$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "compare coefficients / 比較係數",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q12a_s3",
+              "displayText": "$a = t - 4 = -5$ , $b = 3$",
+              "displayTextZh": "$a = t - 4 = -5$ ， $b = 3$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "both correct / 兩者皆正確",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "$x - 3$ 是否 $p(x)$ 的因式？試解釋你的答案。",
+          "questionTextEn": "Is $x - 3$ a factor of $p(x)$ ? Explain your answer.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q12b_s1",
+              "displayText": "$p(3) = 2(27) - 5(9) + 3(3) - 18$",
+              "displayTextZh": "$p(3) = 2(27) - 5(9) + 3(3) - 18$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "factor theorem / 因式定理",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q12b_s2",
+              "displayText": "$p(3) = 0 \\;\\Rightarrow\\; x - 3$ IS a factor",
+              "displayTextZh": "$p(3) = 0 \\;\\Rightarrow\\; x - 3$ 是 $p(x)$ 的因式",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — conclusion required / 結論句必須寫出",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "有人聲稱方程 $p(x) = 0$ 有三個相異實根。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the equation $p(x) = 0$ has three distinct real roots. Do you agree? Explain your answer.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q12c_s1",
+              "displayText": "$p(x) = (x - 3)(2x^{2} + x + 6)$ ; $\\Delta = 1^{2} - 4(2)(6) = -47 < 0$",
+              "displayTextZh": "$p(x) = (x - 3)(2x^{2} + x + 6)$ ； $\\Delta = 1^{2} - 4(2)(6) = -47 < 0$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1M for factorization OR discriminant",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q12c_s2",
+              "displayText": "$\\Delta < 0 \\;\\Rightarrow\\;$ only ONE real root $x = 3$ , so DISAGREE",
+              "displayTextZh": "$\\Delta < 0 \\;\\Rightarrow\\;$ 只有一個實根 $x = 3$ ，故不同意",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — conclusion required / 結論句必須寫出",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "相似立體圖形的體積與表面積",
+      "categoryEn": "Volumes and Surface Areas of Similar Solids",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "有兩個相似的實心金屬正圓錐。較小的圓錐與較大的圓錐的體積比為 $64 : 125$ 。較大的圓錐的底半徑及高分別為 $15 \\text{ cm}$ 及 $20 \\text{ cm}$ 。以 $\\pi$ 表示較小的圓錐的體積。",
+          "questionTextEn": "There are two similar solid metal right circular cones. The ratio of the volume of the smaller cone to the volume of the larger cone is $64 : 125$ . The base radius and the height of the larger cone are $15 \\text{ cm}$ and $20 \\text{ cm}$ respectively. Express, in terms of $\\pi$ , the volume of the smaller cone.",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q13a_s1",
+              "displayText": "$\\text{Volume of larger cone} = \\dfrac{1}{3}\\pi (15)^{2}(20) = 1500\\pi \\text{ cm}^{3}$",
+              "displayTextZh": "較大圓錐的體積 $= \\dfrac{1}{3}\\pi (15)^{2}(20) = 1500\\pi \\text{ cm}^{3}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "cone volume formula / 圓錐體積公式",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q13a_s2",
+              "displayText": "$\\dfrac{V_{\\text{small}}}{1500\\pi} = \\dfrac{64}{125}$",
+              "displayTextZh": "$\\dfrac{V_{較小}}{1500\\pi} = \\dfrac{64}{125}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "use volume ratio / 運用體積比",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q13a_s3",
+              "displayText": "$V_{\\text{small}} = 768\\pi \\text{ cm}^{3}$",
+              "displayTextZh": "$V_{較小} = 768\\pi \\text{ cm}^{3}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "u-1 if cm^3 missing / 漏寫 cm^3 扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "該兩個圓錐被熔解並重鑄成一個底半徑為 $6 \\text{ cm}$ 的實心正圓柱。求該圓柱的高。",
+          "questionTextEn": "The two cones are melted and recast into a solid right circular cylinder of base radius $6 \\text{ cm}$ . Find the height of the cylinder.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q13b_s1",
+              "displayText": "$\\pi (6)^{2} h = 1500\\pi + 768\\pi$",
+              "displayTextZh": "$\\pi (6)^{2} h = 1500\\pi + 768\\pi$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "conservation of volume / 體積守恆",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q13b_s2",
+              "displayText": "$h = \\dfrac{2268}{36} = 63 \\text{ cm}$",
+              "displayTextZh": "$h = \\dfrac{2268}{36} = 63 \\text{ cm}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "u-1 if cm missing / 漏寫 cm 扣 1 分",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "有人聲稱該圓柱的曲面面積大於較大圓錐的曲面面積。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the curved surface area of the cylinder is greater than the curved surface area of the larger cone. Do you agree? Explain your answer.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q13c_s1",
+              "displayText": "$\\text{Curved SA of cylinder} = 2\\pi (6)(63) = 756\\pi$ ; slant height $= \\sqrt{15^{2} + 20^{2}} = 25$",
+              "displayTextZh": "圓柱曲面面積 $= 2\\pi (6)(63) = 756\\pi$ ；較大圓錐斜高 $= \\sqrt{15^{2} + 20^{2}} = 25$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1M f.t. from (b)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q13c_s2",
+              "displayText": "$\\pi (15)(25) = 375\\pi$ ; $756\\pi > 375\\pi$ , so AGREE",
+              "displayTextZh": "$\\pi (15)(25) = 375\\pi$ ； $756\\pi > 375\\pi$ ，故同意",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — conclusion required / 結論句必須寫出",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "圓的方程",
+      "categoryEn": "Equations of Circles",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圓 $C$ 的方程為 $x^{2} + y^{2} - 12x - 20y + 72 = 0$ 。以 $G$ 表示 $C$ 的圓心。求 $G$ 的坐標及 $C$ 的半徑。",
+          "questionTextEn": "The equation of the circle $C$ is $x^{2} + y^{2} - 12x - 20y + 72 = 0$ . Denote the centre of $C$ by $G$ . Find the coordinates of $G$ and the radius of $C$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q14a_s1",
+              "displayText": "$G = (6, 10)$",
+              "displayTextZh": "$G = (6, 10)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q14a_s2",
+              "displayText": "$r = \\sqrt{6^{2} + 10^{2} - 72} = \\sqrt{64} = 8$",
+              "displayTextZh": "$r = \\sqrt{6^{2} + 10^{2} - 72} = \\sqrt{64} = 8$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "點 $H$ 的坐標為 $(21, 10)$ 。求 $G$ 與 $H$ 之間的距離。",
+          "questionTextEn": "The coordinates of the point $H$ are $(21, 10)$ . Find the distance between $G$ and $H$ .",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q14b_s1",
+              "displayText": "$GH = \\sqrt{(21 - 6)^{2} + (10 - 10)^{2}} = 15$",
+              "displayTextZh": "$GH = \\sqrt{(21 - 6)^{2} + (10 - 10)^{2}} = 15$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)(i)",
+          "questionTextZh": "設 $P$ 為 $C$ 上的動點。當 $\\triangle GHP$ 的面積最大時，描述 $GH$ 與 $GP$ 之間的幾何關係。",
+          "questionTextEn": "Let $P$ be a moving point on $C$ . When the area of $\\triangle GHP$ is the greatest, describe the geometric relationship between $GH$ and $GP$ .",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q14ci_s1",
+              "displayText": "$GP \\perp GH$",
+              "displayTextZh": "$GP \\perp GH$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "accept 'GP is perpendicular to GH' / 亦接受「GP 垂直於 GH」",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)(ii)",
+          "questionTextZh": "求此時 $\\triangle GHP$ 的周界。",
+          "questionTextEn": "Find the perimeter of $\\triangle GHP$ in this case.",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q14cii_s1",
+              "displayText": "$GP = r = 8$ , $GH = 15$ , $\\angle HGP = 90^\\circ$",
+              "displayTextZh": "$GP = r = 8$ ， $GH = 15$ ， $\\angle HGP = 90^\\circ$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q14cii_s2",
+              "displayText": "$HP = \\sqrt{8^{2} + 15^{2}} = 17$",
+              "displayTextZh": "$HP = \\sqrt{8^{2} + 15^{2}} = 17$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "Pythagoras / 畢氏定理",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q14cii_s3",
+              "displayText": "$\\text{Perimeter} = 8 + 15 + 17 = 40$",
+              "displayTextZh": "周界 $= 8 + 15 + 17 = 40$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "排列、組合與概率",
+      "categoryEn": "Permutations, Combinations and Probability",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "一個盒子內有 $7$ 個紅球、 $5$ 個藍球及 $3$ 個綠球。現從盒中同時隨機抽出 $4$ 個球。求所抽出的球中剛好有 $2$ 個紅球的概率。",
+          "questionTextEn": "In a box, there are $7$ red balls, $5$ blue balls and $3$ green balls. $4$ balls are randomly drawn from the box at the same time. Find the probability that exactly $2$ red balls are drawn.",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q15a_s1",
+              "displayText": "$\\text{Total} = C^{15}_{4} = 1365$",
+              "displayTextZh": "總結果數目 $= C^{15}_{4} = 1365$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q15a_s2",
+              "displayText": "$\\text{Favourable} = C^{7}_{2} \\times C^{8}_{2} = 21 \\times 28 = 588$",
+              "displayTextZh": "有利結果 $= C^{7}_{2} \\times C^{8}_{2} = 21 \\times 28 = 588$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q15a_s3",
+              "displayText": "$P = \\dfrac{588}{1365} = \\dfrac{28}{65}$",
+              "displayTextZh": "$P = \\dfrac{588}{1365} = \\dfrac{28}{65}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "simplify fraction / 分數須化至最簡",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求所抽出的球中至少有 $1$ 個紅球及至少有 $1$ 個綠球的概率。",
+          "questionTextEn": "Find the probability that at least $1$ red ball and at least $1$ green ball are drawn.",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q15b_s1",
+              "displayText": "$P = 1 - P(\\text{no red}) - P(\\text{no green}) + P(\\text{no red and no green})$",
+              "displayTextZh": "$P = 1 - P(沒有紅球) - P(沒有綠球) + P(既沒有紅球亦沒有綠球)$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "inclusion-exclusion / 容斥原理",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q15b_s2",
+              "displayText": "$= \\dfrac{1365 - C^{8}_{4} - C^{12}_{4} + C^{5}_{4}}{1365} = \\dfrac{1365 - 70 - 495 + 5}{1365}$",
+              "displayTextZh": "$= \\dfrac{1365 - C^{8}_{4} - C^{12}_{4} + C^{5}_{4}}{1365} = \\dfrac{1365 - 70 - 495 + 5}{1365}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q15b_s3",
+              "displayText": "$P = \\dfrac{805}{1365} = \\dfrac{23}{39}$",
+              "displayTextZh": "$P = \\dfrac{805}{1365} = \\dfrac{23}{39}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "1A r.t. 0.590",
+              "acceptRoundedTo": "0.590",
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "二次函數的圖像",
+      "categoryEn": "Graphs of Quadratic Functions",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "設 $f(x) = 2x^{2} - 8kx + 10k^{2} + 24k + 7$ ，其中 $k$ 為實數常數。用配方法，以 $k$ 表示 $y = f(x)$ 的圖像的頂點坐標。",
+          "questionTextEn": "Let $f(x) = 2x^{2} - 8kx + 10k^{2} + 24k + 7$ , where $k$ is a real constant. Using the method of completing the square, express, in terms of $k$ , the coordinates of the vertex of the graph of $y = f(x)$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q16a_s1",
+              "displayText": "$f(x) = 2(x - 2k)^{2} - 8k^{2} + 10k^{2} + 24k + 7$",
+              "displayTextZh": "$f(x) = 2(x - 2k)^{2} - 8k^{2} + 10k^{2} + 24k + 7$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "completing the square / 配方法",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q16a_s2",
+              "displayText": "$\\text{Vertex} = (2k , 2k^{2} + 24k + 7)$",
+              "displayTextZh": "頂點 $= (2k , 2k^{2} + 24k + 7)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求該頂點的 $y$ 坐標的最小值，以及對應的 $k$ 值。",
+          "questionTextEn": "Find the least value of the $y$-coordinate of the vertex and the corresponding value of $k$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q16b_s1",
+              "displayText": "$2k^{2} + 24k + 7 = 2(k + 6)^{2} - 65$",
+              "displayTextZh": "$2k^{2} + 24k + 7 = 2(k + 6)^{2} - 65$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "complete the square again / 再次配方",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q16b_s2",
+              "displayText": "Least value $= -65$ when $k = -6$",
+              "displayTextZh": "最小值 $= -65$ ，此時 $k = -6$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "both correct / 兩者皆正確",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "有人聲稱：對任何實數 $k$ ， $y = f(x)$ 的圖像的頂點必在曲線 $\\Gamma : y = \\dfrac{1}{2}x^{2} + 12x + 7$ 上。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that for any real constant $k$ , the vertex of the graph of $y = f(x)$ lies on the curve $\\Gamma : y = \\dfrac{1}{2}x^{2} + 12x + 7$ . Do you agree? Explain your answer.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q16c_s1",
+              "displayText": "Put $x = 2k$ into $\\Gamma$ : $y = \\dfrac{1}{2}(2k)^{2} + 12(2k) + 7 = 2k^{2} + 24k + 7$",
+              "displayTextZh": "把 $x = 2k$ 代入 $\\Gamma$ ： $y = \\dfrac{1}{2}(2k)^{2} + 12(2k) + 7 = 2k^{2} + 24k + 7$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1M f.t. from (a)",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q16c_s2",
+              "displayText": "Equals the $y$-coordinate of the vertex, so AGREE",
+              "displayTextZh": "此值等於頂點的 $y$ 坐標，故同意",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — conclusion required / 結論句必須寫出",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "等差數列與等比數列",
+      "categoryEn": "Arithmetic and Geometric Sequences",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "設 $A(n)$ 為某等差數列的第 $n$ 項。已知 $A(2) = 11$ 及 $A(7) = 41$ 。求 $A(n)$ 。",
+          "questionTextEn": "Let $A(n)$ be the $n$th term of an arithmetic sequence. It is given that $A(2) = 11$ and $A(7) = 41$ . Find $A(n)$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q17a_s1",
+              "displayText": "$d = \\dfrac{41 - 11}{7 - 2} = 6$",
+              "displayTextZh": "$d = \\dfrac{41 - 11}{7 - 2} = 6$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "find common difference / 求公差",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q17a_s2",
+              "displayText": "$A(n) = 11 + (n - 2)(6) = 6n - 1$",
+              "displayTextZh": "$A(n) = 11 + (n - 2)(6) = 6n - 1$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求 $A(1) + A(2) + \\cdots + A(40)$ 。",
+          "questionTextEn": "Find $A(1) + A(2) + \\cdots + A(40)$ .",
+          "totalMarks": 1,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q17b_s1",
+              "displayText": "$S(40) = \\dfrac{40}{2}[ 5 + 239 ] = 4880$",
+              "displayTextZh": "$S(40) = \\dfrac{40}{2}[ 5 + 239 ] = 4880$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "設 $G(n)$ 為某等比數列的第 $n$ 項，其首項為 $A(3)$ 而公比為 $2$ 。求最小的 $n$ 值，使 $G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(40)$ 。",
+          "questionTextEn": "Let $G(n)$ be the $n$th term of a geometric sequence with first term $A(3)$ and common ratio $2$ . Find the least value of $n$ such that $G(1) + G(2) + \\cdots + G(n) > A(1) + A(2) + \\cdots + A(40)$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q17c_s1",
+              "displayText": "$G(1) = A(3) = 17 \\;\\Rightarrow\\; \\sum_{i=1}^{n} G(i) = 17(2^{n} - 1)$",
+              "displayTextZh": "$G(1) = A(3) = 17 \\;\\Rightarrow\\; \\sum_{i=1}^{n} G(i) = 17(2^{n} - 1)$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "sum of geometric sequence / 等比求和",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q17c_s2",
+              "displayText": "$17(2^{n} - 1) > 4880 \\;\\Rightarrow\\; 2^{n} > 288.1 \\;\\Rightarrow\\; n > \\log_{2} 288.1 \\approx 8.17$",
+              "displayTextZh": "$17(2^{n} - 1) > 4880 \\;\\Rightarrow\\; 2^{n} > 288.1 \\;\\Rightarrow\\; n > \\log_{2} 288.1 \\approx 8.17$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "accept trial with n = 8, 9 / 亦接受試值",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q17c_s3",
+              "displayText": "Least $n = 9$ ( $n = 9 : 8687 > 4880$ ; $n = 8 : 4335 < 4880$ )",
+              "displayTextZh": "最小的 $n = 9$ （ $n = 9$ ： $8687 > 4880$ ； $n = 8$ ： $4335 < 4880$ ）",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 13,
+      "categoryZh": "立體圖形的三角學",
+      "categoryEn": "Trigonometry in 3-Dimensional Problems",
+      "figureSpecId": "FIG-Q18",
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圖三所示為一個正四角錐 $VABCD$ ，其正方形底面 $ABCD$ 的邊長為 $16 \\text{ cm}$ ，而該四角錐的高為 $15 \\text{ cm}$ 。設 $M$ 為 $BC$ 的中點， $O$ 為 $ABCD$ 的中心。求 $VM$ 。",
+          "questionTextEn": "Figure 3 shows a right pyramid $VABCD$ with a square base $ABCD$ of side $16 \\text{ cm}$ . The height of the pyramid is $15 \\text{ cm}$ . Let $M$ be the mid-point of $BC$ and $O$ be the centre of $ABCD$ . Find $VM$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q18a_s1",
+              "displayText": "$OM = 8$ ; $VM^{2} = VO^{2} + OM^{2} = 15^{2} + 8^{2}$",
+              "displayTextZh": "$OM = 8$ ； $VM^{2} = VO^{2} + OM^{2} = 15^{2} + 8^{2}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "Pythagoras in triangle VOM",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q18a_s2",
+              "displayText": "$VM = \\sqrt{289} = 17 \\text{ cm}$",
+              "displayTextZh": "$VM = \\sqrt{289} = 17 \\text{ cm}$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "求平面 $VBC$ 與底面 $ABCD$ 之間的夾角。",
+          "questionTextEn": "Find the angle between the plane $VBC$ and the base $ABCD$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q18b_s1",
+              "displayText": "Required angle $= \\angle VMO$ ; $\\tan \\angle VMO = \\dfrac{15}{8}$",
+              "displayTextZh": "所求的角 $= \\angle VMO$ ； $\\tan \\angle VMO = \\dfrac{15}{8}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1M identify correct angle / 正確辨認二面角",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q18b_s2",
+              "displayText": "$\\angle VMO \\approx 61.9^\\circ$",
+              "displayTextZh": "$\\angle VMO \\approx 61.9^\\circ$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "1A r.t. 61.9 degrees",
+              "acceptRoundedTo": "61.9",
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "設 $N$ 為 $AD$ 的中點。有學生聲稱平面 $VBC$ 與平面 $VAD$ 之間的夾角小於 $60^\\circ$ 。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Let $N$ be the mid-point of $AD$ . A student claims that the angle between the plane $VBC$ and the plane $VAD$ is less than $60^\\circ$ . Do you agree? Explain your answer.",
+          "totalMarks": 4,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q18c_s1",
+              "displayText": "$VM \\perp BC$ and $VN \\perp AD$ ; $BC \\parallel AD \\;\\Rightarrow\\;$ required angle $= \\angle MVN$",
+              "displayTextZh": "$VM \\perp BC$ 及 $VN \\perp AD$ ； $BC \\parallel AD \\;\\Rightarrow\\;$ 所求的角 $= \\angle MVN$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "1M identify angle between planes / 辨認兩平面夾角",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q18c_s2",
+              "displayText": "$VM = VN = 17 \\text{ cm}$ , $MN = 16 \\text{ cm}$",
+              "displayTextZh": "$VM = VN = 17 \\text{ cm}$ ， $MN = 16 \\text{ cm}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q18c_s3",
+              "displayText": "$\\cos \\angle MVN = \\dfrac{17^{2} + 17^{2} - 16^{2}}{2(17)(17)} = \\dfrac{322}{578}$",
+              "displayTextZh": "$\\cos \\angle MVN = \\dfrac{17^{2} + 17^{2} - 16^{2}}{2(17)(17)} = \\dfrac{322}{578}$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "cosine formula / 餘弦公式",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q18c_s4",
+              "displayText": "$\\angle MVN \\approx 56.1^\\circ < 60^\\circ$ , so AGREE",
+              "displayTextZh": "$\\angle MVN \\approx 56.1^\\circ < 60^\\circ$ ，故同意",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. r.t. 56.1 degrees",
+              "acceptRoundedTo": "56.1",
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 14,
+      "categoryZh": "圓的方程與切線",
+      "categoryEn": "Equations of Circles and Tangents",
+      "figureSpecId": null,
+      "parts": [
+        {
+          "label": "(a)",
+          "questionTextZh": "圓 $C$ 的方程為 $x^{2} + y^{2} - 10x - 24y = 0$ 。以 $G$ 表示 $C$ 的圓心。求 $G$ 的坐標及 $C$ 的半徑。",
+          "questionTextEn": "The equation of the circle $C$ is $x^{2} + y^{2} - 10x - 24y = 0$ . Denote the centre of $C$ by $G$ . Find the coordinates of $G$ and the radius of $C$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q19a_s1",
+              "displayText": "$G = (5, 12)$",
+              "displayTextZh": "$G = (5, 12)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q19a_s2",
+              "displayText": "$r = \\sqrt{5^{2} + 12^{2} - 0} = 13$",
+              "displayTextZh": "$r = \\sqrt{5^{2} + 12^{2} - 0} = 13$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "questionTextZh": "設直線 $L : 5x + 12y - 338 = 0$ 。證明 $L$ 是 $C$ 的切線，並求切點 $T$ 的坐標。",
+          "questionTextEn": "Let $L : 5x + 12y - 338 = 0$ . Prove that $L$ is a tangent to $C$ , and find the coordinates of the point of contact $T$ .",
+          "totalMarks": 3,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q19b_s1",
+              "displayText": "Distance from $G$ to $L$ $= \\dfrac{|5(5) + 12(12) - 338|}{\\sqrt{5^{2} + 12^{2}}} = \\dfrac{169}{13} = 13$",
+              "displayTextZh": "$G$ 至 $L$ 的距離 $= \\dfrac{|5(5) + 12(12) - 338|}{\\sqrt{5^{2} + 12^{2}}} = \\dfrac{169}{13} = 13$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "point-to-line distance / 點到直線距離",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q19b_s2",
+              "displayText": "Distance $= 13 = r \\;\\Rightarrow\\; L$ is a tangent to $C$",
+              "displayTextZh": "距離 $= 13 = r \\;\\Rightarrow\\; L$ 是 $C$ 的切線",
+              "markType": "PROOF",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "conclusion required / 必須寫結論",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q19b_s3",
+              "displayText": "$T = (10, 24)$",
+              "displayTextZh": "$T = (10, 24)$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": "T = foot of perpendicular from G to L / T 為 G 至 L 的垂足",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "questionTextZh": "以 $O$ 表示原點。有人聲稱 $OT$ 是 $C$ 的直徑。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Denote the origin by $O$ . Someone claims that $OT$ is a diameter of $C$ . Do you agree? Explain your answer.",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q19c_s1",
+              "displayText": "$O = (0,0)$ satisfies $C$ ; mid-point of $OT = (5, 12) = G$",
+              "displayTextZh": "$O = (0,0)$ 滿足 $C$ ； $OT$ 的中點 $= (5, 12) = G$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "or show OT = 26 = 2r / 或證 OT = 26 = 2r",
+              "acceptRoundedTo": null,
+              "equivalents": [
+                "$OT = \\sqrt{10^{2} + 24^{2}} = 26 = 2r$"
+              ],
+              "alternativeGroupId": "q19c_alt"
+            },
+            {
+              "id": "q19c_s2",
+              "displayText": "Mid-point of $OT$ is the centre $G$ , so AGREE",
+              "displayTextZh": "$OT$ 的中點為圓心 $G$ ，故同意， $OT$ 是直徑",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": "1A f.t. — conclusion required",
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "questionTextZh": "設 $P$ 為 $C$ 上的動點，且 $P$ 異於 $O$ 及 $T$ 。以 $S$ 表示 $\\triangle OPT$ 的面積。求 $S$ 的最大值。",
+          "questionTextEn": "Let $P$ be a moving point on $C$ such that $P$ is different from $O$ and $T$ . Denote the area of $\\triangle OPT$ by $S$ . Find the greatest value of $S$ .",
+          "totalMarks": 2,
+          "allowFullMarksIfAnswerCorrect": true,
+          "steps": [
+            {
+              "id": "q19d_s1",
+              "displayText": "Taking $OT$ as base, greatest height $= r = 13$",
+              "displayTextZh": "以 $OT$ 為底，最大的高 $= r = 13$",
+              "markType": "M",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": true,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            },
+            {
+              "id": "q19d_s2",
+              "displayText": "$S_{\\max} = \\dfrac{1}{2}(26)(13) = 169$",
+              "displayTextZh": "$S_{\\max} = \\dfrac{1}{2}(26)(13) = 169$",
+              "markType": "A",
+              "markValue": 1,
+              "isCheckable": true,
+              "isFollowThrough": false,
+              "remark": null,
+              "acceptRoundedTo": null,
+              "equivalents": [],
+              "alternativeGroupId": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
