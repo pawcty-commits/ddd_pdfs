@@ -1,13 +1,13 @@
 [
   {
     "questionNumber": 1,
-    "questionText": "化簡 $\\dfrac{a^{5} b^{-3}}{a^{-1} b^{2}}$ 。\nSimplify $\\dfrac{a^{5} b^{-3}}{a^{-1} b^{2}}$ .",
+    "questionText": "化簡 \\dfrac{a^{5} b^{-3}}{a^{-1} b^{2}} 。\nSimplify \\dfrac{a^{5} b^{-3}}{a^{-1} b^{2}} .",
     "imageUrl": "q1.png",
     "options": {
-      "A": "$\\dfrac{a^{6}}{b}$\n$\\dfrac{a^{6}}{b}$",
-      "B": "$\\dfrac{a^{6}}{b^{5}}$\n$\\dfrac{a^{6}}{b^{5}}$",
-      "C": "$\\dfrac{a^{4}}{b^{5}}$\n$\\dfrac{a^{4}}{b^{5}}$",
-      "D": "$a^{6} b^{5}$\n$a^{6} b^{5}$"
+      "A": "\\dfrac{a^{6}}{b}\n\\dfrac{a^{6}}{b}",
+      "B": "\\dfrac{a^{6}}{b^{5}}\n\\dfrac{a^{6}}{b^{5}}",
+      "C": "\\dfrac{a^{4}}{b^{5}}\n\\dfrac{a^{4}}{b^{5}}",
+      "D": "a^{6} b^{5}\na^{6} b^{5}"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -15,13 +15,13 @@
   },
   {
     "questionNumber": 2,
-    "questionText": "把 $0.0000807$ 以科學記數法表示。\nExpress $0.0000807$ in scientific notation.",
+    "questionText": "把 0.0000807 以科學記數法表示。\nExpress 0.0000807 in scientific notation.",
     "imageUrl": "q2.png",
     "options": {
-      "A": "$8.07 \\times 10^{-4}$\n$8.07 \\times 10^{-4}$",
-      "B": "$80.7 \\times 10^{-6}$\n$80.7 \\times 10^{-6}$",
-      "C": "$8.07 \\times 10^{5}$\n$8.07 \\times 10^{5}$",
-      "D": "$8.07 \\times 10^{-5}$\n$8.07 \\times 10^{-5}$"
+      "A": "8.07 \\times 10^{-4}\n8.07 \\times 10^{-4}",
+      "B": "80.7 \\times 10^{-6}\n80.7 \\times 10^{-6}",
+      "C": "8.07 \\times 10^{5}\n8.07 \\times 10^{5}",
+      "D": "8.07 \\times 10^{-5}\n8.07 \\times 10^{-5}"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -29,13 +29,13 @@
   },
   {
     "questionNumber": 3,
-    "questionText": "解 $6(x - 3) = 3x + 6$ 。\nSolve $6(x - 3) = 3x + 6$ .",
+    "questionText": "解 6(x - 3) = 3x + 6 。\nSolve 6(x - 3) = 3x + 6 .",
     "imageUrl": "q3.png",
     "options": {
-      "A": "$x = 6$\n$x = 6$",
-      "B": "$x = 24$\n$x = 24$",
-      "C": "$x = 4$\n$x = 4$",
-      "D": "$x = 8$\n$x = 8$"
+      "A": "x = 6\nx = 6",
+      "B": "x = 24\nx = 24",
+      "C": "x = 4\nx = 4",
+      "D": "x = 8\nx = 8"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -43,13 +43,13 @@
   },
   {
     "questionNumber": 4,
-    "questionText": "化簡 $\\dfrac{x^{2} - 49}{x^{2} - 3x - 28}$ 。\nSimplify $\\dfrac{x^{2} - 49}{x^{2} - 3x - 28}$ .",
+    "questionText": "化簡 \\dfrac{x^{2} - 49}{x^{2} - 3x - 28} 。\nSimplify \\dfrac{x^{2} - 49}{x^{2} - 3x - 28} .",
     "imageUrl": "q4.png",
     "options": {
-      "A": "$\\dfrac{x - 7}{x + 4}$\n$\\dfrac{x - 7}{x + 4}$",
-      "B": "$\\dfrac{x + 7}{x - 4}$\n$\\dfrac{x + 7}{x - 4}$",
-      "C": "$\\dfrac{x - 7}{x - 4}$\n$\\dfrac{x - 7}{x - 4}$",
-      "D": "$\\dfrac{x + 7}{x + 4}$\n$\\dfrac{x + 7}{x + 4}$"
+      "A": "\\dfrac{x - 7}{x + 4}\n\\dfrac{x - 7}{x + 4}",
+      "B": "\\dfrac{x + 7}{x - 4}\n\\dfrac{x + 7}{x - 4}",
+      "C": "\\dfrac{x - 7}{x - 4}\n\\dfrac{x - 7}{x - 4}",
+      "D": "\\dfrac{x + 7}{x + 4}\n\\dfrac{x + 7}{x + 4}"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -57,13 +57,13 @@
   },
   {
     "questionNumber": 5,
-    "questionText": "因式分解 $216a^{3} - 125$ 。\nFactorize $216a^{3} - 125$ .",
+    "questionText": "因式分解 216a^{3} - 125 。\nFactorize 216a^{3} - 125 .",
     "imageUrl": "q5.png",
     "options": {
-      "A": "$(6a - 5)(36a^{2} - 30a + 25)$\n$(6a - 5)(36a^{2} - 30a + 25)$",
-      "B": "$(6a + 5)(36a^{2} - 30a + 25)$\n$(6a + 5)(36a^{2} - 30a + 25)$",
-      "C": "$(6a - 5)(36a^{2} + 30a + 25)$\n$(6a - 5)(36a^{2} + 30a + 25)$",
-      "D": "$(6a - 5)(6a^{2} + 30a + 25)$\n$(6a - 5)(6a^{2} + 30a + 25)$"
+      "A": "(6a - 5)(36a^{2} - 30a + 25)\n(6a - 5)(36a^{2} - 30a + 25)",
+      "B": "(6a + 5)(36a^{2} - 30a + 25)\n(6a + 5)(36a^{2} - 30a + 25)",
+      "C": "(6a - 5)(36a^{2} + 30a + 25)\n(6a - 5)(36a^{2} + 30a + 25)",
+      "D": "(6a - 5)(6a^{2} + 30a + 25)\n(6a - 5)(6a^{2} + 30a + 25)"
     },
     "correctAnswer": "C",
     "section": "sectionA",
@@ -71,13 +71,13 @@
   },
   {
     "questionNumber": 6,
-    "questionText": "若 $y = \\dfrac{3x + 7}{x - 4}$ ，以 $y$ 表示 $x$ 。\nIf $y = \\dfrac{3x + 7}{x - 4}$ , express $x$ in terms of $y$ .",
+    "questionText": "若 y = \\dfrac{3x + 7}{x - 4} ，以 y 表示 x 。\nIf y = \\dfrac{3x + 7}{x - 4} , express x in terms of y .",
     "imageUrl": "q6.png",
     "options": {
-      "A": "$x = \\dfrac{4y - 7}{y - 3}$\n$x = \\dfrac{4y - 7}{y - 3}$",
-      "B": "$x = \\dfrac{4y + 7}{y + 3}$\n$x = \\dfrac{4y + 7}{y + 3}$",
-      "C": "$x = \\dfrac{7 - 4y}{y - 3}$\n$x = \\dfrac{7 - 4y}{y - 3}$",
-      "D": "$x = \\dfrac{4y + 7}{y - 3}$\n$x = \\dfrac{4y + 7}{y - 3}$"
+      "A": "x = \\dfrac{4y - 7}{y - 3}\nx = \\dfrac{4y - 7}{y - 3}",
+      "B": "x = \\dfrac{4y + 7}{y + 3}\nx = \\dfrac{4y + 7}{y + 3}",
+      "C": "x = \\dfrac{7 - 4y}{y - 3}\nx = \\dfrac{7 - 4y}{y - 3}",
+      "D": "x = \\dfrac{4y + 7}{y - 3}\nx = \\dfrac{4y + 7}{y - 3}"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -85,13 +85,13 @@
   },
   {
     "questionNumber": 7,
-    "questionText": "解 $3^{x} = 80$ （準確至三位有效數字）。\nSolve $3^{x} = 80$ , correct to $3$ significant figures.",
+    "questionText": "解 3^{x} = 80 （準確至三位有效數字）。\nSolve 3^{x} = 80 , correct to 3 significant figures.",
     "imageUrl": "q7.png",
     "options": {
-      "A": "$3.99$\n$3.99$",
-      "B": "$3.98$\n$3.98$",
-      "C": "$1.90$\n$1.90$",
-      "D": "$26.7$\n$26.7$"
+      "A": "3.99\n3.99",
+      "B": "3.98\n3.98",
+      "C": "1.90\n1.90",
+      "D": "26.7\n26.7"
     },
     "correctAnswer": "A",
     "section": "sectionA",
@@ -99,13 +99,13 @@
   },
   {
     "questionNumber": 8,
-    "questionText": "設 $\\alpha$ 及 $\\beta$ 為方程 $3x^{2} - 11x + 2 = 0$ 的兩根。求 $\\alpha^{2} + \\beta^{2}$ 。\nLet $\\alpha$ and $\\beta$ be the roots of $3x^{2} - 11x + 2 = 0$ . Find $\\alpha^{2} + \\beta^{2}$ .",
+    "questionText": "設 \\alpha 及 \\beta 為方程 3x^{2} - 11x + 2 = 0 的兩根。求 \\alpha^{2} + \\beta^{2} 。\nLet \\alpha and \\beta be the roots of 3x^{2} - 11x + 2 = 0 . Find \\alpha^{2} + \\beta^{2} .",
     "imageUrl": "q8.png",
     "options": {
-      "A": "$\\dfrac{121}{9}$\n$\\dfrac{121}{9}$",
-      "B": "$\\dfrac{109}{9}$\n$\\dfrac{109}{9}$",
-      "C": "$\\dfrac{115}{9}$\n$\\dfrac{115}{9}$",
-      "D": "$\\dfrac{97}{9}$\n$\\dfrac{97}{9}$"
+      "A": "\\dfrac{121}{9}\n\\dfrac{121}{9}",
+      "B": "\\dfrac{109}{9}\n\\dfrac{109}{9}",
+      "C": "\\dfrac{115}{9}\n\\dfrac{115}{9}",
+      "D": "\\dfrac{97}{9}\n\\dfrac{97}{9}"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -113,13 +113,13 @@
   },
   {
     "questionNumber": 9,
-    "questionText": "若方程 $x^{2} - kx + (5k - 16) = 0$ 有兩個相等的實根，求 $k$ 。\nIf the equation $x^{2} - kx + (5k - 16) = 0$ has two equal real roots, find $k$ .",
+    "questionText": "若方程 x^{2} - kx + (5k - 16) = 0 有兩個相等的實根，求 k 。\nIf the equation x^{2} - kx + (5k - 16) = 0 has two equal real roots, find k .",
     "imageUrl": "q9.png",
     "options": {
-      "A": "$k = -4$ 或 $k = -16$\n$k = -4$ or $k = -16$",
-      "B": "只有 $k = 16$\n$k = 16$ only",
-      "C": "$k = 8$ 或 $k = 2$\n$k = 8$ or $k = 2$",
-      "D": "$k = 4$ 或 $k = 16$\n$k = 4$ or $k = 16$"
+      "A": "k = -4 或 k = -16\nk = -4 or k = -16",
+      "B": "只有 k = 16\nk = 16 only",
+      "C": "k = 8 或 k = 2\nk = 8 or k = 2",
+      "D": "k = 4 或 k = 16\nk = 4 or k = 16"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -127,13 +127,13 @@
   },
   {
     "questionNumber": 10,
-    "questionText": "解 $x^{2} - 3x - 28 \\le 0$ 。\nSolve $x^{2} - 3x - 28 \\le 0$ .",
+    "questionText": "解 x^{2} - 3x - 28 \\le 0 。\nSolve x^{2} - 3x - 28 \\le 0 .",
     "imageUrl": "q10.png",
     "options": {
-      "A": "$x \\le -4$ 或 $x \\ge 7$\n$x \\le -4$ or $x \\ge 7$",
-      "B": "$-4 \\le x \\le 7$\n$-4 \\le x \\le 7$",
-      "C": "$-7 \\le x \\le 4$\n$-7 \\le x \\le 4$",
-      "D": "$4 \\le x \\le 7$\n$4 \\le x \\le 7$"
+      "A": "x \\le -4 或 x \\ge 7\nx \\le -4 or x \\ge 7",
+      "B": "-4 \\le x \\le 7\n-4 \\le x \\le 7",
+      "C": "-7 \\le x \\le 4\n-7 \\le x \\le 4",
+      "D": "4 \\le x \\le 7\n4 \\le x \\le 7"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -141,13 +141,13 @@
   },
   {
     "questionNumber": 11,
-    "questionText": "某等差數列的第 $2$ 項及第 $6$ 項分別為 $11$ 及 $39$ 。求首 $16$ 項之和。\nThe $2$nd and $6$th terms of an arithmetic sequence are $11$ and $39$ respectively. Find the sum of the first $16$ terms.",
+    "questionText": "某等差數列的第 2 項及第 6 項分別為 11 及 39 。求首 16 項之和。\nThe 2nd and 6th terms of an arithmetic sequence are 11 and 39 respectively. Find the sum of the first 16 terms.",
     "imageUrl": "q11.png",
     "options": {
-      "A": "$880$\n$880$",
-      "B": "$904$\n$904$",
-      "C": "$928$\n$928$",
-      "D": "$452$\n$452$"
+      "A": "880\n880",
+      "B": "904\n904",
+      "C": "928\n928",
+      "D": "452\n452"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -155,13 +155,13 @@
   },
   {
     "questionNumber": 12,
-    "questionText": "某等比數列為 $6, 12, 24, \\ldots$ 。求第 $8$ 項。\nThe geometric sequence is $6, 12, 24, \\ldots$ . Find the $8$th term.",
+    "questionText": "某等比數列為 6, 12, 24, \\ldots 。求第 8 項。\nThe geometric sequence is 6, 12, 24, \\ldots . Find the 8th term.",
     "imageUrl": "q12.png",
     "options": {
-      "A": "$384$\n$384$",
-      "B": "$768$\n$768$",
-      "C": "$1536$\n$1536$",
-      "D": "$512$\n$512$"
+      "A": "384\n384",
+      "B": "768\n768",
+      "C": "1536\n1536",
+      "D": "512\n512"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -169,13 +169,13 @@
   },
   {
     "questionNumber": 13,
-    "questionText": "求 $4x^{3} - 2x^{2} + 5x - 3$ 除以 $x + 1$ 時的餘數。\nFind the remainder when $4x^{3} - 2x^{2} + 5x - 3$ is divided by $x + 1$ .",
+    "questionText": "求 4x^{3} - 2x^{2} + 5x - 3 除以 x + 1 時的餘數。\nFind the remainder when 4x^{3} - 2x^{2} + 5x - 3 is divided by x + 1 .",
     "imageUrl": "q13.png",
     "options": {
-      "A": "$4$\n$4$",
-      "B": "$14$\n$14$",
-      "C": "$-6$\n$-6$",
-      "D": "$-14$\n$-14$"
+      "A": "4\n4",
+      "B": "14\n14",
+      "C": "-6\n-6",
+      "D": "-14\n-14"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -183,13 +183,13 @@
   },
   {
     "questionNumber": 14,
-    "questionText": "已知 $y$ 與 $x^{2}$ 成反變。當 $x = 2$ 時 $y = 25$ 。求當 $x = 5$ 時 $y$ 的值。\nIt is given that $y$ varies inversely as $x^{2}$ . When $x = 2$ , $y = 25$ . Find the value of $y$ when $x = 5$ .",
+    "questionText": "已知 y 與 x^{2} 成反變。當 x = 2 時 y = 25 。求當 x = 5 時 y 的值。\nIt is given that y varies inversely as x^{2} . When x = 2 , y = 25 . Find the value of y when x = 5 .",
     "imageUrl": "q14.png",
     "options": {
-      "A": "$4$\n$4$",
-      "B": "$10$\n$10$",
-      "C": "$62.5$\n$62.5$",
-      "D": "$100$\n$100$"
+      "A": "4\n4",
+      "B": "10\n10",
+      "C": "62.5\n62.5",
+      "D": "100\n100"
     },
     "correctAnswer": "A",
     "section": "sectionA",
@@ -197,13 +197,13 @@
   },
   {
     "questionNumber": 15,
-    "questionText": "某物品連續給予 $20\\%$ 及 $25\\%$ 折扣。求整體折扣百分率。\nAn item is given successive discounts of $20\\%$ and $25\\%$ . Find the overall percentage discount.",
+    "questionText": "某物品連續給予 20% 及 25% 折扣。求整體折扣百分率。\nAn item is given successive discounts of 20% and 25% . Find the overall percentage discount.",
     "imageUrl": "q15.png",
     "options": {
-      "A": "$45\\%$\n$45\\%$",
-      "B": "$60\\%$\n$60\\%$",
-      "C": "$40\\%$\n$40\\%$",
-      "D": "$5\\%$\n$5\\%$"
+      "A": "45%\n45%",
+      "B": "60%\n60%",
+      "C": "40%\n40%",
+      "D": "5%\n5%"
     },
     "correctAnswer": "C",
     "section": "sectionA",
@@ -211,13 +211,13 @@
   },
   {
     "questionNumber": 16,
-    "questionText": "某數列為 $10, 17, 24, 31, \\ldots$ 。求第 $16$ 項。\nThe sequence is $10, 17, 24, 31, \\ldots$ . Find the $16$th term.",
+    "questionText": "某數列為 10, 17, 24, 31, \\ldots 。求第 16 項。\nThe sequence is 10, 17, 24, 31, \\ldots . Find the 16th term.",
     "imageUrl": "q16.png",
     "options": {
-      "A": "$122$\n$122$",
-      "B": "$108$\n$108$",
-      "C": "$115$\n$115$",
-      "D": "$112$\n$112$"
+      "A": "122\n122",
+      "B": "108\n108",
+      "C": "115\n115",
+      "D": "112\n112"
     },
     "correctAnswer": "C",
     "section": "sectionA",
@@ -225,13 +225,13 @@
   },
   {
     "questionNumber": 17,
-    "questionText": "把 $\\$25000$ 以年利率 $8\\%$ （每年複息一次）存入銀行 $2$ 年。求本利和（準確至最接近的元）。\n$\\$25000$ is deposited at $8\\%$ per annum compounded yearly for $2$ years. Find the amount, correct to the nearest dollar.",
+    "questionText": "把 \\$25000 以年利率 8% （每年複息一次）存入銀行 2 年。求本利和（準確至最接近的元）。\n\\$25000 is deposited at 8% per annum compounded yearly for 2 years. Find the amount, correct to the nearest dollar.",
     "imageUrl": "q17.png",
     "options": {
-      "A": "$\\$29000$\n$\\$29000$",
-      "B": "$\\$27000$\n$\\$27000$",
-      "C": "$\\$28800$\n$\\$28800$",
-      "D": "$\\$29160$\n$\\$29160$"
+      "A": "\\$29000\n\\$29000",
+      "B": "\\$27000\n\\$27000",
+      "C": "\\$28800\n\\$28800",
+      "D": "\\$29160\n\\$29160"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -239,13 +239,13 @@
   },
   {
     "questionNumber": 18,
-    "questionText": "化簡 $\\sqrt{128} - \\sqrt{32}$ 。\nSimplify $\\sqrt{128} - \\sqrt{32}$ .",
+    "questionText": "化簡 \\sqrt{128} - \\sqrt{32} 。\nSimplify \\sqrt{128} - \\sqrt{32} .",
     "imageUrl": "q18.png",
     "options": {
-      "A": "$4\\sqrt{2}$\n$4\\sqrt{2}$",
-      "B": "$12\\sqrt{2}$\n$12\\sqrt{2}$",
-      "C": "$\\sqrt{96}$\n$\\sqrt{96}$",
-      "D": "$96\\sqrt{2}$\n$96\\sqrt{2}$"
+      "A": "4\\sqrt{2}\n4\\sqrt{2}",
+      "B": "12\\sqrt{2}\n12\\sqrt{2}",
+      "C": "\\sqrt{96}\n\\sqrt{96}",
+      "D": "96\\sqrt{2}\n96\\sqrt{2}"
     },
     "correctAnswer": "A",
     "section": "sectionA",
@@ -253,13 +253,13 @@
   },
   {
     "questionNumber": 19,
-    "questionText": "在圖中，$\\triangle ABC$ 中， $\\angle A = 47^\\circ$ 及 $\\angle B = 58^\\circ$ 。求 $\\angle ACD$ ，其中 $D$ 在 $BC$ 的延線上。\nIn the figure, in $\\triangle ABC$ , $\\angle A = 47^\\circ$ and $\\angle B = 58^\\circ$ . Find $\\angle ACD$ , where $D$ lies on $BC$ produced.",
+    "questionText": "在圖中，\\triangle ABC 中， \\angle A = 47^\\circ 及 \\angle B = 58^\\circ 。求 \\angle ACD ，其中 D 在 BC 的延線上。\nIn the figure, in \\triangle ABC , \\angle A = 47^\\circ and \\angle B = 58^\\circ . Find \\angle ACD , where D lies on BC produced.",
     "imageUrl": "q19.png",
     "options": {
-      "A": "$75^\\circ$\n$75^\\circ$",
-      "B": "$105^\\circ$\n$105^\\circ$",
-      "C": "$122^\\circ$\n$122^\\circ$",
-      "D": "$90^\\circ$\n$90^\\circ$"
+      "A": "75^\\circ\n75^\\circ",
+      "B": "105^\\circ\n105^\\circ",
+      "C": "122^\\circ\n122^\\circ",
+      "D": "90^\\circ\n90^\\circ"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -267,13 +267,13 @@
   },
   {
     "questionNumber": 20,
-    "questionText": "在圖中， $AB \\parallel CD$ ，而一條橫截線與它們相交。已知圖中所示的角為 $115^\\circ$ 。求 $x$ 。\nIn the figure, $AB \\parallel CD$ and a transversal cuts them. The marked angle is $115^\\circ$ . Find $x$ .",
+    "questionText": "在圖中， AB \\parallel CD ，而一條橫截線與它們相交。已知圖中所示的角為 115^\\circ 。求 x 。\nIn the figure, AB \\parallel CD and a transversal cuts them. The marked angle is 115^\\circ . Find x .",
     "imageUrl": "q20.png",
     "options": {
-      "A": "$115^\\circ$\n$115^\\circ$",
-      "B": "$57.5^\\circ$\n$57.5^\\circ$",
-      "C": "$65^\\circ$\n$65^\\circ$",
-      "D": "$25^\\circ$\n$25^\\circ$"
+      "A": "115^\\circ\n115^\\circ",
+      "B": "57.5^\\circ\n57.5^\\circ",
+      "C": "65^\\circ\n65^\\circ",
+      "D": "25^\\circ\n25^\\circ"
     },
     "correctAnswer": "C",
     "section": "sectionA",
@@ -281,13 +281,13 @@
   },
   {
     "questionNumber": 21,
-    "questionText": "在圖中，一扇形的半徑為 $21 \\text{ cm}$ ，圓心角為 $120^\\circ$ 。求該弧的長度（以 $\\pi$ 表示）。\nIn the figure, a sector has radius $21 \\text{ cm}$ and angle at the centre $120^\\circ$ . Find the length of the arc in terms of $\\pi$ .",
+    "questionText": "在圖中，一扇形的半徑為 21 \\text{ cm} ，圓心角為 120^\\circ 。求該弧的長度（以 \\pi 表示）。\nIn the figure, a sector has radius 21 \\text{ cm} and angle at the centre 120^\\circ . Find the length of the arc in terms of \\pi .",
     "imageUrl": "q21.png",
     "options": {
-      "A": "$7\\pi \\text{ cm}$\n$7\\pi \\text{ cm}$",
-      "B": "$14\\pi \\text{ cm}$\n$14\\pi \\text{ cm}$",
-      "C": "$147\\pi \\text{ cm}$\n$147\\pi \\text{ cm}$",
-      "D": "$42\\pi \\text{ cm}$\n$42\\pi \\text{ cm}$"
+      "A": "7\\pi \\text{ cm}\n7\\pi \\text{ cm}",
+      "B": "14\\pi \\text{ cm}\n14\\pi \\text{ cm}",
+      "C": "147\\pi \\text{ cm}\n147\\pi \\text{ cm}",
+      "D": "42\\pi \\text{ cm}\n42\\pi \\text{ cm}"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -295,13 +295,13 @@
   },
   {
     "questionNumber": 22,
-    "questionText": "求點 $(2, 6)$ 及 $(10, 21)$ 之間的距離。\nFind the distance between the points $(2, 6)$ and $(10, 21)$ .",
+    "questionText": "求點 (2, 6) 及 (10, 21) 之間的距離。\nFind the distance between the points (2, 6) and (10, 21) .",
     "imageUrl": "q22.png",
     "options": {
-      "A": "$17$\n$17$",
-      "B": "$23$\n$23$",
-      "C": "$\\sqrt{23}$\n$\\sqrt{23}$",
-      "D": "$289$\n$289$"
+      "A": "17\n17",
+      "B": "23\n23",
+      "C": "\\sqrt{23}\n\\sqrt{23}",
+      "D": "289\n289"
     },
     "correctAnswer": "A",
     "section": "sectionA",
@@ -309,13 +309,13 @@
   },
   {
     "questionNumber": 23,
-    "questionText": "求垂直於直線 $8x - 3y = 5$ 的直線的斜率。\nFind the slope of a line perpendicular to the line $8x - 3y = 5$ .",
+    "questionText": "求垂直於直線 8x - 3y = 5 的直線的斜率。\nFind the slope of a line perpendicular to the line 8x - 3y = 5 .",
     "imageUrl": "q23.png",
     "options": {
-      "A": "$\\dfrac{8}{3}$\n$\\dfrac{8}{3}$",
-      "B": "$-\\dfrac{3}{8}$\n$-\\dfrac{3}{8}$",
-      "C": "$\\dfrac{3}{8}$\n$\\dfrac{3}{8}$",
-      "D": "$-\\dfrac{8}{3}$\n$-\\dfrac{8}{3}$"
+      "A": "\\dfrac{8}{3}\n\\dfrac{8}{3}",
+      "B": "-\\dfrac{3}{8}\n-\\dfrac{3}{8}",
+      "C": "\\dfrac{3}{8}\n\\dfrac{3}{8}",
+      "D": "-\\dfrac{8}{3}\n-\\dfrac{8}{3}"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -323,13 +323,13 @@
   },
   {
     "questionNumber": 24,
-    "questionText": "求圓 $x^{2} + y^{2} + 8x - 14y - 16 = 0$ 的圓心及半徑。\nFind the centre and radius of the circle $x^{2} + y^{2} + 8x - 14y - 16 = 0$ .",
+    "questionText": "求圓 x^{2} + y^{2} + 8x - 14y - 16 = 0 的圓心及半徑。\nFind the centre and radius of the circle x^{2} + y^{2} + 8x - 14y - 16 = 0 .",
     "imageUrl": "q24.png",
     "options": {
-      "A": "圓心 $(4, -7)$ ，半徑 $r = 9$\ncentre $(4, -7)$ , $r = 9$",
-      "B": "圓心 $(-4, 7)$ ，半徑 $r = 81$\ncentre $(-4, 7)$ , $r = 81$",
-      "C": "圓心 $(-8, 14)$ ，半徑 $r = 9$\ncentre $(-8, 14)$ , $r = 9$",
-      "D": "圓心 $(-4, 7)$ ，半徑 $r = 9$\ncentre $(-4, 7)$ , $r = 9$"
+      "A": "圓心 (4, -7) ，半徑 r = 9\ncentre (4, -7) , r = 9",
+      "B": "圓心 (-4, 7) ，半徑 r = 81\ncentre (-4, 7) , r = 81",
+      "C": "圓心 (-8, 14) ，半徑 r = 9\ncentre (-8, 14) , r = 9",
+      "D": "圓心 (-4, 7) ，半徑 r = 9\ncentre (-4, 7) , r = 9"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -337,13 +337,13 @@
   },
   {
     "questionNumber": 25,
-    "questionText": "圖中所示為一個正九邊形。求每隻內角 $\\theta$ 。\nThe figure shows a regular $9$-sided polygon. Find each interior angle $\\theta$ .",
+    "questionText": "圖中所示為一個正九邊形。求每隻內角 \\theta 。\nThe figure shows a regular 9-sided polygon. Find each interior angle \\theta .",
     "imageUrl": "q25.png",
     "options": {
-      "A": "$40^\\circ$\n$40^\\circ$",
-      "B": "$144^\\circ$\n$144^\\circ$",
-      "C": "$135^\\circ$\n$135^\\circ$",
-      "D": "$140^\\circ$\n$140^\\circ$"
+      "A": "40^\\circ\n40^\\circ",
+      "B": "144^\\circ\n144^\\circ",
+      "C": "135^\\circ\n135^\\circ",
+      "D": "140^\\circ\n140^\\circ"
     },
     "correctAnswer": "D",
     "section": "sectionA",
@@ -351,13 +351,13 @@
   },
   {
     "questionNumber": 26,
-    "questionText": "在圖中， $DE \\parallel BC$ 。已知 $AD = 9$ 、 $DB = 6$ 及 $AE = 15$ 。求 $EC$ 。\nIn the figure, $DE \\parallel BC$ . It is given that $AD = 9$ , $DB = 6$ and $AE = 15$ . Find $EC$ .",
+    "questionText": "在圖中， DE \\parallel BC 。已知 AD = 9 、 DB = 6 及 AE = 15 。求 EC 。\nIn the figure, DE \\parallel BC . It is given that AD = 9 , DB = 6 and AE = 15 . Find EC .",
     "imageUrl": "q26.png",
     "options": {
-      "A": "$10$\n$10$",
-      "B": "$22.5$\n$22.5$",
-      "C": "$6$\n$6$",
-      "D": "$15$\n$15$"
+      "A": "10\n10",
+      "B": "22.5\n22.5",
+      "C": "6\n6",
+      "D": "15\n15"
     },
     "correctAnswer": "A",
     "section": "sectionA",
@@ -365,13 +365,13 @@
   },
   {
     "questionNumber": 27,
-    "questionText": "求半徑為 $6 \\text{ cm}$ 的球的體積（以 $\\pi$ 表示）。\nFind the volume of a sphere of radius $6 \\text{ cm}$ in terms of $\\pi$ .",
+    "questionText": "求半徑為 6 \\text{ cm} 的球的體積（以 \\pi 表示）。\nFind the volume of a sphere of radius 6 \\text{ cm} in terms of \\pi .",
     "imageUrl": "q27.png",
     "options": {
-      "A": "$72\\pi \\text{ cm}^{3}$\n$72\\pi \\text{ cm}^{3}$",
-      "B": "$288\\pi \\text{ cm}^{3}$\n$288\\pi \\text{ cm}^{3}$",
-      "C": "$216\\pi \\text{ cm}^{3}$\n$216\\pi \\text{ cm}^{3}$",
-      "D": "$36\\pi \\text{ cm}^{3}$\n$36\\pi \\text{ cm}^{3}$"
+      "A": "72\\pi \\text{ cm}^{3}\n72\\pi \\text{ cm}^{3}",
+      "B": "288\\pi \\text{ cm}^{3}\n288\\pi \\text{ cm}^{3}",
+      "C": "216\\pi \\text{ cm}^{3}\n216\\pi \\text{ cm}^{3}",
+      "D": "36\\pi \\text{ cm}^{3}\n36\\pi \\text{ cm}^{3}"
     },
     "correctAnswer": "B",
     "section": "sectionA",
@@ -379,13 +379,13 @@
   },
   {
     "questionNumber": 28,
-    "questionText": "若 $11, 17, x, 24$ 的平均數為 $20$ ，求 $x$ 。\nIf the mean of $11, 17, x, 24$ is $20$ , find $x$ .",
+    "questionText": "若 11, 17, x, 24 的平均數為 20 ，求 x 。\nIf the mean of 11, 17, x, 24 is 20 , find x .",
     "imageUrl": "q28.png",
     "options": {
-      "A": "$20$\n$20$",
-      "B": "$24$\n$24$",
-      "C": "$28$\n$28$",
-      "D": "$26$\n$26$"
+      "A": "20\n20",
+      "B": "24\n24",
+      "C": "28\n28",
+      "D": "26\n26"
     },
     "correctAnswer": "C",
     "section": "sectionA",
@@ -393,13 +393,13 @@
   },
   {
     "questionNumber": 29,
-    "questionText": "求數據 $5, 8, 11, 13, 17, 20$ 的中位數。\nFind the median of the data $5, 8, 11, 13, 17, 20$ .",
+    "questionText": "求數據 5, 8, 11, 13, 17, 20 的中位數。\nFind the median of the data 5, 8, 11, 13, 17, 20 .",
     "imageUrl": "q29.png",
     "options": {
-      "A": "$12$\n$12$",
-      "B": "$11$\n$11$",
-      "C": "$13$\n$13$",
-      "D": "$12.5$\n$12.5$"
+      "A": "12\n12",
+      "B": "11\n11",
+      "C": "13\n13",
+      "D": "12.5\n12.5"
     },
     "correctAnswer": "A",
     "section": "sectionA",
@@ -410,10 +410,10 @@
     "questionText": "擲一粒公平骰子。求出現偶數的概率。\nA fair die is thrown. Find the probability of getting an even number .",
     "imageUrl": "q30.png",
     "options": {
-      "A": "$\\dfrac{1}{3}$\n$\\dfrac{1}{3}$",
-      "B": "$\\dfrac{2}{3}$\n$\\dfrac{2}{3}$",
-      "C": "$\\dfrac{1}{2}$\n$\\dfrac{1}{2}$",
-      "D": "$\\dfrac{1}{6}$\n$\\dfrac{1}{6}$"
+      "A": "\\dfrac{1}{3}\n\\dfrac{1}{3}",
+      "B": "\\dfrac{2}{3}\n\\dfrac{2}{3}",
+      "C": "\\dfrac{1}{2}\n\\dfrac{1}{2}",
+      "D": "\\dfrac{1}{6}\n\\dfrac{1}{6}"
     },
     "correctAnswer": "C",
     "section": "sectionA",
@@ -421,7 +421,7 @@
   },
   {
     "questionNumber": 31,
-    "questionText": "設 $a > b$ ，其中 $a$ 及 $b$ 為實數。\nI. $a^{2} > b^{2}$\nII. $a - b > 0$\nIII. $-a < -b$\n下列何者為正確？\nLet $a > b$ , where $a$ and $b$ are real numbers.\nI. $a^{2} > b^{2}$\nII. $a - b > 0$\nIII. $-a < -b$\nWhich of the above is/are true?",
+    "questionText": "設 a > b ，其中 a 及 b 為實數。\nI. a^{2} > b^{2}\nII. a - b > 0\nIII. -a < -b\n下列何者為正確？\nLet a > b , where a and b are real numbers.\nI. a^{2} > b^{2}\nII. a - b > 0\nIII. -a < -b\nWhich of the above is/are true?",
     "imageUrl": "q31.png",
     "options": {
       "A": "只有 I 及 II\nI and II only",
@@ -435,7 +435,7 @@
   },
   {
     "questionNumber": 32,
-    "questionText": "設 $x$ 及 $y$ 為正數。\nI. $\\log \\dfrac{x}{y} = \\log x - \\log y$\nII. $\\log(x + y) = \\log x \\times \\log y$\nIII. $\\log(x^{4}) = 4\\log x$\n下列何者為正確？\nLet $x$ and $y$ be positive numbers.\nI. $\\log \\dfrac{x}{y} = \\log x - \\log y$\nII. $\\log(x + y) = \\log x \\times \\log y$\nIII. $\\log(x^{4}) = 4\\log x$\nWhich of the above is/are true?",
+    "questionText": "設 x 及 y 為正數。\nI. \\log \\dfrac{x}{y} = \\log x - \\log y\nII. \\log(x + y) = \\log x \\times \\log y\nIII. \\log(x^{4}) = 4\\log x\n下列何者為正確？\nLet x and y be positive numbers.\nI. \\log \\dfrac{x}{y} = \\log x - \\log y\nII. \\log(x + y) = \\log x \\times \\log y\nIII. \\log(x^{4}) = 4\\log x\nWhich of the above is/are true?",
     "imageUrl": "q32.png",
     "options": {
       "A": "只有 I 及 II\nI and II only",
@@ -449,7 +449,7 @@
   },
   {
     "questionNumber": 33,
-    "questionText": "考慮二次函數 $y = x^{2} - 14x + 58$ 。\nI. 圖像的頂點為 $(7, 9)$\nII. 圖像開口向上\nIII. 圖像與 $x$ 軸相交於兩點\n下列何者為正確？\nConsider the quadratic function $y = x^{2} - 14x + 58$ .\nI. The vertex of the graph is $(7, 9)$\nII. The graph opens upwards\nIII. The graph cuts the $x$-axis at two points\nWhich of the above is/are true?",
+    "questionText": "考慮二次函數 y = x^{2} - 14x + 58 。\nI. 圖像的頂點為 (7, 9)\nII. 圖像開口向上\nIII. 圖像與 x 軸相交於兩點\n下列何者為正確？\nConsider the quadratic function y = x^{2} - 14x + 58 .\nI. The vertex of the graph is (7, 9)\nII. The graph opens upwards\nIII. The graph cuts the x-axis at two points\nWhich of the above is/are true?",
     "imageUrl": "q33.png",
     "options": {
       "A": "只有 I 及 II\nI and II only",
@@ -463,7 +463,7 @@
   },
   {
     "questionNumber": 34,
-    "questionText": "設 $ABCD$ 為一平行四邊形。\nI. 兩雙對角分別相等\nII. 兩對角線互相垂直\nIII. $AB \\parallel DC$ 及 $AD \\parallel BC$\n下列何者為正確？\nLet $ABCD$ be a parallelogram.\nI. Both pairs of opposite angles are equal\nII. The diagonals are perpendicular to each other\nIII. $AB \\parallel DC$ and $AD \\parallel BC$\nWhich of the above is/are true?",
+    "questionText": "設 ABCD 為一平行四邊形。\nI. 兩雙對角分別相等\nII. 兩對角線互相垂直\nIII. AB \\parallel DC 及 AD \\parallel BC\n下列何者為正確？\nLet ABCD be a parallelogram.\nI. Both pairs of opposite angles are equal\nII. The diagonals are perpendicular to each other\nIII. AB \\parallel DC and AD \\parallel BC\nWhich of the above is/are true?",
     "imageUrl": "q34.png",
     "options": {
       "A": "只有 I 及 II\nI and II only",
@@ -477,13 +477,13 @@
   },
   {
     "questionNumber": 35,
-    "questionText": "在圖中， $AB$ 為圓 $O$ 的直徑， $C$ 為圓上一點，且 $\\angle BAC = 27^\\circ$ 。求 $\\angle ABC$ 。\nIn the figure, $AB$ is a diameter of the circle $O$ and $C$ is a point on the circle with $\\angle BAC = 27^\\circ$ . Find $\\angle ABC$ .",
+    "questionText": "在圖中， AB 為圓 O 的直徑， C 為圓上一點，且 \\angle BAC = 27^\\circ 。求 \\angle ABC 。\nIn the figure, AB is a diameter of the circle O and C is a point on the circle with \\angle BAC = 27^\\circ . Find \\angle ABC .",
     "imageUrl": "q35.png",
     "options": {
-      "A": "$63^\\circ$\n$63^\\circ$",
-      "B": "$27^\\circ$\n$27^\\circ$",
-      "C": "$90^\\circ$\n$90^\\circ$",
-      "D": "$54^\\circ$\n$54^\\circ$"
+      "A": "63^\\circ\n63^\\circ",
+      "B": "27^\\circ\n27^\\circ",
+      "C": "90^\\circ\n90^\\circ",
+      "D": "54^\\circ\n54^\\circ"
     },
     "correctAnswer": "A",
     "section": "sectionB",
@@ -491,7 +491,7 @@
   },
   {
     "questionNumber": 36,
-    "questionText": "考慮數列 $6, 24, 96, 384, \\ldots$ 。\nI. 它是公比為 $4$ 的等比數列\nII. 它是等差數列\nIII. 第 $5$ 項為 $1536$\n下列何者為正確？\nConsider the sequence $6, 24, 96, 384, \\ldots$ .\nI. It is a geometric sequence with common ratio $4$\nII. It is an arithmetic sequence\nIII. The $5$th term is $1536$\nWhich of the above is/are true?",
+    "questionText": "考慮數列 6, 24, 96, 384, \\ldots 。\nI. 它是公比為 4 的等比數列\nII. 它是等差數列\nIII. 第 5 項為 1536\n下列何者為正確？\nConsider the sequence 6, 24, 96, 384, \\ldots .\nI. It is a geometric sequence with common ratio 4\nII. It is an arithmetic sequence\nIII. The 5th term is 1536\nWhich of the above is/are true?",
     "imageUrl": "q36.png",
     "options": {
       "A": "只有 I 及 II\nI and II only",
@@ -505,13 +505,13 @@
   },
   {
     "questionNumber": 37,
-    "questionText": "一組數據的每個數值都乘以 $4$ 再減 $6$ 。若原數據的標準差為 $9$ ，求新數據的標準差。\nEach datum of a set of data is multiplied by $4$ and then decreased by $6$ . If the standard deviation of the original data is $9$ , find the standard deviation of the new data.",
+    "questionText": "一組數據的每個數值都乘以 4 再減 6 。若原數據的標準差為 9 ，求新數據的標準差。\nEach datum of a set of data is multiplied by 4 and then decreased by 6 . If the standard deviation of the original data is 9 , find the standard deviation of the new data.",
     "imageUrl": "q37.png",
     "options": {
-      "A": "$30$\n$30$",
-      "B": "$9$\n$9$",
-      "C": "$36$\n$36$",
-      "D": "$42$\n$42$"
+      "A": "30\n30",
+      "B": "9\n9",
+      "C": "36\n36",
+      "D": "42\n42"
     },
     "correctAnswer": "C",
     "section": "sectionB",
@@ -519,13 +519,13 @@
   },
   {
     "questionNumber": 38,
-    "questionText": "若 $C^{n}_{2} = 105$ ，求 $n$ 。\nIf $C^{n}_{2} = 105$ , find $n$ .",
+    "questionText": "若 C^{n}_{2} = 105 ，求 n 。\nIf C^{n}_{2} = 105 , find n .",
     "imageUrl": "q38.png",
     "options": {
-      "A": "$14$\n$14$",
-      "B": "$105$\n$105$",
-      "C": "$15$\n$15$",
-      "D": "$16$\n$16$"
+      "A": "14\n14",
+      "B": "105\n105",
+      "C": "15\n15",
+      "D": "16\n16"
     },
     "correctAnswer": "C",
     "section": "sectionB",
@@ -533,13 +533,13 @@
   },
   {
     "questionNumber": 39,
-    "questionText": "設 $A$ 及 $B$ 為互斥事件，且 $P(A) = 0.31$ 、 $P(B) = 0.24$ 。求 $P(A \\cup B)$ 。\nLet $A$ and $B$ be mutually exclusive events with $P(A) = 0.31$ and $P(B) = 0.24$ . Find $P(A \\cup B)$ .",
+    "questionText": "設 A 及 B 為互斥事件，且 P(A) = 0.31 、 P(B) = 0.24 。求 P(A \\cup B) 。\nLet A and B be mutually exclusive events with P(A) = 0.31 and P(B) = 0.24 . Find P(A \\cup B) .",
     "imageUrl": "q39.png",
     "options": {
-      "A": "$0.0744$\n$0.0744$",
-      "B": "$0.07$\n$0.07$",
-      "C": "$0.55$\n$0.55$",
-      "D": "$0.4756$\n$0.4756$"
+      "A": "0.0744\n0.0744",
+      "B": "0.07\n0.07",
+      "C": "0.55\n0.55",
+      "D": "0.4756\n0.4756"
     },
     "correctAnswer": "C",
     "section": "sectionB",
@@ -547,13 +547,13 @@
   },
   {
     "questionNumber": 40,
-    "questionText": "把 $7$ 件不同的物品排成一行，其中指定的 $2$ 件物品須相鄰。求不同的排法數目。\n$7$ different items are arranged in a row such that $2$ particular items must be next to each other. Find the number of different arrangements.",
+    "questionText": "把 7 件不同的物品排成一行，其中指定的 2 件物品須相鄰。求不同的排法數目。\n7 different items are arranged in a row such that 2 particular items must be next to each other. Find the number of different arrangements.",
     "imageUrl": "q40.png",
     "options": {
-      "A": "$10080$\n$10080$",
-      "B": "$720$\n$720$",
-      "C": "$5040$\n$5040$",
-      "D": "$1440$\n$1440$"
+      "A": "10080\n10080",
+      "B": "720\n720",
+      "C": "5040\n5040",
+      "D": "1440\n1440"
     },
     "correctAnswer": "D",
     "section": "sectionB",
@@ -561,13 +561,13 @@
   },
   {
     "questionNumber": 41,
-    "questionText": "某數列的第 $n$ 項為 $T(n) = 4n^{2} + n$ 。求 $T(6) - T(5)$ 。\nThe $n$th term of a sequence is $T(n) = 4n^{2} + n$ . Find $T(6) - T(5)$ .",
+    "questionText": "某數列的第 n 項為 T(n) = 4n^{2} + n 。求 T(6) - T(5) 。\nThe nth term of a sequence is T(n) = 4n^{2} + n . Find T(6) - T(5) .",
     "imageUrl": "q41.png",
     "options": {
-      "A": "$44$\n$44$",
-      "B": "$150$\n$150$",
-      "C": "$105$\n$105$",
-      "D": "$45$\n$45$"
+      "A": "44\n44",
+      "B": "150\n150",
+      "C": "105\n105",
+      "D": "45\n45"
     },
     "correctAnswer": "D",
     "section": "sectionB",
@@ -575,13 +575,13 @@
   },
   {
     "questionNumber": 42,
-    "questionText": "某測驗的平均分為 $62$ 分，標準差為 $14$ 分。一名學生的標準分為 $-1.5$ 。求該學生的分數。\nIn a test, the mean is $62$ marks and the standard deviation is $14$ marks. A student has a standard score of $-1.5$ . Find the student's marks.",
+    "questionText": "某測驗的平均分為 62 分，標準差為 14 分。一名學生的標準分為 -1.5 。求該學生的分數。\nIn a test, the mean is 62 marks and the standard deviation is 14 marks. A student has a standard score of -1.5 . Find the student's marks.",
     "imageUrl": "q42.png",
     "options": {
-      "A": "$41$\n$41$",
-      "B": "$83$\n$83$",
-      "C": "$60.5$\n$60.5$",
-      "D": "$48$\n$48$"
+      "A": "41\n41",
+      "B": "83\n83",
+      "C": "60.5\n60.5",
+      "D": "48\n48"
     },
     "correctAnswer": "A",
     "section": "sectionB",
@@ -595,7 +595,7 @@
       "A": "分佈為負偏（左偏）\nThe distribution is negatively skewed",
       "B": "分佈為正偏（右偏）\nThe distribution is positively skewed",
       "C": "分佈為對稱\nThe distribution is symmetric",
-      "D": "四分位數間距為 $40$\nThe inter-quartile range is $40$"
+      "D": "四分位數間距為 40\nThe inter-quartile range is 40"
     },
     "correctAnswer": "B",
     "section": "sectionB",
@@ -603,13 +603,13 @@
   },
   {
     "questionNumber": 44,
-    "questionText": "一個袋內有 $6$ 個紅球及 $3$ 個白球。同時隨機抽出 $2$ 個球。求至少抽得 $1$ 個白球的概率。\nA bag contains $6$ red balls and $3$ white balls. $2$ balls are drawn at random at the same time. Find the probability of drawing at least $1$ white ball.",
+    "questionText": "一個袋內有 6 個紅球及 3 個白球。同時隨機抽出 2 個球。求至少抽得 1 個白球的概率。\nA bag contains 6 red balls and 3 white balls. 2 balls are drawn at random at the same time. Find the probability of drawing at least 1 white ball.",
     "imageUrl": "q44.png",
     "options": {
-      "A": "$\\dfrac{5}{12}$\n$\\dfrac{5}{12}$",
-      "B": "$\\dfrac{7}{12}$\n$\\dfrac{7}{12}$",
-      "C": "$\\dfrac{1}{12}$\n$\\dfrac{1}{12}$",
-      "D": "$\\dfrac{1}{3}$\n$\\dfrac{1}{3}$"
+      "A": "\\dfrac{5}{12}\n\\dfrac{5}{12}",
+      "B": "\\dfrac{7}{12}\n\\dfrac{7}{12}",
+      "C": "\\dfrac{1}{12}\n\\dfrac{1}{12}",
+      "D": "\\dfrac{1}{3}\n\\dfrac{1}{3}"
     },
     "correctAnswer": "B",
     "section": "sectionB",
@@ -617,13 +617,13 @@
   },
   {
     "questionNumber": 45,
-    "questionText": "求數據 $3, 6, 9, 12, 15$ 的方差。\nFind the variance of the data $3, 6, 9, 12, 15$ .",
+    "questionText": "求數據 3, 6, 9, 12, 15 的方差。\nFind the variance of the data 3, 6, 9, 12, 15 .",
     "imageUrl": "q45.png",
     "options": {
-      "A": "$18$\n$18$",
-      "B": "$9$\n$9$",
-      "C": "$3\\sqrt{2}$\n$3\\sqrt{2}$",
-      "D": "$90$\n$90$"
+      "A": "18\n18",
+      "B": "9\n9",
+      "C": "3\\sqrt{2}\n3\\sqrt{2}",
+      "D": "90\n90"
     },
     "correctAnswer": "A",
     "section": "sectionB",
