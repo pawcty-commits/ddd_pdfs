@@ -1,0 +1,486 @@
+{
+  "paperTitle": "Original Paper (2023 Style & Difficulty) — Paper 1",
+  "paperTitleZh": "風格與難度跟 2023 原創卷 — 試卷一",
+  "year": 2026,
+  "similarTo": "2023",
+  "durationMinutes": 135,
+  "totalMarks": 105,
+  "mathDelimiter": "raw LaTeX (no delimiters)",
+  "instructionsZh": "本試卷分為三部分：甲部(1)、甲部(2) 及 乙部。所有答案須詳列步驟。除特別指明外，數值答案須為準確值或準確至三位有效數字。本試卷的圖形不一定依比例繪畫。",
+  "instructionsEn": "This paper consists of THREE sections, A(1), A(2) and B. Unless otherwise specified, all working must be clearly shown. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures. The diagrams in this paper are not necessarily drawn to scale.",
+  "sections": [
+    {
+      "id": "sectionA1",
+      "titleZh": "甲部(1)",
+      "titleEn": "Section A(1)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionA2",
+      "titleZh": "甲部(2)",
+      "titleEn": "Section A(2)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionB",
+      "titleZh": "乙部",
+      "titleEn": "Section B",
+      "marks": 35,
+      "deductionCapUpp": 0
+    }
+  ],
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "公式變換",
+      "categoryEn": "Change of Subject",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "使 x 成為公式 \\dfrac{4x - 3}{x + 2c} = c 的主項。",
+          "questionTextEn": "Make x the subject of the formula \\dfrac{4x - 3}{x + 2c} = c .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "化簡 \\dfrac{(m^{-2} n^{5})^{-3}}{(m n^{-1})^{4}} ，並以正指數表示答案。",
+          "questionTextEn": "Simplify \\dfrac{(m^{-2} n^{5})^{-3}}{(m n^{-1})^{4}} and express your answer with positive indices.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 3,
+      "categoryZh": "估算與誤差",
+      "categoryEn": "Estimation and Error",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "若一包米的重量在準確至最接近的 20 \\text{ g} 時量得為 480 \\text{ g} ，則該包米稱為合格。有人聲稱 150 包合格米的總重量在準確至最接近的 0.1 \\text{ kg} 時可量得為 70.4 \\text{ kg} 。該聲稱是否正確？試解釋你的答案。",
+          "questionTextEn": "A packet of rice is termed acceptable if its weight is measured as 480 \\text{ g} correct to the nearest 20 \\text{ g} . Someone claims that the total weight of 150 acceptable packets of rice can be measured as 70.4 \\text{ kg} correct to the nearest 0.1 \\text{ kg} . Is the claim correct? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "複合不等式",
+      "categoryEn": "Compound Inequalities",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮複合不等式 \\dfrac{x + 5}{2} > x - 2 且 4x + 15 \\ge x 。解該複合不等式。",
+          "questionTextEn": "Consider the compound inequality \\dfrac{x + 5}{2} > x - 2 and 4x + 15 \\ge x . Solve the compound inequality.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "有多少個負整數滿足該複合不等式？",
+          "questionTextEn": "How many negative integers satisfy the compound inequality?",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在一所圖書館內，英文書的數目比中文書的數目多 20% 。若移走 66 本英文書，則中文書的數目比英文書的數目多 20% 。求該圖書館內中文書的數目。",
+          "questionTextEn": "In a library, the number of English books is 20% more than the number of Chinese books. If 66 English books are removed, then the number of Chinese books is 20% more than the number of English books. Find the number of Chinese books in the library.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "比與比例",
+      "categoryEn": "Ratio and Proportion",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 a 、 b 及 c 為非零數，其中 3a = 2b 及 \\dfrac{3b - c}{a} = \\dfrac{3}{2} 。求 a : b : c 。",
+          "questionTextEn": "Let a , b and c be non-zero numbers such that 3a = 2b and \\dfrac{3b - c}{a} = \\dfrac{3}{2} . Find a : b : c .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 \\dfrac{4a + 3c}{5b - 2c} 的值。",
+          "questionTextEn": "Find the value of \\dfrac{4a + 3c}{5b - 2c} .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "圓的性質",
+      "categoryEn": "Properties of Circles",
+      "figureSpecId": "FIG-Q7",
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖一中， AC 為圓 ABCD 的直徑。 AC 與 BD 相交於點 E 。已知 \\angle ADB = 36^\\circ 及 \\angle AEB = 100^\\circ 。求 \\angle DBC 及 \\angle BAD 。",
+          "questionTextEn": "In Figure 1, AC is a diameter of the circle ABCD . AC and BD intersect at the point E . It is given that \\angle ADB = 36^\\circ and \\angle AEB = 100^\\circ . Find \\angle DBC and \\angle BAD .",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "相似三角形",
+      "categoryEn": "Similar Triangles",
+      "figureSpecId": "FIG-Q8",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖二中， PQ 與 RS 相交於點 T 。已知 PR \\parallel SQ 。證明 \\triangle PRT \\sim \\triangle QST 。",
+          "questionTextEn": "In Figure 2, PQ and RS intersect at the point T . It is given that PR \\parallel SQ . Prove that \\triangle PRT \\sim \\triangle QST .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 PQ = 40 \\text{ cm} 、 PR = 9 \\text{ cm} 、 QS = 15 \\text{ cm} 及 RT = 12 \\text{ cm} 。 \\triangle QST 是否直角三角形？試解釋你的答案。",
+          "questionTextEn": "Suppose that PQ = 40 \\text{ cm} , PR = 9 \\text{ cm} , QS = 15 \\text{ cm} and RT = 12 \\text{ cm} . Is \\triangle QST a right-angled triangle? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "莖葉圖與概率",
+      "categoryEn": "Stem-and-Leaf Diagram and Probability",
+      "figureSpecId": "FIG-Q9",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖三中的莖葉圖顯示某組工人在一星期內的工作時數的分佈。已知該分佈的分佈域為 26 。求該分佈的平均數及眾數。",
+          "questionTextEn": "The stem-and-leaf diagram in Figure 3 shows the distribution of the numbers of working hours of a group of workers in a week. It is given that the range of the distribution is 26 . Find the mean and the mode of the distribution.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "若從該組工人中隨機選出一名工人，求該工人在該星期的工作時數超過該分佈的眾數的概率。",
+          "questionTextEn": "If a worker is randomly selected from the group, find the probability that the number of working hours of the selected worker in the week exceeds the mode of the distribution.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "軌跡與圓",
+      "categoryEn": "Locus and Circles",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知 A 及 B 為直角坐標平面上兩個相異的點。設 P 為直角坐標平面上的一個動點，使 P 與 A 及 B 距離相等。以 \\Gamma 表示 P 的軌跡。描述 \\Gamma 與 AB 之間的幾何關係。",
+          "questionTextEn": "It is given that A and B are two distinct points in a rectangular coordinate plane. Let P be a moving point in the rectangular coordinate plane such that P is equidistant from A and B . Denote the locus of P by \\Gamma . Describe the geometric relationship between \\Gamma and AB .",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 A 的坐標為 (-3, 2) 而 \\Gamma 的方程為 2x + y - 6 = 0 。求通過 A 及 B 的直線的方程。",
+          "questionTextEn": "Suppose that the coordinates of A are (-3, 2) and the equation of \\Gamma is 2x + y - 6 = 0 . Find the equation of the straight line which passes through A and B .",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求以 AB 為直徑的圓的方程。",
+          "questionTextEn": "Find the equation of the circle with AB as a diameter.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "頻數分佈與離差",
+      "categoryEn": "Frequency Distribution and Dispersion",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下表顯示某班學生擁有的計算機數目的分佈。\n擁有的計算機數目： 0 ； 1 ； 2 ； 3 ； 4\n學生人數： 2 ； 7 ； 12 ； 7 ； 2\n求該分佈的中位數、四分位數間距及方差。",
+          "questionTextEn": "The table below shows the distribution of the numbers of calculators owned by a class of students.\nNumber of calculators owned: 0 ; 1 ; 2 ; 3 ; 4\nNumber of students: 2 ; 7 ; 12 ; 7 ; 2\nFind the median, the inter-quartile range and the variance of the distribution.",
+          "totalMarks": 5
+        },
+        {
+          "label": "b",
+          "questionTextZh": "現有兩名學生退出該班。已知該分佈的平均數維持不變。該分佈的分佈域會否因該兩名學生退出而改變？試解釋你的答案。",
+          "questionTextEn": "Two students now withdraw from the class. It is found that the mean of the distribution remains unchanged. Is there any change in the range of the distribution due to the withdrawal of the two students? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "部分變分與圓",
+      "categoryEn": "Partial Variation and Circles",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知 f(x) 是部分為常數，而部分則隨 x^{2} 而正變。已知 f(2) = 9 及 f(5) = 30 。求 f(x) 。",
+          "questionTextEn": "It is given that f(x) is partly constant and partly varies as x^{2} . Suppose that f(2) = 9 and f(5) = 30 . Find f(x) .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 U(0, u) 及 V(3, v) 為 y = f(x) 的圖像上的點。通過 V 的水平線與 y 軸相交於點 W 。以 C 表示通過 U 、 V 及 W 的圓。以 \\pi 表示 C 的圓周。",
+          "questionTextEn": "Let U(0, u) and V(3, v) be points lying on the graph of y = f(x) . The horizontal line passing through V cuts the y-axis at the point W . Denote the circle which passes through U , V and W by C . Express the circumference of C in terms of \\pi .",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 8,
+      "categoryZh": "多項式與有理根",
+      "categoryEn": "Polynomials and Rational Roots",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 g(x) = x^{3} + 2x^{2} - 5x + 3 。設 h(x) = 2x^{4} + ax^{3} - 8x^{2} + bx + c ，其中 a 、 b 及 c 為常數。當 h(x) 除以 g(x) 時，其商式與餘式相等。求當 h(x) 除以 g(x) 時的商式。",
+          "questionTextEn": "Define g(x) = x^{3} + 2x^{2} - 5x + 3 . Let h(x) = 2x^{4} + ax^{3} - 8x^{2} + bx + c , where a , b and c are constants. When h(x) is divided by g(x) , the quotient and the remainder are equal. Find the quotient when h(x) is divided by g(x) .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "方程 h(x) = 0 有多少個有理根？試解釋你的答案。",
+          "questionTextEn": "How many rational roots does the equation h(x) = 0 have? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 8,
+      "categoryZh": "立體圖形",
+      "categoryEn": "Mensuration",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某實心金屬正圓錐的底半徑及曲面面積分別為 12 \\text{ cm} 及 240\\pi \\text{ cm}^{2} 。求該圓錐的高。",
+          "questionTextEn": "The base radius and the curved surface area of a solid metal right circular cone are 12 \\text{ cm} and 240\\pi \\text{ cm}^{2} respectively. Find the height of the circular cone.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "該圓錐被一平行於其底面的平面分成一個正圓錐 X 及一個平截頭體 Y 。已知 Y 的曲面面積是 X 的曲面面積的 3 倍。以 \\pi 表示 Y 的體積。",
+          "questionTextEn": "The circular cone is divided into a right circular cone X and a frustum Y by a plane which is parallel to its base. The curved surface area of Y is 3 times the curved surface area of X . Express the volume of Y in terms of \\pi .",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "若 Y 被熔解並重鑄成一個底半徑為 4 \\text{ cm} 的實心正圓柱，求該圓柱的高。",
+          "questionTextEn": "If Y is melted and recast into a solid right circular cylinder of base radius 4 \\text{ cm} , find the height of the cylinder.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "概率",
+      "categoryEn": "Probability",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "盒中有 6 個綠球及 3 個黃球。現從該盒中同時隨機抽出 2 個球。求所抽出的 2 個球均為綠色的概率。",
+          "questionTextEn": "In a box, there are 6 green balls and 3 yellow balls. From the box, 2 balls are randomly chosen at the same time. Find the probability that the 2 balls chosen are green.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "袋中有 7 個綠球。現把從盒中抽出的 2 個球放入該袋，然後從該袋中同時隨機抽出 3 個球。求所抽出的 3 個球顏色相同的概率。",
+          "questionTextEn": "In a bag, there are 7 green balls. The 2 balls chosen from the box are put into the bag and then 3 balls are randomly chosen at the same time from the bag. Find the probability that the 3 balls chosen are of the same colour.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 10,
+      "categoryZh": "二次方程與圓",
+      "categoryEn": "Quadratic Equations and Circles",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 a 及 b 為實常數。若方程 x^{2} + ax + b = 0 的根為 q 及 3q ，證明 3a^{2} = 16b 。",
+          "questionTextEn": "Let a and b be real constants. If the roots of the equation x^{2} + ax + b = 0 are q and 3q , prove that 3a^{2} = 16b .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "以 C 表示圓 x^{2} + y^{2} - 6x - 2y + 6 = 0 。求常數 m ，使直線 y = mx 與 C 相交於點 Q 及 R ，其中 OQ : QR = 1 : 2 而 O 為原點。",
+          "questionTextEn": "Denote the circle x^{2} + y^{2} - 6x - 2y + 6 = 0 by C . Find the constant m such that the straight line y = mx cuts C at the points Q and R with OQ : QR = 1 : 2 , where O is the origin.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 11,
+      "categoryZh": "立體三角學",
+      "categoryEn": "Trigonometry in 3-D",
+      "figureSpecId": "FIG-Q17",
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知 ABC 為三角形，其中 AB = 7 \\text{ cm} 、 BC = 9 \\text{ cm} 及 \\angle BAC = 60^\\circ 。求 \\angle ACB 。",
+          "questionTextEn": "It is given that ABC is a triangle, where AB = 7 \\text{ cm} , BC = 9 \\text{ cm} and \\angle BAC = 60^\\circ . Find \\angle ACB .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "圖四所示為四面體 ABCP ，其中 PA = PB = PC 。該四面體的底面為 (a) 所述的三角形 ABC 。已知 PA 與三角形 ABC 之間的夾角為 40^\\circ 。三角形 ABC 與三角形 BCP 之間的夾角是否大於 55^\\circ ？試解釋你的答案。",
+          "questionTextEn": "Figure 4 shows the tetrahedron ABCP , where PA = PB = PC . The base of this tetrahedron is the triangle ABC described in (a). It is given that the angle between PA and the triangle ABC is 40^\\circ . Does the angle between the triangles ABC and BCP exceed 55^\\circ ? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 13,
+      "categoryZh": "等比數列與對數",
+      "categoryEn": "Geometric Sequences and Logarithms",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知 a 、 c 、 b 為等比數列，其中 1 < a < b 。以 \\log_{a} b 表示 \\log_{b} a 。",
+          "questionTextEn": "Suppose that a , c , b is a geometric sequence, where 1 < a < b . Express \\log_{b} a in terms of \\log_{a} b .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "若 \\log_{b} a 、 \\log_{c} b 、 \\log_{a} b 為等差數列，求該等差數列的公差。",
+          "questionTextEn": "If \\log_{b} a , \\log_{c} b , \\log_{a} b is an arithmetic sequence, find the common difference of the arithmetic sequence.",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 15,
+      "categoryZh": "坐標幾何",
+      "categoryEn": "Coordinate Geometry",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "點 A 及 B 的坐標分別為 (30, 0) 及 (3t, t) ，其中 t > 0 。以 O 表示原點。設 C 為一點，使 OB 為 \\triangle OAC 的一條中線。以 t 表示 C 的坐標。",
+          "questionTextEn": "The coordinates of the points A and B are (30, 0) and (3t, t) respectively, where t > 0 . Denote the origin by O . Let C be a point such that OB is a median of \\triangle OAC . Express the coordinates of C in terms of t .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 D 為 OA 上的一點，使 BD \\perp OA 。已知 \\angle ABD = 2\\angle AOB 。透過考慮 \\tan \\angle ABD ，證明 t = 8 。",
+          "questionTextEn": "Let D be a point lying on OA such that BD \\perp OA . It is given that \\angle ABD = 2\\angle AOB . By considering \\tan \\angle ABD , prove that t = 8 .",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求 \\triangle OAC 的外心 G 的坐標。",
+          "questionTextEn": "Find the coordinates of the circumcentre G of \\triangle OAC .",
+          "totalMarks": 3
+        },
+        {
+          "label": "d",
+          "questionTextZh": "O 、 G 及 B 是否共線？試解釋你的答案。",
+          "questionTextEn": "Are O , G and B collinear? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}
