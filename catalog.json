@@ -47,6 +47,28 @@
       "source": "pastpaper",
       "jsonPath": "set0/p2/questions.json",
       "imageBaseUrl": "set0/p2"
+    },
+    {
+      "id": "set2_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2023-04-01",
+      "timedExam": false,
+      "source": "generated",
+      "pdfUrl": "set2/p1/paper_{lang}.pdf",
+      "similarTo": "2023"
+    },
+    {
+      "id": "set2_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2023-04-01",
+      "timedExam": false,
+      "source": "generated",
+      "pdfUrl": "set2/p2/paper_{lang}.pdf",
+      "similarTo": "2023"
     }
   ]
 }
