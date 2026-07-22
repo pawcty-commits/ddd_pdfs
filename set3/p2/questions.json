@@ -1,0 +1,632 @@
+[
+  {
+    "questionNumber": 1,
+    "questionText": "因式分解 $m^{2} - n^{2} - m - n$ 。\nFactorize $m^{2} - n^{2} - m - n$ .",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$(m + n)(m - n + 1)$\n$(m + n)(m - n + 1)$",
+      "B": "$(m + n)(m - n - 1)$\n$(m + n)(m - n - 1)$",
+      "C": "$(m - n)(m + n - 1)$\n$(m - n)(m + n - 1)$",
+      "D": "$(m - n)(m + n + 1)$\n$(m - n)(m + n + 1)$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "因式分解/Factorization"
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "$4^{n+1} \\times 8^{n-1} =$\n$4^{n+1} \\times 8^{n-1} =$",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "$2^{5n+1}$\n$2^{5n+1}$",
+      "B": "$2^{5n-5}$\n$2^{5n-5}$",
+      "C": "$2^{6n-1}$\n$2^{6n-1}$",
+      "D": "$2^{5n-1}$\n$2^{5n-1}$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "指數律/Laws of Indices"
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "若 $m$ 及 $n$ 為常數，使 $(x + 4)^{2} + mx = (x - n)(x + 2) + 3n$ ，則 $m =$\nIf $m$ and $n$ are constants such that $(x + 4)^{2} + mx = (x - n)(x + 2) + 3n$ , then $m =$",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$-22$\n$-22$",
+      "B": "$-14$\n$-14$",
+      "C": "$10$\n$10$",
+      "D": "$16$\n$16$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "恆等式/Identities"
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "設 $c$ 為常數。解方程 $(x - c)(x - 5c) = (2c - x)(x - 5c)$ 。\nLet $c$ be a constant. Solve the equation $(x - c)(x - 5c) = (2c - x)(x - 5c)$ .",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$x = 5c$ 或 $x = \\dfrac{3c}{2}$\n$x = 5c$ or $x = \\dfrac{3c}{2}$",
+      "B": "$x = 5c$\n$x = 5c$",
+      "C": "$x = c$ 或 $x = 2c$\n$x = c$ or $x = 2c$",
+      "D": "$x = 5c$ 或 $x = \\dfrac{c}{2}$\n$x = 5c$ or $x = \\dfrac{c}{2}$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "解方程/Solving Equations"
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "若 $w = \\dfrac{3v + 2}{v - 4}$ ，則 $v =$\nIf $w = \\dfrac{3v + 2}{v - 4}$ , then $v =$",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$\\dfrac{4w - 2}{w - 3}$\n$\\dfrac{4w - 2}{w - 3}$",
+      "B": "$\\dfrac{4w + 2}{w + 3}$\n$\\dfrac{4w + 2}{w + 3}$",
+      "C": "$\\dfrac{4w + 2}{w - 3}$\n$\\dfrac{4w + 2}{w - 3}$",
+      "D": "$\\dfrac{2 - 4w}{w - 3}$\n$\\dfrac{2 - 4w}{w - 3}$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "公式變換/Change of Subject"
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "已知 $x$ 為實數。若 $x$ 被向下捨入至三位有效數字，其結果為 $728$ 。求 $x$ 的取值範圍。\nIt is given that $x$ is a real number. If $x$ is rounded down to 3 significant figures, then the result is $728$ . Find the range of values of $x$ .",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$727 < x \\le 728$\n$727 < x \\le 728$",
+      "B": "$728 \\le x < 729$\n$728 \\le x < 729$",
+      "C": "$727.5 \\le x < 728.5$\n$727.5 \\le x < 728.5$",
+      "D": "$728 < x \\le 729$\n$728 < x \\le 729$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "有效數字/Significant Figures"
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "$4y - 7 < 6y + 3 \\le 15$ 的解為\nThe solution of $4y - 7 < 6y + 3 \\le 15$ is",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "$-5 \\le y < 2$\n$-5 \\le y < 2$",
+      "B": "$-2 < y \\le 5$\n$-2 < y \\le 5$",
+      "C": "$-5 < y \\le 2$\n$-5 < y \\le 2$",
+      "D": "$-2 \\le y < 5$\n$-2 \\le y < 5$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "不等式/Inequalities"
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "設 $f(x) = x^{2} - 3x$ 。若 $k$ 為常數，下列何者必為正確？\nLet $f(x) = x^{2} - 3x$ . If $k$ is a constant, which of the following must be true?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$f(3 - k) = f(k)$\n$f(3 - k) = f(k)$",
+      "B": "$f(-k) = f(k)$\n$f(-k) = f(k)$",
+      "C": "$f(k + 1) = f(k) + 1$\n$f(k + 1) = f(k) + 1$",
+      "D": "$f(2k) = 2f(k)$\n$f(2k) = 2f(k)$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "函數/Functions"
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "設 $g(x) = x^{3} + ax^{2} + b$ ，其中 $a$ 及 $b$ 為常數。若 $g(x)$ 可被 $x + 2a$ 整除，求當 $g(x)$ 除以 $x - 2a$ 時的餘式。\nLet $g(x) = x^{3} + ax^{2} + b$ , where $a$ and $b$ are constants. If $g(x)$ is divisible by $x + 2a$ , find the remainder when $g(x)$ is divided by $x - 2a$ .",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "$8a^{3}$\n$8a^{3}$",
+      "B": "$-8a^{3}$\n$-8a^{3}$",
+      "C": "$16a^{3}$\n$16a^{3}$",
+      "D": "$0$\n$0$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "餘式定理/Remainder Theorem"
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "設 $h$ 及 $k$ 為實常數，其中 $h > 0 > k$ 。下列關於 $y = (x - h)(x - k)$ 的圖像的敘述，何者為正確？\n\nI. 該圖像的開口向上。\n\nII. 該圖像有兩個 $x$ 軸截距。\n\nIII. 該圖像的 $y$ 軸截距為正數。\n\n下列何者為正確？\nLet $h$ and $k$ be real constants such that $h > 0 > k$ . Which of the following statements about the graph of $y = (x - h)(x - k)$ are true?\n\nI. The graph opens upwards.\n\nII. The graph has two $x$-intercepts.\n\nIII. The $y$-intercept of the graph is positive.\n\nWhich of the above is/are true?",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "二次函數圖像/Graphs of Quadratic Functions"
+  },
+  {
+    "questionNumber": 11,
+    "questionText": "現存入 $\\$60000$ ，年利率為 $9%$ ，為期 $3$ 年，每月複利計算。求利息（準確至最接近的元）。\nA sum of $\\$60000$ is deposited at an interest rate of $9%$ per annum for $3$ years, compounded monthly. Find the interest correct to the nearest dollar.",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "$\\$16200$\n$\\$16200$",
+      "B": "$\\$17629$\n$\\$17629$",
+      "C": "$\\$18519$\n$\\$18519$",
+      "D": "$\\$18620$\n$\\$18620$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "複利/Compound Interest"
+  },
+  {
+    "questionNumber": 12,
+    "questionText": "設 $x$ 、 $y$ 及 $z$ 為非零數。若 $x : y = 7 : 4$ 及 $3x = 2z - 5y$ ，則 $y : z =$\nLet $x$ , $y$ and $z$ be non-zero numbers. If $x : y = 7 : 4$ and $3x = 2z - 5y$ , then $y : z =$",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "$41 : 8$\n$41 : 8$",
+      "B": "$4 : 41$\n$4 : 41$",
+      "C": "$8 : 21$\n$8 : 21$",
+      "D": "$8 : 41$\n$8 : 41$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "比與比例/Ratio and Proportion"
+  },
+  {
+    "questionNumber": 13,
+    "questionText": "若 $u$ 隨 $v$ 的立方而正變，且隨 $w$ 的平方根而反變，下列何者為正確？\n\nI. $u^{2}$ 隨 $v^{6}$ 而正變，且隨 $w$ 而反變。\n\nII. $v^{3}$ 隨 $u$ 而正變，且隨 $w$ 的平方根而正變。\n\nIII. $w$ 隨 $v^{3}$ 而正變，且隨 $u$ 而反變。\n\n下列何者為正確？\nIf $u$ varies directly as the cube of $v$ and inversely as the square root of $w$ , which of the following are true?\n\nI. $u^{2}$ varies directly as $v^{6}$ and inversely as $w$ .\n\nII. $v^{3}$ varies directly as $u$ and directly as the square root of $w$ .\n\nIII. $w$ varies directly as $v^{3}$ and inversely as $u$ .\n\nWhich of the above is/are true?",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "變分/Variation"
+  },
+  {
+    "questionNumber": 14,
+    "questionText": "在圖中，第 $1$ 個圖案由 $5$ 個圓點組成。對任何正整數 $n$ ，第 $(n+1)$ 個圖案由第 $n$ 個圖案加上 $(3n + 2)$ 個圓點而成。求第 $8$ 個圖案中圓點的數目。\nIn the figure, the 1st pattern consists of $5$ dots. For any positive integer $n$ , the $(n+1)$th pattern is formed by adding $(3n + 2)$ dots to the nth pattern. Find the number of dots in the 8th pattern.",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "$117$\n$117$",
+      "B": "$89$\n$89$",
+      "C": "$103$\n$103$",
+      "D": "$131$\n$131$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "數列規律/Patterns and Sequences"
+  },
+  {
+    "questionNumber": 15,
+    "questionText": "某實心半球的半徑與某實心正圓柱的底半徑相等。若該圓柱的高等於其底半徑，則該半球的總表面面積與該圓柱的總表面面積之比為\nThe radius of a solid hemisphere and the base radius of a solid right circular cylinder are equal. If the height of the circular cylinder is equal to its base radius, then the ratio of the total surface area of the hemisphere to the total surface area of the circular cylinder is",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "$3 : 4$\n$3 : 4$",
+      "B": "$1 : 2$\n$1 : 2$",
+      "C": "$2 : 3$\n$2 : 3$",
+      "D": "$3 : 8$\n$3 : 8$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "立體圖形/Mensuration"
+  },
+  {
+    "questionNumber": 16,
+    "questionText": "某圓的直徑為 $26 \\text{ cm}$ 。該圓被一條長 $24 \\text{ cm}$ 的弦分成一個大弓形及一個小弓形。求該大弓形的面積（準確至最接近的 $\\text{cm}^{2}$ ）。\nThe diameter of a circle is $26 \\text{ cm}$ . The circle is divided into a major segment and a minor segment by a chord of length $24 \\text{ cm}$ . Find the area of the major segment correct to the nearest $\\text{cm}^{2}$ .",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$139 \\text{ cm}^{2}$\n$139 \\text{ cm}^{2}$",
+      "B": "$392 \\text{ cm}^{2}$\n$392 \\text{ cm}^{2}$",
+      "C": "$451 \\text{ cm}^{2}$\n$451 \\text{ cm}^{2}$",
+      "D": "$265 \\text{ cm}^{2}$\n$265 \\text{ cm}^{2}$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "圓的面積/Areas of Circles"
+  },
+  {
+    "questionNumber": 17,
+    "questionText": "在圖中， $D$ 及 $E$ 分別為 $AB$ 及 $BC$ 上的點，其中 $AD : DB = 3 : 5$ 及 $BE : EC = 2 : 7$ 。若四邊形 $ADEC$ 的面積為 $124 \\text{ cm}^{2}$ ，則 $\\triangle DBE$ 的面積為\nIn the figure, $D$ and $E$ are points lying on $AB$ and $BC$ respectively such that $AD : DB = 3 : 5$ and $BE : EC = 2 : 7$ . If the area of the quadrilateral $ADEC$ is $124 \\text{ cm}^{2}$ , then the area of $\\triangle DBE$ is",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "$24 \\text{ cm}^{2}$\n$24 \\text{ cm}^{2}$",
+      "B": "$20 \\text{ cm}^{2}$\n$20 \\text{ cm}^{2}$",
+      "C": "$31 \\text{ cm}^{2}$\n$31 \\text{ cm}^{2}$",
+      "D": "$36 \\text{ cm}^{2}$\n$36 \\text{ cm}^{2}$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "面積比/Ratios of Areas"
+  },
+  {
+    "questionNumber": 18,
+    "questionText": "在圖中，矩形 $ABCD$ 的周界為 $156 \\text{ cm}$ 。已知 $EBF$ 為直線及 $\\angle AEB = \\angle BFC = 90^\\circ$ 。若 $AE = 20 \\text{ cm}$ 及 $BC = 26 \\text{ cm}$ ，則 $EF =$\nIn the figure, the perimeter of the rectangle $ABCD$ is $156 \\text{ cm}$ . It is given that $EBF$ is a straight line and $\\angle AEB = \\angle BFC = 90^\\circ$ . If $AE = 20 \\text{ cm}$ and $BC = 26 \\text{ cm}$ , then $EF =$",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "$58 \\text{ cm}$\n$58 \\text{ cm}$",
+      "B": "$48 \\text{ cm}$\n$48 \\text{ cm}$",
+      "C": "$72 \\text{ cm}$\n$72 \\text{ cm}$",
+      "D": "$62 \\text{ cm}$\n$62 \\text{ cm}$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "直角三角形/Right-angled Triangles"
+  },
+  {
+    "questionNumber": 19,
+    "questionText": "在圖中， $ABC$ 為等邊三角形。設 $D$ 及 $E$ 分別為 $AC$ 及 $BC$ 上的點，使 $AD = CE$ 。若 $\\angle CBD = 25^\\circ$ ，則 $\\angle AEB =$\nIn the figure, $ABC$ is an equilateral triangle. Let $D$ and $E$ be points lying on $AC$ and $BC$ respectively such that $AD = CE$ . If $\\angle CBD = 25^\\circ$ , then $\\angle AEB =$",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "$85^\\circ$\n$85^\\circ$",
+      "B": "$95^\\circ$\n$95^\\circ$",
+      "C": "$120^\\circ$\n$120^\\circ$",
+      "D": "$60^\\circ$\n$60^\\circ$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "等邊三角形/Equilateral Triangles"
+  },
+  {
+    "questionNumber": 20,
+    "questionText": "圖中所示為一個平行四邊形，其四隻內角依次為 $a$ 、 $b$ 、 $c$ 及 $d$ 。下列何者必為正確？\n\nI. $a + b = 180^\\circ$\n\nII. $a + c = 180^\\circ$\n\nIII. $a + b + c + d = 360^\\circ$\n\n下列何者為正確？\nThe figure shows a parallelogram whose interior angles are $a$ , $b$ , $c$ and $d$ in order. Which of the following must be true?\n\nI. $a + b = 180^\\circ$\n\nII. $a + c = 180^\\circ$\n\nIII. $a + b + c + d = 360^\\circ$\n\nWhich of the above is/are true?",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "平行四邊形/Parallelograms"
+  },
+  {
+    "questionNumber": 21,
+    "questionText": "在圖中， $O$ 為圓 $ABC$ 的圓心。若 $\\angle ABO = 28^\\circ$ 及 $\\angle BOC = 150^\\circ$ ，則 $\\angle ACO =$\nIn the figure, $O$ is the centre of the circle $ABC$ . If $\\angle ABO = 28^\\circ$ and $\\angle BOC = 150^\\circ$ , then $\\angle ACO =$",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "$43^\\circ$\n$43^\\circ$",
+      "B": "$62^\\circ$\n$62^\\circ$",
+      "C": "$47^\\circ$\n$47^\\circ$",
+      "D": "$28^\\circ$\n$28^\\circ$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "圓的性質/Properties of Circles"
+  },
+  {
+    "questionNumber": 22,
+    "questionText": "在圖中， $ABC$ 為直角三角形，其中 $\\angle ABC = 90^\\circ$ 。設 $D$ 及 $E$ 分別為 $AC$ 及 $BC$ 上的點，使 $ABED$ 為圓內接四邊形。若 $AB = 300 \\text{ cm}$ 、 $AD = 360 \\text{ cm}$ 及 $BE = 225 \\text{ cm}$ ，則 $CD =$\nIn the figure, $ABC$ is a right-angled triangle with $\\angle ABC = 90^\\circ$ . Let $D$ and $E$ be points lying on $AC$ and $BC$ respectively such that $ABED$ is a cyclic quadrilateral. If $AB = 300 \\text{ cm}$ , $AD = 360 \\text{ cm}$ and $BE = 225 \\text{ cm}$ , then $CD =$",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "$175 \\text{ cm}$\n$175 \\text{ cm}$",
+      "B": "$105 \\text{ cm}$\n$105 \\text{ cm}$",
+      "C": "$240 \\text{ cm}$\n$240 \\text{ cm}$",
+      "D": "$140 \\text{ cm}$\n$140 \\text{ cm}$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "圓內接四邊形/Cyclic Quadrilaterals"
+  },
+  {
+    "questionNumber": 23,
+    "questionText": "已知 $ABCD$ 為菱形。設 $E$ 為 $AC$ 與 $BD$ 的交點。若 $\\angle BAC = \\phi$ ，則 $\\dfrac{AC}{BD} =$\nIt is given that $ABCD$ is a rhombus. Let $E$ be the point of intersection of $AC$ and $BD$ . If $\\angle BAC = \\phi$ , then $\\dfrac{AC}{BD} =$",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "$\\tan \\phi$\n$\\tan \\phi$",
+      "B": "$\\dfrac{1}{\\tan \\phi}$\n$\\dfrac{1}{\\tan \\phi}$",
+      "C": "$\\dfrac{1}{\\sin \\phi}$\n$\\dfrac{1}{\\sin \\phi}$",
+      "D": "$\\cos \\phi$\n$\\cos \\phi$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "三角比/Trigonometric Ratios"
+  },
+  {
+    "questionNumber": 24,
+    "questionText": "圖中所示為直線 $mx + ny = 6$ 的圖像。下列何者為正確？\n\nI. $m > 0$\n\nII. $n > 0$\n\nIII. $mn < 0$\n\n下列何者為正確？\nThe figure shows the graph of the straight line $mx + ny = 6$ . Which of the following are true?\n\nI. $m > 0$\n\nII. $n > 0$\n\nIII. $mn < 0$\n\nWhich of the above is/are true?",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "直線的圖像/Graphs of Straight Lines"
+  },
+  {
+    "questionNumber": 25,
+    "questionText": "點 $R$ 的直角坐標為 $(-3, 3\\sqrt{3})$ 。若 $R$ 繞原點逆時針方向旋轉 $150^\\circ$ ，則其影像的極坐標為\nThe rectangular coordinates of the point $R$ are $(-3, 3\\sqrt{3})$ . If $R$ is rotated anticlockwise about the origin through $150^\\circ$ , then the polar coordinates of its image are",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "$(6 , 30^\\circ)$\n$(6 , 30^\\circ)$",
+      "B": "$(3 , 270^\\circ)$\n$(3 , 270^\\circ)$",
+      "C": "$(6 , 270^\\circ)$\n$(6 , 270^\\circ)$",
+      "D": "$(6 , 120^\\circ)$\n$(6 , 120^\\circ)$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "極坐標/Polar Coordinates"
+  },
+  {
+    "questionNumber": 26,
+    "questionText": "直線 $8x - 15y = 120$ 與 $x$ 軸及 $y$ 軸分別相交於點 $A$ 及點 $B$ 。設 $P$ 為直角坐標平面上的一個動點，使 $AP = BP$ 。求 $P$ 的軌跡的方程。\nThe straight line $8x - 15y = 120$ cuts the $x$-axis and the $y$-axis at the points $A$ and $B$ respectively. Let $P$ be a moving point in the rectangular coordinate plane such that $AP = BP$ . Find the equation of the locus of $P$ .",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "$16x + 30y - 161 = 0$\n$16x + 30y - 161 = 0$",
+      "B": "$30x + 16y - 161 = 0$\n$30x + 16y - 161 = 0$",
+      "C": "$x^{2} + y^{2} - 15x + 8y = 0$\n$x^{2} + y^{2} - 15x + 8y = 0$",
+      "D": "$30x - 16y - 161 = 0$\n$30x - 16y - 161 = 0$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "軌跡/Locus"
+  },
+  {
+    "questionNumber": 27,
+    "questionText": "點 $P$ 及 $Q$ 的坐標分別為 $(12, 16)$ 及 $(8, -6)$ 。設 $C$ 為通過原點、 $P$ 及 $Q$ 的圓。下列何者為正確？\nThe coordinates of the points $P$ and $Q$ are $(12, 16)$ and $(8, -6)$ respectively. Let $C$ be the circle which passes through the origin, $P$ and $Q$ . Which of the following is true?",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "$PQ$ 為 $C$ 的直徑。\n$PQ$ is a diameter of $C$ .",
+      "B": "$C$ 的面積為 $500\\pi$ 。\nThe area of $C$ is $500\\pi$ .",
+      "C": "點 $(20, 12)$ 位於 $C$ 之內。\nThe point $(20, 12)$ lies inside $C$ .",
+      "D": "$C$ 的圓心位於直線 $x + 2y = 0$ 上。\nThe centre of $C$ lies on the straight line $x + 2y = 0$ ."
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "圓的方程/Equations of Circles"
+  },
+  {
+    "questionNumber": 28,
+    "questionText": "$3a7$ 為一個三位數，其中 $a$ 為 $0$ 至 $9$ （包括 $0$ 及 $9$ ）的整數。求該三位數可被 $3$ 整除的概率。\n$3a7$ is a 3-digit number, where $a$ is an integer from $0$ to $9$ inclusive. Find the probability that the 3-digit number is divisible by $3$ .",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "$\\dfrac{2}{5}$\n$\\dfrac{2}{5}$",
+      "B": "$\\dfrac{1}{5}$\n$\\dfrac{1}{5}$",
+      "C": "$\\dfrac{1}{3}$\n$\\dfrac{1}{3}$",
+      "D": "$\\dfrac{3}{10}$\n$\\dfrac{3}{10}$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "概率/Probability"
+  },
+  {
+    "questionNumber": 29,
+    "questionText": "$45$ 名男生及 $30$ 名女生的平均體重為 $52 \\text{ kg}$ 。若該些男生的平均體重為 $58 \\text{ kg}$ ，則該些女生的平均體重為\nThe mean weight of $45$ boys and $30$ girls is $52 \\text{ kg}$ . If the mean weight of the boys is $58 \\text{ kg}$ , then the mean weight of the girls is",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "$43 \\text{ kg}$\n$43 \\text{ kg}$",
+      "B": "$46 \\text{ kg}$\n$46 \\text{ kg}$",
+      "C": "$40 \\text{ kg}$\n$40 \\text{ kg}$",
+      "D": "$49 \\text{ kg}$\n$49 \\text{ kg}$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "平均數/Mean"
+  },
+  {
+    "questionNumber": 30,
+    "questionText": "考慮以下的正整數： $4$ ， $5$ ， $8$ ， $8$ ， $x$ ， $x$ ， $x$ ， $y$ 。若上述正整數的平均數及中位數皆為 $8$ ，下列何者必為正確？\n\nI. 上述正整數的眾數為 $8$ 。\n\nII. 上述正整數的最小可能分佈域為 $7$ 。\n\nIII. 上述正整數的最大可能分佈域為 $11$ 。\n\n下列何者為正確？\nConsider the following positive integers: $4$ , $5$ , $8$ , $8$ , $x$ , $x$ , $x$ , $y$ . If both the mean and the median of the above positive integers are $8$ , which of the following must be true?\n\nI. The mode of the above positive integers is $8$ .\n\nII. The least possible range of the above positive integers is $7$ .\n\nIII. The greatest possible range of the above positive integers is $11$ .\n\nWhich of the above is/are true?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "統計量/Statistical Measures"
+  },
+  {
+    "questionNumber": 31,
+    "questionText": "下列何者為最小？\nWhich of the following is the least?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "$349^{-5}$\n$349^{-5}$",
+      "B": "$512^{-654}$\n$512^{-654}$",
+      "C": "$(-278)^{5}$\n$(-278)^{5}$",
+      "D": "$289^{-321}$\n$289^{-321}$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionB",
+    "category": "數的大小/Comparison of Numbers"
+  },
+  {
+    "questionNumber": 32,
+    "questionText": "已知 $\\log_{a} y$ 是 $x$ 的線性函數，其中 $0 < a < 1$ 。該線性函數的圖像在縱軸及橫軸上的截距分別為 $8$ 及 $-4$ 。若 $y = m n^{x}$ ，下列何者為正確？\n\nI. $m < 1$\n\nII. $n > 1$\n\nIII. $m = n^{4}$\n\n下列何者為正確？\nIt is given that $\\log_{a} y$ is a linear function of $x$ , where $0 < a < 1$ . The intercepts on the vertical axis and on the horizontal axis of the graph of the linear function are $8$ and $-4$ respectively. If $y = m n^{x}$ , which of the following are true?\n\nI. $m < 1$\n\nII. $n > 1$\n\nIII. $m = n^{4}$\n\nWhich of the above is/are true?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "對數/Logarithms"
+  },
+  {
+    "questionNumber": 33,
+    "questionText": "若 $\\log y = 3x + 2$ 及 $(\\log y)^{2} = 24x + 1$ ，則 $\\log y =$\nIf $\\log y = 3x + 2$ and $(\\log y)^{2} = 24x + 1$ , then $\\log y =$",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "$1$ 或 $7$\n$1$ or $7$",
+      "B": "$3$ 或 $5$\n$3$ or $5$",
+      "C": "$2$ 或 $6$\n$2$ or $6$",
+      "D": "$-3$ 或 $-5$\n$-3$ or $-5$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "對數方程/Logarithmic Equations"
+  },
+  {
+    "questionNumber": 34,
+    "questionText": "$2B000C_{16} =$\n$2B000C_{16} =$",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "$2 \\times 4^{5} + 11 \\times 4^{4} + 12$\n$2 \\times 4^{5} + 11 \\times 4^{4} + 12$",
+      "B": "$2 \\times 4^{10} + 11 \\times 4^{8} + 3$\n$2 \\times 4^{10} + 11 \\times 4^{8} + 3$",
+      "C": "$2 \\times 4^{10} + 11 \\times 4^{8} + 12$\n$2 \\times 4^{10} + 11 \\times 4^{8} + 12$",
+      "D": "$2 \\times 4^{12} + 11 \\times 4^{10} + 12$\n$2 \\times 4^{12} + 11 \\times 4^{10} + 12$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionB",
+    "category": "數的進制/Number Systems"
+  },
+  {
+    "questionNumber": 35,
+    "questionText": "設 $z = 7 + 3i^{18} + 5i^{23} + 2k i^{33}$ ，其中 $k$ 為實數。若 $z$ 的實部與虛部相等，則 $z$ 的實部為\nLet $z = 7 + 3i^{18} + 5i^{23} + 2k i^{33}$ , where $k$ is a real number. If the real part and the imaginary part of $z$ are equal, then the real part of $z$ is",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "$10$\n$10$",
+      "B": "$4$\n$4$",
+      "C": "$7$\n$7$",
+      "D": "$-3$\n$-3$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "複數/Complex Numbers"
+  },
+  {
+    "questionNumber": 36,
+    "questionText": "考慮以下的不等式組： $x \\ge 0$ ， $y \\ge 0$ ， $3x + 2y \\ge 24$ ， $x + 2y \\ge 16$ 。設 $R$ 為表示上述不等式組的解的區域。若 $(x, y)$ 為 $R$ 內的一點，則 $5x + 4y$ 的最小值為\nConsider the following system of inequalities: $x \\ge 0$ , $y \\ge 0$ , $3x + 2y \\ge 24$ , $x + 2y \\ge 16$ . Let $R$ be the region which represents the solution of the above system of inequalities. If $(x, y)$ is a point lying in $R$ , then the least value of $5x + 4y$ is",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "$44$\n$44$",
+      "B": "$48$\n$48$",
+      "C": "$40$\n$40$",
+      "D": "$80$\n$80$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "線性規劃/Linear Programming"
+  },
+  {
+    "questionNumber": 37,
+    "questionText": "設 $a_{n}$ 為某等比數列的第 $n$ 項。已知 $a_{3} = 18$ 及 $a_{6} = 486$ 。求最小的 $n$ 值，使 $a_{1} + a_{2} + \\cdots + a_{n} > 10^{5}$ 。\nLet $a_{n}$ be the $n$th term of a geometric sequence. It is given that $a_{3} = 18$ and $a_{6} = 486$ . Find the least value of $n$ such that $a_{1} + a_{2} + \\cdots + a_{n} > 10^{5}$ .",
+    "imageUrl": "q37.png",
+    "options": {
+      "A": "$10$\n$10$",
+      "B": "$12$\n$12$",
+      "C": "$11$\n$11$",
+      "D": "$13$\n$13$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionB",
+    "category": "等比數列/Geometric Sequences"
+  },
+  {
+    "questionNumber": 38,
+    "questionText": "在圖中， $ABCD$ 為一個圓。 $PA$ 及 $QB$ 分別為該圓在 $A$ 及 $B$ 的切線。若 $\\angle ADC = 84^\\circ$ 、 $\\angle CBQ = 35^\\circ$ 及 $\\angle DAP = 47^\\circ$ ，則 $\\angle BCD =$\nIn the figure, $ABCD$ is a circle. $PA$ and $QB$ are the tangents to the circle at $A$ and $B$ respectively. If $\\angle ADC = 84^\\circ$ , $\\angle CBQ = 35^\\circ$ and $\\angle DAP = 47^\\circ$ , then $\\angle BCD =$",
+    "imageUrl": "q38.png",
+    "options": {
+      "A": "$84^\\circ$\n$84^\\circ$",
+      "B": "$96^\\circ$\n$96^\\circ$",
+      "C": "$82^\\circ$\n$82^\\circ$",
+      "D": "$104^\\circ$\n$104^\\circ$"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "圓與切線/Circles and Tangents"
+  },
+  {
+    "questionNumber": 39,
+    "questionText": "當 $0^\\circ < x < 360^\\circ$ 時，方程 $2\\cos^{2} x + \\cos x - 1 = 0$ 有多少個根？\nFor $0^\\circ < x < 360^\\circ$ , how many roots does the equation $2\\cos^{2} x + \\cos x - 1 = 0$ have?",
+    "imageUrl": "q39.png",
+    "options": {
+      "A": "$3$\n$3$",
+      "B": "$2$\n$2$",
+      "C": "$4$\n$4$",
+      "D": "$5$\n$5$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "三角方程/Trigonometric Equations"
+  },
+  {
+    "questionNumber": 40,
+    "questionText": "在圖中， $ABCDEFGH$ 為正方體。設 $\\alpha$ 為 $AF$ 與平面 $ABCD$ 之間的夾角，而 $\\beta$ 為 $AG$ 與平面 $ABCD$ 之間的夾角。下列何者為正確？\nIn the figure, $ABCDEFGH$ is a cube. Let $\\alpha$ be the angle between $AF$ and the plane $ABCD$ while $\\beta$ be the angle between $AG$ and the plane $ABCD$ . Which of the following is true?",
+    "imageUrl": "q40.png",
+    "options": {
+      "A": "$\\alpha < 40^\\circ < \\beta$\n$\\alpha < 40^\\circ < \\beta$",
+      "B": "$40^\\circ < \\beta < \\alpha$\n$40^\\circ < \\beta < \\alpha$",
+      "C": "$\\beta < \\alpha < 40^\\circ$\n$\\beta < \\alpha < 40^\\circ$",
+      "D": "$\\beta < 40^\\circ < \\alpha$\n$\\beta < 40^\\circ < \\alpha$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "立體圖形的角/Angles in 3-D Figures"
+  },
+  {
+    "questionNumber": 41,
+    "questionText": "設 $O$ 為原點。點 $A$ 及 $B$ 的坐標分別為 $(a, 0)$ 及 $(0, b)$ ，其中 $a$ 及 $b$ 為正數。若 $\\triangle OAB$ 的外心位於直線 $6x + 10y = 13b$ 上，則 $a : b =$\nLet $O$ be the origin. The coordinates of the points $A$ and $B$ are $(a, 0)$ and $(0, b)$ respectively, where $a$ and $b$ are positive numbers. If the circumcentre of $\\triangle OAB$ lies on the straight line $6x + 10y = 13b$ , then $a : b =$",
+    "imageUrl": "q41.png",
+    "options": {
+      "A": "$3 : 8$\n$3 : 8$",
+      "B": "$8 : 13$\n$8 : 13$",
+      "C": "$13 : 8$\n$13 : 8$",
+      "D": "$8 : 3$\n$8 : 3$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "外心/Circumcentre"
+  },
+  {
+    "questionNumber": 42,
+    "questionText": "若一個七字元密碼的首三個字母及最後四個數字分別由 $A$ 、 $B$ 、 $C$ 的一個排列及 $2$ 、 $4$ 、 $6$ 、 $8$ 的一個排列組成，則可組成多少個不同的七字元密碼？\nIf the first three letters and the last four digits of a seven-character password are formed by a permutation of $A$ , $B$ , $C$ and a permutation of $2$ , $4$ , $6$ , $8$ respectively, how many different seven-character passwords can be formed?",
+    "imageUrl": "q42.png",
+    "options": {
+      "A": "$5040$\n$5040$",
+      "B": "$24$\n$24$",
+      "C": "$144$\n$144$",
+      "D": "$10$\n$10$"
+    },
+    "correctAnswer": "C",
+    "section": "sectionB",
+    "category": "排列與組合/Permutations and Combinations"
+  },
+  {
+    "questionNumber": 43,
+    "questionText": "盒中有 $3$ 個白球、 $1$ 個黃球及 $4$ 個紅球。一名男孩及一名女孩輪流從該盒中隨機抽出一個球（有放回），直至其中一人抽出白球或黃球為止。男孩先抽。求該女孩抽出白球的概率。\nA box contains $3$ white balls, $1$ yellow ball and $4$ red balls. A boy and a girl take turns to draw one ball randomly from the box with replacement until one of them draws a white ball or a yellow ball. The boy draws a ball first. Find the probability that the girl draws a white ball.",
+    "imageUrl": "q43.png",
+    "options": {
+      "A": "$\\dfrac{1}{4}$\n$\\dfrac{1}{4}$",
+      "B": "$\\dfrac{3}{8}$\n$\\dfrac{3}{8}$",
+      "C": "$\\dfrac{3}{16}$\n$\\dfrac{3}{16}$",
+      "D": "$\\dfrac{1}{2}$\n$\\dfrac{1}{2}$"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "概率/Probability"
+  },
+  {
+    "questionNumber": 44,
+    "questionText": "在某測驗中，某班學生的測驗分數的中位數為 $40$ 分。全班學生均不及格，故每名學生的測驗分數被調整為原分數增加 $25%$ 後再加上額外 $6$ 分。設調整後該班學生的測驗分數的中位數為 $x$ 分。在該測驗中，某學生調整前的標準分為 $-1.5$ 。以 $z$ 表示該學生調整後的標準分。求 $x$ 及 $z$ 。\nIn a test, the median of the test scores of a class of students is $40$ marks. All the students fail in the test, so the test score of each student is adjusted such that each score is increased by $25%$ and then extra $6$ marks are added. Let $x$ marks be the median of the test scores of the class after the score adjustment. In the test, the standard score of a student before the score adjustment is $-1.5$ . Denote the standard score of this student after the score adjustment by $z$ . Find $x$ and $z$ .",
+    "imageUrl": "q44.png",
+    "options": {
+      "A": "$x = 56$ 及 $z = -1.875$\n$x = 56$ and $z = -1.875$",
+      "B": "$x = 50$ 及 $z = -1.5$\n$x = 50$ and $z = -1.5$",
+      "C": "$x = 46$ 及 $z = -1.875$\n$x = 46$ and $z = -1.875$",
+      "D": "$x = 56$ 及 $z = -1.5$\n$x = 56$ and $z = -1.5$"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "標準分/Standard Scores"
+  },
+  {
+    "questionNumber": 45,
+    "questionText": "已知 $e$ 為實數。設 $S_{1}$ 為數組 $\\{e-8 , e-3 , e-1 , e+2 , e+4 , e+6\\}$ ，而 $S_{2}$ 為另一數組 $\\{e-10 , e-3 , e+1 , e+2 , e+4 , e+6\\}$ 。下列何者為正確？\n\nI. $S_{1}$ 與 $S_{2}$ 的平均數相等。\n\nII. $S_{1}$ 與 $S_{2}$ 的標準差相等。\n\nIII. $S_{1}$ 與 $S_{2}$ 的四分位數間距相等。\n\n下列何者為正確？\nIt is given that $e$ is a real number. Let $S_{1}$ be the group of numbers $\\{e-8 , e-3 , e-1 , e+2 , e+4 , e+6\\}$ and $S_{2}$ be another group of numbers $\\{e-10 , e-3 , e+1 , e+2 , e+4 , e+6\\}$ . Which of the following are true?\n\nI. The means of $S_{1}$ and $S_{2}$ are equal.\n\nII. The standard deviations of $S_{1}$ and $S_{2}$ are equal.\n\nIII. The inter-quartile ranges of $S_{1}$ and $S_{2}$ are equal.\n\nWhich of the above is/are true?",
+    "imageUrl": "q45.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "I 、 II 及 III\nI, II and III"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "統計量/Statistical Measures"
+  }
+]

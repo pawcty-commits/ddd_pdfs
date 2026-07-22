@@ -1,0 +1,498 @@
+{
+  "paperTitle": "Original Paper (2022 Style & Difficulty) — Paper 1",
+  "paperTitleZh": "風格與難度跟 2022 原創卷 — 試卷一",
+  "year": 2026,
+  "similarTo": "2022",
+  "durationMinutes": 135,
+  "totalMarks": 105,
+  "mathDelimiter": "$...$ (inline TeX)",
+  "instructionsZh": "本試卷分為三部分：甲部(1)、甲部(2) 及 乙部。所有答案須詳列步驟。除特別指明外，數值答案須為準確值或準確至三位有效數字。本試卷的圖形不一定依比例繪畫。",
+  "instructionsEn": "This paper consists of THREE sections, A(1), A(2) and B. Unless otherwise specified, all working must be clearly shown. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures. The diagrams in this paper are not necessarily drawn to scale.",
+  "sections": [
+    {
+      "id": "sectionA1",
+      "titleZh": "甲部(1)",
+      "titleEn": "Section A(1)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionA2",
+      "titleZh": "甲部(2)",
+      "titleEn": "Section A(2)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionB",
+      "titleZh": "乙部",
+      "titleEn": "Section B",
+      "marks": 35,
+      "deductionCapUpp": 0
+    }
+  ],
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "化簡 $\\dfrac{(x^{3} y^{-2})^{-2}}{(x^{-1} y)^{3}}$ ，並以正指數表示答案。",
+          "questionTextEn": "Simplify $\\dfrac{(x^{3} y^{-2})^{-2}}{(x^{-1} y)^{3}}$ and express your answer with positive indices.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "一次方程",
+      "categoryEn": "Linear Equations",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $x$ 及 $y$ 為兩個數。 $x$ 與 $y$ 之差為 $96$ ，而 $5$ 與 $y$ 的積為 $x$ 。求 $y$ 。",
+          "questionTextEn": "Let $x$ and $y$ be two numbers. The difference between $x$ and $y$ is $96$ while the product of $5$ and $y$ is $x$ . Find $y$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "代數分式",
+      "categoryEn": "Algebraic Fractions",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "化簡 $\\dfrac{2}{x - 3} + \\dfrac{5}{2x - 6}$ 。",
+          "questionTextEn": "Simplify $\\dfrac{2}{x - 3} + \\dfrac{5}{2x - 6}$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "因式分解",
+      "categoryEn": "Factorization",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "因式分解 $4m^{2} - 12m + 9$ 。",
+          "questionTextEn": "Factorize $4m^{2} - 12m + 9$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "因式分解 $4m^{2} - 12m + 9 - 25n^{2}$ 。",
+          "questionTextEn": "Factorize $4m^{2} - 12m + 9 - 25n^{2}$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一盞燈以其標價的 $25%$ 折扣售出。售出該燈後，利潤為 $\\$160$ ，而利潤百分率為 $20%$ 。求該燈的標價。",
+          "questionTextEn": "A lamp is sold at a discount of $25%$ on its marked price. After selling the lamp, the profit is $\\$160$ and the percentage profit is $20%$ . Find the marked price of the lamp.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "複合不等式",
+      "categoryEn": "Compound Inequalities",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮複合不等式 $-3(x - 1) \\ge x + 19$ 或 $5x < -10$ 。解該複合不等式。",
+          "questionTextEn": "Consider the compound inequality $-3(x - 1) \\ge x + 19$ or $5x < -10$ . Solve the compound inequality.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "寫出滿足該複合不等式的最大整數。",
+          "questionTextEn": "Write down the greatest integer satisfying the compound inequality.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "變換與坐標",
+      "categoryEn": "Transformation and Coordinates",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "點 $U$ 及 $V$ 的坐標分別為 $(-8, 6)$ 及 $(5, -9)$ 。 $U$ 繞原點 $O$ 順時針方向旋轉 $90^\\circ$ 至 $U'$ 。 $V'$ 為 $V$ 關於 $y$ 軸的反射影像。寫出 $U'$ 及 $V'$ 的坐標。",
+          "questionTextEn": "The coordinates of the points $U$ and $V$ are $(-8, 6)$ and $(5, -9)$ respectively. $U$ is rotated clockwise about the origin $O$ through $90^\\circ$ to $U'$ . $V'$ is the reflection image of $V$ with respect to the $y$-axis. Write down the coordinates of $U'$ and $V'$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $U'V'$ 的斜率。",
+          "questionTextEn": "Find the slope of $U'V'$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "全等三角形",
+      "categoryEn": "Congruent Triangles",
+      "figureSpecId": "FIG-Q8",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖一中， $ABCD$ 為四邊形，其中 $AB = CD$ 及 $\\angle ABD = \\angle CDB$ 。證明 $\\triangle ABD \\cong \\triangle CDB$ 。",
+          "questionTextEn": "In Figure 1, $ABCD$ is a quadrilateral, where $AB = CD$ and $\\angle ABD = \\angle CDB$ . Prove that $\\triangle ABD \\cong \\triangle CDB$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "若 $\\angle ADB = 27^\\circ$ 及 $\\angle BCD = 94^\\circ$ ，求 $\\angle ADC$ 。",
+          "questionTextEn": "If $\\angle ADB = 27^\\circ$ and $\\angle BCD = 94^\\circ$ , find $\\angle ADC$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "頻數分佈",
+      "categoryEn": "Frequency Distribution",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下面的頻數分佈表及累積頻數分佈表顯示某組學生完成一項專題研習所需時間的分佈。\n所需時間（小時）： $10-14$ ； $15-19$ ； $20-24$ ； $25-29$\n頻數： $6$ ； $x$ ； $14$ ； $4$\n所需時間少於（小時）： $14.5$ ； $19.5$ ； $24.5$ ； $29.5$\n累積頻數： $6$ ； $22$ ； $36$ ； $40$\n寫出 $x$ 的值，並求該分佈的平均數。",
+          "questionTextEn": "The frequency distribution table and the cumulative frequency distribution table below show the distribution of the times taken to complete a project by a group of students.\nTime taken (hours): $10-14$ ; $15-19$ ; $20-24$ ; $25-29$\nFrequency: $6$ ; $x$ ; $14$ ; $4$\nTime taken less than (hours): $14.5$ ; $19.5$ ; $24.5$ ; $29.5$\nCumulative frequency: $6$ ; $22$ ; $36$ ; $40$\nWrite down the value of $x$ and find the mean of the distribution.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "若從該組學生中隨機選出一名學生，求該學生完成該專題研習所需時間少於 $19.5$ 小時的概率。",
+          "questionTextEn": "If a student is randomly selected from the group, find the probability that the time taken by the selected student to complete the project is less than $19.5$ hours.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "部分變分與二次方程",
+      "categoryEn": "Partial Variation and Quadratic Equations",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知 $f(x)$ 是部分隨 $x^{2}$ 而正變，部分則隨 $x$ 而正變。已知 $f(3) = 45$ 及 $f(-2) = 10$ 。求 $f(x)$ 。",
+          "questionTextEn": "It is given that $f(x)$ partly varies as $x^{2}$ and partly varies as $x$ . Suppose that $f(3) = 45$ and $f(-2) = 10$ . Find $f(x)$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "寫出 $y = 6f(x)$ 的圖像的 $x$ 軸截距。",
+          "questionTextEn": "Write down the $x$-intercept(s) of the graph of $y = 6f(x)$ .",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "設 $k$ 為實常數。求 $k$ 的取值範圍，使方程 $f(x) = k$ 有兩個相異實根。",
+          "questionTextEn": "Let $k$ be a real constant. Find the range of values of $k$ such that the equation $f(x) = k$ has two distinct real roots.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "莖葉圖與離差",
+      "categoryEn": "Stem-and-Leaf Diagram and Dispersion",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下面的莖葉圖顯示某球隊球員的年齡分佈。\n莖（十位）： $1$ ； 葉（個位）： $5$ ， $7$ ， $8$\n莖（十位）： $2$ ； 葉（個位）： $0$ ， $3$ ， $3$ ， $3$ ， $9$\n莖（十位）： $3$ ； 葉（個位）： $a$ ， $6$ ， $9$\n莖（十位）： $4$ ； 葉（個位）： $1$ ， $b$ ， $5$ ， $7$ ， $8$\n已知該分佈的中位數及四分位數間距分別為 $31$ 及 $21$ 。求 $a$ 及 $b$ 。",
+          "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the ages of the players of a team.\nStem (tens): $1$ ; Leaf (units): $5$ , $7$ , $8$\nStem (tens): $2$ ; Leaf (units): $0$ , $3$ , $3$ , $3$ , $9$\nStem (tens): $3$ ; Leaf (units): $a$ , $6$ , $9$\nStem (tens): $4$ ; Leaf (units): $1$ , $b$ , $5$ , $7$ , $8$\nIt is given that the median and the inter-quartile range of the distribution are $31$ and $21$ respectively. Find $a$ and $b$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "現有一名球員離開該球隊。該分佈的眾數會否因該球員的離開而改變？試解釋你的答案。",
+          "questionTextEn": "A player now leaves the team. Is there any change in the mode of the distribution due to the leaving of the player? Explain your answer.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "若該分佈的分佈域減少，求該分佈的最大可能標準差。",
+          "questionTextEn": "If the range of the distribution is decreased, find the greatest possible standard deviation of the distribution.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "圓與坐標幾何",
+      "categoryEn": "Circles and Coordinate Geometry",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圓 $C$ 的方程為 $x^{2} + y^{2} - 80x - 60y - 4556 = 0$ 。以 $G$ 表示 $C$ 的圓心。點 $H$ 的坐標為 $(45, 42)$ 。求 $G$ 與 $H$ 之間的距離。",
+          "questionTextEn": "The equation of the circle $C$ is $x^{2} + y^{2} - 80x - 60y - 4556 = 0$ . Denote the centre of $C$ by $G$ . The coordinates of the point $H$ are $(45, 42)$ . Find the distance between $G$ and $H$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 $P$ 為 $C$ 上的一個動點。當 $\\triangle GHP$ 的面積最大時，描述 $GH$ 與 $GP$ 之間的幾何關係，並求 $\\triangle GHP$ 的周界。",
+          "questionTextEn": "Let $P$ be a moving point on $C$ . When the area of $\\triangle GHP$ is the greatest, describe the geometric relationship between $GH$ and $GP$ , and find the perimeter of $\\triangle GHP$ .",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 7,
+      "categoryZh": "立體圖形與相似",
+      "categoryEn": "Mensuration and Similarity",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "有兩個實心金屬球。較小球的體積與較大球的體積之比為 $27 : 64$ 。較大球的半徑為 $12 \\text{ cm}$ 。以 $\\pi$ 表示較小球的表面面積。",
+          "questionTextEn": "There are two solid metal spheres. The ratio of the volume of the smaller sphere to the volume of the larger sphere is $27 : 64$ . The radius of the larger sphere is $12 \\text{ cm}$ . Express, in terms of $\\pi$ , the surface area of the smaller sphere.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "該兩球被熔解並重鑄成兩個實心正圓錐，記為圓錐 $A$ 及圓錐 $B$ 。已知 $A$ 的高及底半徑分別為 $12 \\text{ cm}$ 及 $9 \\text{ cm}$ 。某學生發現 $B$ 的底半徑為 $18 \\text{ cm}$ ，並聲稱 $A$ 與 $B$ 相似。該聲稱是否正確？試解釋你的答案。",
+          "questionTextEn": "The two spheres are melted and recast into two solid right circular cones. Denote these two circular cones by $A$ and $B$ . It is given that the height and the base radius of $A$ are $12 \\text{ cm}$ and $9 \\text{ cm}$ respectively. A student finds that the base radius of $B$ is $18 \\text{ cm}$ . The student claims that $A$ and $B$ are similar. Is the claim correct? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 8,
+      "categoryZh": "多項式",
+      "categoryEn": "Polynomials",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $p(x) = 3x^{3} + ax^{2} + bx - 24$ ，其中 $a$ 及 $b$ 為常數。當 $p(x)$ 除以 $x - 1$ 時，餘數為 $3$ 。已知 $x + 2$ 為 $p(x)$ 的因式。求 $a$ 及 $b$ 。",
+          "questionTextEn": "Let $p(x) = 3x^{3} + ax^{2} + bx - 24$ , where $a$ and $b$ are constants. When $p(x)$ is divided by $x - 1$ , the remainder is $3$ . It is given that $x + 2$ is a factor of $p(x)$ . Find $a$ and $b$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "$x - 2$ 是否 $p(x)$ 的因式？試解釋你的答案。",
+          "questionTextEn": "Is $x - 2$ a factor of $p(x)$ ? Explain your answer.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "有人聲稱方程 $p(x) = 0$ 有兩個無理根。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the equation $p(x) = 0$ has two irrational roots. Do you agree? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "概率",
+      "categoryEn": "Probability",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某組別中有 $7$ 名男士及 $9$ 名女士。現從該組別中隨機選出 $4$ 人組成一個委員會。求該委員會中有 $2$ 名男士及 $2$ 名女士的概率。",
+          "questionTextEn": "There are $7$ men and $9$ women in a group. If $4$ people are randomly selected from the group to form a committee, find the probability that there are $2$ men and $2$ women in the committee.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求該委員會中男士的數目與女士的數目不同的概率。",
+          "questionTextEn": "Find the probability that the number of men and the number of women in the committee are different.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 9,
+      "categoryZh": "二次函數",
+      "categoryEn": "Quadratic Functions",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $g(x) = 2x^{2} + 12kx + 20k^{2} + 6$ ，其中 $k$ 為非零實常數。利用配方法，以 $k$ 表示 $y = g(x)$ 的圖像的頂點的坐標。",
+          "questionTextEn": "Let $g(x) = 2x^{2} + 12kx + 20k^{2} + 6$ , where $k$ is a non-zero real constant. Using the method of completing the square, express, in terms of $k$ , the coordinates of the vertex of the graph of $y = g(x)$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "在同一直角坐標系上，以 $A$ 及 $B$ 分別表示 $y = g(x)$ 的圖像的頂點及 $y = 3g(-x)$ 的圖像的頂點。設 $M$ 為 $AB$ 的中點。以 $k$ 表示 $M$ 的坐標。",
+          "questionTextEn": "On the same rectangular coordinate system, denote the vertex of the graph of $y = g(x)$ and the vertex of the graph of $y = 3g(-x)$ by $A$ and $B$ respectively. Let $M$ be the mid-point of $AB$ . Express, in terms of $k$ , the coordinates of $M$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 11,
+      "categoryZh": "根與係數及數列",
+      "categoryEn": "Roots of Equations and Sequences",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $c$ 為實常數。方程 $x^{2} + cx - 12 = 0$ 的根為 $\\alpha$ 及 $\\beta$ 。以 $c$ 表示 $\\alpha^{2} + \\beta^{2}$ 。",
+          "questionTextEn": "Let $c$ be a real constant. The roots of the equation $x^{2} + cx - 12 = 0$ are $\\alpha$ and $\\beta$ . Express $\\alpha^{2} + \\beta^{2}$ in terms of $c$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "某等差數列的第 $1$ 項、第 $2$ 項及第 $3$ 項分別為 $c^{2}$ 、 $\\alpha^{2} + \\beta^{2}$ 及 $76$ 。求最小的 $n$ 值，使該數列的首 $n$ 項之和大於 $3 \\times 10^{5}$ 。",
+          "questionTextEn": "The 1st term, the 2nd term and the 3rd term of an arithmetic sequence are $c^{2}$ , $\\alpha^{2} + \\beta^{2}$ and $76$ respectively. Find the least value of $n$ such that the sum of the first $n$ terms of the sequence is greater than $3 \\times 10^{5}$ .",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 11,
+      "categoryZh": "立體三角學",
+      "categoryEn": "Trigonometry in 3-D",
+      "figureSpecId": "FIG-Q18",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖二中，三角形紙板 $ABC$ 被固定，使 $AB$ 位於水平地面上。已知 $AB = 24 \\text{ cm}$ 、 $AC = 20 \\text{ cm}$ 及 $\\angle BAC = 105^\\circ$ 。求 $BC$ 。",
+          "questionTextEn": "In Figure 2, the triangular paper card $ABC$ is held such that $AB$ lies on the horizontal ground. It is given that $AB = 24 \\text{ cm}$ , $AC = 20 \\text{ cm}$ and $\\angle BAC = 105^\\circ$ . Find $BC$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 $N$ 為 $BC$ 的中點。某工匠發現 $AC$ 與水平地面之間的夾角為 $60^\\circ$ 。該工匠聲稱 $AN$ 與水平地面之間的夾角大於 $35^\\circ$ 。該聲稱是否正確？試解釋你的答案。",
+          "questionTextEn": "Let $N$ be the mid-point of $BC$ . A craftsman finds that the angle between $AC$ and the horizontal ground is $60^\\circ$ . The craftsman claims that the angle between $AN$ and the horizontal ground exceeds $35^\\circ$ . Is the claim correct? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 15,
+      "categoryZh": "圓與切線",
+      "categoryEn": "Circles and Tangents",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圓 $C$ 的圓心為點 $G(30, 40)$ ，半徑為 $50$ 。已知點 $A(90, 120)$ 位於 $C$ 之外。 $AP$ 及 $AQ$ 分別為 $C$ 在點 $P$ 及點 $Q$ 的切線。求通過 $A$ 及 $G$ 的直線的方程。",
+          "questionTextEn": "The centre of the circle $C$ is the point $G(30, 40)$ and its radius is $50$ . It is given that the point $A(90, 120)$ lies outside $C$ . $AP$ and $AQ$ are the tangents to $C$ at the points $P$ and $Q$ respectively. Find the equation of the straight line passing through $A$ and $G$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $AG$ 與 $PQ$ 的交點的坐標。",
+          "questionTextEn": "Find the coordinates of the point of intersection of $AG$ and $PQ$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求 $\\triangle APQ$ 的內切圓的方程。",
+          "questionTextEn": "Find the equation of the inscribed circle of $\\triangle APQ$ .",
+          "totalMarks": 4
+        },
+        {
+          "label": "d",
+          "questionTextZh": "有人聲稱 $\\triangle APQ$ 的內切圓的面積與其外接圓的面積之比為 $1 : 4$ 。你是否同意？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the ratio of the area of the inscribed circle to the area of the circumcircle of $\\triangle APQ$ is $1 : 4$ . Do you agree? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}
