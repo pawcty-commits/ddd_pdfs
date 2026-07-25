@@ -1,0 +1,486 @@
+{
+  "paperTitleZh": "歷年模仿卷（2020）— 試卷一",
+  "paperTitle": "Past Paper Simulation (2020) — Paper 1",
+  "year": 2026,
+  "similarTo": "2020",
+  "durationMinutes": 135,
+  "totalMarks": 105,
+  "mathDelimiter": "$...$ (inline TeX)",
+  "instructionsZh": "1. 本試卷分為三部分：甲部(1)、甲部(2)及乙部。\n2. 所有題目均須作答。\n3. 除特別指明外，所有答案須以真確值或準確至三位有效數字表示。\n4. 除特別指明外，數值答案的單位須清楚寫明。\n5. 本試卷中的圖形不一定依比例繪畫。",
+  "instructionsEn": "1. This paper consists of THREE sections, A(1), A(2) and B.\n2. Attempt ALL questions in this paper. All working must be clearly shown.\n3. Unless otherwise specified, all working must be clearly shown.\n4. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures.\n5. The diagrams in this paper are not necessarily drawn to scale.",
+  "sections": [
+    {
+      "id": "sectionA1",
+      "titleZh": "甲部(1)",
+      "titleEn": "Section A(1)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionA2",
+      "titleZh": "甲部(2)",
+      "titleEn": "Section A(2)",
+      "marks": 35,
+      "deductionCapUpp": 1
+    },
+    {
+      "id": "sectionB",
+      "titleZh": "乙部",
+      "titleEn": "Section B",
+      "marks": 35,
+      "deductionCapUpp": 0
+    }
+  ],
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "化簡 $\\dfrac{(u^{5}v^{-3})^{2}}{u^{-4}v^{5}}$ ，並以正指數表示答案。",
+          "questionTextEn": "Simplify $\\dfrac{(u^{5}v^{-3})^{2}}{u^{-4}v^{5}}$ and express your answer with positive indices.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA1",
+      "difficultyGrade": "B-",
+      "difficultyScore": 3,
+      "categoryZh": "因式分解",
+      "categoryEn": "Factorization",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "把 $4c^{2}-9d^{2}$ 分解因式。",
+          "questionTextEn": "Factorize $4c^{2}-9d^{2}$ .",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "把 $4c^{2}-9d^{2}-2c-3d$ 分解因式。",
+          "questionTextEn": "Factorize $4c^{2}-9d^{2}-2c-3d$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 3,
+      "categoryZh": "近似值",
+      "categoryEn": "Approximation",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "把 $8264.0571$ 捨去至最接近的千位。",
+          "questionTextEn": "Round down $8264.0571$ to the nearest thousand.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "把 $8264.0571$ 進位至三位小數。",
+          "questionTextEn": "Round up $8264.0571$ to 3 decimal places.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "把 $8264.0571$ 四捨五入至四位有效數字。",
+          "questionTextEn": "Round off $8264.0571$ to 4 significant figures.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 3,
+      "categoryZh": "代數運算",
+      "categoryEn": "Algebraic Manipulation",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $a$ 、$b$ 及 $c$ 為非零數，使得 $4a=3b$ 及 $3b=2c$ 。求 $\\dfrac{2a+c}{b+c}$ 。",
+          "questionTextEn": "Let $a$ , $b$ and $c$ be non-zero numbers such that $4a=3b$ and $3b=2c$ . Find $\\dfrac{2a+c}{b+c}$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在一個書展中，售出的精裝書數目較售出的平裝書數目少 $35\\%$ 。已知售出的平裝書數目與售出的精裝書數目相差 $224$ 。求該書展中售出的精裝書數目。",
+          "questionTextEn": "In a book fair, the number of hardcover books sold is $35\\%$ less than the number of paperback books sold. The difference of the number of paperback books sold and the number of hardcover books sold is $224$ . Find the number of hardcover books sold in the book fair.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA1",
+      "difficultyGrade": "B",
+      "difficultyScore": 4,
+      "categoryZh": "不等式",
+      "categoryEn": "Inequalities",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮複合不等式\n$5x+12 \\le 2x$ 或 $\\dfrac{x}{4} > 2$ ………………(*)\n解 (*) 。",
+          "questionTextEn": "Consider the compound inequality\n$5x+12 \\le 2x$ or $\\dfrac{x}{4} > 2$ ………………(*)\nSolve (*) .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "寫出滿足 (*) 的最大負整數。",
+          "questionTextEn": "Write down the greatest negative integer satisfying (*) .",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "二次方程",
+      "categoryEn": "Quadratic Equations",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $q(x)=9x^{2}-30x+d$ ，其中 $d$ 為常數。已知方程 $q(x)=0$ 有等根。求 $d$ 。",
+          "questionTextEn": "Let $q(x)=9x^{2}-30x+d$ , where $d$ is a constant. It is given that the equation $q(x)=0$ has equal roots. Find $d$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $y=q(x)-100$ 的圖像的 $x$ 軸截距。",
+          "questionTextEn": "Find the $x$-intercept(s) of the graph of $y=q(x)-100$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "三角形與平行線",
+      "categoryEn": "Angles and Parallel Lines",
+      "figureSpecId": "FIG-Q8",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖一中，$S$ 及 $T$ 分別為 $PQ$ 及 $PR$ 上的點。$SR$ 與 $QT$ 相交於點 $U$ 。已知 $PS=SR$ ，$ST \\parallel QR$ ，$\\angle QPR = 34^\\circ$ 及 $\\angle PTS = 47^\\circ$ 。\n求 $\\angle SRQ$ 。",
+          "questionTextEn": "In Figure 1, $S$ and $T$ are points lying on $PQ$ and $PR$ respectively. $SR$ and $QT$ intersect at the point $U$ . It is given that $PS=SR$ , $ST \\parallel QR$ , $\\angle QPR = 34^\\circ$ and $\\angle PTS = 47^\\circ$ .\nFind $\\angle SRQ$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 $\\angle STQ = \\theta$ 。以 $\\theta$ 表示 $\\angle QUR$ 。",
+          "questionTextEn": "Let $\\angle STQ = \\theta$ . Express $\\angle QUR$ in terms of $\\theta$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA1",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "統計量度",
+      "categoryEn": "Statistical Measures",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下表顯示某班學生所擁有的寵物數目的分布。\n寵物數目    1    2    3    4\n學生人數    5   15   15    5\n寫出上述分布的平均數、中位數及標準差。",
+          "questionTextEn": "The table below shows the distribution of the numbers of pets owned by a class of students.\nNumber of pets      1    2    3    4\nNumber of students  5   15   15    5\nWrite down the mean, the median and the standard deviation of the above distribution.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "現有一名新學生加入該班。該名新學生所擁有的寵物數目為 $5$ 。求因該名學生加入而引致的該分布的中位數的變化。",
+          "questionTextEn": "A new student now joins the class. The number of pets owned by the new student is $5$ . Find the change in the median of the distribution due to the joining of this student.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA2",
+      "difficultyGrade": "B",
+      "difficultyScore": 6,
+      "categoryZh": "部分變分",
+      "categoryEn": "Partial Variation",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一件高 $h$ cm 的 $Y$ 牌飾物的重量為 $W$ 克。$W$ 的一部分為常數，而另一部分則與 $h^{2}$ 成正變。當 $h=4$ 時，$W=55$ ；當 $h=9$ 時，$W=250$ 。求一件高 $6$ cm 的 $Y$ 牌飾物的重量。",
+          "questionTextEn": "The weight of a brand $Y$ ornament of height $h$ cm is $W$ grams. $W$ is partly constant and partly varies as $h^{2}$ . When $h=4$ , $W=55$ and when $h=9$ , $W=250$ . Find the weight of a brand $Y$ ornament of height $6$ cm .",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "有人聲稱一件高 $8$ cm 的 $Y$ 牌飾物的重量大於兩件高 $6$ cm 的 $Y$ 牌飾物的總重量。該聲稱是否正確？試解釋你的答案。",
+          "questionTextEn": "Someone claims that the weight of a brand $Y$ ornament of height $8$ cm is greater than the total weight of two brand $Y$ ornaments of height $6$ cm . Is the claim correct? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA2",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "統計量度",
+      "categoryEn": "Statistical Measures",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下面的莖葉圖顯示某次比賽中 $19$ 名參賽者完成拼圖所需時間（以分鐘計）的分布，其中 $k$ 為一個個位數字。\n莖(十位)  |  葉(個位)\n2  |  1  4  4\n3  |  0  2  5  5  7  8\n4  |  1  3  3  6  8  8  8\n5  |  4\n6  |  2  k\n已知上述分布的分布域是其四分位數間距的 $3$ 倍。求 $k$ 。",
+          "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the times (in minutes) taken by $19$ participants to finish a puzzle in a contest, where $k$ is a single digit.\nStem (tens)  |  Leaf (units)\n2  |  1  4  4\n3  |  0  2  5  5  7  8\n4  |  1  3  3  6  8  8  8\n5  |  4\n6  |  2  k\nIt is given that the range of the above distribution is the triple of its inter-quartile range. Find $k$ .",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "若從該 $19$ 名參賽者中隨機選出一名，求所選出的參賽者所需時間不少於該分布的眾數的概率。",
+          "questionTextEn": "If a participant is randomly chosen from the $19$ participants, find the probability that the time taken by the chosen participant is not less than the mode of the distribution.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA2",
+      "difficultyGrade": "B+",
+      "difficultyScore": 6,
+      "categoryZh": "立體圖形的體積及表面積",
+      "categoryEn": "Mensuration",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一個實心正圓錐體的底半徑及高分別為 $9$ cm 及 $12$ cm 。該圓錐體被兩個與其底平行的平面分成三部分，而該三部分的高相等。以 $\\pi$ 表示\n該圓錐體最底部分的體積。",
+          "questionTextEn": "The base radius and the height of a solid right circular cone are $9$ cm and $12$ cm respectively. The cone is divided into three parts by two planes which are parallel to its base. The heights of the three parts are equal. Express, in terms of $\\pi$ ,\nthe volume of the bottom part of the cone.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "以 $\\pi$ 表示該圓錐體最底部分的曲面面積。",
+          "questionTextEn": "Express, in terms of $\\pi$ , the curved surface area of the bottom part of the cone.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA2",
+      "difficultyGrade": "A-",
+      "difficultyScore": 8,
+      "categoryZh": "餘式定理",
+      "categoryEn": "Remainder Theorem",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "三次多項式 $f(x)$ 可被 $x+2$ 整除。當 $f(x)$ 除以 $x^{2}-4$ 時，餘式為 $kx-12$ ，其中 $k$ 為常數。求 $k$ 。",
+          "questionTextEn": "The cubic polynomial $f(x)$ is divisible by $x+2$ . When $f(x)$ is divided by $x^{2}-4$ , the remainder is $kx-12$ , where $k$ is a constant. Find $k$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "已知 $x-1$ 是 $f(x)$ 的因式。當 $f(x)$ 除以 $x$ 時，餘式為 $24$ 。有人聲稱方程 $f(x)=0$ 的所有根皆為整數。該聲稱是否正確？試解釋你的答案。",
+          "questionTextEn": "It is given that $x-1$ is a factor of $f(x)$ . When $f(x)$ is divided by $x$ , the remainder is $24$ . Someone claims that all the roots of the equation $f(x)=0$ are integers. Is the claim correct? Explain your answer.",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA2",
+      "difficultyGrade": "A",
+      "difficultyScore": 9,
+      "categoryZh": "圓的方程與軌跡",
+      "categoryEn": "Equations of Circles and Locus",
+      "figureSpecId": null,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "$A$ 及 $B$ 的坐標分別為 $(-6,0)$ 及 $(18,0)$ 。圓 $C$ 通過 $A$ 及 $B$ 。以 $G$ 表示 $C$ 的圓心。已知 $G$ 的 $y$ 坐標為 $5$ 。求 $C$ 的方程。",
+          "questionTextEn": "The coordinates of the points $A$ and $B$ are $(-6,0)$ and $(18,0)$ respectively. The circle $C$ passes through $A$ and $B$ . Denote the centre of $C$ by $G$ . It is given that the $y$-coordinate of $G$ is $5$ . Find the equation of $C$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "直線 $L$ 通過 $B$ 及 $G$ 。另一直線 $\\ell$ 平行於 $L$ 。設 $P$ 為直角坐標平面上的一動點，使得 $P$ 至 $L$ 的垂直距離等於 $P$ 至 $\\ell$ 的垂直距離。以 $\\Gamma$ 表示 $P$ 的軌跡。已知 $\\Gamma$ 通過 $A$ 。\n(i) 描述 $\\Gamma$ 與 $L$ 的幾何關係。\n(ii) 求 $\\Gamma$ 的方程。\n(iii) 設 $\\Gamma$ 與 $C$ 相交於另一點 $H$ 。有人聲稱 $\\angle GAH > 50^\\circ$ 。你是否同意？試解釋你的答案。",
+          "questionTextEn": "The straight line $L$ passes through $B$ and $G$ . Another straight line $\\ell$ is parallel to $L$ . Let $P$ be a moving point in the rectangular coordinate plane such that the perpendicular distance from $P$ to $L$ is equal to the perpendicular distance from $P$ to $\\ell$ . Denote the locus of $P$ by $\\Gamma$ . It is given that $\\Gamma$ passes through $A$ .\n(i) Describe the geometric relationship between $\\Gamma$ and $L$ .\n(ii) Find the equation of $\\Gamma$ .\n(iii) Suppose that $\\Gamma$ cuts $C$ at another point $H$ . Someone claims that $\\angle GAH > 50^\\circ$ . Do you agree? Explain your answer.",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionB",
+      "difficultyGrade": "B+",
+      "difficultyScore": 5,
+      "categoryZh": "概率",
+      "categoryEn": "Probability",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一個盒子中有 $2$ 隻黑色棋子、$7$ 隻白色棋子及 $8$ 隻灰色棋子。若從該盒子中同時隨機選出 $4$ 隻棋子，求選出 $4$ 隻同色棋子的概率。",
+          "questionTextEn": "In a box, there are $2$ black chess pieces, $7$ white chess pieces and $8$ grey chess pieces. If $4$ chess pieces are randomly selected from the box at the same time, find the probability that $4$ chess pieces of the same colour are selected.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求選出的棋子中最少有 $2$ 隻不同顏色的概率。",
+          "questionTextEn": "Find the probability that at least $2$ chess pieces of different colours are selected.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 5,
+      "categoryZh": "等比數列",
+      "categoryEn": "Geometric Sequences",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一個等比數列的第 $2$ 項及第 $5$ 項分別為 $48$ 及 $1296$ 。求該數列的第 $1$ 項。",
+          "questionTextEn": "The 2nd term and the 5th term of a geometric sequence are $48$ and $1296$ respectively. Find the 1st term of the sequence.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $n$ 的最小值，使得該數列的首 $n$ 項之和大於 $5\\times10^{12}$ 。",
+          "questionTextEn": "Find the least value of $n$ such that the sum of the first $n$ terms of the sequence is greater than $5\\times10^{12}$ .",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 6,
+      "categoryZh": "二次函數",
+      "categoryEn": "Quadratic Functions",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $h(x)=3x^{2}+12kx+15k^{2}+6$ ，其中 $k$ 為實常數。利用配方法，以 $k$ 表示 $y=h(x)$ 的圖像的頂點的坐標。",
+          "questionTextEn": "Let $h(x)=3x^{2}+12kx+15k^{2}+6$ , where $k$ is a real constant. Using the method of completing the square, express, in terms of $k$ , the coordinates of the vertex of the graph of $y=h(x)$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "在同一直角坐標系上，設 $D$ 及 $E$ 分別為 $y=h(x-3)$ 的圖像的頂點及 $y=-h(x+3)$ 的圖像的頂點。在此直角坐標系上是否存在一點 $F$ ，使得 $\\triangle DEF$ 的外心的坐標為 $(0,2)$ ？試解釋你的答案。",
+          "questionTextEn": "On the same rectangular coordinate system, let $D$ and $E$ be the vertex of the graph of $y=h(x-3)$ and the vertex of the graph of $y=-h(x+3)$ respectively. Is there a point $F$ on this rectangular coordinate system such that the coordinates of the circumcentre of $\\triangle DEF$ are $(0,2)$ ? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 7,
+      "categoryZh": "圓與切線",
+      "categoryEn": "Circles and Tangents",
+      "figureSpecId": "FIG-Q18",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖二中，$P$ 、$Q$ 及 $R$ 為一圓上的點。以 $C$ 表示該圓。$TP$ 為 $C$ 在 $P$ 的切線，使得 $TQR$ 為一直線。證明 $\\triangle PTQ \\sim \\triangle RTP$ 。",
+          "questionTextEn": "In Figure 2, $P$ , $Q$ and $R$ are points lying on a circle. Denote the circle by $C$ . $TP$ is the tangent to $C$ at $P$ such that $TQR$ is a straight line. Prove that $\\triangle PTQ \\sim \\triangle RTP$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "已知 $QR$ 為 $C$ 的直徑。設 $TP=1200$ cm 及 $TQ=900$ cm 。\n(i) 以 $\\pi$ 表示 $C$ 的圓周。\n(ii) 有人聲稱 $\\triangle PQR$ 的周界超過 $17$ m 。你是否同意？試解釋你的答案。",
+          "questionTextEn": "It is given that $QR$ is a diameter of $C$ . Suppose that $TP=1200$ cm and $TQ=900$ cm .\n(i) Express the circumference of $C$ in terms of $\\pi$ .\n(ii) Someone claims that the perimeter of $\\triangle PQR$ exceeds $17$ m . Do you agree? Explain your answer.",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 12,
+      "categoryZh": "三角學的應用",
+      "categoryEn": "Applications of Trigonometry",
+      "figureSpecId": "FIG-Q19",
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "$ABCD$ 為一四邊形紙卡，其中 $AB=45$ cm ，$AD=28$ cm ，$\\angle ABC=42^\\circ$ ，$\\angle ACB=63^\\circ$ 及 $\\angle BAD=105^\\circ$ 。該紙卡被握持，使得 $BC$ 置於水平地面上，如圖三所示。求 $CD$ 的長度。",
+          "questionTextEn": "$ABCD$ is a quadrilateral paper card, where $AB=45$ cm , $AD=28$ cm , $\\angle ABC=42^\\circ$ , $\\angle ACB=63^\\circ$ and $\\angle BAD=105^\\circ$ . The paper card is held with $BC$ lying on the horizontal ground as shown in Figure 3. Find the length of $CD$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求該紙卡的面積。",
+          "questionTextEn": "Find the area of the paper card.",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "已知該紙卡與水平地面的交角為 $38^\\circ$ 。\n(i) 求 $A$ 至水平地面的最短距離。\n(ii) 有學生聲稱 $CD$ 與水平地面的交角最多為 $30^\\circ$ 。該聲稱是否正確？試解釋你的答案。",
+          "questionTextEn": "It is given that the angle between the paper card and the horizontal ground is $38^\\circ$ .\n(i) Find the shortest distance from $A$ to the horizontal ground.\n(ii) A student claims that the angle between $CD$ and the horizontal ground is at most $30^\\circ$ . Is the claim correct? Explain your answer.",
+          "totalMarks": 7
+        }
+      ]
+    }
+  ]
+}

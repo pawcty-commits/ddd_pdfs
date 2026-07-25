@@ -1,0 +1,1559 @@
+{
+  "paperTitle": "Original Paper (2023 Style & Difficulty) — Paper 2",
+  "paperTitleZh": "風格與難度跟 2023 原創卷 — 試卷二",
+  "year": 2026,
+  "similarTo": "2023",
+  "durationMinutes": 75,
+  "totalQuestions": 45,
+  "marksPerQuestion": 1,
+  "totalMarks": 45,
+  "mathDelimiter": "$...$ (inline TeX)",
+  "instructionsZh": "本試卷共 45 題，全部為多項選擇題。第 1–30 題為甲部，第 31–45 題為乙部。每題答對得 1 分，答錯或不答不扣分。除特別指明外，數值答案須為準確值或準確至三位有效數字。本試卷的圖形不一定依比例繪畫。",
+  "instructionsEn": "This paper consists of 45 multiple-choice questions. Questions 1–30 are in Section A and Questions 31–45 are in Section B. Each correct answer scores 1 mark; no marks are deducted for wrong answers. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures. The diagrams in this paper are not necessarily drawn to scale.",
+  "sections": [
+    {
+      "id": "sectionA",
+      "titleZh": "甲部",
+      "titleEn": "Section A",
+      "questionRange": "1-30"
+    },
+    {
+      "id": "sectionB",
+      "titleZh": "乙部",
+      "titleEn": "Section B",
+      "questionRange": "31-45"
+    }
+  ],
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA",
+      "difficultyGrade": "B-",
+      "difficultyScore": 1,
+      "categoryZh": "代數分式",
+      "categoryEn": "Algebraic Fractions",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "化簡 $\\dfrac{1}{2a - b} + \\dfrac{3}{b + 5}$ 。",
+      "questionTextEn": "Simplify $\\dfrac{1}{2a - b} + \\dfrac{3}{b + 5}$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\dfrac{6a + 4b + 5}{(2a - b)(b + 5)}$",
+          "textEn": "$\\dfrac{6a + 4b + 5}{(2a - b)(b + 5)}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\dfrac{4}{2a + 5}$",
+          "textEn": "$\\dfrac{4}{2a + 5}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\dfrac{6a - 2b + 5}{2a - b + 5}$",
+          "textEn": "$\\dfrac{6a - 2b + 5}{2a - b + 5}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\dfrac{6a - 2b + 5}{(2a - b)(b + 5)}$",
+          "textEn": "$\\dfrac{6a - 2b + 5}{(2a - b)(b + 5)}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA",
+      "difficultyGrade": "B-",
+      "difficultyScore": 1,
+      "categoryZh": "代數分式",
+      "categoryEn": "Algebraic Fractions",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "化簡 $\\dfrac{3}{2 - 5x} + \\dfrac{3}{2 + 5x}$ 。",
+      "questionTextEn": "Simplify $\\dfrac{3}{2 - 5x} + \\dfrac{3}{2 + 5x}$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\dfrac{6}{4 - 25x^{2}}$",
+          "textEn": "$\\dfrac{6}{4 - 25x^{2}}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\dfrac{30x}{4 - 25x^{2}}$",
+          "textEn": "$\\dfrac{30x}{4 - 25x^{2}}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\dfrac{12}{4 + 25x^{2}}$",
+          "textEn": "$\\dfrac{12}{4 + 25x^{2}}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\dfrac{12}{4 - 25x^{2}}$",
+          "textEn": "$\\dfrac{12}{4 - 25x^{2}}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA",
+      "difficultyGrade": "B-",
+      "difficultyScore": 1,
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "$8^{n+1} \\div 4^{n-1} =$",
+      "questionTextEn": "$8^{n+1} \\div 4^{n-1} =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$2^{n+5}$",
+          "textEn": "$2^{n+5}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$2^{n+1}$",
+          "textEn": "$2^{n+1}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$2^{5n}$",
+          "textEn": "$2^{5n}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$2^{n-5}$",
+          "textEn": "$2^{n-5}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "因式分解",
+      "categoryEn": "Factorization",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "因式分解 $2x^{2} + 3xy + y^{2} - 4x - 2y$ 。",
+      "questionTextEn": "Factorize $2x^{2} + 3xy + y^{2} - 4x - 2y$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$(2x + y)(x + y - 2)$",
+          "textEn": "$(2x + y)(x + y - 2)$"
+        },
+        {
+          "label": "B",
+          "textZh": "$(2x + y)(x + y + 2)$",
+          "textEn": "$(2x + y)(x + y + 2)$"
+        },
+        {
+          "label": "C",
+          "textZh": "$(2x - y)(x + y - 2)$",
+          "textEn": "$(2x - y)(x + y - 2)$"
+        },
+        {
+          "label": "D",
+          "textZh": "$(x + y)(2x + y - 2)$",
+          "textEn": "$(x + y)(2x + y - 2)$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "恆等式",
+      "categoryEn": "Identities",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "若 $c$ 及 $d$ 為常數，使 $(x + 3)(x + c) + 8 = x(x + d) + 4c(x + 1)$ ，則 $d =$",
+      "questionTextEn": "If $c$ and $d$ are constants such that $(x + 3)(x + c) + 8 = x(x + d) + 4c(x + 1)$ , then $d =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$-21$",
+          "textEn": "$-21$"
+        },
+        {
+          "label": "B",
+          "textZh": "$-13$",
+          "textEn": "$-13$"
+        },
+        {
+          "label": "C",
+          "textZh": "$11$",
+          "textEn": "$11$"
+        },
+        {
+          "label": "D",
+          "textZh": "$19$",
+          "textEn": "$19$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "不等式",
+      "categoryEn": "Inequalities",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "$2x + 5 > 1$ 或 $x - 7 \\le 0$ 的解為",
+      "questionTextEn": "The solution of $2x + 5 > 1$ or $x - 7 \\le 0$ is",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$x > -2$",
+          "textEn": "$x > -2$"
+        },
+        {
+          "label": "B",
+          "textZh": "$x \\le 7$",
+          "textEn": "$x \\le 7$"
+        },
+        {
+          "label": "C",
+          "textZh": "$-2 < x \\le 7$",
+          "textEn": "$-2 < x \\le 7$"
+        },
+        {
+          "label": "D",
+          "textZh": "所有實數",
+          "textEn": "all real numbers"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "有效數字",
+      "categoryEn": "Significant Figures",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "若 $y = 46.0$ （準確至三位有效數字），求 $y$ 的取值範圍。",
+      "questionTextEn": "If $y = 46.0$ (correct to 3 significant figures), find the range of values of $y$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$45.5 \\le y < 46.5$",
+          "textEn": "$45.5 \\le y < 46.5$"
+        },
+        {
+          "label": "B",
+          "textZh": "$45.95 \\le y < 46.05$",
+          "textEn": "$45.95 \\le y < 46.05$"
+        },
+        {
+          "label": "C",
+          "textZh": "$45.95 < y \\le 46.05$",
+          "textEn": "$45.95 < y \\le 46.05$"
+        },
+        {
+          "label": "D",
+          "textZh": "$45.9 \\le y < 46.1$",
+          "textEn": "$45.9 \\le y < 46.1$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "函數",
+      "categoryEn": "Functions",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "設 $g(x) = 7 - 4x^{2}$ 。若 $a$ 為常數，求 $g(2 - 3a)$ 。",
+      "questionTextEn": "Let $g(x) = 7 - 4x^{2}$ . If $a$ is a constant, find $g(2 - 3a)$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$-36a^{2} - 48a - 9$",
+          "textEn": "$-36a^{2} - 48a - 9$"
+        },
+        {
+          "label": "B",
+          "textZh": "$36a^{2} - 48a + 9$",
+          "textEn": "$36a^{2} - 48a + 9$"
+        },
+        {
+          "label": "C",
+          "textZh": "$-36a^{2} + 48a + 25$",
+          "textEn": "$-36a^{2} + 48a + 25$"
+        },
+        {
+          "label": "D",
+          "textZh": "$-36a^{2} + 48a - 9$",
+          "textEn": "$-36a^{2} + 48a - 9$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "餘式定理",
+      "categoryEn": "Remainder Theorem",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "設 $h(x) = ax^{4} + 12x^{2} + b$ ，其中 $a$ 及 $b$ 為常數。若 $h(x)$ 可被 $2x - 3$ 整除，求當 $h(x)$ 除以 $2x + 3$ 時的餘式。",
+      "questionTextEn": "Let $h(x) = ax^{4} + 12x^{2} + b$ , where $a$ and $b$ are constants. If $h(x)$ is divisible by $2x - 3$ , find the remainder when $h(x)$ is divided by $2x + 3$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$27$",
+          "textEn": "$27$"
+        },
+        {
+          "label": "B",
+          "textZh": "$-27$",
+          "textEn": "$-27$"
+        },
+        {
+          "label": "C",
+          "textZh": "$54$",
+          "textEn": "$54$"
+        },
+        {
+          "label": "D",
+          "textZh": "$0$",
+          "textEn": "$0$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "二次函數圖像",
+      "categoryEn": "Graphs of Quadratic Functions",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "下列關於 $y = 7 - (x + 2)^{2}$ 的圖像的敘述，何者為正確？",
+      "questionTextEn": "Which of the following statements about the graph of $y = 7 - (x + 2)^{2}$ is true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "該圖像的 $y$ 軸截距為 $7$ 。",
+          "textEn": "The $y$-intercept of the graph is $7$ ."
+        },
+        {
+          "label": "B",
+          "textZh": "該圖像通過點 $(2, 7)$ 。",
+          "textEn": "The graph passes through the point $(2, 7)$ ."
+        },
+        {
+          "label": "C",
+          "textZh": "該圖像的對稱軸為 $x = 2$ 。",
+          "textEn": "The axis of symmetry of the graph is $x = 2$ ."
+        },
+        {
+          "label": "D",
+          "textZh": "該圖像的開口向下。",
+          "textEn": "The graph opens downwards."
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "一個背包的標價比其成本高 $50%$ 。以標價的 $20%$ 折扣售出該背包可獲利 $\\$135$ 。求該背包的成本。",
+      "questionTextEn": "The marked price of a backpack is $50%$ above its cost. A profit of $\\$135$ is made by selling the backpack at a discount of $20%$ on its marked price. Find the cost of the backpack.",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\$810$",
+          "textEn": "$\\$810$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\$675$",
+          "textEn": "$\\$675$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\$540$",
+          "textEn": "$\\$540$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\$1012.5$",
+          "textEn": "$\\$1012.5$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "比例尺",
+      "categoryEn": "Scale Drawings",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "某地圖的比例尺為 $1 : 20000$ 。若一個公園的實際面積為 $8 \\text{ km}^{2}$ ，則該公園在地圖上的面積為",
+      "questionTextEn": "The scale of a map is $1 : 20000$ . If the actual area of a park is $8 \\text{ km}^{2}$ , then the area of this park on the map is",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$400 \\text{ cm}^{2}$",
+          "textEn": "$400 \\text{ cm}^{2}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$200 \\text{ cm}^{2}$",
+          "textEn": "$200 \\text{ cm}^{2}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$20 \\text{ cm}^{2}$",
+          "textEn": "$20 \\text{ cm}^{2}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$40 \\text{ cm}^{2}$",
+          "textEn": "$40 \\text{ cm}^{2}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "變分",
+      "categoryEn": "Variation",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "已知 $z$ 隨 $x$ 的平方根而正變，且隨 $y^{2}$ 而反變。當 $x = 9$ 及 $y = 2$ 時， $z = 6$ 。當 $x = 36$ 及 $y = 4$ 時， $z =$",
+      "questionTextEn": "It is given that $z$ varies directly as the square root of $x$ and inversely as $y^{2}$ . When $x = 9$ and $y = 2$ , $z = 6$ . When $x = 36$ and $y = 4$ , $z =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$3$",
+          "textEn": "$3$"
+        },
+        {
+          "label": "B",
+          "textZh": "$6$",
+          "textEn": "$6$"
+        },
+        {
+          "label": "C",
+          "textZh": "$12$",
+          "textEn": "$12$"
+        },
+        {
+          "label": "D",
+          "textZh": "$1.5$",
+          "textEn": "$1.5$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "數列",
+      "categoryEn": "Sequences",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "設 $a_{n}$ 為某數列的第 $n$ 項。若 $a_{3} = 5$ 、 $a_{5} = -2$ 且對任何正整數 $n$ 皆有 $a_{n+2} = a_{n+1} - a_{n}$ ，則 $a_{1} =$",
+      "questionTextEn": "Let $a_{n}$ be the $n$th term of a sequence. If $a_{3} = 5$ , $a_{5} = -2$ and $a_{n+2} = a_{n+1} - a_{n}$ for any positive integer $n$ , then $a_{1} =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$3$",
+          "textEn": "$3$"
+        },
+        {
+          "label": "B",
+          "textZh": "$-3$",
+          "textEn": "$-3$"
+        },
+        {
+          "label": "C",
+          "textZh": "$7$",
+          "textEn": "$7$"
+        },
+        {
+          "label": "D",
+          "textZh": "$-7$",
+          "textEn": "$-7$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "立體圖形",
+      "categoryEn": "Mensuration",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "某實心正方體的邊長為 $30 \\text{ cm}$ 。某實心正圓柱的體積等於該正方體的體積，而該圓柱的曲面面積等於該正方體的總表面面積。求該圓柱的底半徑。",
+      "questionTextEn": "The length of a side of a solid cube is $30 \\text{ cm}$ . The volume of a solid right circular cylinder is equal to the volume of the cube while the curved surface area of the circular cylinder is equal to the total surface area of the cube. Find the base radius of the circular cylinder.",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$10 \\text{ cm}$",
+          "textEn": "$10 \\text{ cm}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$15 \\text{ cm}$",
+          "textEn": "$15 \\text{ cm}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$20 \\text{ cm}$",
+          "textEn": "$20 \\text{ cm}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$5 \\text{ cm}$",
+          "textEn": "$5 \\text{ cm}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "圓的面積",
+      "categoryEn": "Areas of Circles",
+      "figureSpecId": "FIG-Q16",
+      "mcType": "single",
+      "questionTextZh": "在圖中， $AB$ 為半圓的直徑而 $C$ 為 $AB$ 上的一點，其中 $AC = 18 \\text{ cm}$ 及 $CB = 8 \\text{ cm}$ 。分別以 $AC$ 及 $CB$ 為直徑的兩個半圓與該半圓在 $AB$ 的同一側。求陰影部分的面積（以 $\\pi$ 表示）。",
+      "questionTextEn": "In the figure, $AB$ is a diameter of the semi-circle and $C$ is a point lying on $AB$ , where $AC = 18 \\text{ cm}$ and $CB = 8 \\text{ cm}$ . Two semi-circles with $AC$ and $CB$ as diameters lie on the same side of $AB$ . Find the area of the shaded region in terms of $\\pi$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$72\\pi \\text{ cm}^{2}$",
+          "textEn": "$72\\pi \\text{ cm}^{2}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$36\\pi \\text{ cm}^{2}$",
+          "textEn": "$36\\pi \\text{ cm}^{2}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$48.5\\pi \\text{ cm}^{2}$",
+          "textEn": "$48.5\\pi \\text{ cm}^{2}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$18\\pi \\text{ cm}^{2}$",
+          "textEn": "$18\\pi \\text{ cm}^{2}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionA",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "面積比",
+      "categoryEn": "Ratios of Areas",
+      "figureSpecId": "FIG-Q17",
+      "mcType": "single",
+      "questionTextZh": "在圖中， $ABCD$ 為平行四邊形。設 $E$ 為 $AB$ 上的一點。以 $F$ 表示 $AC$ 與 $DE$ 的交點。若 $\\triangle AEF$ 的面積及四邊形 $BCFE$ 的面積分別為 $18 \\text{ cm}^{2}$ 及 $38 \\text{ cm}^{2}$ ，則 $\\triangle CDF$ 的面積為",
+      "questionTextEn": "In the figure, $ABCD$ is a parallelogram. Let $E$ be a point lying on $AB$ . Denote the point of intersection of $AC$ and $DE$ by $F$ . If the area of $\\triangle AEF$ and the area of the quadrilateral $BCFE$ are $18 \\text{ cm}^{2}$ and $38 \\text{ cm}^{2}$ respectively, then the area of $\\triangle CDF$ is",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$24 \\text{ cm}^{2}$",
+          "textEn": "$24 \\text{ cm}^{2}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$32 \\text{ cm}^{2}$",
+          "textEn": "$32 \\text{ cm}^{2}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$38 \\text{ cm}^{2}$",
+          "textEn": "$38 \\text{ cm}^{2}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$56 \\text{ cm}^{2}$",
+          "textEn": "$56 \\text{ cm}^{2}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "角的關係",
+      "categoryEn": "Angles",
+      "figureSpecId": "FIG-Q18",
+      "mcType": "roman",
+      "questionTextZh": "根據圖中所示，下列何者必為正確？\nI. $a + b + c = 180^\\circ$\nII. $c + d = 180^\\circ$\nIII. $a + c = d$\n下列何者為正確？",
+      "questionTextEn": "According to the figure, which of the following must be true?\nI. $a + b + c = 180^\\circ$\nII. $c + d = 180^\\circ$\nIII. $a + c = d$\nWhich of the above is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "只有 I 及 II",
+          "textEn": "I and II only"
+        },
+        {
+          "label": "B",
+          "textZh": "只有 I 及 III",
+          "textEn": "I and III only"
+        },
+        {
+          "label": "C",
+          "textZh": "只有 II 及 III",
+          "textEn": "II and III only"
+        },
+        {
+          "label": "D",
+          "textZh": "I 、 II 及 III",
+          "textEn": "I, II and III"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "菱形",
+      "categoryEn": "Rhombus",
+      "figureSpecId": null,
+      "mcType": "roman",
+      "questionTextZh": "已知 $ABCD$ 為菱形。以 $E$ 表示 $AC$ 與 $BD$ 的交點。下列何者必為正確？\nI. $AE = BE$\nII. $\\dfrac{AE}{AC} = \\dfrac{BE}{BD}$\nIII. $AE^{2} + BE^{2} = CD^{2}$\n下列何者為正確？",
+      "questionTextEn": "It is given that $ABCD$ is a rhombus. Denote the point of intersection of $AC$ and $BD$ by $E$ . Which of the following must be true?\nI. $AE = BE$\nII. $\\dfrac{AE}{AC} = \\dfrac{BE}{BD}$\nIII. $AE^{2} + BE^{2} = CD^{2}$\nWhich of the above is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "只有 I 及 II",
+          "textEn": "I and II only"
+        },
+        {
+          "label": "B",
+          "textZh": "只有 I 及 III",
+          "textEn": "I and III only"
+        },
+        {
+          "label": "C",
+          "textZh": "只有 II 及 III",
+          "textEn": "II and III only"
+        },
+        {
+          "label": "D",
+          "textZh": "I 、 II 及 III",
+          "textEn": "I, II and III"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "多邊形",
+      "categoryEn": "Polygons",
+      "figureSpecId": "FIG-Q20",
+      "mcType": "single",
+      "questionTextZh": "圖中所示為正六邊形 $ABCDEF$ 及正方形 $AFGH$ 。求 $\\angle BAH$ 。",
+      "questionTextEn": "The figure shows the regular hexagon $ABCDEF$ and the square $AFGH$ . Find $\\angle BAH$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$135^\\circ$",
+          "textEn": "$135^\\circ$"
+        },
+        {
+          "label": "B",
+          "textZh": "$165^\\circ$",
+          "textEn": "$165^\\circ$"
+        },
+        {
+          "label": "C",
+          "textZh": "$150^\\circ$",
+          "textEn": "$150^\\circ$"
+        },
+        {
+          "label": "D",
+          "textZh": "$120^\\circ$",
+          "textEn": "$120^\\circ$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "section": "sectionA",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "矩形",
+      "categoryEn": "Rectangles",
+      "figureSpecId": "FIG-Q21",
+      "mcType": "single",
+      "questionTextZh": "在圖中， $ABCD$ 為矩形。設 $E$ 為 $BC$ 上的一點，使 $\\angle AED = 90^\\circ$ 。下列何者必為正確？",
+      "questionTextEn": "In the figure, $ABCD$ is a rectangle. Let $E$ be a point lying on $BC$ such that $\\angle AED = 90^\\circ$ . Which of the following must be true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$AE = ED$",
+          "textEn": "$AE = ED$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\triangle ABE \\cong \\triangle DCE$",
+          "textEn": "$\\triangle ABE \\cong \\triangle DCE$"
+        },
+        {
+          "label": "C",
+          "textZh": "$BE = EC$",
+          "textEn": "$BE = EC$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\triangle ABE \\sim \\triangle ECD$",
+          "textEn": "$\\triangle ABE \\sim \\triangle ECD$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "section": "sectionA",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "圓內接四邊形",
+      "categoryEn": "Cyclic Quadrilaterals",
+      "figureSpecId": "FIG-Q22",
+      "mcType": "single",
+      "questionTextZh": "在圖中， $ABCD$ 為圓內接四邊形。 $AB$ 及 $DC$ 的延線相交於點 $P$ 。若 $\\angle ADC = 80^\\circ$ 及 $\\angle APD = 30^\\circ$ ，則 $\\angle DAB =$",
+      "questionTextEn": "In the figure, $ABCD$ is a cyclic quadrilateral. $AB$ produced and $DC$ produced meet at the point $P$ . If $\\angle ADC = 80^\\circ$ and $\\angle APD = 30^\\circ$ , then $\\angle DAB =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$80^\\circ$",
+          "textEn": "$80^\\circ$"
+        },
+        {
+          "label": "B",
+          "textZh": "$70^\\circ$",
+          "textEn": "$70^\\circ$"
+        },
+        {
+          "label": "C",
+          "textZh": "$100^\\circ$",
+          "textEn": "$100^\\circ$"
+        },
+        {
+          "label": "D",
+          "textZh": "$110^\\circ$",
+          "textEn": "$110^\\circ$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "section": "sectionA",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "三角比",
+      "categoryEn": "Trigonometric Ratios",
+      "figureSpecId": "FIG-Q23",
+      "mcType": "single",
+      "questionTextZh": "在圖中， $ABC$ 為直角三角形，其中 $\\angle ACB = 90^\\circ$ 。 $D$ 為 $AB$ 上的一點，使 $CD \\perp AB$ 。若 $\\angle ABC = \\theta$ 及 $BC = a$ ，則 $AD =$",
+      "questionTextEn": "In the figure, $ABC$ is a right-angled triangle, where $\\angle ACB = 90^\\circ$ . $D$ is a point lying on $AB$ such that $CD \\perp AB$ . If $\\angle ABC = \\theta$ and $BC = a$ , then $AD =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$a \\cos \\theta \\tan \\theta$",
+          "textEn": "$a \\cos \\theta \\tan \\theta$"
+        },
+        {
+          "label": "B",
+          "textZh": "$a \\sin \\theta \\tan \\theta$",
+          "textEn": "$a \\sin \\theta \\tan \\theta$"
+        },
+        {
+          "label": "C",
+          "textZh": "$a \\sin \\theta \\cos \\theta$",
+          "textEn": "$a \\sin \\theta \\cos \\theta$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\dfrac{a}{\\cos \\theta}$",
+          "textEn": "$\\dfrac{a}{\\cos \\theta}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "極坐標",
+      "categoryEn": "Polar Coordinates",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "點 $P$ 的直角坐標為 $(-1, \\sqrt{3})$ 。若 $P$ 繞原點順時針方向旋轉 $60^\\circ$ ，則其影像的極坐標為",
+      "questionTextEn": "The rectangular coordinates of the point $P$ are $(-1, \\sqrt{3})$ . If $P$ is rotated clockwise about the origin through $60^\\circ$ , then the polar coordinates of its image are",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$(2 , 60^\\circ)$",
+          "textEn": "$(2 , 60^\\circ)$"
+        },
+        {
+          "label": "B",
+          "textZh": "$(2 , 180^\\circ)$",
+          "textEn": "$(2 , 180^\\circ)$"
+        },
+        {
+          "label": "C",
+          "textZh": "$(4 , 60^\\circ)$",
+          "textEn": "$(4 , 60^\\circ)$"
+        },
+        {
+          "label": "D",
+          "textZh": "$(2 , 120^\\circ)$",
+          "textEn": "$(2 , 120^\\circ)$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "直線的方程",
+      "categoryEn": "Equations of Straight Lines",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "求常數 $a$ ，使直線 $3x + (a + 2)y + 1 = 0$ 及 $ax - 9y + 4 = 0$ 互相垂直。",
+      "questionTextEn": "Find the constant $a$ such that the straight lines $3x + (a + 2)y + 1 = 0$ and $ax - 9y + 4 = 0$ are perpendicular to each other.",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$3$",
+          "textEn": "$3$"
+        },
+        {
+          "label": "B",
+          "textZh": "$-9$",
+          "textEn": "$-9$"
+        },
+        {
+          "label": "C",
+          "textZh": "$-3$",
+          "textEn": "$-3$"
+        },
+        {
+          "label": "D",
+          "textZh": "$9$",
+          "textEn": "$9$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "section": "sectionA",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "軌跡",
+      "categoryEn": "Locus",
+      "figureSpecId": null,
+      "mcType": "roman",
+      "questionTextZh": "直線 $L_{1}$ 及 $L_{2}$ 的方程分別為 $6x - 8y + 25 = 0$ 及 $9x - 12y - 55 = 0$ 。 $L_{1}$ 與 $y$ 軸相交於點 $A$ ，而 $L_{2}$ 與 $x$ 軸相交於點 $B$ 。設 $P$ 為直角坐標平面上的一個動點，使 $P$ 至 $L_{1}$ 的垂直距離等於 $P$ 至 $L_{2}$ 的垂直距離。以 $\\Gamma$ 表示 $P$ 的軌跡。下列何者為正確？\nI. $\\Gamma$ 平行於 $L_{2}$ 。\nII. $\\Gamma$ 垂直於 $AB$ 。\nIII. $\\Gamma$ 通過 $AB$ 的中點。\n下列何者為正確？",
+      "questionTextEn": "The equations of the straight lines $L_{1}$ and $L_{2}$ are $6x - 8y + 25 = 0$ and $9x - 12y - 55 = 0$ respectively. $L_{1}$ cuts the $y$-axis at the point $A$ while $L_{2}$ cuts the $x$-axis at the point $B$ . Let $P$ be a moving point in the rectangular coordinate plane such that the perpendicular distance from $P$ to $L_{1}$ is equal to the perpendicular distance from $P$ to $L_{2}$ . Denote the locus of $P$ by $\\Gamma$ . Which of the following are true?\nI. $\\Gamma$ is parallel to $L_{2}$ .\nII. $\\Gamma$ is perpendicular to $AB$ .\nIII. $\\Gamma$ passes through the mid-point of $AB$ .\nWhich of the above is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "只有 I 及 II",
+          "textEn": "I and II only"
+        },
+        {
+          "label": "B",
+          "textZh": "只有 I 及 III",
+          "textEn": "I and III only"
+        },
+        {
+          "label": "C",
+          "textZh": "只有 II 及 III",
+          "textEn": "II and III only"
+        },
+        {
+          "label": "D",
+          "textZh": "I 、 II 及 III",
+          "textEn": "I, II and III"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "section": "sectionA",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "圓的方程",
+      "categoryEn": "Equations of Circles",
+      "figureSpecId": null,
+      "mcType": "roman",
+      "questionTextZh": "圓 $C_{1}$ 及 $C_{2}$ 的方程分別為 $x^{2} + y^{2} - 6x + 8 = 0$ 及 $x^{2} + y^{2} + 4y - 1 = 0$ 。設 $G_{1}$ 及 $G_{2}$ 分別為 $C_{1}$ 及 $C_{2}$ 的圓心。以 $O$ 表示原點。下列何者為正確？\nI. $\\triangle OG_{1}G_{2}$ 為直角三角形。\nII. $O$ 位於 $C_{2}$ 之內。\nIII. $C_{1}$ 與 $C_{2}$ 相交於兩個相異的點。\n下列何者為正確？",
+      "questionTextEn": "The equations of the circles $C_{1}$ and $C_{2}$ are $x^{2} + y^{2} - 6x + 8 = 0$ and $x^{2} + y^{2} + 4y - 1 = 0$ respectively. Let $G_{1}$ and $G_{2}$ be the centres of $C_{1}$ and $C_{2}$ respectively. Denote the origin by $O$ . Which of the following are true?\nI. $\\triangle OG_{1}G_{2}$ is a right-angled triangle.\nII. $O$ lies inside $C_{2}$ .\nIII. $C_{1}$ and $C_{2}$ intersect at two distinct points.\nWhich of the above is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "只有 I 及 II",
+          "textEn": "I and II only"
+        },
+        {
+          "label": "B",
+          "textZh": "只有 I 及 III",
+          "textEn": "I and III only"
+        },
+        {
+          "label": "C",
+          "textZh": "只有 II 及 III",
+          "textEn": "II and III only"
+        },
+        {
+          "label": "D",
+          "textZh": "I 、 II 及 III",
+          "textEn": "I, II and III"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "section": "sectionA",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "概率",
+      "categoryEn": "Probability",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "一個盒子中有四張分別寫上 $1$ 、 $2$ 、 $3$ 及 $4$ 的卡片，而另一個盒子中有五張分別寫上 $5$ 、 $6$ 、 $7$ 、 $8$ 及 $9$ 的卡片。若從每個盒子中各隨機抽出一張卡片，求所抽出的兩個數的乘積可被 $6$ 整除的概率。",
+      "questionTextEn": "A box contains four cards numbered $1$ , $2$ , $3$ and $4$ respectively while another box contains five cards numbered $5$ , $6$ , $7$ , $8$ and $9$ respectively. If a number is randomly drawn from each box, find the probability that the product of the two numbers drawn is divisible by $6$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\dfrac{3}{10}$",
+          "textEn": "$\\dfrac{3}{10}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\dfrac{7}{20}$",
+          "textEn": "$\\dfrac{7}{20}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\dfrac{2}{5}$",
+          "textEn": "$\\dfrac{2}{5}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\dfrac{9}{20}$",
+          "textEn": "$\\dfrac{9}{20}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "盒鬚圖",
+      "categoryEn": "Box-and-Whisker Diagrams",
+      "figureSpecId": "FIG-Q29",
+      "mcType": "single",
+      "questionTextZh": "下圖中的盒鬚圖顯示某組工程師在一年內的培訓時數的分佈。求該分佈的上四分位數。",
+      "questionTextEn": "The box-and-whisker diagram below shows the distribution of the numbers of training hours of some engineers in a year. Find the upper quartile of the distribution.",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$45$",
+          "textEn": "$45$"
+        },
+        {
+          "label": "B",
+          "textZh": "$85$",
+          "textEn": "$85$"
+        },
+        {
+          "label": "C",
+          "textZh": "$30$",
+          "textEn": "$30$"
+        },
+        {
+          "label": "D",
+          "textZh": "$65$",
+          "textEn": "$65$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "section": "sectionA",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "平均數",
+      "categoryEn": "Mean",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "某公司有 $12$ 名高級職員及 $48$ 名初級職員。高級職員的平均薪金為 $\\$42000$ ，而初級職員的平均薪金為 $\\$22000$ 。求該公司這些職員的平均薪金。",
+      "questionTextEn": "There are $12$ senior staff and $48$ junior staff in a company. The mean salary of the senior staff is $\\$42000$ while the mean salary of the junior staff is $\\$22000$ . Find the mean salary of these staff of the company.",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\$32000$",
+          "textEn": "$\\$32000$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\$26000$",
+          "textEn": "$\\$26000$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\$28000$",
+          "textEn": "$\\$28000$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\$24000$",
+          "textEn": "$\\$24000$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "section": "sectionB",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "數的進制",
+      "categoryEn": "Number Systems",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "$1101_{2} \times 101_{2} =$",
+      "questionTextEn": "$1101_{2} \times 101_{2} =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$1000011_{2}$",
+          "textEn": "$1000011_{2}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$1000001_{2}$",
+          "textEn": "$1000001_{2}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$111001_{2}$",
+          "textEn": "$111001_{2}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$1010001_{2}$",
+          "textEn": "$1010001_{2}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "section": "sectionB",
+      "difficultyGrade": "B",
+      "difficultyScore": 2,
+      "categoryZh": "最小公倍數",
+      "categoryEn": "L.C.M.",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "$a^{3}b^{5}c^{2}$ 、 $a^{5}b^{2}c$ 及 $a^{4}b^{3}c^{3}$ 的最小公倍數為",
+      "questionTextEn": "The L.C.M. of $a^{3}b^{5}c^{2}$ , $a^{5}b^{2}c$ and $a^{4}b^{3}c^{3}$ is",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$a^{5}b^{5}c^{3}$",
+          "textEn": "$a^{5}b^{5}c^{3}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$a^{3}b^{2}c$",
+          "textEn": "$a^{3}b^{2}c$"
+        },
+        {
+          "label": "C",
+          "textZh": "$a^{12}b^{10}c^{6}$",
+          "textEn": "$a^{12}b^{10}c^{6}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$a^{5}b^{5}c^{2}$",
+          "textEn": "$a^{5}b^{5}c^{2}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "對數",
+      "categoryEn": "Logarithms",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "已知 $\\log_{3} y$ 是 $\\log_{3} x$ 的線性函數。該線性函數的圖像在縱軸及橫軸上的截距分別為 $4$ 及 $-2$ 。下列何者必為正確？",
+      "questionTextEn": "It is given that $\\log_{3} y$ is a linear function of $\\log_{3} x$ . The intercepts on the vertical axis and on the horizontal axis of the graph of the linear function are $4$ and $-2$ respectively. Which of the following must be true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$y = 81x^{2}$",
+          "textEn": "$y = 81x^{2}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$y = 81x^{-2}$",
+          "textEn": "$y = 81x^{-2}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$y = 9x^{2}$",
+          "textEn": "$y = 9x^{2}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$y = 4x^{-2}$",
+          "textEn": "$y = 4x^{-2}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "複數",
+      "categoryEn": "Complex Numbers",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "若 $k$ 為實數，則 $\\dfrac{3}{k + 2i} + \\dfrac{1}{k - 2i}$ 的實部為",
+      "questionTextEn": "If $k$ is a real number, then the real part of $\\dfrac{3}{k + 2i} + \\dfrac{1}{k - 2i}$ is",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\dfrac{4k}{k^{2} + 4}$",
+          "textEn": "$\\dfrac{4k}{k^{2} + 4}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\dfrac{2k}{k^{2} + 4}$",
+          "textEn": "$\\dfrac{2k}{k^{2} + 4}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\dfrac{4k}{k^{2} - 4}$",
+          "textEn": "$\\dfrac{4k}{k^{2} - 4}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\dfrac{-4}{k^{2} + 4}$",
+          "textEn": "$\\dfrac{-4}{k^{2} + 4}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 5,
+      "categoryZh": "二次函數的變換",
+      "categoryEn": "Transformations of Quadratic Functions",
+      "figureSpecId": null,
+      "mcType": "roman",
+      "questionTextZh": "設 $f(x) = 2x^{2} + 12mx + 20m^{2}$ ，其中 $m$ 為實常數。下列關於 $y = f(2x)$ 的圖像的敘述，何者必為正確？\nI. 該圖像的頂點的 $x$ 坐標為 $-\\dfrac{3m}{2}$ 。\nII. 該圖像的頂點的 $y$ 坐標為 $5m^{2}$ 。\nIII. 該圖像的對稱軸的方程為 $2x + 3m = 0$ 。\n下列何者為正確？",
+      "questionTextEn": "Let $f(x) = 2x^{2} + 12mx + 20m^{2}$ , where $m$ is a real constant. Which of the following statements about the graph of $y = f(2x)$ must be true?\nI. The $x$-coordinate of the vertex of the graph is $-\\dfrac{3m}{2}$ .\nII. The $y$-coordinate of the vertex of the graph is $5m^{2}$ .\nIII. The equation of the axis of symmetry of the graph is $2x + 3m = 0$ .\nWhich of the above is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "只有 I 及 II",
+          "textEn": "I and II only"
+        },
+        {
+          "label": "B",
+          "textZh": "只有 I 及 III",
+          "textEn": "I and III only"
+        },
+        {
+          "label": "C",
+          "textZh": "只有 II 及 III",
+          "textEn": "II and III only"
+        },
+        {
+          "label": "D",
+          "textZh": "I 、 II 及 III",
+          "textEn": "I, II and III"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 5,
+      "categoryZh": "等差數列",
+      "categoryEn": "Arithmetic Sequences",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "設 $T(n)$ 為某等差數列的第 $n$ 項。若 $T(9) = 43$ 及 $T(20) + T(25) = 221$ ，求最小的 $k$ 值，使 $T(1) + T(2) + T(3) + \\cdots + T(k) > 3 \\times 10^{5}$ 。",
+      "questionTextEn": "Let $T(n)$ be the $n$th term of an arithmetic sequence. If $T(9) = 43$ and $T(20) + T(25) = 221$ , find the least value of $k$ such that $T(1) + T(2) + T(3) + \\cdots + T(k) > 3 \\times 10^{5}$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$346$",
+          "textEn": "$346$"
+        },
+        {
+          "label": "B",
+          "textZh": "$347$",
+          "textEn": "$347$"
+        },
+        {
+          "label": "C",
+          "textZh": "$348$",
+          "textEn": "$348$"
+        },
+        {
+          "label": "D",
+          "textZh": "$345$",
+          "textEn": "$345$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 5,
+      "categoryZh": "線性規劃",
+      "categoryEn": "Linear Programming",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "考慮以下的不等式組： $x \\ge 0$ ， $y \\ge 0$ ， $2x + y - 10 \\le 0$ ， $x + 2y - 14 \\le 0$ 。設 $D$ 為表示上述不等式組的解的區域。求 $\\beta$ 的取值範圍，使 $\\beta x + 6y$ 的最大值為 $42$ ，其中 $(x, y)$ 為 $D$ 內的一點。",
+      "questionTextEn": "Consider the following system of inequalities: $x \\ge 0$ , $y \\ge 0$ , $2x + y - 10 \\le 0$ , $x + 2y - 14 \\le 0$ . Let $D$ be the region which represents the solution of the above system of inequalities. Find the range of values of $\\beta$ such that the greatest value of $\\beta x + 6y$ is $42$ , where $(x, y)$ is a point lying in $D$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\beta \\le 3$",
+          "textEn": "$\\beta \\le 3$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\beta \\ge 3$",
+          "textEn": "$\\beta \\ge 3$"
+        },
+        {
+          "label": "C",
+          "textZh": "$\\beta \\le 8.4$",
+          "textEn": "$\\beta \\le 8.4$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\beta \\ge 8.4$",
+          "textEn": "$\\beta \\ge 8.4$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "圓與切線",
+      "categoryEn": "Circles and Tangents",
+      "figureSpecId": "FIG-Q38",
+      "mcType": "single",
+      "questionTextZh": "在圖中， $PA$ 及 $PB$ 為圓在 $A$ 及 $B$ 的切線。 $C$ 為優弧 $AB$ 上的一點。若 $\\angle APB = 48^\\circ$ ，則 $\\angle ACB =$",
+      "questionTextEn": "In the figure, $PA$ and $PB$ are tangents to the circle at $A$ and $B$ respectively. $C$ is a point lying on the major arc $AB$ . If $\\angle APB = 48^\\circ$ , then $\\angle ACB =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$48^\\circ$",
+          "textEn": "$48^\\circ$"
+        },
+        {
+          "label": "B",
+          "textZh": "$132^\\circ$",
+          "textEn": "$132^\\circ$"
+        },
+        {
+          "label": "C",
+          "textZh": "$66^\\circ$",
+          "textEn": "$66^\\circ$"
+        },
+        {
+          "label": "D",
+          "textZh": "$24^\\circ$",
+          "textEn": "$24^\\circ$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 5,
+      "categoryZh": "直線與圓",
+      "categoryEn": "Straight Lines and Circles",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "直線 $hx + ky = 6$ 與圓 $x^{2} + y^{2} - 6x + 4y - 12 = 0$ 相交於點 $M$ 及 $N$ ，其中 $h$ 及 $k$ 為常數。若 $MN$ 的中點的坐標為 $(2, -1)$ ，求 $k$ 。",
+      "questionTextEn": "The straight line $hx + ky = 6$ and the circle $x^{2} + y^{2} - 6x + 4y - 12 = 0$ intersect at the points $M$ and $N$ , where $h$ and $k$ are constants. If the coordinates of the mid-point of $MN$ are $(2, -1)$ , find $k$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$-2$",
+          "textEn": "$-2$"
+        },
+        {
+          "label": "B",
+          "textZh": "$2$",
+          "textEn": "$2$"
+        },
+        {
+          "label": "C",
+          "textZh": "$-3$",
+          "textEn": "$-3$"
+        },
+        {
+          "label": "D",
+          "textZh": "$6$",
+          "textEn": "$6$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 5,
+      "categoryZh": "立體圖形的角",
+      "categoryEn": "Angles in 3-D Figures",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "正四角錐 $VABCD$ 的底面為正方形 $ABCD$ 。設 $\\theta$ 為 $\\triangle ABV$ 與 $\\triangle CBV$ 之間的夾角。若 $AB : AV = 3 : 4$ ，則 $\\cos \\theta =$",
+      "questionTextEn": "The base of the right pyramid $VABCD$ is the square $ABCD$ . Let $\\theta$ be the angle between $\\triangle ABV$ and $\\triangle CBV$ . If $AB : AV = 3 : 4$ , then $\\cos \\theta =$",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$-\\dfrac{9}{55}$",
+          "textEn": "$-\\dfrac{9}{55}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\dfrac{9}{55}$",
+          "textEn": "$\\dfrac{9}{55}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$-\\dfrac{9}{16}$",
+          "textEn": "$-\\dfrac{9}{16}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$-\\dfrac{23}{55}$",
+          "textEn": "$-\\dfrac{23}{55}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "section": "sectionB",
+      "difficultyGrade": "A+",
+      "difficultyScore": 6,
+      "categoryZh": "直線與內心",
+      "categoryEn": "Straight Lines and In-centre",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "直線 $L_{1}$ 及 $L_{2}$ 的方程分別為 $5x - 12y + k = 0$ 及 $12x + 5y - k = 0$ ，其中 $k$ 為正常數。已知 $L_{1}$ 與 $x$ 軸相交於點 $P$ 。以 $Q$ 表示 $L_{1}$ 與 $L_{2}$ 的交點。若 $R$ 為 $L_{2}$ 上的一點，使 $\\triangle PQR$ 的內心位於 $x$ 軸上，則 $R$ 的 $x$ 坐標為",
+      "questionTextEn": "The equations of the straight lines $L_{1}$ and $L_{2}$ are $5x - 12y + k = 0$ and $12x + 5y - k = 0$ respectively, where $k$ is a positive constant. It is given that $L_{1}$ cuts the $x$-axis at the point $P$ . Denote the point of intersection of $L_{1}$ and $L_{2}$ by $Q$ . If $R$ is a point lying on $L_{2}$ such that the in-centre of $\\triangle PQR$ lies on the $x$-axis, then the $x$-coordinate of $R$ is",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$\\dfrac{k}{5}$",
+          "textEn": "$\\dfrac{k}{5}$"
+        },
+        {
+          "label": "B",
+          "textZh": "$\\dfrac{k}{7}$",
+          "textEn": "$\\dfrac{k}{7}$"
+        },
+        {
+          "label": "C",
+          "textZh": "$-\\dfrac{k}{5}$",
+          "textEn": "$-\\dfrac{k}{5}$"
+        },
+        {
+          "label": "D",
+          "textZh": "$\\dfrac{7k}{169}$",
+          "textEn": "$\\dfrac{7k}{169}$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "section": "sectionB",
+      "difficultyGrade": "B+",
+      "difficultyScore": 3,
+      "categoryZh": "排列與組合",
+      "categoryEn": "Permutations and Combinations",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "某會社有 $12$ 名成員。若從該會社中選出 $4$ 名成員組成一個由 $1$ 名隊長及 $3$ 名普通成員組成的隊伍，則可組成多少支不同的隊伍？",
+      "questionTextEn": "There are $12$ members in a club. If $4$ members are selected from the club to form a team consisting of $1$ captain and $3$ ordinary members, how many different teams can be formed?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$495$",
+          "textEn": "$495$"
+        },
+        {
+          "label": "B",
+          "textZh": "$11880$",
+          "textEn": "$11880$"
+        },
+        {
+          "label": "C",
+          "textZh": "$220$",
+          "textEn": "$220$"
+        },
+        {
+          "label": "D",
+          "textZh": "$1980$",
+          "textEn": "$1980$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "二項概率",
+      "categoryEn": "Binomial Probability",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "當一名球員射球時，她射中的概率為 $0.7$ 。若該球員射球 $4$ 次，求她至少射中 $3$ 次的概率。",
+      "questionTextEn": "When a player shoots, the probability that she scores is $0.7$ . If this player shoots $4$ times, find the probability that she scores at least $3$ times.",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$0.4116$",
+          "textEn": "$0.4116$"
+        },
+        {
+          "label": "B",
+          "textZh": "$0.2401$",
+          "textEn": "$0.2401$"
+        },
+        {
+          "label": "C",
+          "textZh": "$0.9163$",
+          "textEn": "$0.9163$"
+        },
+        {
+          "label": "D",
+          "textZh": "$0.6517$",
+          "textEn": "$0.6517$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "section": "sectionB",
+      "difficultyGrade": "A-",
+      "difficultyScore": 4,
+      "categoryZh": "標準分",
+      "categoryEn": "Standard Scores",
+      "figureSpecId": null,
+      "mcType": "single",
+      "questionTextZh": "下表顯示三名學生在某測驗中的分數及相應的標準分。\n分數： $52$ ； $76$ ； $x$\n標準分： $-1.5$ ； $0.5$ ； $2$\n求 $x$ 。",
+      "questionTextEn": "The table below shows the scores and the corresponding standard scores of three students in a test.\nScore: $52$ ; $76$ ; $x$\nStandard score: $-1.5$ ; $0.5$ ; $2$\nFind $x$ .",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "$94$",
+          "textEn": "$94$"
+        },
+        {
+          "label": "B",
+          "textZh": "$88$",
+          "textEn": "$88$"
+        },
+        {
+          "label": "C",
+          "textZh": "$82$",
+          "textEn": "$82$"
+        },
+        {
+          "label": "D",
+          "textZh": "$100$",
+          "textEn": "$100$"
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "section": "sectionB",
+      "difficultyGrade": "A",
+      "difficultyScore": 5,
+      "categoryZh": "統計量",
+      "categoryEn": "Statistical Measures",
+      "figureSpecId": null,
+      "mcType": "roman",
+      "questionTextZh": "已知 $m$ 為整數。設 $p$ 、 $q$ 及 $r$ 分別為數組 $\\{2 - 5m , 4 - 5m , 6 - 5m , 9 - 5m , 14 - 5m\\}$ 的平均數、中位數及四分位數間距。下列何者必為正確？\nI. $p - q = 1$\nII. $r = 8.5$\nIII. $q < 0$\n下列何者為正確？",
+      "questionTextEn": "It is given that $m$ is an integer. Let $p$ , $q$ and $r$ be the mean, the median and the inter-quartile range of the group of numbers $\\{2 - 5m , 4 - 5m , 6 - 5m , 9 - 5m , 14 - 5m\\}$ respectively. Which of the following must be true?\nI. $p - q = 1$\nII. $r = 8.5$\nIII. $q < 0$\nWhich of the above is/are true?",
+      "options": [
+        {
+          "label": "A",
+          "textZh": "只有 I 及 II",
+          "textEn": "I and II only"
+        },
+        {
+          "label": "B",
+          "textZh": "只有 I 及 III",
+          "textEn": "I and III only"
+        },
+        {
+          "label": "C",
+          "textZh": "只有 II 及 III",
+          "textEn": "II and III only"
+        },
+        {
+          "label": "D",
+          "textZh": "I 、 II 及 III",
+          "textEn": "I, II and III"
+        }
+      ]
+    }
+  ]
+}
