@@ -1,0 +1,777 @@
+{
+  "year": 2026,
+  "paper": 2,
+  "similarTo": "2018",
+  "paperTitleZh": "歷年模仿卷（2018）— 試卷二 評分",
+  "paperTitle": "Past Paper Simulation (2018) — Paper 2 Marking",
+  "mathDelimiter": "$...$ (inline TeX)",
+  "answerKey": [
+    {
+      "questionNumber": 1,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 2,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 3,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 4,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 5,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 6,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 7,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 8,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 9,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 10,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 11,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 12,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 13,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 14,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 15,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 16,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 17,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 18,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 19,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 20,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 21,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 22,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 23,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 24,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 25,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 26,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 27,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 28,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 29,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 30,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 31,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 32,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 33,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 34,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 35,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 36,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 37,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 38,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 39,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 40,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 41,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 42,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 43,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 44,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 45,
+      "correctAnswer": "C"
+    }
+  ],
+  "solutions": [
+    {
+      "questionNumber": 1,
+      "steps": [
+        {
+          "textZh": "$3^{-1}+6^{-1}=\\tfrac{1}{3}+\\tfrac{1}{6}=\\tfrac{1}{2}$",
+          "textEn": "$3^{-1}+6^{-1}=\\tfrac{1}{2}$"
+        },
+        {
+          "textZh": "倒數 $=2$，選 C",
+          "textEn": "Reciprocal $=2$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "steps": [
+        {
+          "textZh": "$\\alpha x=\\beta(1-x) \\Rightarrow \\alpha x+\\beta x=\\beta$",
+          "textEn": "$\\alpha x=\\beta(1-x) \\Rightarrow (\\alpha+\\beta)x=\\beta$"
+        },
+        {
+          "textZh": "$x=\\dfrac{\\beta}{\\alpha+\\beta}$，選 A",
+          "textEn": "$x=\\dfrac{\\beta}{\\alpha+\\beta}$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "steps": [
+        {
+          "textZh": "$m^{2}-9n^{2}=(m+3n)(m-3n)$；$-5m-15n=-5(m+3n)$",
+          "textEn": "$m^{2}-9n^{2}=(m+3n)(m-3n)$; $-5m-15n=-5(m+3n)$"
+        },
+        {
+          "textZh": "$=(m+3n)(m-3n-5)$，選 A",
+          "textEn": "$=(m+3n)(m-3n-5)$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "steps": [
+        {
+          "textZh": "通分：$\\dfrac{2(3x+4)+2(3x-4)}{(3x-4)(3x+4)}$",
+          "textEn": "Combine: $\\dfrac{2(3x+4)+2(3x-4)}{(3x-4)(3x+4)}$"
+        },
+        {
+          "textZh": "$=\\dfrac{12x}{9x^{2}-16}$，選 D",
+          "textEn": "$=\\dfrac{12x}{9x^{2}-16}$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "steps": [
+        {
+          "textZh": "$y=25-(x-4)^{2}$ 開口向下，頂點 $(4,25)$",
+          "textEn": "Opens downward, vertex $(4,25)$"
+        },
+        {
+          "textZh": "頂點在 $x$ 軸上方且開口向下 $\\Rightarrow$ 與 $x$ 軸相交，選 B",
+          "textEn": "Vertex above $x$-axis, opens down $\\Rightarrow$ cuts $x$-axis, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "steps": [
+        {
+          "textZh": "由圖 $L_{1}:2x+ay=b$、$L_{2}:cx+y=d$ 的斜率與截距",
+          "textEn": "From slopes and intercepts of $L_{1},L_{2}$"
+        },
+        {
+          "textZh": "推得 I、II 成立，III 不必然，選 B",
+          "textEn": "I and II hold, III not necessarily, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "steps": [
+        {
+          "textZh": "$f(2m+1)=2(2m+1)^{2}+(2m+1)-3$",
+          "textEn": "$f(2m+1)=2(2m+1)^{2}+(2m+1)-3$"
+        },
+        {
+          "textZh": "$=8m^{2}+8m+2+2m+1-3=8m^{2}+10m$，選 C",
+          "textEn": "$=8m^{2}+10m$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "steps": [
+        {
+          "textZh": "可被 $x-1$ 整除 $\\Rightarrow g(1)=1+a+b=0$",
+          "textEn": "Divisible by $x-1 \\Rightarrow g(1)=1+a+b=0$"
+        },
+        {
+          "textZh": "$g(-1)=1+a+b=0$（因 $x^{8}$ 偶次），餘數 $=0$，選 C",
+          "textEn": "$g(-1)=1+a+b=0$; remainder $=0$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "steps": [
+        {
+          "textZh": "$A=80000(1+\\tfrac{0.03}{12})^{24}$",
+          "textEn": "$A=80000(1+\\tfrac{0.03}{12})^{24}$"
+        },
+        {
+          "textZh": "利息 $\\approx 84941-80000=4941$，選 A",
+          "textEn": "Interest $\\approx 4941$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "steps": [
+        {
+          "textZh": "$3a=5b \\Rightarrow b=\\tfrac{3a}{5}$；$c=\\tfrac{7a}{2}$",
+          "textEn": "$b=\\tfrac{3a}{5}$, $c=\\tfrac{7a}{2}$"
+        },
+        {
+          "textZh": "$\\dfrac{2a+\\tfrac{3a}{5}}{a+\\tfrac{21a}{2}}=\\dfrac{26}{115}$，選 B",
+          "textEn": "$=\\dfrac{26}{115}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "steps": [
+        {
+          "textZh": "$w=\\dfrac{k\\sqrt{u}}{v^{2}} \\Rightarrow k=\\dfrac{w v^{2}}{\\sqrt{u}}$",
+          "textEn": "$w=\\dfrac{k\\sqrt{u}}{v^{2}} \\Rightarrow k=\\dfrac{w v^{2}}{\\sqrt{u}}$"
+        },
+        {
+          "textZh": "平方：$\\dfrac{w^{2}v^{4}}{u}$ 為常數，選 D",
+          "textEn": "Square: $\\dfrac{w^{2}v^{4}}{u}$ constant, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "steps": [
+        {
+          "textZh": "$a_{m+2}=a_{m}+a_{m+1}$；$a_{5}=a_{3}+a_{4}$，$a_{6}=a_{4}+a_{5}$",
+          "textEn": "$a_{5}=a_{3}+a_{4}$, $a_{6}=a_{4}+a_{5}$"
+        },
+        {
+          "textZh": "$95=a_{4}+(23+a_{4}) \\Rightarrow a_{4}=36$，$a_{5}=59$，選 A",
+          "textEn": "$a_{4}=36$, $a_{5}=59$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "steps": [
+        {
+          "textZh": "$\\tfrac{2x+1}{3}\\ge x-3 \\Rightarrow x\\le 10$",
+          "textEn": "$\\tfrac{2x+1}{3}\\ge x-3 \\Rightarrow x\\le 10$"
+        },
+        {
+          "textZh": "$4x+9<1 \\Rightarrow x<-2$；並集為 $x\\le 10$，選 C",
+          "textEn": "$4x+9<1 \\Rightarrow x<-2$; union $x\\le 10$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "steps": [
+        {
+          "textZh": "各邊準確至最接近 cm，最大絕對誤差 $0.5$",
+          "textEn": "Each length correct to nearest cm, max error $0.5$"
+        },
+        {
+          "textZh": "面積範圍為 $21.25\\le x<42.25$，選 D",
+          "textEn": "Area range $21.25\\le x<42.25$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "steps": [
+        {
+          "textZh": "三角柱：底為直角三角形面積 $\\times$ 長",
+          "textEn": "Triangular prism: (triangle area) $\\times$ length"
+        },
+        {
+          "textZh": "計得體積 $=360$ cm$^{3}$，選 A",
+          "textEn": "Volume $=360$ cm$^{3}$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "steps": [
+        {
+          "textZh": "$BE:EC=5:3$，$[ABF]=120$；$[ABF]:[FBE]$ 及仿射面積比",
+          "textEn": "$BE:EC=5:3$, $[ABF]=120$; use affine area ratios"
+        },
+        {
+          "textZh": "計得 $[CDFE]=237$ cm$^{2}$，選 B",
+          "textEn": "$[CDFE]=237$ cm$^{2}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "steps": [
+        {
+          "textZh": "$OE=18$，$AF=9,DF=39 \\Rightarrow AD=48$，半徑 $OA$",
+          "textEn": "$OE=18$, $AD=48$; radius $OA$"
+        },
+        {
+          "textZh": "由垂直關係求得扇形 $OBC=75\\pi$，選 B",
+          "textEn": "Sector $OBC=75\\pi$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "steps": [
+        {
+          "textZh": "$AE=AF$、$\\angle BAD=110^\\circ \\Rightarrow \\angle AEF=\\angle AFE=35^\\circ$",
+          "textEn": "$AE=AF$, $\\angle BAD=110^\\circ \\Rightarrow \\angle AEF=35^\\circ$"
+        },
+        {
+          "textZh": "由 $\\angle ECF=42^\\circ$ 及菱形性質得 $\\angle BEC=76^\\circ$，選 A",
+          "textEn": "With $\\angle ECF=42^\\circ$, $\\angle BEC=76^\\circ$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "steps": [
+        {
+          "textZh": "正五邊形內角 $108^\\circ$，對角線交點",
+          "textEn": "Regular pentagon, interior $108^\\circ$"
+        },
+        {
+          "textZh": "I、II、III 皆成立，選 D",
+          "textEn": "I, II and III all true, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "steps": [
+        {
+          "textZh": "正方形 $ABCD$，$BE=8$，$EF=10 \\Rightarrow BF=6$（$6$-$8$-$10$）",
+          "textEn": "Square, $BE=8$, $EF=10 \\Rightarrow BF=6$"
+        },
+        {
+          "textZh": "邊長 $=\\tfrac{BF\\cdot BE?}{}$ 由相似求 $DF=30$，選 C",
+          "textEn": "By similar triangles $DF=30$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "steps": [
+        {
+          "textZh": "$E,F$ 三等分 $AB$，$\\angle ABC=\\angle BAD=90^\\circ$",
+          "textEn": "$E,F$ trisect $AB$; $\\angle ABC=\\angle BAD=90^\\circ$"
+        },
+        {
+          "textZh": "由投影關係，II、III 必真，I 不必然，選 D",
+          "textEn": "II and III must hold, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "steps": [
+        {
+          "textZh": "$BD=DE \\Rightarrow \\angle DBE=\\angle E$；$\\angle BAC=66^\\circ,\\angle ABD=30^\\circ$",
+          "textEn": "$BD=DE \\Rightarrow \\angle DBE=\\angle E$"
+        },
+        {
+          "textZh": "由圓內接及外角關係得 $\\angle CED=28^\\circ$，選 B",
+          "textEn": "$\\angle CED=28^\\circ$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "steps": [
+        {
+          "textZh": "八個相同正方形排成對稱圖形",
+          "textEn": "Eight identical squares in a symmetric figure"
+        },
+        {
+          "textZh": "旋轉對稱重數 $=4$，選 D",
+          "textEn": "Rotational symmetry order $=4$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "steps": [
+        {
+          "textZh": "$C,D,E$ 相鄰極角相差 $90^\\circ$，$OC\\perp OD$ 等",
+          "textEn": "Adjacent polar angles differ by $90^\\circ$"
+        },
+        {
+          "textZh": "$CD=25,DE=17,CE=?$，周界 $=70$，選 B",
+          "textEn": "Perimeter $=70$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "steps": [
+        {
+          "textZh": "$L_{2}:12x-4y-11=0$ 即 $3x-y-\\tfrac{11}{4}=0$，與 $L_{1}$ 平行",
+          "textEn": "$L_{2}$ is parallel to $L_{1}$"
+        },
+        {
+          "textZh": "軌跡為兩平行線的中線：$24x-8y+17=0$，選 A",
+          "textEn": "Locus is the mid-line: $24x-8y+17=0$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "steps": [
+        {
+          "textZh": "$L_{1}$ 交 $y$ 軸於 $(0,12)$；$L_{2}\\perp L_{1}$ 過該點",
+          "textEn": "$L_{1}$ meets $y$-axis at $(0,12)$; $L_{2}\\perp L_{1}$ there"
+        },
+        {
+          "textZh": "$L_{1}$ 交 $x$ 軸 $(9,0)$，三角形面積 $=150$，選 B",
+          "textEn": "Triangle area $=150$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "steps": [
+        {
+          "textZh": "$x^{2}+y^{2}-6x+2y+\\tfrac{6}{5}=0$，圓心 $(3,-1)$，$r^{2}=10-\\tfrac{6}{5}=\\tfrac{44}{5}$",
+          "textEn": "Centre $(3,-1)$, $r^{2}=\\tfrac{44}{5}$"
+        },
+        {
+          "textZh": "$r\\approx2.97$，周界 $=2\\pi r\\approx18.7<20$，選 B",
+          "textEn": "Circumference $\\approx18.7<20$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "steps": [
+        {
+          "textZh": "$7$ 卡取 $2$：$C^{7}_{2}=21$ 種",
+          "textEn": "$C^{7}_{2}=21$ ways"
+        },
+        {
+          "textZh": "和為 $5$ 的組合（$1{+}4,2{+}3$）共 $5$ 種，$P=\\tfrac{5}{21}$，選 D",
+          "textEn": "$5$ favourable, $P=\\tfrac{5}{21}$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "steps": [
+        {
+          "textZh": "總頁數 $=10\\times 132=1320$；$6$ 本 $=6\\times 108=648$",
+          "textEn": "Total $=1320$; six $=648$"
+        },
+        {
+          "textZh": "餘 $4$ 本平均 $=\\tfrac{1320-648}{4}=168$，選 D",
+          "textEn": "Remaining mean $=\\tfrac{672}{4}=168$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "steps": [
+        {
+          "textZh": "四分位距 $\\le 25$ 限制 $a,b$ 的範圍",
+          "textEn": "IQR $\\le 25$ constrains $a,b$"
+        },
+        {
+          "textZh": "推得 I、II 必真，III 不必然，選 C",
+          "textEn": "I and II must hold, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "steps": [
+        {
+          "textZh": "拋物線關於 $x=?$ 對稱；$y=f(-x+11)$ 為水平反射平移",
+          "textEn": "$y=f(-x+11)$ is a horizontal reflection/translation"
+        },
+        {
+          "textZh": "與圖一致，選 A",
+          "textEn": "Consistent with the figure, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "steps": [
+        {
+          "textZh": "由圖 $y=\\log_{a}x,\\ y=\\log_{b}x$ 的位置",
+          "textEn": "From positions of $y=\\log_{a}x,\\log_{b}x$"
+        },
+        {
+          "textZh": "$a>b$（II）及比例式 III 成立，I 不必然，選 A",
+          "textEn": "II and III hold, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "steps": [
+        {
+          "textZh": "斜率 $=\\dfrac{10-4}{5-1}=\\tfrac{3}{2}=k$",
+          "textEn": "Slope $=\\dfrac{10-4}{5-1}=\\tfrac{3}{2}=k$"
+        },
+        {
+          "textZh": "$\\log_{3}y=k\\log_{3}x+\\log_{3}A \\Rightarrow k=\\tfrac{3}{2}$，選 B",
+          "textEn": "$k=\\tfrac{3}{2}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "steps": [
+        {
+          "textZh": "在可行域頂點求 $5x+6y+206$",
+          "textEn": "Evaluate $5x+6y+206$ at vertices"
+        },
+        {
+          "textZh": "最小值於某頂點 $=150$，選 C",
+          "textEn": "Least value $=150$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "steps": [
+        {
+          "textZh": "$a_{n}=S_{n}-S_{n-1}=12n-7$（$n\\ge2$），$a_{1}=S_{1}=5$",
+          "textEn": "$a_{n}=12n-7$ ($n\\ge2$), $a_{1}=5$"
+        },
+        {
+          "textZh": "只有 II（首項 $5$）必真，選 C",
+          "textEn": "Only II holds, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "steps": [
+        {
+          "textZh": "$m,n$ 為 $2t^{2}+7t-15=0$ 的根：和 $=-\\tfrac{7}{2}$，積 $=-\\tfrac{15}{2}$",
+          "textEn": "$m,n$ roots of $2t^{2}+7t-15=0$: sum $-\\tfrac{7}{2}$, product $-\\tfrac{15}{2}$"
+        },
+        {
+          "textZh": "$(m+3)(n+3)=mn+3(m+n)+9=-\\tfrac{15}{2}-\\tfrac{21}{2}+9=-9$，選 D",
+          "textEn": "$=-9$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "steps": [
+        {
+          "textZh": "$\\dfrac{5+10i}{1-2i}\\cdot\\dfrac{1+2i}{1+2i}=\\dfrac{(5+10i)(1+2i)}{5}$",
+          "textEn": "Multiply by $\\dfrac{1+2i}{1+2i}$"
+        },
+        {
+          "textZh": "分子實部 $=5-20=-15$，$\\div5=-3$，選 A",
+          "textEn": "Real part $=\\tfrac{-15}{5}=-3$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "steps": [
+        {
+          "textZh": "$6\\cos^{2}x-\\cos x-5=0 \\Rightarrow \\cos x=1$ 或 $-\\tfrac{5}{6}$",
+          "textEn": "$6\\cos^{2}x-\\cos x-5=0 \\Rightarrow \\cos x=1$ or $-\\tfrac{5}{6}$"
+        },
+        {
+          "textZh": "$0<x<360^\\circ$：$\\cos x=1$ 無解，$\\cos x=-\\tfrac{5}{6}$ 給 $2$ 根，選 D",
+          "textEn": "$\\cos x=-\\tfrac{5}{6}$ gives $2$ roots, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "steps": [
+        {
+          "textZh": "切線弦角 $\\angle ADE?$；$AB=CD$、$\\angle BAT=24^\\circ,\\angle AED=72^\\circ$",
+          "textEn": "Tangent-chord angles with $AB=CD$"
+        },
+        {
+          "textZh": "推得 $\\angle ABC=78^\\circ$，選 C",
+          "textEn": "$\\angle ABC=78^\\circ$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "steps": [
+        {
+          "textZh": "$P=(\\tfrac{a}{2},0),Q=(0,\\tfrac{a}{5})$，$R$ 在 $y$ 軸",
+          "textEn": "$P=(\\tfrac{a}{2},0),Q=(0,\\tfrac{a}{5})$, $R$ on $y$-axis"
+        },
+        {
+          "textZh": "垂心 $x$ 坐標 $=10$ 條件求得 $R$ 的 $y$ 坐標 $=4$，選 A",
+          "textEn": "Orthocentre $x=10 \\Rightarrow R_y=4$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "steps": [
+        {
+          "textZh": "$DX=9,EX=4$；$BX$ 至平面 $ABGF$",
+          "textEn": "$DX=9,EX=4$; $BX$ to plane $ABGF$"
+        },
+        {
+          "textZh": "計得 $\\cos\\theta=\\tfrac{12}{13}$，選 A",
+          "textEn": "$\\cos\\theta=\\tfrac{12}{13}$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "steps": [
+        {
+          "textZh": "同性別 $3$ 人：$C^{14}_{3}+C^{15}_{3}$",
+          "textEn": "Same gender: $C^{14}_{3}+C^{15}_{3}$"
+        },
+        {
+          "textZh": "$=364+455=819$，選 D",
+          "textEn": "$=364+455=819$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "steps": [
+        {
+          "textZh": "John 於第 $1,3,5,\\ldots$ 次擲；每次擲得 '5' 的概率 $\\tfrac{1}{6}$，停止概率 $\\tfrac{2}{6}$",
+          "textEn": "John throws on odd turns; P('5')$=\\tfrac{1}{6}$, P(stop)$=\\tfrac{1}{3}$"
+        },
+        {
+          "textZh": "$P=\\tfrac{1/6}{1-(2/3)(2/3)}\\cdot?=\\tfrac{3}{10}$，選 B",
+          "textEn": "Sum of geometric series $=\\tfrac{3}{10}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "steps": [
+        {
+          "textZh": "$-3=\\dfrac{50-74}{\\text{sd}} \\Rightarrow \\text{sd}=8$",
+          "textEn": "$-3=\\dfrac{50-74}{\\text{sd}} \\Rightarrow \\text{sd}=8$"
+        },
+        {
+          "textZh": "Susan：$\\dfrac{90-74}{8}=2$，選 C",
+          "textEn": "Susan: $\\dfrac{90-74}{8}=2$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "steps": [
+        {
+          "textZh": "方差與位置無關，只受間距影響；等差數列末 $6$ 項間距同首 $6$ 項",
+          "textEn": "Variance depends on spacing, not position; same common difference"
+        },
+        {
+          "textZh": "故末 $6$ 項方差 $=16$，選 C",
+          "textEn": "Variance of last 6 terms $=16$, choose C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+ "paperTitleZh": "歷年模仿卷（2018）— 試卷一",
+ "paperTitle": "Past Paper Simulation (2018) — Paper 1",
+ "year": 2026,
+ "similarTo": "2018",
+ "durationMinutes": 135,
+ "totalMarks": 105,
+ "mathDelimiter": "$...$ (inline TeX)",
+ "instructionsZh": "1. 本試卷分為三部分：甲部(1)、甲部(2)及乙部。\n2. 所有題目均須作答。\n3. 除特別指明外，所有答案須以真確值或準確至三位有效數字表示。\n4. 除特別指明外，數值答案的單位須清楚寫明。\n5. 本試卷中的圖形不一定依比例繪畫。",
+ "instructionsEn": "1. This paper consists of THREE sections, A(1), A(2) and B.\n2. Attempt ALL questions in this paper. All working must be clearly shown.\n3. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures.\n4. Unless otherwise specified, the unit of a numerical answer should be clearly stated.\n5. The diagrams in this paper are not necessarily drawn to scale.",
+ "sections": [
+  {
+   "id": "sectionA1",
+   "titleZh": "甲部(1)",
+   "titleEn": "Section A(1)",
+   "marks": 35,
+   "deductionCapUpp": 1
+  },
+  {
+   "id": "sectionA2",
+   "titleZh": "甲部(2)",
+   "titleEn": "Section A(2)",
+   "marks": 35,
+   "deductionCapUpp": 1
+  },
+  {
+   "id": "sectionB",
+   "titleZh": "乙部",
+   "titleEn": "Section B",
+   "marks": 35,
+   "deductionCapUpp": 0
+  }
+ ],
+ "questions": [
+  {
+   "questionNumber": 1,
+   "section": "sectionA1",
+   "difficultyGrade": "B-",
+   "difficultyScore": 3,
+   "categoryZh": "主項變換",
+   "categoryEn": "Change of Subject",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "使 $b$ 成為公式 $3(2b-5c)=4b+9$ 的主項。",
+     "questionTextEn": "Make $b$ the subject of the formula $3(2b-5c)=4b+9$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 2,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "指數律",
+   "categoryEn": "Laws of Indices",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "化簡 $\\dfrac{(m^{3}n^{-2})^{2}}{m^{-1}n^{4}}$ ，並以正指數表示你的答案。",
+     "questionTextEn": "Simplify $\\dfrac{(m^{3}n^{-2})^{2}}{m^{-1}n^{4}}$ and express your answer with positive indices.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 3,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "近似值",
+   "categoryEn": "Approximation",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "把 $372.658$ 向上捨入至最接近的整數。",
+     "questionTextEn": "Round up $372.658$ to the nearest integer.",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "把 $372.658$ 向下捨入至一位小數。",
+     "questionTextEn": "Round down $372.658$ to $1$ decimal place.",
+     "totalMarks": 1
+    },
+    {
+     "label": "c",
+     "questionTextZh": "把 $372.658$ 四捨五入至兩位有效數字。",
+     "questionTextEn": "Round off $372.658$ to $2$ significant figures.",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 4,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "概率",
+   "categoryEn": "Probability",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "箱中有 $n$ 個白球、$6$ 個黑球及 $9$ 個紅球。若從箱中隨機抽出一球，抽得紅球的概率為 $\\dfrac{3}{8}$ 。求 $n$ 的值。",
+     "questionTextEn": "A box contains $n$ white balls, $6$ black balls and $9$ red balls. If a ball is randomly drawn from the box, then the probability of drawing a red ball is $\\dfrac{3}{8}$ . Find the value of $n$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 5,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 4,
+   "categoryZh": "因式分解",
+   "categoryEn": "Factorization",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "因式分解 $4r^{2}-9s^{2}$ 。",
+     "questionTextEn": "Factorize $4r^{2}-9s^{2}$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "因式分解 $4r^{2}-9s^{2}-2r-3s$ 。",
+     "questionTextEn": "Factorize $4r^{2}-9s^{2}-2r-3s$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 6,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "不等式",
+   "categoryEn": "Inequalities",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "求同時滿足 $\\dfrac{3x-1}{2}<x+4$ 及 $x+7\\ge 0$ 的 $x$ 的取值範圍。",
+     "questionTextEn": "Find the range of values of $x$ which satisfy both $\\dfrac{3x-1}{2}<x+4$ and $x+7\\ge 0$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "寫出同時滿足 (a) 中兩個不等式的最大整數。",
+     "questionTextEn": "Write down the greatest integer satisfying both inequalities in (a).",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 7,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "百分法",
+   "categoryEn": "Percentages",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一花瓶的標價比其成本高 $30\\%$ 。以標價的六折出售該花瓶會虧損 $\\$88$ 。求該花瓶的標價。",
+     "questionTextEn": "The marked price of a vase is $30\\%$ above its cost. A loss of $\\$88$ is made by selling the vase at a discount of $40\\%$ on its marked price. Find the marked price of the vase.",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 8,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "圓的性質",
+   "categoryEn": "Properties of Circles",
+   "figureSpecId": "FIG-Q8",
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在圖一中，$ABCDE$ 為一圓。已知 $AB\\parallel ED$ 。$AD$ 與 $BE$ 相交於點 $F$ 。設 $\\angle BAD=\\theta$ 。以 $\\theta$ 表示 $x$ 及 $y$ 。",
+     "questionTextEn": "In Figure 1, $ABCDE$ is a circle. It is given that $AB\\parallel ED$ . $AD$ and $BE$ intersect at the point $F$ . Let $\\angle BAD=\\theta$ . Express $x$ and $y$ in terms of $\\theta$ .",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 9,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "速率（實際問題）",
+   "categoryEn": "Speed (Applications)",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一輛汽車以平均速率 $72$ km/h 由城市 $P$ 駛往城市 $Q$ ，然後以平均速率 $90$ km/h 由城市 $Q$ 駛往城市 $R$ 。已知整段旅程共 $210$ km ，需時 $161$ 分鐘。求汽車由城市 $P$ 駛往城市 $Q$ 所需的時間。",
+     "questionTextEn": "A car travels from city $P$ to city $Q$ at an average speed of $72$ km/h and then travels from city $Q$ to city $R$ at an average speed of $90$ km/h . It is given that the car travels $210$ km in $161$ minutes for the whole journey. How long does the car take to travel from city $P$ to city $Q$ ?",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 10,
+   "section": "sectionA2",
+   "difficultyGrade": "A-",
+   "difficultyScore": 5,
+   "categoryZh": "盒鬚圖",
+   "categoryEn": "Box-and-Whisker Diagrams",
+   "figureSpecId": "FIG-Q10",
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下面的盒鬚圖顯示 $A$ 公司 $X$ 組文員的年齡分佈。已知此分佈的分佈域及四分位數間距分別為 $40$ 及 $19$ 。（圖中五個標記由左至右為 最小值 $15$ 、下四分位數 $23$ 、中位數 $31$ 、上四分位數 $a$ 、最大值 $b$ 。）求 $a$ 及 $b$ 。",
+     "questionTextEn": "The box-and-whisker diagram below shows the distribution of the ages of the clerks in team $X$ of company $A$ . It is given that the range and the inter-quartile range of this distribution are $40$ and $19$ respectively. (From left to right the five marks are minimum $15$ , lower quartile $23$ , median $31$ , upper quartile $a$ , maximum $b$ .) Find $a$ and $b$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "$A$ 公司 $Y$ 組有五名文員，其中三名的年齡為 $38$ 歲。已知 $Y$ 組文員年齡的分佈域為 $20$ 。現把 $X$ 組及 $Y$ 組合併成一個部門。經理聲稱該部門文員年齡的分佈域與 $X$ 組文員年齡的分佈域必定相同。你是否同意？試解釋你的答案。",
+     "questionTextEn": "There are five clerks in team $Y$ of company $A$ and three of them are of age $38$ . It is given that the range of the ages of the clerks in team $Y$ is $20$ . Team $X$ and team $Y$ are now combined to form a section. The manager claims that the range of the ages of the clerks in the section and the range of the ages of the clerks in team $X$ must be the same. Do you agree? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 11,
+   "section": "sectionA2",
+   "difficultyGrade": "A-",
+   "difficultyScore": 6,
+   "categoryZh": "統計量",
+   "categoryEn": "Statistical Measures",
+   "figureSpecId": null,
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下表顯示某些家庭的子女數目的分佈。（子女數目 $0,1,2,3$ 的家庭數目分別為 $3,k,10,8$ ，其中 $k$ 為正整數。）若此分佈的眾數為 $2$ ，寫出\n(i) $k$ 的最小可能值；\n(ii) $k$ 的最大可能值。",
+     "questionTextEn": "The table below shows the distribution of the numbers of children of some families. (The numbers of families with $0,1,2,3$ children are $3,k,10,8$ respectively, where $k$ is a positive integer.) If the mode of the distribution is $2$ , write down\n(i) the least possible value of $k$ ;\n(ii) the greatest possible value of $k$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若此分佈的中位數為 $2$ ，寫出\n(i) $k$ 的最小可能值；\n(ii) $k$ 的最大可能值。",
+     "questionTextEn": "If the median of the distribution is $2$ , write down\n(i) the least possible value of $k$ ;\n(ii) the greatest possible value of $k$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "若此分佈的平均數為 $2$ ，求 $k$ 的值。",
+     "questionTextEn": "If the mean of the distribution is $2$ , find the value of $k$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 12,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 7,
+   "categoryZh": "餘式定理",
+   "categoryEn": "Remainder Theorem",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $f(x)=2x(x-1)^{2}+ax+b$ ，其中 $a$ 及 $b$ 為常數。已知 $x-2$ 為 $f(x)$ 的因式。當 $f(x)$ 除以 $x+1$ 時，餘數為 $15$ 。求 $a$ 及 $b$ 。",
+     "questionTextEn": "Let $f(x)=2x(x-1)^{2}+ax+b$ , where $a$ and $b$ are constants. It is given that $x-2$ is a factor of $f(x)$ . When $f(x)$ is divided by $x+1$ , the remainder is $15$ . Find $a$ and $b$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有人聲稱方程 $f(x)=0$ 至少有一個無理根。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Someone claims that the equation $f(x)=0$ has at least one irrational root. Do you agree? Explain your answer.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 13,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 8,
+   "categoryZh": "相似三角形",
+   "categoryEn": "Similar Triangles",
+   "figureSpecId": "FIG-Q13",
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在圖二中，$ABCD$ 為一梯形，其中 $\\angle ABC=90^\\circ$ 及 $AB\\parallel DC$ 。$E$ 為 $BC$ 上的點，使得 $\\angle AED=90^\\circ$ 。證明 $\\triangle ABE\\sim\\triangle ECD$ 。",
+     "questionTextEn": "In Figure 2, $ABCD$ is a trapezium with $\\angle ABC=90^\\circ$ and $AB\\parallel DC$ . $E$ is a point lying on $BC$ such that $\\angle AED=90^\\circ$ . Prove that $\\triangle ABE\\sim\\triangle ECD$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知 $AB=12$ cm ，$AE=20$ cm 及 $CE=30$ cm 。\n(i) 求 $CD$ 的長度。\n(ii) 求 $\\triangle ADE$ 的面積。\n(iii) $AD$ 上是否存在一點 $F$ ，使得 $E$ 與 $F$ 之間的距離小於 $23$ cm ？試解釋你的答案。",
+     "questionTextEn": "It is given that $AB=12$ cm , $AE=20$ cm and $CE=30$ cm .\n(i) Find the length of $CD$ .\n(ii) Find the area of $\\triangle ADE$ .\n(iii) Is there a point $F$ lying on $AD$ such that the distance between $E$ and $F$ is less than $23$ cm ? Explain your answer.",
+     "totalMarks": 6
+    }
+   ]
+  },
+  {
+   "questionNumber": 14,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 9,
+   "categoryZh": "立體圖形的體積",
+   "categoryEn": "Volume of Solids",
+   "figureSpecId": null,
+   "totalMarks": 9,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一底半徑為 $8$ cm 、高為 $64$ cm 的直立圓柱形容器及一底半徑為 $20$ cm 、高為 $60$ cm 的倒立直立圓錐形器皿垂直放置。容器內盛滿水。現把容器內的水倒入器皿中。以 $\\pi$ 表示器皿中水的體積。",
+     "questionTextEn": "A right circular cylindrical container of base radius $8$ cm and height $64$ cm and an inverted right circular conical vessel of base radius $20$ cm and height $60$ cm are held vertically. The container is fully filled with water. The water in the container is now poured into the vessel. Find the volume of water in the vessel in terms of $\\pi$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求器皿中水的深度。",
+     "questionTextEn": "Find the depth of water in the vessel.",
+     "totalMarks": 4
+    },
+    {
+     "label": "c",
+     "questionTextZh": "若把一半徑為 $14$ cm 的實心金屬球放入器皿中，且該球完全浸沒於水中，水會否溢出？試解釋你的答案。",
+     "questionTextEn": "If a solid metal sphere of radius $14$ cm is then put into the vessel and the sphere is totally immersed in the water, will the water overflow? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 15,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 3,
+   "categoryZh": "排列",
+   "categoryEn": "Permutations",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一個八位數的電話號碼由 $2,3,4,5,6,7,8$ 及 $9$ 的一個排列組成。可組成多少個不同的八位數電話號碼？",
+     "questionTextEn": "An eight-digit phone number is formed by a permutation of $2,3,4,5,6,7,8$ and $9$ . How many different eight-digit phone numbers can be formed?",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若一個八位數電話號碼的第一位數字及最後一位數字均為奇數，可組成多少個不同的八位數電話號碼？",
+     "questionTextEn": "If the first digit and the last digit of an eight-digit phone number are odd numbers, how many different eight-digit phone numbers can be formed?",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 16,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 5,
+   "categoryZh": "等比數列",
+   "categoryEn": "Geometric Sequences",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某等比數列的第 $3$ 項及第 $4$ 項分別為 $45$ 及 $135$ 。求該數列的第 $1$ 項。",
+     "questionTextEn": "The 3rd term and the 4th term of a geometric sequence are $45$ and $135$ respectively. Find the 1st term of the sequence.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求最大的 $n$ 值，使該數列的第 $(n+1)$ 項與第 $(2n+1)$ 項之和小於 $5\\times 10^{14}$ 。",
+     "questionTextEn": "Find the greatest value of $n$ such that the sum of the $(n+1)$th term and the $(2n+1)$th term is less than $5\\times 10^{14}$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 17,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 7,
+   "categoryZh": "立體圖形的三角學",
+   "categoryEn": "Trigonometry in 3-D",
+   "figureSpecId": "FIG-Q17",
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在圖三(a)中，$ABCD$ 為一平行四邊形形狀的紙卡。已知 $AB=60$ cm ，$\\angle ABD=20^\\circ$ 及 $\\angle BAD=120^\\circ$ 。求 $AD$ 的長度。",
+     "questionTextEn": "In Figure 3(a), $ABCD$ is a paper card in the shape of a parallelogram. It is given that $AB=60$ cm , $\\angle ABD=20^\\circ$ and $\\angle BAD=120^\\circ$ . Find the length of $AD$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "把圖三(a)中的紙卡沿 $BD$ 摺起，使 $A$ 與 $C$ 之間的距離為 $40$ cm （見圖三(b)）。\n(i) 求 $\\angle ABC$ 。\n(ii) 求平面 $ABD$ 與平面 $BCD$ 之間的交角。",
+     "questionTextEn": "The paper card in Figure 3(a) is folded along $BD$ such that the distance between $A$ and $C$ is $40$ cm (see Figure 3(b)).\n(i) Find $\\angle ABC$ .\n(ii) Find the angle between the plane $ABD$ and the plane $BCD$ .",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 18,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 8,
+   "categoryZh": "部分變分",
+   "categoryEn": "Partial Variation",
+   "figureSpecId": null,
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知 $f(x)$ 一部分隨 $x^{2}$ 而變，另一部分隨 $x$ 而變。已知 $f(1)=-5$ 及 $f(7)=7$ 。求 $f(x)$ 。",
+     "questionTextEn": "It is given that $f(x)$ partly varies as $x^{2}$ and partly varies as $x$ . Suppose that $f(1)=-5$ and $f(7)=7$ . Find $f(x)$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "設 $Q$ 為 $y=f(x)$ 圖像的頂點，$R$ 為 $y=27-f(x)$ 圖像的頂點。\n(i) 利用配方法，求 $Q$ 的坐標。\n(ii) 寫出 $R$ 的坐標。\n(iii) 點 $S$ 的坐標為 $(21,0)$ 。設 $P$ 為 $\\triangle QRS$ 的外心。描述 $P$ 、$Q$ 及 $R$ 之間的幾何關係。試解釋你的答案。",
+     "questionTextEn": "Let $Q$ be the vertex of the graph of $y=f(x)$ and $R$ be the vertex of the graph of $y=27-f(x)$ .\n(i) Using the method of completing the square, find the coordinates of $Q$ .\n(ii) Write down the coordinates of $R$ .\n(iii) The coordinates of the point $S$ are $(21,0)$ . Let $P$ be the circumcentre of $\\triangle QRS$ . Describe the geometric relationship between $P$ , $Q$ and $R$ . Explain your answer.",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 19,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 12,
+   "categoryZh": "圓的方程",
+   "categoryEn": "Equations of Circles",
+   "figureSpecId": null,
+   "totalMarks": 12,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圓 $C$ 的圓心坐標為 $(8,2)$ 。以 $r$ 表示 $C$ 的半徑。設 $L$ 為直線 $kx-5y-21=0$ ，其中 $k$ 為常數。已知 $L$ 為 $C$ 的切線。以 $r$ 表示 $C$ 的方程。並以 $k$ 表示 $r^{2}$ 。",
+     "questionTextEn": "The coordinates of the centre of the circle $C$ are $(8,2)$ . Denote the radius of $C$ by $r$ . Let $L$ be the straight line $kx-5y-21=0$ , where $k$ is a constant. It is given that $L$ is a tangent to $C$ . Find the equation of $C$ in terms of $r$ . Hence, express $r^{2}$ in terms of $k$ .",
+     "totalMarks": 4
+    },
+    {
+     "label": "b",
+     "questionTextZh": "$L$ 通過點 $D(18,39)$ 。\n(i) 求 $r$ 。\n(ii) 已知 $L$ 與 $y$ 軸相交於點 $E$ 。設 $F$ 為一點，使得 $C$ 為 $\\triangle DEF$ 的內切圓。$\\triangle DEF$ 是否鈍角三角形？試解釋你的答案。",
+     "questionTextEn": "$L$ passes through the point $D(18,39)$ .\n(i) Find $r$ .\n(ii) It is given that $L$ cuts the $y$-axis at the point $E$ . Let $F$ be a point such that $C$ is the inscribed circle of $\\triangle DEF$ . Is $\\triangle DEF$ an obtuse-angled triangle? Explain your answer.",
+     "totalMarks": 8
+    }
+   ]
+  }
+ ]
+}
