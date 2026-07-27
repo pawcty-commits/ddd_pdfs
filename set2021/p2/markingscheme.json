@@ -1,0 +1,525 @@
+{
+  "schemaVersion": "DSE_Marking_Rules v1.0",
+  "year": 2026,
+  "similarTo": "2021",
+  "paper": "Paper 2",
+  "totalQuestions": 45,
+  "totalMarks": 45,
+  "mathDelimiter": "$...$ (inline TeX)",
+  "globalRules": {
+    "scoring": "1 mark per correct answer; 0 for wrong or blank; no negative marking.",
+    "answerKeyOnly": true,
+    "answerKeyDistribution": "Correct options placed by plain random shuffle; the A/B/C/D spread is left to chance and intentionally NOT balanced.",
+    "note": "mcType 'roman' = I/II/III which-must-be-true item; distractorRationale documents the error each wrong single-answer option targets."
+  },
+  "answerKey": [
+    {
+      "questionNumber": 1,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Laws of Indices",
+      "difficultyGrade": "B-",
+      "distractorRationale": {
+        "A": "sign error on the index",
+        "B": "multiplied the indices",
+        "D": "wrong base"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Solving Equations",
+      "difficultyGrade": "B-",
+      "distractorRationale": {
+        "A": "failed to cancel the am terms",
+        "B": "sign error",
+        "D": "inverted"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Algebraic Fractions",
+      "difficultyGrade": "B-",
+      "distractorRationale": {
+        "A": "added instead of subtracted",
+        "C": "sign slip",
+        "D": "wrong difference of squares"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Factorization",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "B": "sign error",
+        "C": "grouped the wrong pair",
+        "D": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Approximation",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "A": "used the wrong precision",
+        "C": "wrong inequality signs",
+        "D": "rounded down instead"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Identities",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "B": "inverted the ratio",
+        "C": "compared only one coefficient",
+        "D": "inverted"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Functions",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "B": "sign error",
+        "C": "gave h instead of k",
+        "D": "copied the given value"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Remainder Theorem",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "sign error",
+        "B": "sign error",
+        "C": "forgot the leading coefficient"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Probability",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "B": "did not condition on not overweight",
+        "C": "used the wrong denominator",
+        "D": "miscounted the overlap"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Inequalities",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "A": "swapped the inequality signs",
+        "C": "only the first inequality",
+        "D": "only the second inequality"
+      }
+    },
+    {
+      "questionNumber": 11,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Algebraic Fractions",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "inverted the ratio",
+        "C": "arithmetic slip",
+        "D": "sign error"
+      }
+    },
+    {
+      "questionNumber": 12,
+      "correctAnswer": "C",
+      "mcType": "roman",
+      "categoryEn": "Variation",
+      "difficultyGrade": "B+",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 13,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Patterns and Sequences",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "A": "summed one term too many",
+        "B": "summed one term too few",
+        "D": "used the wrong first term"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "correctAnswer": "D",
+      "mcType": "roman",
+      "categoryEn": "Graphs of Quadratic Functions",
+      "difficultyGrade": "B",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 15,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Mensuration",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "halved the base area",
+        "C": "doubled the base area",
+        "D": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Mensuration",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "gave the smaller radius",
+        "B": "used the curved surface only",
+        "C": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "correctAnswer": "B",
+      "mcType": "roman",
+      "categoryEn": "Sectors",
+      "difficultyGrade": "A-",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 18,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Similar Triangles",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "A": "gave BE",
+        "B": "took the mid-point",
+        "D": "used the wrong ratio"
+      }
+    },
+    {
+      "questionNumber": 19,
+      "correctAnswer": "A",
+      "mcType": "roman",
+      "categoryEn": "Rectangles",
+      "difficultyGrade": "A-",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 20,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Squares",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "A": "guessed from the diagram",
+        "B": "guessed from the diagram",
+        "C": "guessed from the diagram"
+      }
+    },
+    {
+      "questionNumber": 21,
+      "correctAnswer": "C",
+      "mcType": "roman",
+      "categoryEn": "Polygons",
+      "difficultyGrade": "A-",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 22,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Properties of Circles",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "A": "used the wrong arc",
+        "B": "added instead of subtracted",
+        "D": "halved the wrong angle"
+      }
+    },
+    {
+      "questionNumber": 23,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Transformation and Coordinates",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "rotated anticlockwise",
+        "B": "gave Q instead of R",
+        "D": "sign error"
+      }
+    },
+    {
+      "questionNumber": 24,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Trigonometric Ratios",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "A": "gave BC",
+        "C": "gave AC",
+        "D": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Locus",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "used the slope of MN",
+        "B": "halved the constant",
+        "C": "did not simplify"
+      }
+    },
+    {
+      "questionNumber": 26,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Locus",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "A": "confused with the in-centre",
+        "C": "confused with the centroid",
+        "D": "confused with the orthocentre"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Probability",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "forgot the combination for green",
+        "C": "included 3 red",
+        "D": "miscounted"
+      }
+    },
+    {
+      "questionNumber": 28,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Stem-and-Leaf Diagrams",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "B": "took only the 9th datum",
+        "C": "gave the mode",
+        "D": "took only the 10th datum"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Box-and-Whisker Diagrams",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "A": "gave the range",
+        "B": "gave the median",
+        "C": "used the wrong quartiles"
+      }
+    },
+    {
+      "questionNumber": 30,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Mean",
+      "difficultyGrade": "B",
+      "distractorRationale": {
+        "A": "arithmetic slip",
+        "B": "used the wrong weights",
+        "D": "took a simple average"
+      }
+    },
+    {
+      "questionNumber": 31,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "H.C.F. and L.C.M.",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "B": "wrong y index",
+        "C": "gave the H.C.F.",
+        "D": "wrong z index"
+      }
+    },
+    {
+      "questionNumber": 32,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Number Systems",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "carry error",
+        "B": "shift error",
+        "D": "addition error"
+      }
+    },
+    {
+      "questionNumber": 33,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Logarithms",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "A": "multiplied instead of raising",
+        "B": "wrong index",
+        "C": "read the constant directly"
+      }
+    },
+    {
+      "questionNumber": 34,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Logarithms",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "A": "inverted the slope",
+        "B": "wrong constant",
+        "C": "took the slope as 1"
+      }
+    },
+    {
+      "questionNumber": 35,
+      "correctAnswer": "B",
+      "mcType": "roman",
+      "categoryEn": "Complex Numbers",
+      "difficultyGrade": "A",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 36,
+      "correctAnswer": "A",
+      "mcType": "roman",
+      "categoryEn": "Geometric Sequences",
+      "difficultyGrade": "A",
+      "distractorRationale": {}
+    },
+    {
+      "questionNumber": 37,
+      "correctAnswer": "D",
+      "mcType": "single",
+      "categoryEn": "Quadratic Inequalities",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "A": "sign error in the discriminant",
+        "B": "wrong direction",
+        "C": "only one side"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Rectangles",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "A": "gave EB",
+        "B": "used the wrong similar triangles",
+        "D": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 39,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Circles and Tangents",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "B": "copied the given angle",
+        "C": "guessed",
+        "D": "doubled the given angle"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "correctAnswer": "B",
+      "mcType": "single",
+      "categoryEn": "Straight Lines and Circles",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "A": "gave the half-chord",
+        "C": "gave the diameter",
+        "D": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 41,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Coordinate Geometry",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "B": "took the mid-point",
+        "C": "reflected the wrong point",
+        "D": "arithmetic slip"
+      }
+    },
+    {
+      "questionNumber": 42,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Permutations and Combinations",
+      "difficultyGrade": "B+",
+      "distractorRationale": {
+        "A": "used permutations",
+        "B": "chose students only",
+        "D": "chose teachers only"
+      }
+    },
+    {
+      "questionNumber": 43,
+      "correctAnswer": "C",
+      "mcType": "single",
+      "categoryEn": "Probability",
+      "difficultyGrade": "A",
+      "distractorRationale": {
+        "A": "only two draws",
+        "B": "four draws",
+        "D": "single draw"
+      }
+    },
+    {
+      "questionNumber": 44,
+      "correctAnswer": "A",
+      "mcType": "single",
+      "categoryEn": "Standard Scores",
+      "difficultyGrade": "A-",
+      "distractorRationale": {
+        "B": "used the difference directly",
+        "C": "used the score",
+        "D": "halved the difference"
+      }
+    },
+    {
+      "questionNumber": 45,
+      "correctAnswer": "C",
+      "mcType": "roman",
+      "categoryEn": "Arithmetic Sequences",
+      "difficultyGrade": "A",
+      "distractorRationale": {}
+    }
+  ]
+}

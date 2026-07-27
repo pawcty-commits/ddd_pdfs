@@ -1,0 +1,777 @@
+{
+  "year": 2026,
+  "paper": 2,
+  "similarTo": "2017",
+  "paperTitleZh": "歷年模仿卷（2017）— 試卷二 評分",
+  "paperTitle": "Past Paper Simulation (2017) — Paper 2 Marking",
+  "mathDelimiter": "$...$ (inline TeX)",
+  "answerKey": [
+    {
+      "questionNumber": 1,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 2,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 3,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 4,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 5,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 6,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 7,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 8,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 9,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 10,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 11,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 12,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 13,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 14,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 15,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 16,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 17,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 18,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 19,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 20,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 21,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 22,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 23,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 24,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 25,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 26,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 27,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 28,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 29,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 30,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 31,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 32,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 33,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 34,
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 35,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 36,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 37,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 38,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 39,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 40,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 41,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 42,
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 43,
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 44,
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 45,
+      "correctAnswer": "C"
+    }
+  ],
+  "solutions": [
+    {
+      "questionNumber": 1,
+      "steps": [
+        {
+          "textZh": "$2m^{2}-7mn+3n^{2}=(m-3n)(2m-n)$",
+          "textEn": "$2m^{2}-7mn+3n^{2}=(m-3n)(2m-n)$"
+        },
+        {
+          "textZh": "提取 $(m-3n)$：$(m-3n)(2m-n+1)$，選 A",
+          "textEn": "Take out $(m-3n)$: $(m-3n)(2m-n+1)$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "steps": [
+        {
+          "textZh": "$2^{-1}+2^{-3}=\\tfrac{1}{2}+\\tfrac{1}{8}=\\tfrac{5}{8}$",
+          "textEn": "$2^{-1}+2^{-3}=\\tfrac{5}{8}$"
+        },
+        {
+          "textZh": "倒數 $=\\tfrac{8}{5}$，選 B",
+          "textEn": "Reciprocal $=\\tfrac{8}{5}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "steps": [
+        {
+          "textZh": "$\\tfrac{a}{2}-\\tfrac{a}{8}=\\tfrac{3a}{8}=9$",
+          "textEn": "$\\tfrac{a}{2}-\\tfrac{a}{8}=\\tfrac{3a}{8}=9$"
+        },
+        {
+          "textZh": "$a=24$，選 A",
+          "textEn": "$a=24$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "steps": [
+        {
+          "textZh": "$\\tfrac{1}{97}=0.010309\\ldots$",
+          "textEn": "$\\tfrac{1}{97}=0.010309\\ldots$"
+        },
+        {
+          "textZh": "三位有效數字 $=0.0103$，選 B",
+          "textEn": "3 significant figures $=0.0103$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "steps": [
+        {
+          "textZh": "$5-x<3x-3 \\Rightarrow x>2$",
+          "textEn": "$5-x<3x-3 \\Rightarrow x>2$"
+        },
+        {
+          "textZh": "$8-4x>4 \\Rightarrow x<1$；取並集 $x<1$ 或 $x>2$，選 C",
+          "textEn": "$8-4x>4 \\Rightarrow x<1$; union $x<1$ or $x>2$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "steps": [
+        {
+          "textZh": "$f(3)-f(-3)=(27-12+k)-(27+12+k)$",
+          "textEn": "$f(3)-f(-3)=(27-12+k)-(27+12+k)$"
+        },
+        {
+          "textZh": "$=-24$，選 B",
+          "textEn": "$=-24$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "steps": [
+        {
+          "textZh": "可被 $x-7$ 整除 $\\Rightarrow p(7)=0 \\Rightarrow c=-21$",
+          "textEn": "Divisible by $x-7 \\Rightarrow p(7)=0 \\Rightarrow c=-21$"
+        },
+        {
+          "textZh": "餘數 $=p(-\\tfrac{1}{2})=\\tfrac{1}{2}+\\tfrac{11}{2}-21=-15$，選 B",
+          "textEn": "Remainder $=p(-\\tfrac{1}{2})=-15$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "steps": [
+        {
+          "textZh": "比較 $x^{2}+m(x+1)+28$ 與 $mx(x+3)+n(x-4)$ 的係數",
+          "textEn": "Compare coefficients of both sides"
+        },
+        {
+          "textZh": "解得 $m=4,\\ n=-8$，選 C",
+          "textEn": "Solving gives $m=4,\\ n=-8$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "steps": [
+        {
+          "textZh": "頂點 $x=-\\tfrac{5}{p}<0$ 且 $y=q$；由圖頂點在第三象限",
+          "textEn": "Vertex $x=-\\tfrac{5}{p}$, $y=q$; from graph vertex in 3rd quadrant"
+        },
+        {
+          "textZh": "開口向上 $\\Rightarrow p>0$，頂點在 $x$ 軸下 $\\Rightarrow q<0$，選 D",
+          "textEn": "$p>0$ and $q<0$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "steps": [
+        {
+          "textZh": "$A=2500(1+\\tfrac{0.06}{2})^{6}=2500(1.03)^{6}$",
+          "textEn": "$A=2500(1.03)^{6}$"
+        },
+        {
+          "textZh": "利息 $=A-2500\\approx 485$，選 C",
+          "textEn": "Interest $=A-2500\\approx 485$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "steps": [
+        {
+          "textZh": "面積比 $=1:25000^{2}$",
+          "textEn": "Area ratio $=1:25000^{2}$"
+        },
+        {
+          "textZh": "$3\\times 25000^{2}$ cm$^{2}=1.875\\times 10^{5}$ m$^{2}$，選 B",
+          "textEn": "$=1.875\\times 10^{5}$ m$^{2}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "steps": [
+        {
+          "textZh": "$y=c+kx^{2}$：$c+k=9,\\ c+9k=41 \\Rightarrow c=5,k=4$",
+          "textEn": "$y=c+kx^{2}$: $c=5,k=4$"
+        },
+        {
+          "textZh": "$x=5$：$y=5+4(25)=105$，選 A",
+          "textEn": "$x=5$: $y=105$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "steps": [
+        {
+          "textZh": "$a_{n}=1+(n-1)(n+2)$",
+          "textEn": "$a_{n}=1+(n-1)(n+2)$"
+        },
+        {
+          "textZh": "$a_{7}=1+6\\times 9=55$，選 D",
+          "textEn": "$a_{7}=1+54=55$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "steps": [
+        {
+          "textZh": "$[ABD]-[BCD]=6AD-6DC=24 \\Rightarrow AD-DC=4$，$AD+DC=14$",
+          "textEn": "$6AD-6DC=24 \\Rightarrow AD-DC=4$, $AD+DC=14$"
+        },
+        {
+          "textZh": "$AD=9,DC=5 \\Rightarrow AB=15,CB=13$，周界 $=42$，選 D",
+          "textEn": "$AD=9,DC=5$; perimeter $=15+13+14=42$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "steps": [
+        {
+          "textZh": "圓錐 $\\tfrac{1}{3}\\pi(2r)^{2}h=36\\pi \\Rightarrow r^{2}h=27$",
+          "textEn": "Cone $\\tfrac{1}{3}\\pi(2r)^{2}h=36\\pi \\Rightarrow r^{2}h=27$"
+        },
+        {
+          "textZh": "圓柱 $=\\pi r^{2}(3h)=81\\pi$，選 A",
+          "textEn": "Cylinder $=\\pi r^{2}(3h)=81\\pi$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "steps": [
+        {
+          "textZh": "以仿射座標計算面積比（比值與形狀無關）",
+          "textEn": "Compute area ratio via affine coordinates"
+        },
+        {
+          "textZh": "$[DFGH]:[ABG]=16:15 \\Rightarrow [DFGH]=144$，選 D",
+          "textEn": "$[DFGH]:[ABG]=16:15 \\Rightarrow 144$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "steps": [
+        {
+          "textZh": "由 $\\angle CDE=60^\\circ=\\angle B$ 及等邊性質",
+          "textEn": "Using $\\angle CDE=60^\\circ=\\angle B$ and the equilateral triangle"
+        },
+        {
+          "textZh": "計得 $CE=14$，選 B",
+          "textEn": "$CE=14$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "steps": [
+        {
+          "textZh": "$AB=BC,\\ AC=AD,\\ AE\\parallel BC$，標記角 $124^\\circ$",
+          "textEn": "$AB=BC,\\ AC=AD,\\ AE\\parallel BC$, marked $124^\\circ$"
+        },
+        {
+          "textZh": "由等腰及平行角關係得 $\\angle BCA=56^\\circ$，選 A",
+          "textEn": "$\\angle BCA=56^\\circ$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "steps": [
+        {
+          "textZh": "線段水平 $8$、豎直 $6$",
+          "textEn": "Horizontal $8$, vertical $6$"
+        },
+        {
+          "textZh": "$AH=\\sqrt{8^{2}+6^{2}}=10$，選 D",
+          "textEn": "$AH=\\sqrt{64+36}=10$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "steps": [
+        {
+          "textZh": "$E$ 為 $AD$ 中點且 $\\angle ABE=\\angle CBD=\\angle DBE$",
+          "textEn": "$E$ mid-point of $AD$, $\\angle ABE=\\angle CBD=\\angle DBE$"
+        },
+        {
+          "textZh": "推得 $AB=BD$（I）及 $\\angle ABC=135^\\circ$（II），III 不必然，選 C",
+          "textEn": "I and II hold, III not necessarily, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "steps": [
+        {
+          "textZh": "$\\angle ABC=110^\\circ \\Rightarrow$ 弧 $ABC=140^\\circ$；$AD$ 直徑、$BC=CD$",
+          "textEn": "$\\angle ABC=110^\\circ$; $AD$ diameter, $BC=CD$"
+        },
+        {
+          "textZh": "弧 $BC=CD=40^\\circ$，$\\angle BED=\\tfrac{80^\\circ}{2}=40^\\circ$，選 B",
+          "textEn": "arc $BCD=80^\\circ$, $\\angle BED=40^\\circ$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "steps": [
+        {
+          "textZh": "$CE=BC\\tan40^\\circ$，$E$ 在 $CD$ 上",
+          "textEn": "$CE=BC\\tan40^\\circ$"
+        },
+        {
+          "textZh": "計得 $\\angle AED\\approx 57^\\circ$，選 B",
+          "textEn": "$\\angle AED\\approx 57^\\circ$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "steps": [
+        {
+          "textZh": "由圖中 $L_{1},L_{2}$ 的斜率與截距比較",
+          "textEn": "Compare slopes and intercepts of $L_{1},L_{2}$"
+        },
+        {
+          "textZh": "$m<p$（I）及 $n>q$（II）成立，III 不真，選 C",
+          "textEn": "I and II hold, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "steps": [
+        {
+          "textZh": "$8x-3y+24=0$ 斜率 $=\\tfrac{8}{3}$，$L$ 斜率 $=-\\tfrac{3}{8}$",
+          "textEn": "Given slope $\\tfrac{8}{3}$, $L$ slope $=-\\tfrac{3}{8}$"
+        },
+        {
+          "textZh": "過 $(-4,0)$：$3x+8y+12=0$，選 C",
+          "textEn": "Through $(-4,0)$: $3x+8y+12=0$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "steps": [
+        {
+          "textZh": "化直角坐標，$Q$ 至直線 $PR$ 的距離",
+          "textEn": "Convert to rectangular; distance from $Q$ to line $PR$"
+        },
+        {
+          "textZh": "計得垂直距離 $=7$，選 D",
+          "textEn": "Perpendicular distance $=7$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "steps": [
+        {
+          "textZh": "$C_{2}$ 化簡：$x^{2}+y^{2}+4x-2y-\\tfrac{5}{2}=0$，圓心 $(-2,1)$",
+          "textEn": "$C_{2}$: centre $(-2,1)$"
+        },
+        {
+          "textZh": "$G_{1}(-4,2),G_{2}(-2,1),O$ 共線（I 真）；半徑不等、距離不等，選 C",
+          "textEn": "$G_1,G_2,O$ collinear; radii & distances unequal; only I, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "steps": [
+        {
+          "textZh": "$AP=BP \\Rightarrow P$ 在 $AB$ 中垂線，過圓心 $(3,2)$",
+          "textEn": "$AP=BP \\Rightarrow P$ on perp. bisector through centre $(3,2)$"
+        },
+        {
+          "textZh": "$3+2(2)+k=0 \\Rightarrow k=-7$，選 D",
+          "textEn": "$3+4+k=0 \\Rightarrow k=-7$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "steps": [
+        {
+          "textZh": "代幣少於 $5$：頻數 $4+8=12$，總數 $30$",
+          "textEn": "Fewer than 5: frequency $4+8=12$, total $30$"
+        },
+        {
+          "textZh": "$P=\\tfrac{12}{30}=\\tfrac{2}{5}$，選 A",
+          "textEn": "$P=\\tfrac{2}{5}$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "steps": [
+        {
+          "textZh": "盒鬚圖左邊框線為下四分位數",
+          "textEn": "Left edge of box is the lower quartile"
+        },
+        {
+          "textZh": "讀得下四分位數 $=15$，選 D",
+          "textEn": "Lower quartile $=15$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "steps": [
+        {
+          "textZh": "$m+n=5$（正整數），最大 $10$、最小 $1$",
+          "textEn": "$m+n=5$; max $10$, min $1$"
+        },
+        {
+          "textZh": "分佈域必為 $9$（III）；眾數、中位數不必然，選 B",
+          "textEn": "Range must be $9$; only III, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "steps": [
+        {
+          "textZh": "$g(x)=f(\\tfrac{x}{2})$ 為水平方向放大 $2$ 倍",
+          "textEn": "$g(x)=f(\\tfrac{x}{2})$ is a horizontal stretch by factor $2$"
+        },
+        {
+          "textZh": "選對應拉伸的圖 A，選 A",
+          "textEn": "Choose the horizontally-stretched Graph A, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "steps": [
+        {
+          "textZh": "$8^{12}$ 在八進制為 $1$ 後跟 $12$ 個 $0$；$8^{3}$ 為第 $3$ 位的 $1$",
+          "textEn": "In base 8, $8^{12}$ is $1$ followed by twelve $0$s; $8^{3}$ is a $1$ at position $3$"
+        },
+        {
+          "textZh": "$=1\\,000\\,000\\,001\\,000_{8}$，選 B",
+          "textEn": "$=1\\,000\\,000\\,001\\,000_{8}$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "steps": [
+        {
+          "textZh": "斜率 $=\\tfrac{7-3}{4-0}=1=\\log_{2}b \\Rightarrow$ 截距 $\\log_{2}a=3$",
+          "textEn": "Slope $=1=\\log_{2}b$; intercept $\\log_{2}a=3$"
+        },
+        {
+          "textZh": "$\\log_{2}y=x+3 \\Rightarrow y=8\\cdot 2^{x}$，選 A",
+          "textEn": "$y=8\\cdot 2^{x}$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "steps": [
+        {
+          "textZh": "設 $t=3^{x}$：$t^{2}-4t+3=0 \\Rightarrow t=1$ 或 $3$",
+          "textEn": "Let $t=3^{x}$: $t^{2}-4t+3=0 \\Rightarrow t=1$ or $3$"
+        },
+        {
+          "textZh": "$3^{x}=1$ 或 $3 \\Rightarrow x=0$ 或 $1$，選 B",
+          "textEn": "$x=0$ or $1$, choose B"
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "steps": [
+        {
+          "textZh": "$\\dfrac{5-2i}{k-i}$ 為實 $\\Rightarrow$ 虛部 $=0$",
+          "textEn": "$\\dfrac{5-2i}{k-i}$ real $\\Rightarrow$ imaginary part $=0$"
+        },
+        {
+          "textZh": "$(5-2i)(k+i)$ 虛部 $5-2k=0 \\Rightarrow k=\\tfrac{5}{2}$，選 C",
+          "textEn": "$5-2k=0 \\Rightarrow k=\\tfrac{5}{2}$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "steps": [
+        {
+          "textZh": "I：$\\lg2,\\lg4,\\lg8=\\lg2,2\\lg2,3\\lg2$ 為等差",
+          "textEn": "I: $\\lg2,2\\lg2,3\\lg2$ arithmetic"
+        },
+        {
+          "textZh": "II 為等比（非等差）；III：$4,1,-2$ 等差，故 I、III，選 C",
+          "textEn": "II geometric; III arithmetic; I and III, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "steps": [
+        {
+          "textZh": "在區域頂點求 $x-2y+43$",
+          "textEn": "Evaluate $x-2y+43$ at vertices"
+        },
+        {
+          "textZh": "最大於 $(9,0)$：$9+43=52$，選 D",
+          "textEn": "Max at $(9,0)$: $52$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "steps": [
+        {
+          "textZh": "$AC=\\sqrt{28^{2}+21^{2}}=35$，$E$ 在 $AC$ 上 $AE=30$",
+          "textEn": "$AC=35$, $AE=30$ on $AC$"
+        },
+        {
+          "textZh": "$E=(24,18)$，$DE=\\sqrt{24^{2}+3^{2}}=\\sqrt{585}=3\\sqrt{65}$，選 A",
+          "textEn": "$DE=\\sqrt{585}=3\\sqrt{65}$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "steps": [
+        {
+          "textZh": "$BD=\\sqrt{25^{2}-15^{2}}=20$；$B$ 至 $CD$ 距離由海龍公式",
+          "textEn": "$BD=20$; distance $B$ to $CD$ by Heron"
+        },
+        {
+          "textZh": "$\\sin(\\text{交角})=\\tfrac{20}{25} \\Rightarrow \\approx 53^\\circ$，選 A",
+          "textEn": "$\\sin\\theta=\\tfrac{20}{25} \\Rightarrow 53^\\circ$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "steps": [
+        {
+          "textZh": "切線弦角 $\\angle ACB=\\angle BAD=68^\\circ$；$\\angle BCO=26^\\circ$",
+          "textEn": "Tangent-chord $\\angle ACB=68^\\circ$; $\\angle BCO=26^\\circ$"
+        },
+        {
+          "textZh": "由 $OC=OB$ 等腰推得 $\\angle ABC=48^\\circ$，選 D",
+          "textEn": "Using $OC=OB$, $\\angle ABC=48^\\circ$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "steps": [
+        {
+          "textZh": "直角三角形 $OPQ$ 內心 $(r,r)$，$r=\\tfrac{p+q-\\sqrt{p^{2}+q^{2}}}{2}$",
+          "textEn": "In-centre $(r,r)$, $r=\\tfrac{p+q-\\sqrt{p^{2}+q^{2}}}{2}$"
+        },
+        {
+          "textZh": "$3x+4y=3p$ 過內心 $\\Rightarrow 7r=3p \\Rightarrow p:q=7:24$，選 A",
+          "textEn": "$7r=3p \\Rightarrow p:q=7:24$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "steps": [
+        {
+          "textZh": "$C^{13}_{5}\\times C^{6}_{4}$",
+          "textEn": "$C^{13}_{5}\\times C^{6}_{4}$"
+        },
+        {
+          "textZh": "$=1287\\times 15=19305$，選 A",
+          "textEn": "$=1287\\times 15=19305$, choose A"
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "steps": [
+        {
+          "textZh": "最多 $3$ 中 $=1-P(4$ 中$)=1-0.6^{4}$",
+          "textEn": "At most 3 hits $=1-0.6^{4}$"
+        },
+        {
+          "textZh": "$=1-0.1296=0.8704$，選 C",
+          "textEn": "$=0.8704$, choose C"
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "steps": [
+        {
+          "textZh": "$z=\\dfrac{x-\\text{mean}}{\\text{sd}}$：$-2.5=\\dfrac{35-50}{\\text{sd}}$",
+          "textEn": "$-2.5=\\dfrac{35-50}{\\text{sd}}$"
+        },
+        {
+          "textZh": "$\\text{sd}=6$，選 D",
+          "textEn": "$\\text{sd}=6$, choose D"
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "steps": [
+        {
+          "textZh": "每數 $\\times 8$：眾數 $\\times 8$（I）、四分位距 $\\times 8$（II）",
+          "textEn": "Each $\\times 8$: mode $\\times 8$, IQR $\\times 8$"
+        },
+        {
+          "textZh": "方差 $\\times 64$（III 假），故 I、II，選 C",
+          "textEn": "Variance $\\times 64$; I and II only, choose C"
+        }
+      ]
+    }
+  ]
+}

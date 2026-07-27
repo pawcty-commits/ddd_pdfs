@@ -1,0 +1,474 @@
+{
+ "paperTitleZh": "歷年模仿卷（2019）— 試卷一",
+ "paperTitle": "Past Paper Simulation (2019) — Paper 1",
+ "year": 2026,
+ "similarTo": "2019",
+ "durationMinutes": 135,
+ "totalMarks": 105,
+ "mathDelimiter": "$...$ (inline TeX)",
+ "instructionsZh": "1. 本試卷分為三部分：甲部(1)、甲部(2)及乙部。\n2. 所有題目均須作答。\n3. 除特別指明外，所有答案須以真確值或準確至三位有效數字表示。\n4. 除特別指明外，數值答案的單位須清楚寫明。\n5. 本試卷中的圖形不一定依比例繪畫。",
+ "instructionsEn": "1. This paper consists of THREE sections, A(1), A(2) and B.\n2. Attempt ALL questions in this paper. All working must be clearly shown.\n3. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures.\n4. Unless otherwise specified, the unit of a numerical answer should be clearly stated.\n5. The diagrams in this paper are not necessarily drawn to scale.",
+ "sections": [
+  {
+   "id": "sectionA1",
+   "titleZh": "甲部(1)",
+   "titleEn": "Section A(1)",
+   "marks": 35,
+   "deductionCapUpp": 1
+  },
+  {
+   "id": "sectionA2",
+   "titleZh": "甲部(2)",
+   "titleEn": "Section A(2)",
+   "marks": 35,
+   "deductionCapUpp": 1
+  },
+  {
+   "id": "sectionB",
+   "titleZh": "乙部",
+   "titleEn": "Section B",
+   "marks": 35,
+   "deductionCapUpp": 0
+  }
+ ],
+ "questions": [
+  {
+   "questionNumber": 1,
+   "section": "sectionA1",
+   "difficultyGrade": "B-",
+   "difficultyScore": 3,
+   "categoryZh": "主項變換",
+   "categoryEn": "Change of Subject",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "使 $h$ 成為公式 $4(h+3k)=9h+7$ 的主項。",
+     "questionTextEn": "Make $h$ the subject of the formula $4(h+3k)=9h+7$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 2,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "代數分式",
+   "categoryEn": "Algebraic Fractions",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "化簡 $\\dfrac{4}{3x-2}-\\dfrac{3}{4x-5}$ 。",
+     "questionTextEn": "Simplify $\\dfrac{4}{3x-2}-\\dfrac{3}{4x-5}$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 3,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "二次方程（實際問題）",
+   "categoryEn": "Quadratic Equations (Applications)",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某長方形的長及闊分別為 $8$ cm 及 $(9+r)$ cm 。若該長方形的對角線長度為 $(23-r)$ cm ，求 $r$ 。",
+     "questionTextEn": "The length and the breadth of a rectangle are $8$ cm and $(9+r)$ cm respectively. If the length of a diagonal of the rectangle is $(23-r)$ cm , find $r$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 4,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 4,
+   "categoryZh": "因式分解",
+   "categoryEn": "Factorization",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "因式分解 $9p^{2}-4$ 。",
+     "questionTextEn": "Factorize $9p^{2}-4$ .",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "因式分解 $3p^{2}q+pq-2q$ 。",
+     "questionTextEn": "Factorize $3p^{2}q+pq-2q$ .",
+     "totalMarks": 1
+    },
+    {
+     "label": "c",
+     "questionTextZh": "因式分解 $9p^{2}-4-3p^{2}q-pq+2q$ 。",
+     "questionTextEn": "Factorize $9p^{2}-4-3p^{2}q-pq+2q$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 5,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 4,
+   "categoryZh": "百分法",
+   "categoryEn": "Percentages",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某銀包以標價的八折出售。該銀包的售價為 $\\$720$ 。求該銀包的標價。",
+     "questionTextEn": "A wallet is sold at a discount of $20\\%$ on its marked price. The selling price of the wallet is $\\$720$ . Find the marked price of the wallet.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "售出該銀包後，賺得的百分利潤為 $20\\%$ 。求該銀包的成本。",
+     "questionTextEn": "After selling the wallet, the percentage profit is $20\\%$ . Find the cost of the wallet.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 6,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "不等式",
+   "categoryEn": "Inequalities",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "解不等式 $\\dfrac{6x+37}{5}\\le 2(x+3)$ 。",
+     "questionTextEn": "Solve the inequality $\\dfrac{6x+37}{5}\\le 2(x+3)$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求同時滿足 $\\dfrac{6x+37}{5}\\le 2(x+3)$ 及 $4(x-2)<21-x$ 的整數的數目。",
+     "questionTextEn": "Find the number of integers satisfying both $\\dfrac{6x+37}{5}\\le 2(x+3)$ and $4(x-2)<21-x$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 7,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "比例（實際問題）",
+   "categoryEn": "Ratios (Applications)",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在一遊樂場中，成人人數與兒童人數的比為 $7:3$ 。若再有 $13$ 名成人及 $12$ 名兒童進入遊樂場，則成人人數與兒童人數的比為 $11:6$ 。求遊樂場中原來的成人人數。",
+     "questionTextEn": "In a playground, the ratio of the number of adults to the number of children is $7:3$ . If $13$ adults and $12$ children enter the playground, then the ratio of the number of adults to the number of children is $11:6$ . Find the original number of adults in the playground.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 8,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "圓形圖",
+   "categoryEn": "Pie Charts",
+   "figureSpecId": "FIG-Q8",
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "寫出該分佈的眾數。",
+     "questionTextEn": "Write down the mode of the distribution.",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求該分佈的平均數。",
+     "questionTextEn": "Find the mean of the distribution.",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "若從該組中隨機選出一名女孩，求所選女孩擁有多於 $3$ 隻戒指的概率。",
+     "questionTextEn": "If a girl is randomly selected from the group, find the probability that the selected girl owns more than $3$ rings.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 9,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "立體圖形的體積及表面積",
+   "categoryEn": "Volume and Surface Area of Solids",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "兩球的體積之和為 $1008\\pi$ cm$^{3}$ 。較大球的半徑等於較小球半徑的 $3$ 倍。以 $\\pi$ 表示較大球的體積。",
+     "questionTextEn": "The sum of the volumes of two spheres is $1008\\pi$ cm$^{3}$ . The radius of the larger sphere is equal to $3$ times the radius of the smaller sphere. Express, in terms of $\\pi$ , the volume of the larger sphere.",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "以 $\\pi$ 表示兩球的表面積之和。",
+     "questionTextEn": "Express, in terms of $\\pi$ , the sum of the surface areas of the two spheres.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 10,
+   "section": "sectionA2",
+   "difficultyGrade": "A-",
+   "difficultyScore": 5,
+   "categoryZh": "部分變分",
+   "categoryEn": "Partial Variation",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知 $h(x)$ 一部分為常數，另一部分隨 $x$ 而變。已知 $h(-1)=-42$ 及 $h(4)=48$ 。求 $h(x)$ 。",
+     "questionTextEn": "It is given that $h(x)$ is partly constant and partly varies as $x$ . Suppose that $h(-1)=-42$ and $h(4)=48$ . Find $h(x)$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "解方程 $h(x)=3x^{2}$ 。",
+     "questionTextEn": "Solve the equation $h(x)=3x^{2}$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 11,
+   "section": "sectionA2",
+   "difficultyGrade": "A-",
+   "difficultyScore": 6,
+   "categoryZh": "餘式定理",
+   "categoryEn": "Remainder Theorem",
+   "figureSpecId": null,
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $p(x)$ 為三次多項式。當 $p(x)$ 除以 $x-1$ 時，餘數為 $60$ 。當 $p(x)$ 除以 $x+3$ 時，餘數為 $-48$ 。已知 $p(x)$ 可被 $2x^{2}+3x+7$ 整除。求 $p(x)$ 除以 $2x^{2}+3x+7$ 時的商式。",
+     "questionTextEn": "Let $p(x)$ be a cubic polynomial. When $p(x)$ is divided by $x-1$ , the remainder is $60$ . When $p(x)$ is divided by $x+3$ , the remainder is $-48$ . It is given that $p(x)$ is divisible by $2x^{2}+3x+7$ . Find the quotient when $p(x)$ is divided by $2x^{2}+3x+7$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "方程 $p(x)=0$ 有多少個有理根？試解釋你的答案。",
+     "questionTextEn": "How many rational roots does the equation $p(x)=0$ have? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 12,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 8,
+   "categoryZh": "莖葉圖",
+   "categoryEn": "Stem-and-Leaf Diagrams",
+   "figureSpecId": null,
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下面的莖葉圖顯示某些男生在 $400$ 米賽跑的成績（以秒計）的分佈。\n莖（十位） | 葉（個位）\n$5$ | $a$\n$6$ | $0\\ 0\\ 3\\ c\\ c\\ 8\\ 9\\ 9\\ 9$\n$7$ | $0\\ 1\\ 1\\ 1\\ 2\\ 2\\ 5\\ 6\\ 9$\n$8$ | $b$\n已知該分佈的四分位數間距為 $8$ 秒。求 $c$ 。",
+     "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the results (in seconds) of some boys in a $400$ m race.\nStem (tens) | Leaf (units)\n$5$ | $a$\n$6$ | $0\\ 0\\ 3\\ c\\ c\\ 8\\ 9\\ 9\\ 9$\n$7$ | $0\\ 1\\ 1\\ 1\\ 2\\ 2\\ 5\\ 6\\ 9$\n$8$ | $b$\nIt is given that the inter-quartile range of the distribution is $8$ seconds. Find $c$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知該分佈的分佈域超過 $34$ 秒，且該分佈的平均數為 $69$ 秒。求\n(i) $a$ 及 $b$ ，\n(ii) 該分佈的最小可能標準差。",
+     "questionTextEn": "It is given that the range of the distribution exceeds $34$ seconds and the mean of the distribution is $69$ seconds. Find\n(i) $a$ and $b$ ,\n(ii) the least possible standard deviation of the distribution.",
+     "totalMarks": 6
+    }
+   ]
+  },
+  {
+   "questionNumber": 13,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 8,
+   "categoryZh": "圓的性質",
+   "categoryEn": "Properties of Circles",
+   "figureSpecId": "FIG-Q13",
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在圖一中，$O$ 為圓 $ABCDE$ 的圓心。$AC$ 為圓的直徑。$BD$ 與 $OC$ 相交於點 $F$ 。已知 $\\angle AED=110^\\circ$ 。求 $\\angle CBF$ 。",
+     "questionTextEn": "In Figure 1, $O$ is the centre of circle $ABCDE$ . $AC$ is a diameter of the circle. $BD$ and $OC$ intersect at the point $F$ . It is given that $\\angle AED=110^\\circ$ . Find $\\angle CBF$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知 $BC\\parallel OD$ 及 $OB=18$ cm 。扇形 $OBC$ 的周界是否少於 $65$ cm ？試解釋你的答案。",
+     "questionTextEn": "Suppose that $BC\\parallel OD$ and $OB=18$ cm . Is the perimeter of the sector $OBC$ less than $65$ cm ? Explain your answer.",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 14,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 8,
+   "categoryZh": "全等及相似三角形",
+   "categoryEn": "Congruent and Similar Triangles",
+   "figureSpecId": "FIG-Q14",
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在圖二中，$ABCD$ 為一正方形。已知 $E$ 為 $AD$ 上的點。$BD$ 與 $CE$ 相交於點 $F$ 。設 $G$ 為一點，使得 $BG\\parallel EC$ 及 $CG\\parallel DB$ 。證明\n(i) $\\triangle BCG\\cong\\triangle CBF$ ，\n(ii) $\\triangle BCF\\sim\\triangle DEF$ 。",
+     "questionTextEn": "In Figure 2, $ABCD$ is a square. It is given that $E$ is a point lying on $AD$ . $BD$ and $CE$ intersect at the point $F$ . Let $G$ be a point such that $BG\\parallel EC$ and $CG\\parallel DB$ . Prove that\n(i) $\\triangle BCG\\cong\\triangle CBF$ ,\n(ii) $\\triangle BCF\\sim\\triangle DEF$ .",
+     "totalMarks": 4
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知 $\\angle BCF=\\angle BGC$ 。\n(i) 設 $BC=\\ell$ 。以 $\\ell$ 表示 $DF$ 。\n(ii) 有人聲稱 $AE>DF$ 。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Suppose that $\\angle BCF=\\angle BGC$ .\n(i) Let $BC=\\ell$ . Express $DF$ in terms of $\\ell$ .\n(ii) Someone claims that $AE>DF$ . Do you agree? Explain your answer.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 15,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 3,
+   "categoryZh": "排列與組合",
+   "categoryEn": "Permutations and Combinations",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某班有 $21$ 名男生及 $11$ 名女生。若從該班選出 $5$ 名學生組成一個委員會，且委員會須包含至少 $1$ 名男生，求可組成多少個不同的委員會。",
+     "questionTextEn": "There are $21$ boys and $11$ girls in a class. If $5$ students are selected from the class to form a committee consisting of at least $1$ boy, how many different committees can be formed?",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 16,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 6,
+   "categoryZh": "等差數列",
+   "categoryEn": "Arithmetic Sequences",
+   "figureSpecId": null,
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $\\alpha$ 及 $\\beta$ 為正實數，使得 $\\log\\alpha=3$ 及 $\\log\\beta=2\\log\\alpha-1$ 。求 $\\alpha$ 及 $\\beta$ 。",
+     "questionTextEn": "Let $\\alpha$ and $\\beta$ be positive real numbers such that $\\log\\alpha=3$ and $\\log\\beta=2\\log\\alpha-1$ . Find $\\alpha$ and $\\beta$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "某等差數列的第 $1$ 項及第 $2$ 項分別為 $\\log\\alpha$ 及 $\\log\\beta$ 。求最小的 $n$ 值，使該數列的首 $n$ 項之和大於 $888$ 。",
+     "questionTextEn": "The 1st term and the 2nd term of an arithmetic sequence are $\\log\\alpha$ and $\\log\\beta$ respectively. Find the least value of $n$ such that the sum of the first $n$ terms of the sequence is greater than $888$ .",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 17,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 7,
+   "categoryZh": "軌跡",
+   "categoryEn": "Locus",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $a$ 及 $p$ 分別為 $\\triangle CDE$ 的面積及周界。以 $r$ 表示 $\\triangle CDE$ 的內切圓半徑。證明 $pr=2a$ 。",
+     "questionTextEn": "Let $a$ and $p$ be the area and the perimeter of $\\triangle CDE$ respectively. Denote the radius of the inscribed circle of $\\triangle CDE$ by $r$ . Prove that $pr=2a$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "點 $H$ 及 $K$ 的坐標分別為 $(6,8)$ 及 $(21,0)$ 。設 $P$ 為坐標平面上的動點，使得 $P$ 至 $OH$ 的垂直距離等於 $P$ 至 $HK$ 的垂直距離，其中 $O$ 為原點。以 $\\Gamma$ 表示 $P$ 的軌跡。\n(i) 描述 $\\Gamma$ 與 $\\angle OHK$ 之間的幾何關係。\n(ii) 利用 (a)，求 $\\Gamma$ 的方程。",
+     "questionTextEn": "The coordinates of the points $H$ and $K$ are $(6,8)$ and $(21,0)$ respectively. Let $P$ be a moving point in the rectangular coordinate plane such that the perpendicular distance from $P$ to $OH$ is equal to the perpendicular distance from $P$ to $HK$ , where $O$ is the origin. Denote the locus of $P$ by $\\Gamma$ .\n(i) Describe the geometric relationship between $\\Gamma$ and $\\angle OHK$ .\n(ii) Using (a), find the equation of $\\Gamma$ .",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 18,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 7,
+   "categoryZh": "三維空間的三角學",
+   "categoryEn": "Trigonometry in 3-D",
+   "figureSpecId": "FIG-Q18",
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圖三所示為一四面體 $ABCD$ 。設 $P$ 為 $AD$ 上的點，使得 $BP$ 垂直於 $AD$ 。一工匠發現 $AC=AD=CD=15$ cm ，$BC=9$ cm ，$BD=13$ cm 及 $\\angle ABD=65^\\circ$ 。求\n(i) $\\angle BAD$ ，\n(ii) $CP$ 。",
+     "questionTextEn": "Figure 3 shows a tetrahedron $ABCD$ . Let $P$ be a point lying on $AD$ such that $BP$ is perpendicular to $AD$ . A craftsman finds that $AC=AD=CD=15$ cm , $BC=9$ cm , $BD=13$ cm and $\\angle ABD=65^\\circ$ . Find\n(i) $\\angle BAD$ ,\n(ii) $CP$ .",
+     "totalMarks": 5
+    },
+    {
+     "label": "b",
+     "questionTextZh": "該工匠聲稱 $\\angle BPC$ 是面 $ABD$ 與面 $ACD$ 之間的交角。該聲稱是否正確？試解釋你的答案。",
+     "questionTextEn": "The craftsman claims that $\\angle BPC$ is the angle between the face $ABD$ and the face $ACD$ . Is the claim correct? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 19,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 12,
+   "categoryZh": "二次函數與圓",
+   "categoryEn": "Quadratic Functions and Circles",
+   "figureSpecId": null,
+   "totalMarks": 12,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $f(x)=x^{2}+(2k-6)x+(41-6k)$ ，其中 $k$ 為正常數。以 $F$ 表示點 $(3,32)$ 。證明 $y=f(x)$ 的圖像通過 $F$ 。",
+     "questionTextEn": "Let $f(x)=x^{2}+(2k-6)x+(41-6k)$ , where $k$ is a positive constant. Denote the point $(3,32)$ by $F$ . Prove that the graph of $y=f(x)$ passes through $F$ .",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "$y=g(x)$ 的圖像是先將 $y=f(x)$ 的圖像關於 $y$ 軸反射，再將所得圖像向上平移 $4$ 個單位而得。設 $U$ 為 $y=g(x)$ 圖像的頂點。以 $O$ 表示原點。\n(i) 利用配方法，以 $k$ 表示 $U$ 的坐標。\n(ii) 求 $k$ ，使通過 $F$ 、$O$ 及 $U$ 的圓的面積為最小。\n(iii) 對於任何正常數 $k$ ，$y=g(x)$ 的圖像均通過同一點 $G$ 。設 $V$ 為 $y=g(x)$ 圖像的頂點，使通過 $F$ 、$O$ 及 $V$ 的圓的面積為最小。$F$ 、$G$ 、$O$ 及 $V$ 是否共圓？試解釋你的答案。",
+     "questionTextEn": "The graph of $y=g(x)$ is obtained by reflecting the graph of $y=f(x)$ with respect to the $y$-axis and then translating the resulting graph upwards by $4$ units. Let $U$ be the vertex of the graph of $y=g(x)$ . Denote the origin by $O$ .\n(i) Using the method of completing the square, express the coordinates of $U$ in terms of $k$ .\n(ii) Find $k$ such that the area of the circle passing through $F$ , $O$ and $U$ is the least.\n(iii) For any positive constant $k$ , the graph of $y=g(x)$ passes through the same point $G$ . Let $V$ be the vertex of the graph of $y=g(x)$ such that the area of the circle passing through $F$ , $O$ and $V$ is the least. Are $F$ , $G$ , $O$ and $V$ concyclic? Explain your answer.",
+     "totalMarks": 11
+    }
+   ]
+  }
+ ]
+}

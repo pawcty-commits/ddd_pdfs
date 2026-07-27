@@ -1,0 +1,1129 @@
+{
+  "year": 2026,
+  "paper": 1,
+  "similarTo": "2016",
+  "totalMarks": 105,
+  "paperTitleZh": "歷年模仿卷（2016）— 試卷一 評分參考",
+  "paperTitle": "Past Paper Simulation (2016) — Paper 1 Marking Scheme",
+  "mathDelimiter": "$...$ (inline TeX)",
+  "globalRules": {
+    "followThrough": "承上題錯誤但方法正確者，可獲後續步驟分。",
+    "allowFullMarksIfAnswerCorrect": "答案正確且步驟合理者可獲滿分。",
+    "notationTolerance": "符號書寫略有出入但意思清楚者不扣分。",
+    "benefitOfDoubt": true,
+    "fractionRule": "分數、小數或根式形式均接受，除非題目另有指明。",
+    "deduction": {
+      "sectionA1MaxDeduction": 1,
+      "sectionA2MaxDeduction": 1,
+      "sectionBMaxDeduction": 0,
+      "types": [
+        "u",
+        "pp"
+      ],
+      "note": "u = 單位遺漏或錯誤；pp = 準確度不符要求。每部分最多扣 1 分。"
+    }
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "sectionA1",
+      "categoryZh": "指數律",
+      "categoryEn": "Laws of Indices",
+      "difficultyGrade": "B-",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$=\\dfrac{a^{6}b^{-3}}{a^{-1}b^{2}}$",
+              "displayTextZh": "$=\\dfrac{a^{6}b^{-3}}{a^{-1}b^{2}}$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$=a^{6-(-1)}b^{-3-2}$",
+              "displayTextZh": "$=a^{6-(-1)}b^{-3-2}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$=\\dfrac{a^{7}}{b^{5}}$",
+              "displayTextZh": "$=\\dfrac{a^{7}}{b^{5}}$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "sectionA1",
+      "categoryZh": "主項變換",
+      "categoryEn": "Change of Subject",
+      "difficultyGrade": "B",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$Ax=4Cx+BC$",
+              "displayTextZh": "$Ax=4Cx+BC$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$x(A-4C)=BC$",
+              "displayTextZh": "$x(A-4C)=BC$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$x=\\dfrac{BC}{A-4C}$",
+              "displayTextZh": "$x=\\dfrac{BC}{A-4C}$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "sectionA1",
+      "categoryZh": "代數分式",
+      "categoryEn": "Algebraic Fractions",
+      "difficultyGrade": "B",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$=\\dfrac{3(x+4)-2(x-4)}{(x-4)(x+4)}$",
+              "displayTextZh": "$=\\dfrac{3(x+4)-2(x-4)}{(x-4)(x+4)}$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$=\\dfrac{3x+12-2x+8}{x^{2}-16}$",
+              "displayTextZh": "$=\\dfrac{3x+12-2x+8}{x^{2}-16}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$=\\dfrac{x+20}{x^{2}-16}$",
+              "displayTextZh": "$=\\dfrac{x+20}{x^{2}-16}$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "sectionA1",
+      "categoryZh": "因式分解",
+      "categoryEn": "Factorization",
+      "difficultyGrade": "B+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 1,
+          "steps": [
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$3(2m-3n)$",
+              "displayTextZh": "$3(2m-3n)$"
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 1,
+          "steps": [
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$(m-3n)(m+5n)$",
+              "displayTextZh": "$(m-3n)(m+5n)$"
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$=(m-3n)(m+5n)+3(m-3n)$",
+              "displayTextZh": "$=(m-3n)(m+5n)+3(m-3n)$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$=(m-3n)(m+5n+3)$",
+              "displayTextZh": "$=(m-3n)(m+5n+3)$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "sectionA1",
+      "categoryZh": "百分法",
+      "categoryEn": "Percentages",
+      "difficultyGrade": "B+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 4,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "Let female $=f$; male $=1.25f$",
+              "displayTextZh": "設女會員 $f$ 名，男會員 $1.25f$ 名"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$1.25f+f=180$",
+              "displayTextZh": "$1.25f+f=180$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$f=80$, male $=100$",
+              "displayTextZh": "$f=80$，男 $=100$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "difference $=20$",
+              "displayTextZh": "差 $=100-80=20$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "sectionA1",
+      "categoryZh": "不等式",
+      "categoryEn": "Inequalities",
+      "difficultyGrade": "B+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$x>-3$",
+              "displayTextZh": "$x>-3$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "take union with $x\\le -6$",
+              "displayTextZh": "與 $x\\le -6$ 取並集",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$x>-3$ or $x\\le -6$",
+              "displayTextZh": "$x>-3$ 或 $x\\le -6$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 1,
+          "steps": [
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$-1$",
+              "displayTextZh": "$-1$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "sectionA1",
+      "categoryZh": "極坐標",
+      "categoryEn": "Polar Coordinates",
+      "difficultyGrade": "B+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$\\angle AOB=110^\\circ-50^\\circ$",
+              "displayTextZh": "$\\angle AOB=110^\\circ-50^\\circ$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$=60^\\circ$",
+              "displayTextZh": "$=60^\\circ$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 1,
+          "steps": [
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "equilateral, perimeter $=30$",
+              "displayTextZh": "$OA=OB=10$ 及 $\\angle AOB=60^\\circ \\Rightarrow \\triangle AOB$ 為等邊，周界 $=30$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "totalMarks": 1,
+          "steps": [
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$3$",
+              "displayTextZh": "$3$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "sectionA1",
+      "categoryZh": "部分變分",
+      "categoryEn": "Partial Variation",
+      "difficultyGrade": "B+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "Let $f(x)=px+qx^{2}$: $2p+4q=26,\\ 5p+25q=80$",
+              "displayTextZh": "設 $f(x)=px+qx^{2}$：$2p+4q=26,\\ 5p+25q=80$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$p=11,\\ q=1$",
+              "displayTextZh": "解得 $p=11,\\ q=1$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$f(x)=x^{2}+11x$",
+              "displayTextZh": "$f(x)=x^{2}+11x$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$(x+14)(x-3)=0$",
+              "displayTextZh": "$(x+14)(x-3)=0$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$x=3$ or $x=-14$",
+              "displayTextZh": "$x=3$ 或 $x=-14$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "sectionA1",
+      "categoryZh": "統計圖表",
+      "categoryEn": "Statistical Tables",
+      "difficultyGrade": "A-",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$x=4+8=12$",
+              "displayTextZh": "$x=4+8=12$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$y=22+13=35$",
+              "displayTextZh": "$y=22+13=35$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$z=35+5=40$",
+              "displayTextZh": "$z=35+5=40$"
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "plants with height in $[0.65,1.25)=10+13=23$",
+              "displayTextZh": "高度在 $[0.65,1.25)$ 的植物 $=10+13=23$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$P=\\dfrac{23}{40}$",
+              "displayTextZh": "$P=\\dfrac{23}{40}$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "sectionA2",
+      "categoryZh": "軌跡與圓",
+      "categoryEn": "Locus and Circles",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$(x-5)^{2}+(y-7)^{2}=(x-13)^{2}+(y-1)^{2}$",
+              "displayTextZh": "$(x-5)^{2}+(y-7)^{2}=(x-13)^{2}+(y-1)^{2}$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$\\Gamma:\\ 4x-3y-24=0$",
+              "displayTextZh": "$\\Gamma:\\ 4x-3y-24=0$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$H=(6,0), K=(0,-8)$; $HK$ is a diameter",
+              "displayTextZh": "$H=(6,0),\\ K=(0,-8)$；$\\angle HOK=90^\\circ \\Rightarrow HK$ 為直徑",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$HK=10$, circumference $=10\\pi\\approx 31.4$",
+              "displayTextZh": "$HK=\\sqrt{6^{2}+8^{2}}=10$，圓周 $=10\\pi\\approx 31.4$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$31.4>30$, so the claim is correct",
+              "displayTextZh": "$31.4>30$，故聲稱正確",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "sectionA2",
+      "categoryZh": "相似立體",
+      "categoryEn": "Similar Solids",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$\\dfrac{V_{8}}{V_{12}}=\\dfrac{8}{27}$",
+              "displayTextZh": "體積與深度立方成正比：$\\dfrac{V_{8}}{V_{12}}=\\left(\\dfrac{8}{12}\\right)^{3}=\\dfrac{8}{27}$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$V_{12}\\cdot\\dfrac{19}{27}=228\\pi$",
+              "displayTextZh": "$V_{12}\\cdot\\dfrac{19}{27}=228\\pi$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$V_{12}=324\\pi$ cm$^{3}$",
+              "displayTextZh": "$V_{12}=324\\pi$ cm$^{3}$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$r=9$, slant $=15$",
+              "displayTextZh": "由 $V_{12}=\\dfrac{1}{3}\\pi r^{2}(12)=324\\pi \\Rightarrow r=9$；斜高 $=\\sqrt{9^{2}+12^{2}}=15$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "wet curved area $=135\\pi\\approx 424$ cm$^{2}$",
+              "displayTextZh": "沾濕曲面 $=\\pi r l=\\pi(9)(15)=135\\pi\\approx 424$ cm$^{2}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$424<450$, so disagree",
+              "displayTextZh": "$424<450$，故不同意",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "sectionA2",
+      "categoryZh": "統計量",
+      "categoryEn": "Statistical Measures",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "median $7.5 \\Rightarrow$ middle two are $7,8$",
+              "displayTextZh": "總數 $=a+b+9$；中位數 $7.5 \\Rightarrow$ 中間兩數為 $7$ 及 $8$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$a=12$",
+              "displayTextZh": "$a=12$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$b=9$",
+              "displayTextZh": "$b=9$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 4,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(i) add the largest distinct ages",
+              "displayTextZh": "(i) 加入年齡最大的四個不同值（如 $7,8,9,10$）",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "(i) greatest median $=8$",
+              "displayTextZh": "(i) 最大中位數 $=8$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) add $6,7,8,9$; sum $=252$, $34$ children",
+              "displayTextZh": "(ii) 加入年齡最小的四個不同值 $6,7,8,9$；總和 $=222+30=252$，共 $34$ 名",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "(ii) least mean $=\\dfrac{126}{17}$",
+              "displayTextZh": "(ii) 最小平均數 $=\\dfrac{252}{34}=\\dfrac{126}{17}$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "sectionA2",
+      "categoryZh": "全等三角形",
+      "categoryEn": "Congruent Triangles",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "PROOF",
+              "markValue": 0,
+              "displayText": "$\\angle ADC=\\angle AEB$; $BD=CE \\Rightarrow BE=CD$ (since $BE=BD+DE$, $CD=CE+DE$); $\\angle ADC=\\angle AEB$ gives $AD=AE$ (isos); hence $\\triangle ACD\\cong\\triangle ABE$ (SAS/ASA).",
+              "displayTextZh": "$\\angle ADC=\\angle AEB$；$BD=CE \\Rightarrow BE=CD$；且 $\\angle ADC=\\angle AEB \\Rightarrow AD=AE$；故 $\\triangle ACD\\cong\\triangle ABE$。"
+            },
+            {
+              "markType": "A",
+              "markValue": 2,
+              "displayText": "correct proof",
+              "displayTextZh": "正確證明"
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 5,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(i) $AM\\perp DE$, $DM=8$",
+              "displayTextZh": "(i) $AD=AE$，$M$ 為 $DE$ 中點 $\\Rightarrow AM\\perp DE$，$DM=8$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(i) $AM=\\sqrt{17^{2}-8^{2}}$",
+              "displayTextZh": "(i) $AM=\\sqrt{17^{2}-8^{2}}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "(i) $AM=15$ cm",
+              "displayTextZh": "(i) $AM=15$ cm",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) $AB=\\sqrt{481}$, $AE=17$, $BE=24$",
+              "displayTextZh": "(ii) $AB=\\sqrt{481}$, $AE=17$, $BE=24$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "(ii) no combination gives Pythagoras, so not a right-angled triangle",
+              "displayTextZh": "(ii) $AB^{2}+AE^{2}=770\\ne 576=BE^{2}$（其餘組合亦不成立），故不是直角三角形",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "sectionA2",
+      "categoryZh": "多項式",
+      "categoryEn": "Polynomials",
+      "difficultyGrade": "A+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 5,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "compare $x^{4}$: $2l=6 \\Rightarrow l=3$",
+              "displayTextZh": "比較 $x^{4}$ 係數：$2l=6 \\Rightarrow l=3$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "compare $x^{3}$: $3(m+10)=15 \\Rightarrow m=-5$",
+              "displayTextZh": "比較 $x^{3}$ 係數：$3(m+10)=15 \\Rightarrow m=-5$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "equal remainders $\\Rightarrow p(2)=p(-2)$",
+              "displayTextZh": "餘數相等 $\\Rightarrow p(2)=p(-2)$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$12m+5n=-40 \\Rightarrow n=4$",
+              "displayTextZh": "代入得 $12m+5n=-40 \\Rightarrow n=4$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$l=3,\\ m=-5,\\ n=4$",
+              "displayTextZh": "$l=3,\\ m=-5,\\ n=4$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 5,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$p(x)=3(x^{2}+5x+8)(2x^{2}-5x+4)$",
+              "displayTextZh": "$p(x)=3(x^{2}+5x+8)(2x^{2}-5x+4)$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "disc of $x^{2}+5x+8=-7<0$",
+              "displayTextZh": "$x^{2}+5x+8$ 判別式 $=25-32=-7<0$（無實根）",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "disc of $2x^{2}-5x+4=-7<0$",
+              "displayTextZh": "$2x^{2}-5x+4$ 判別式 $=25-32=-7<0$（無實根）",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 2,
+              "displayText": "both have no real roots, so $p(x)=0$ has $0$ real roots",
+              "displayTextZh": "兩二次式均無實根，故 $p(x)=0$ 有 $0$ 個實根",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "sectionB",
+      "categoryZh": "排列與概率",
+      "categoryEn": "Permutations and Probability",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$5!$ for girls; boys in $C_{6}^{4}\\times 4!$",
+              "displayTextZh": "$5$ 名女生排列 $5!$，產生 $6$ 個空位；男生放入 $C_{6}^{4}\\times 4!$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$P=\\dfrac{5!\\,C_{6}^{4}\\,4!}{9!}$",
+              "displayTextZh": "$P=\\dfrac{5!\\,C_{6}^{4}\\,4!}{9!}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$=\\dfrac{5}{42}$",
+              "displayTextZh": "$=\\dfrac{5}{42}$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "sectionB",
+      "categoryZh": "標準分",
+      "categoryEn": "Standard Scores",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "standard deviation $=\\dfrac{20-60}{-2.5}=16$",
+              "displayTextZh": "標準差 $=\\dfrac{20-60}{-2.5}=16$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "Mary $=84$; range $\\ge 84-20=64$",
+              "displayTextZh": "Mary 分數 $=60+1.5(16)=84$；分佈域 $\\ge 84-20=64$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$64>59$, so the claim is incorrect",
+              "displayTextZh": "$64>59$，故聲稱不正確",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "sectionB",
+      "categoryZh": "等差數列",
+      "categoryEn": "Arithmetic Sequences",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$d=\\dfrac{555-666}{37}$",
+              "displayTextZh": "$d=\\dfrac{555-666}{37}$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$d=-3$",
+              "displayTextZh": "$d=-3$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 3,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$S_{n}=\\dfrac{n}{2}(1335-3n)$",
+              "displayTextZh": "$S_{n}=\\dfrac{n}{2}(1335-3n)$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$1335-3n>0 \\Rightarrow n<445$",
+              "displayTextZh": "$1335-3n>0 \\Rightarrow n<445$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "greatest $n=444$",
+              "displayTextZh": "最大 $n=444$",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "sectionB",
+      "categoryZh": "二次函數",
+      "categoryEn": "Quadratic Functions",
+      "difficultyGrade": "A",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$f(x)=(x+6)^{2}-157$",
+              "displayTextZh": "$f(x)=(x+6)^{2}-157$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "vertex $=(-6,-157)$",
+              "displayTextZh": "頂點 $=(-6,-157)$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "translate up by $157$",
+              "displayTextZh": "上移 $157$ 使頂點在 $x$ 軸上",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$g(x)=x^{2}+12x+36$",
+              "displayTextZh": "$g(x)=x^{2}+12x+36$",
+              "isFollowThrough": true
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$x^{2}-12x-121=f(-x)$",
+              "displayTextZh": "$x^{2}-12x-121=f(-x)$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "reflection about the $y$-axis",
+              "displayTextZh": "關於 $y$ 軸反射",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "sectionB",
+      "categoryZh": "立體圖形的三角學",
+      "categoryEn": "Trigonometry in 3-D",
+      "difficultyGrade": "A+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 5,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$\\dfrac{\\sin\\angle ADB}{10}=\\dfrac{\\sin 86^\\circ}{15}$",
+              "displayTextZh": "$\\triangle ABD$ 正弦公式：$\\dfrac{\\sin\\angle ADB}{AB}=\\dfrac{\\sin 86^\\circ}{BD}$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$\\angle ADB\\approx 41.7^\\circ$",
+              "displayTextZh": "$\\angle ADB\\approx 41.7^\\circ$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$\\angle ABD\\approx 52.3^\\circ$",
+              "displayTextZh": "$\\angle ABD\\approx 52.3^\\circ$",
+              "isFollowThrough": true,
+              "acceptRoundedTo": "52.3"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$CD^{2}=8^{2}+15^{2}-2(8)(15)\\cos 43^\\circ$",
+              "displayTextZh": "$\\triangle BCD$ 餘弦公式：$CD^{2}=8^{2}+15^{2}-2(8)(15)\\cos 43^\\circ$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$CD\\approx 10.7$ cm",
+              "displayTextZh": "$CD\\approx 10.7$ cm",
+              "isFollowThrough": true,
+              "acceptRoundedTo": "10.7"
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "$\\angle ABC$ is the angle $\\iff AC\\perp$ face $BCD$",
+              "displayTextZh": "$\\angle ABC$ 為交角 $\\iff AC\\perp$ 面 $BCD \\iff AC\\perp BD$"
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "$AC$ is not perpendicular to face $BCD$, so disagree",
+              "displayTextZh": "$AC$ 並不垂直於面 $BCD$（$AC$ 只垂直於 $BC$），故不同意",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "section": "sectionB",
+      "categoryZh": "三角形的心與圓",
+      "categoryEn": "Centres of Triangle and Circles",
+      "difficultyGrade": "A+",
+      "parts": [
+        {
+          "label": "a",
+          "totalMarks": 2,
+          "steps": [
+            {
+              "markType": "PROOF",
+              "markValue": 0,
+              "displayText": "$PI$ bisects $\\angle OPQ$ and $PJ$ is part of the perpendicular bisector consideration; $P,I,J$ collinear forces the angle bisector from $P$ to be the perpendicular bisector of $OQ$, hence $OP=PQ$.",
+              "displayTextZh": "$PI$ 為 $\\angle OPQ$ 的角平分線；$P$、$I$、$J$ 共線使 $P$ 的角平分線同時為 $OQ$ 的垂直平分線，故 $OP=PQ$。"
+            },
+            {
+              "markType": "A",
+              "markValue": 2,
+              "displayText": "correct proof",
+              "displayTextZh": "正確證明"
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "totalMarks": 9,
+          "steps": [
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(i) $P=(15,30)$",
+              "displayTextZh": "(i) $OP=PQ \\Rightarrow P$ 在 $OQ$ 的垂直平分線 $4x+3y=150$ 上；$y=30 \\Rightarrow P=(15,30)$"
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(i) substitute $P,Q$ into $x^{2}+y^{2}+Dx+Ey=0$",
+              "displayTextZh": "(i) 設 $C:\\ x^{2}+y^{2}+Dx+Ey=0$，代入 $P,Q$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "(i) $C:\\ x^{2}+y^{2}-75x=0$",
+              "displayTextZh": "(i) $C:\\ x^{2}+y^{2}-75x=0$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) centre $(\\tfrac{75}{2},0)$, $r=\\tfrac{75}{2}$; $\\dfrac{|\\tfrac{225}{2}+c|}{\\sqrt{10}}=\\tfrac{75}{2}$",
+              "displayTextZh": "(ii) 圓心 $\\left(\\dfrac{75}{2},0\\right)$，半徑 $\\dfrac{75}{2}$；切線 $3x-y+c=0$，$\\dfrac{|3(\\frac{75}{2})+c|}{\\sqrt{10}}=\\dfrac{75}{2}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) $c=-\\dfrac{225}{2}\\pm\\dfrac{75\\sqrt{10}}{2}$",
+              "displayTextZh": "(ii) $c=-\\dfrac{225}{2}\\pm\\dfrac{75\\sqrt{10}}{2}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) $STUV=\\dfrac{|c_{1}^{2}-c_{2}^{2}|}{6}$",
+              "displayTextZh": "(ii) 每直線與軸圍成三角形面積 $=\\dfrac{c^{2}}{6}$；$STUV=\\dfrac{|c_{1}^{2}-c_{2}^{2}|}{6}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) simplify",
+              "displayTextZh": "(ii) $=\\dfrac{|4bd|}{6}$，其中 $b=-\\dfrac{225}{2},\\ d=\\dfrac{75\\sqrt{10}}{2}$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "M",
+              "markValue": 1,
+              "displayText": "(ii) $STUV=2812.5\\sqrt{10}\\approx 8894$",
+              "displayTextZh": "(ii) $STUV=2812.5\\sqrt{10}\\approx 8894$",
+              "isFollowThrough": true
+            },
+            {
+              "markType": "A",
+              "markValue": 1,
+              "displayText": "(ii) $8894<9000$, so the claim is incorrect",
+              "displayTextZh": "(ii) $8894<9000$，故聲稱不正確",
+              "isFollowThrough": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

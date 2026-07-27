@@ -1,0 +1,480 @@
+{
+ "paperTitleZh": "歷年模仿卷（2017）— 試卷一",
+ "paperTitle": "Past Paper Simulation (2017) — Paper 1",
+ "year": 2026,
+ "similarTo": "2017",
+ "durationMinutes": 135,
+ "totalMarks": 105,
+ "mathDelimiter": "$...$ (inline TeX)",
+ "instructionsZh": "1. 本試卷分為三部分：甲部(1)、甲部(2)及乙部。\n2. 所有題目均須作答。\n3. 除特別指明外，所有答案須以真確值或準確至三位有效數字表示。\n4. 除特別指明外，數值答案的單位須清楚寫明。\n5. 本試卷中的圖形不一定依比例繪畫。",
+ "instructionsEn": "1. This paper consists of THREE sections, A(1), A(2) and B.\n2. Attempt ALL questions in this paper. All working must be clearly shown.\n3. Unless otherwise specified, numerical answers should be either exact or correct to 3 significant figures.\n4. Unless otherwise specified, the unit of a numerical answer should be clearly stated.\n5. The diagrams in this paper are not necessarily drawn to scale.",
+ "sections": [
+  {
+   "id": "sectionA1",
+   "titleZh": "甲部(1)",
+   "titleEn": "Section A(1)",
+   "marks": 35,
+   "deductionCapUpp": 1
+  },
+  {
+   "id": "sectionA2",
+   "titleZh": "甲部(2)",
+   "titleEn": "Section A(2)",
+   "marks": 35,
+   "deductionCapUpp": 1
+  },
+  {
+   "id": "sectionB",
+   "titleZh": "乙部",
+   "titleEn": "Section B",
+   "marks": 35,
+   "deductionCapUpp": 0
+  }
+ ],
+ "questions": [
+  {
+   "questionNumber": 1,
+   "section": "sectionA1",
+   "difficultyGrade": "B-",
+   "difficultyScore": 3,
+   "categoryZh": "主項變換",
+   "categoryEn": "Change of Subject",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "使 $y$ 成為公式 $x=\\dfrac{5y-3}{y}$ 的主項。",
+     "questionTextEn": "Make $y$ the subject of the formula $x=\\dfrac{5y-3}{y}$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 2,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "指數律",
+   "categoryEn": "Laws of Indices",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "化簡 $\\dfrac{(m^{2}n^{-3})^{-2}}{m^{-5}n}$ ，並以正指數表示你的答案。",
+     "questionTextEn": "Simplify $\\dfrac{(m^{2}n^{-3})^{-2}}{m^{-5}n}$ and express your answer with positive indices.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 3,
+   "section": "sectionA1",
+   "difficultyGrade": "B",
+   "difficultyScore": 3,
+   "categoryZh": "因式分解",
+   "categoryEn": "Factorization",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "因式分解 $x^{2}-5xy+6y^{2}$ 。",
+     "questionTextEn": "Factorize $x^{2}-5xy+6y^{2}$ .",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "因式分解 $x^{2}-5xy+6y^{2}+3x-9y$ 。",
+     "questionTextEn": "Factorize $x^{2}-5xy+6y^{2}+3x-9y$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 4,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "應用題（一次方程）",
+   "categoryEn": "Applications (Linear Equations)",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某劇院只有兩種入場券：普通券及優惠券。一張普通券及一張優惠券的價格分別為 $\\$150$ 及 $\\$90$ 。在某天，售出的普通券數目是售出的優惠券數目的 $4$ 倍，而售出入場券的總金額為 $\\$44160$ 。求該天售出的入場券總數。",
+     "questionTextEn": "There are only two kinds of admission tickets for a theatre: regular tickets and concessionary tickets. The prices of a regular ticket and a concessionary ticket are $\\$150$ and $\\$90$ respectively. On a certain day, the number of regular tickets sold is $4$ times the number of concessionary tickets sold and the sum of money for the admission tickets sold is $\\$44160$ . Find the total number of admission tickets sold that day.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 5,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "不等式",
+   "categoryEn": "Inequalities",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "求同時滿足 $\\dfrac{7-x}{2}\\ge x-1$ 及 $6-x<5$ 的 $x$ 的取值範圍。",
+     "questionTextEn": "Find the range of values of $x$ which satisfy both $\\dfrac{7-x}{2}\\ge x-1$ and $6-x<5$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有多少個整數同時滿足 (a) 中兩個不等式？",
+     "questionTextEn": "How many integers satisfy both inequalities in (a)?",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 6,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "變換與坐標",
+   "categoryEn": "Transformations and Coordinates",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "點 $A$ 及 $B$ 的坐標分別為 $(-4,3)$ 及 $(8,-8)$ 。$A$ 繞原點逆時針旋轉 $90^\\circ$ 至 $A'$ 。$B'$ 為 $B$ 關於 $x$ 軸的反射影像。寫出 $A'$ 及 $B'$ 的坐標。",
+     "questionTextEn": "The coordinates of the points $A$ and $B$ are $(-4,3)$ and $(8,-8)$ respectively. $A$ is rotated anticlockwise about the origin through $90^\\circ$ to $A'$ . $B'$ is the reflection image of $B$ with respect to the $x$-axis. Write down the coordinates of $A'$ and $B'$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "證明 $AB$ 垂直於 $A'B'$ 。",
+     "questionTextEn": "Prove that $AB$ is perpendicular to $A'B'$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 7,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 4,
+   "categoryZh": "圓形圖",
+   "categoryEn": "Pie Charts",
+   "figureSpecId": "FIG-Q7",
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下面的圓形圖顯示某學校學生出生季節的分佈。（春季所佔的扇形角為 $x$，夏季 $100^\\circ$，秋季 $80^\\circ$。）若從學校中隨機選出一名學生，該學生在春季出生的概率為 $\\dfrac{1}{5}$ 。求冬季所佔的扇形角 $x$。",
+     "questionTextEn": "The pie chart below shows the distribution of the seasons of birth of the students in a school. (The sector angle for spring is the spring angle; summer is $100^\\circ$ and autumn is $80^\\circ$.) If a student is randomly selected from the school, then the probability that the selected student was born in spring is $\\dfrac{1}{5}$ . Find the winter sector angle $x$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "學校中有 $180$ 名學生在冬季出生。求學校的學生人數。",
+     "questionTextEn": "In the school, there are $180$ students born in winter. Find the number of students in the school.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 8,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "變分",
+   "categoryEn": "Variation",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知 $y$ 與 $\\sqrt{x}$ 成反比。當 $x=144$ 時，$y=81$ 。以 $x$ 表示 $y$ 。",
+     "questionTextEn": "It is given that $y$ varies inversely as $\\sqrt{x}$ . When $x=144$ , $y=81$ . Express $y$ in terms of $x$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若 $x$ 的值由 $144$ 增加至 $324$ ，求 $y$ 的值的變化。",
+     "questionTextEn": "If the value of $x$ is increased from $144$ to $324$ , find the change in the value of $y$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 9,
+   "section": "sectionA1",
+   "difficultyGrade": "B+",
+   "difficultyScore": 5,
+   "categoryZh": "量度的準確度",
+   "categoryEn": "Accuracy of Measurement",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "若一瓶子的容量量度為 $200$ mL（準確至最接近的 $10$ mL），則稱該瓶子為標準瓶。求一標準瓶容量的最小可能值。",
+     "questionTextEn": "A bottle is termed standard if its capacity is measured as $200$ mL correct to the nearest $10$ mL . Find the least possible capacity of a standard bottle.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有人聲稱 $120$ 個標準瓶的總容量可量度為 $23.3$ L（準確至最接近的 $0.1$ L）。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Someone claims that the total capacity of $120$ standard bottles can be measured as $23.3$ L correct to the nearest $0.1$ L . Do you agree? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 10,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 6,
+   "categoryZh": "圓與扇形",
+   "categoryEn": "Circles and Sectors",
+   "figureSpecId": "FIG-Q10",
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在圖一中，$OPQR$ 為一四邊形，使得 $OP=OQ=OR$ 。$OQ$ 與 $PR$ 相交於點 $S$ 。$S$ 為 $PR$ 的中點。證明 $\\triangle OPS\\cong\\triangle ORS$ 。",
+     "questionTextEn": "In Figure 1, $OPQR$ is a quadrilateral such that $OP=OQ=OR$ . $OQ$ and $PR$ intersect at the point $S$ . $S$ is the mid-point of $PR$ . Prove that $\\triangle OPS\\cong\\triangle ORS$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知 $O$ 為通過 $P$ 、$Q$ 及 $R$ 的圓的圓心。若 $OQ=6$ cm 及 $\\angle PRQ=10^\\circ$ ，以 $\\pi$ 表示扇形 $OPQR$ 的面積。",
+     "questionTextEn": "It is given that $O$ is the centre of the circle which passes through $P$ , $Q$ and $R$ . If $OQ=6$ cm and $\\angle PRQ=10^\\circ$ , find the area of the sector $OPQR$ in terms of $\\pi$ .",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 11,
+   "section": "sectionA2",
+   "difficultyGrade": "A-",
+   "difficultyScore": 7,
+   "categoryZh": "統計量",
+   "categoryEn": "Statistical Measures",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下面的莖葉圖顯示某組工人時薪（以元計）的分佈。\n莖（十位） | 葉（個位）\n$6$ | $0\\ 0\\ 0\\ 0\\ 3$\n$7$ | $0\\ 1\\ 5\\ 6\\ 7\\ 8\\ 8$\n$8$ | $2$\n已知上述分佈的平均數及分佈域分別為 $\\$70$ 及 $\\$22$ 。求上述分佈的中位數及標準差。",
+     "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the hourly wages (in dollars) of the workers in a group.\nStem (tens) | Leaf (units)\n$6$ | $0\\ 0\\ 0\\ 0\\ 3$\n$7$ | $0\\ 1\\ 5\\ 6\\ 7\\ 8\\ 8$\n$8$ | $2$\nIt is given that the mean and the range of the above distribution are $\\$70$ and $\\$22$ respectively. Find the median and the standard deviation of the above distribution.",
+     "totalMarks": 5
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若從該組中隨機選出一名工人，求所選工人的時薪超過 $\\$70$ 的概率。",
+     "questionTextEn": "If a worker is randomly selected from the group, find the probability that the hourly wage of the selected worker exceeds $\\$70$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 12,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 7,
+   "categoryZh": "相似立體",
+   "categoryEn": "Similar Solids",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一底面積為 $84$ cm$^{2}$ 、高為 $20$ cm 的實心金屬直立柱體被熔化並重鑄成兩個相似的實心直立錐體。兩錐體的底均為正方形。較小錐體的底面積與較大錐體的底面積之比為 $4:9$ 。求較大錐體的體積。",
+     "questionTextEn": "A solid metal right prism of base area $84$ cm$^{2}$ and height $20$ cm is melted and recast into two similar solid right pyramids. The bases of the two pyramids are squares. The ratio of the base area of the smaller pyramid to the base area of the larger pyramid is $4:9$ . Find the volume of the larger pyramid.",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若較大錐體的高為 $12$ cm ，求較小錐體的總表面積。",
+     "questionTextEn": "If the height of the larger pyramid is $12$ cm , find the total surface area of the smaller pyramid.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 13,
+   "section": "sectionA2",
+   "difficultyGrade": "A",
+   "difficultyScore": 7,
+   "categoryZh": "圓的方程",
+   "categoryEn": "Equations of Circles",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "點 $E$ 、$F$ 及 $G$ 的坐標分別為 $(-6,5)$ 、$(3,11)$ 及 $(2,-1)$ 。圓 $C$ 通過 $E$ ，且 $C$ 的圓心為 $G$ 。求 $C$ 的方程。",
+     "questionTextEn": "The coordinates of the points $E$ , $F$ and $G$ are $(-6,5)$ , $(3,11)$ and $(2,-1)$ respectively. The circle $C$ passes through $E$ and the centre of $C$ is $G$ . Find the equation of $C$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "證明 $F$ 位於 $C$ 外。",
+     "questionTextEn": "Prove that $F$ lies outside $C$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "設 $H$ 為 $C$ 上的動點。當 $H$ 與 $F$ 距離最遠時，\n(i) 描述 $F$ 、$G$ 及 $H$ 之間的幾何關係；\n(ii) 求通過 $F$ 及 $H$ 的直線的方程。",
+     "questionTextEn": "Let $H$ be a moving point on $C$ . When $H$ is farthest from $F$ ,\n(i) describe the geometric relationship between $F$ , $G$ and $H$ ;\n(ii) find the equation of the straight line which passes through $F$ and $H$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 14,
+   "section": "sectionA2",
+   "difficultyGrade": "A+",
+   "difficultyScore": 8,
+   "categoryZh": "多項式除法",
+   "categoryEn": "Division of Polynomials",
+   "figureSpecId": null,
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $f(x)=6x^{3}-13x^{2}-46x+34$ 。當 $f(x)$ 除以 $2x^{2}+ax+4$ 時，商及餘數分別為 $3x+7$ 及 $bx+c$ ，其中 $a$ 、$b$ 及 $c$ 為常數。求 $a$ 。",
+     "questionTextEn": "Let $f(x)=6x^{3}-13x^{2}-46x+34$ . When $f(x)$ is divided by $2x^{2}+ax+4$ , the quotient and the remainder are $3x+7$ and $bx+c$ respectively, where $a$ , $b$ and $c$ are constants. Find $a$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "設 $g(x)$ 為一二次多項式，使得當 $g(x)$ 除以 $2x^{2}+ax+4$ 時，餘數為 $bx+c$ 。\n(i) 證明 $f(x)-g(x)$ 可被 $2x^{2}+ax+4$ 整除。\n(ii) 有人聲稱方程 $f(x)-g(x)=0$ 的所有根皆為整數。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Let $g(x)$ be a quadratic polynomial such that when $g(x)$ is divided by $2x^{2}+ax+4$ , the remainder is $bx+c$ .\n(i) Prove that $f(x)-g(x)$ is divisible by $2x^{2}+ax+4$ .\n(ii) Someone claims that all the roots of the equation $f(x)-g(x)=0$ are integers. Do you agree? Explain your answer.",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 15,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 4,
+   "categoryZh": "對數函數",
+   "categoryEn": "Logarithmic Functions",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $a$ 及 $b$ 為常數。以 $G$ 表示 $y=a+\\log_{b}x$ 的圖像。$G$ 的 $x$ 截距為 $4$ ，且 $G$ 通過點 $(32,3)$ 。以 $y$ 表示 $x$ 。",
+     "questionTextEn": "Let $a$ and $b$ be constants. Denote the graph of $y=a+\\log_{b}x$ by $G$ . The $x$-intercept of $G$ is $4$ and $G$ passes through the point $(32,3)$ . Express $x$ in terms of $y$ .",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 16,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 4,
+   "categoryZh": "等比數列",
+   "categoryEn": "Geometric Sequences",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某城市採用一項計劃從另一城市輸入食水。已知計劃開始後第 $1$ 年輸入的食水量為 $1.8\\times 10^{7}$ m$^{3}$ ，而在其後每年輸入的食水量比前一年少 $10\\%$ 。求計劃開始後首 $20$ 年輸入的食水總量。",
+     "questionTextEn": "A city adopts a plan to import water from another city. It is given that the volume of water imported in the 1st year since the start of the plan is $1.8\\times 10^{7}$ m$^{3}$ and in subsequent years, the volume of water imported each year is $10\\%$ less than the volume imported in the previous year. Find the total volume of water imported in the first $20$ years since the start of the plan.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有人聲稱計劃開始後輸入的食水總量不會超過 $1.9\\times 10^{8}$ m$^{3}$ 。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Someone claims that the total volume of water imported since the start of the plan will not exceed $1.9\\times 10^{8}$ m$^{3}$ . Do you agree? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 17,
+   "section": "sectionB",
+   "difficultyGrade": "A",
+   "difficultyScore": 6,
+   "categoryZh": "概率",
+   "categoryEn": "Probability",
+   "figureSpecId": null,
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "袋中有 $4$ 支綠色筆、$5$ 支藍色筆及 $11$ 支黑色筆。若同時從袋中隨機抽出 $5$ 支筆，求剛好抽得 $4$ 支綠色筆的概率。",
+     "questionTextEn": "In a bag, there are $4$ green pens, $5$ blue pens and $11$ black pens. If $5$ pens are randomly drawn from the bag at the same time, find the probability that exactly $4$ green pens are drawn.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求剛好抽得 $3$ 支綠色筆的概率。",
+     "questionTextEn": "Find the probability that exactly $3$ green pens are drawn.",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "求抽得不多於 $2$ 支綠色筆的概率。",
+     "questionTextEn": "Find the probability that not more than $2$ green pens are drawn.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 18,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 8,
+   "categoryZh": "二次方程與判別式",
+   "categoryEn": "Quadratic Equations and Discriminant",
+   "figureSpecId": null,
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "拋物線 $\\Gamma$ 的方程為 $y=x^{2}-2kx+2x-3k+8$ ，其中 $k$ 為實常數。以 $L$ 表示直線 $y=19$ 。證明 $L$ 與 $\\Gamma$ 相交於兩個相異的點。",
+     "questionTextEn": "The equation of the parabola $\\Gamma$ is $y=x^{2}-2kx+2x-3k+8$ , where $k$ is a real constant. Denote the straight line $y=19$ by $L$ . Prove that $L$ and $\\Gamma$ intersect at two distinct points.",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "$L$ 與 $\\Gamma$ 的交點為 $A$ 及 $B$ 。\n(i) 設 $\\alpha$ 及 $\\beta$ 分別為 $A$ 及 $B$ 的 $x$ 坐標。證明 $(\\alpha-\\beta)^{2}=4k^{2}+4k+48$ 。\n(ii) $A$ 與 $B$ 之間的距離是否可能小於 $4$ ？試解釋你的答案。",
+     "questionTextEn": "The points of intersection of $L$ and $\\Gamma$ are $A$ and $B$ .\n(i) Let $\\alpha$ and $\\beta$ be the $x$-coordinates of $A$ and $B$ respectively. Prove that $(\\alpha-\\beta)^{2}=4k^{2}+4k+48$ .\n(ii) Is it possible that the distance between $A$ and $B$ is less than $4$ ? Explain your answer.",
+     "totalMarks": 5
+    }
+   ]
+  },
+  {
+   "questionNumber": 19,
+   "section": "sectionB",
+   "difficultyGrade": "A+",
+   "difficultyScore": 13,
+   "categoryZh": "立體圖形的三角學",
+   "categoryEn": "Trigonometry in 3-D",
+   "figureSpecId": "FIG-Q19",
+   "totalMarks": 13,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "$ABC$ 為一薄三角形金屬片，其中 $BC=24$ cm ，$\\angle BAC=30^\\circ$ 及 $\\angle ACB=42^\\circ$ 。求 $AC$ 的長度。",
+     "questionTextEn": "$ABC$ is a thin triangular metal sheet, where $BC=24$ cm , $\\angle BAC=30^\\circ$ and $\\angle ACB=42^\\circ$ . Find the length of $AC$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "在圖二中，薄金屬片 $ABC$ 被固定，使得只有頂點 $B$ 位於水平地面上。$D$ 及 $E$ 為分別在頂點 $A$ 及 $C$ 正下方且位於水平地面上的點。$AC$ 延線與水平地面相交於點 $F$ 。工匠發現 $AD=10$ cm 及 $CE=2$ cm 。\n(i) 求 $C$ 與 $F$ 之間的距離。\n(ii) 求 $\\triangle ABF$ 的面積。\n(iii) 求薄金屬片 $ABC$ 對水平地面的傾角。\n(iv) 工匠聲稱 $\\triangle BDF$ 的面積大於 $460$ cm$^{2}$ 。你是否同意？試解釋你的答案。",
+     "questionTextEn": "In Figure 2, the thin metal sheet $ABC$ is held such that only the vertex $B$ lies on the horizontal ground. $D$ and $E$ are points lying on the horizontal ground vertically below the vertices $A$ and $C$ respectively. $AC$ produced meets the horizontal ground at the point $F$ . A craftsman finds that $AD=10$ cm and $CE=2$ cm .\n(i) Find the distance between $C$ and $F$ .\n(ii) Find the area of $\\triangle ABF$ .\n(iii) Find the inclination of the thin metal sheet $ABC$ to the horizontal ground.\n(iv) The craftsman claims that the area of $\\triangle BDF$ is greater than $460$ cm$^{2}$ . Do you agree? Explain your answer.",
+     "totalMarks": 11
+    }
+   ]
+  }
+ ]
+}
