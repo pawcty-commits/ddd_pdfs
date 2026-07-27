@@ -97,6 +97,32 @@
       "imageBaseUrl": "set2022/p2"
     },
     {
+      "id": "set2021_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2021-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2021",
+      "jsonPath": "set2021/p1/questions.json",
+      "imageBaseUrl": "set2021/p1",
+      "markingSchemeUrl": "set2021/p1/markingscheme_{lang}.pdf"
+    },
+    {
+      "id": "set2021_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2021-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2021",
+      "jsonPath": "set2021/p2/questions.json",
+      "imageBaseUrl": "set2021/p2",
+      "solutionUrl": "set2021/p2/answers_solutions_{lang}.pdf"
+    },
+    {
       "id": "set2020_p1",
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
@@ -119,6 +145,32 @@
       "similarTo": "2020",
       "jsonPath": "set2020/p2/questions.json",
       "imageBaseUrl": "set2020/p2"
+    },
+    {
+      "id": "set2019_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2019-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2019",
+      "jsonPath": "set2019/p1/questions.json",
+      "imageBaseUrl": "set2019/p1",
+      "markingSchemeUrl": "set2019/p1/markingscheme_{lang}.pdf"
+    },
+    {
+      "id": "set2019_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2019-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2019",
+      "jsonPath": "set2019/p2/questions.json",
+      "imageBaseUrl": "set2019/p2",
+      "solutionUrl": "set2019/p2/answers_solutions_{lang}.pdf"
     },
     {
       "id": "set2018_p1",
@@ -145,6 +197,58 @@
       "jsonPath": "set2018/p2/questions.json",
       "imageBaseUrl": "set2018/p2",
       "solutionUrl": "set2018/p2/answers_solutions_{lang}.pdf"
+    },
+    {
+      "id": "set2017_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2017-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2017",
+      "jsonPath": "set2017/p1/questions.json",
+      "imageBaseUrl": "set2017/p1",
+      "markingSchemeUrl": "set2017/p1/markingscheme_{lang}.pdf"
+    },
+    {
+      "id": "set2017_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2017-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2017",
+      "jsonPath": "set2017/p2/questions.json",
+      "imageBaseUrl": "set2017/p2",
+      "solutionUrl": "set2017/p2/answers_solutions_{lang}.pdf"
+    },
+    {
+      "id": "set2016_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2016-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2016",
+      "jsonPath": "set2016/p1/questions.json",
+      "imageBaseUrl": "set2016/p1",
+      "markingSchemeUrl": "set2016/p1/markingscheme_{lang}.pdf"
+    },
+    {
+      "id": "set2016_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2016-04-01",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2016",
+      "jsonPath": "set2016/p2/questions.json",
+      "imageBaseUrl": "set2016/p2",
+      "solutionUrl": "set2016/p2/answers_solutions_{lang}.pdf"
     }
   ]
 }
