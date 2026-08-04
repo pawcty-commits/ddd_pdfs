@@ -1,0 +1,632 @@
+[
+  {
+    "questionNumber": 1,
+    "questionText": "化簡 \\frac{a^{6} b^{-1}}{a^{2} b^{3}} 。\nSimplify \\frac{a^{6} b^{-1}}{a^{2} b^{3}} .",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "\\frac{a^{4}}{b^{2}}",
+      "B": "\\frac{a^{4}}{b^{4}}",
+      "C": "\\frac{a^{8}}{b^{4}}",
+      "D": "a^{4} b^{4}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "指數律/Laws of Indices"
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "把 0.00000428 以科學記數法表示。\nExpress 0.00000428 in scientific notation.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "4.28 \\times 10^{-5}",
+      "B": "42.8 \\times 10^{-7}",
+      "C": "4.28 \\times 10^{6}",
+      "D": "4.28 \\times 10^{-6}"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "科學記數法/Scientific Notation"
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "解 4(x - 1) = x + 8 。\nSolve 4(x - 1) = x + 8 .",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "x = 3",
+      "B": "x = 12",
+      "C": "x = 6",
+      "D": "x = 4"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "一元一次方程/Linear Equations"
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "化簡 \\frac{x^{2} - 25}{x^{2} - 2x - 15} 。\nSimplify \\frac{x^{2} - 25}{x^{2} - 2x - 15} .",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "\\frac{x - 5}{x + 3}",
+      "B": "\\frac{x + 5}{x - 3}",
+      "C": "\\frac{x + 5}{x + 3}",
+      "D": "\\frac{x - 5}{x - 3}"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "代數分式/Algebraic Fractions"
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "因式分解 64a^{3} - 27 。\nFactorize 64a^{3} - 27 .",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "(4a - 3)(16a^{2} - 12a + 9)",
+      "B": "(4a + 3)(16a^{2} - 12a + 9)",
+      "C": "(4a - 3)(16a^{2} + 12a + 9)",
+      "D": "(4a - 3)(4a^{2} + 12a + 9)"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "因式分解/Factorization"
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "若 y = \\frac{3x + 2}{x - 4} ，以 y 表示 x 。\nIf y = \\frac{3x + 2}{x - 4} , express x in terms of y .",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "x = \\frac{4y - 2}{y - 3}",
+      "B": "x = \\frac{4y + 2}{y + 3}",
+      "C": "x = \\frac{4y + 2}{y - 3}",
+      "D": "x = \\frac{2 - 4y}{y - 3}"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "公式變換/Change of Subject"
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "解 2^{x} = 50 （準確至三位有效數字）。\nSolve 2^{x} = 50 , correct to 3 significant figures.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "5.64",
+      "B": "5.65",
+      "C": "1.70",
+      "D": "25.0"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "對數/Logarithms"
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "設 \\alpha 及 \\beta 為方程 4x^{2} - 7x + 2 = 0 的兩根。求 \\alpha^{2} + \\beta^{2} 。\nLet \\alpha and \\beta be the roots of 4x^{2} - 7x + 2 = 0 . Find \\alpha^{2} + \\beta^{2} .",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "\\frac{49}{16}",
+      "B": "\\frac{41}{16}",
+      "C": "\\frac{25}{16}",
+      "D": "\\frac{33}{16}"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "二次方程的根/Roots of Quadratic Equations"
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "若方程 x^{2} - kx + (2k + 4) = 0 有兩個相等的實根，求 k 。\nIf the equation x^{2} - kx + (2k + 4) = 0 has two equal real roots, find k .",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "k = -8 \\text{ or } k = 2",
+      "B": "k = 8 \\text{ only}",
+      "C": "k = 4 \\text{ or } k = -1",
+      "D": "k = 8 \\text{ or } k = -2"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "二次方程的判別式/Discriminant"
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "解 x^{2} - x - 12 \\le 0 。\nSolve x^{2} - x - 12 \\le 0 .",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "x \\le -3 \\text{ or } x \\ge 4",
+      "B": "-4 \\le x \\le 3",
+      "C": "-3 \\le x \\le 4",
+      "D": "3 \\le x \\le 4"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "二次不等式/Quadratic Inequalities"
+  },
+  {
+    "questionNumber": 11,
+    "questionText": "某等差數列的第 2 項及第 6 項分別為 8 及 24 。求首 12 項之和。\nThe 2nd and 6th terms of an arithmetic sequence are 8 and 24 respectively. Find the sum of the first 12 terms.",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "312",
+      "B": "300",
+      "C": "324",
+      "D": "156"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "等差數列/Arithmetic Sequences"
+  },
+  {
+    "questionNumber": 12,
+    "questionText": "某等比數列為 3, 6, 12, \\ldots 。求第 8 項。\nThe geometric sequence is 3, 6, 12, \\ldots . Find the 8th term.",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "384",
+      "B": "192",
+      "C": "768",
+      "D": "256"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "等比數列/Geometric Sequences"
+  },
+  {
+    "questionNumber": 13,
+    "questionText": "求 3x^{3} - x^{2} + 2x - 5 除以 x - 2 時的餘數。\nFind the remainder when 3x^{3} - x^{2} + 2x - 5 is divided by x - 2 .",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "19",
+      "B": "1",
+      "C": "-5",
+      "D": "23"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "餘式定理/Remainder Theorem"
+  },
+  {
+    "questionNumber": 14,
+    "questionText": "已知 y 與 x^{2} 成反變。當 x = 4 時 y = 3 。求當 x = 2 時 y 的值。\nIt is given that y varies inversely as x^{2} . When x = 4 , y = 3 . Find the value of y when x = 2 .",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "6",
+      "B": "\\frac{3}{4}",
+      "C": "12",
+      "D": "48"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "變分/Variation"
+  },
+  {
+    "questionNumber": 15,
+    "questionText": "某物品的價格連續上升 10% 兩次。求整體上升百分率。\nThe price of an item is increased by 10% twice successively. Find the overall percentage increase.",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "21\\%",
+      "B": "20\\%",
+      "C": "121\\%",
+      "D": "11\\%"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "百分法/Percentages"
+  },
+  {
+    "questionNumber": 16,
+    "questionText": "某數列為 3, 7, 11, 15, \\ldots 。求第 15 項。\nThe sequence is 3, 7, 11, 15, \\ldots . Find the 15th term.",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "59",
+      "B": "63",
+      "C": "55",
+      "D": "60"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "數列通項/General Term of a Sequence"
+  },
+  {
+    "questionNumber": 17,
+    "questionText": "把 $20000 以年利率 4% （每年複息一次）存入銀行 2 年。求本利和（準確至最接近的元）。\n$20000 is deposited at 4% per annum compounded yearly for 2 years. Find the amount, correct to the nearest dollar.",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "\\$21600",
+      "B": "\\$21632.00",
+      "C": "\\$21632",
+      "D": "\\$20800"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "複利/Compound Interest"
+  },
+  {
+    "questionNumber": 18,
+    "questionText": "化簡 \\sqrt{75} - \\sqrt{12} 。\nSimplify \\sqrt{75} - \\sqrt{12} .",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "\\sqrt{3}",
+      "B": "\\sqrt{63}",
+      "C": "3\\sqrt{3}",
+      "D": "5\\sqrt{3}"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "根式運算/Surds"
+  },
+  {
+    "questionNumber": 19,
+    "questionText": "在圖中，三角形 ABC 中， \\angle A = 45° 及 \\angle B = 55° 。求 \\angle ACD ，其中 D 在 BC 的延線上。\nIn the figure, in triangle ABC , \\angle A = 45° and \\angle B = 55° . Find \\angle ACD , where D lies on BC produced.",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "80^{\\circ}",
+      "B": "110^{\\circ}",
+      "C": "100^{\\circ}",
+      "D": "90^{\\circ}"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "三角形的角/Angles in a Triangle"
+  },
+  {
+    "questionNumber": 20,
+    "questionText": "在圖中， AB \\;/\\!/\\; CD ，而一條橫截線與它們相交。已知圖中所示的角為 125° 。求 x 。\nIn the figure, AB \\;/\\!/\\; CD and a transversal cuts them. The marked angle is 125° . Find x .",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "55^{\\circ}",
+      "B": "125^{\\circ}",
+      "C": "62.5^{\\circ}",
+      "D": "180^{\\circ}"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "平行線的角/Angles in Parallel Lines"
+  },
+  {
+    "questionNumber": 21,
+    "questionText": "在圖中，一扇形的半徑為 12 cm ，圓心角為 150° 。求該弧的長度（以 \\pi 表示）。\nIn the figure, a sector has radius 12 cm and angle at the centre 150° . Find the length of the arc in terms of \\pi .",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "5\\pi \\text{ cm}",
+      "B": "10\\pi \\text{ cm}",
+      "C": "60\\pi \\text{ cm}",
+      "D": "24\\pi \\text{ cm}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "弧長/Arc Length"
+  },
+  {
+    "questionNumber": 22,
+    "questionText": "求點 (2, 6) 及 (6, 9) 之間的距離。\nFind the distance between the points (2, 6) and (6, 9) .",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "7",
+      "B": "\\sqrt{7}",
+      "C": "5",
+      "D": "25"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "兩點間的距離/Distance Between Two Points"
+  },
+  {
+    "questionNumber": 23,
+    "questionText": "求垂直於直線 5x - 3y = 2 的直線的斜率。\nFind the slope of a line perpendicular to the line 5x - 3y = 2 .",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "\\frac{5}{3}",
+      "B": "-\\frac{3}{5}",
+      "C": "\\frac{3}{5}",
+      "D": "-\\frac{5}{3}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "垂直直線/Perpendicular Lines"
+  },
+  {
+    "questionNumber": 24,
+    "questionText": "求圓 x^{2} + y^{2} - 8x + 6y - 24 = 0 的圓心及半徑。\nFind the centre and radius of the circle x^{2} + y^{2} - 8x + 6y - 24 = 0 .",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "\\text{centre } (-4, 3), \\; r = 7",
+      "B": "\\text{centre } (4, -3), \\; r = 49",
+      "C": "\\text{centre } (8, -6), \\; r = 7",
+      "D": "\\text{centre } (4, -3), \\; r = 7"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "圓的方程/Equation of a Circle"
+  },
+  {
+    "questionNumber": 25,
+    "questionText": "圖中所示為一個正十邊形。求每隻內角 \\theta 。\nThe figure shows a regular decagon. Find each interior angle \\theta .",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "144^{\\circ}",
+      "B": "36^{\\circ}",
+      "C": "135^{\\circ}",
+      "D": "150^{\\circ}"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "多邊形/Polygons"
+  },
+  {
+    "questionNumber": 26,
+    "questionText": "在圖中， DE \\;/\\!/\\; BC 。已知 AD = 10 、 DB = 3 及 AE = 10 。求 EC 。\nIn the figure, DE \\;/\\!/\\; BC . It is given that AD = 10 , DB = 3 and AE = 10 . Find EC .",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "\\frac{10}{3}",
+      "B": "30",
+      "C": "3",
+      "D": "13"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "相似三角形/Similar Triangles"
+  },
+  {
+    "questionNumber": 27,
+    "questionText": "求半徑為 4 cm 的球的體積（以 \\pi 表示）。\nFind the volume of a sphere of radius 4 cm in terms of \\pi .",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "\\frac{64}{3}\\pi \\text{ cm}^{3}",
+      "B": "\\frac{256}{3}\\pi \\text{ cm}^{3}",
+      "C": "64\\pi \\text{ cm}^{3}",
+      "D": "16\\pi \\text{ cm}^{3}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionA",
+    "category": "立體圖形的體積/Volume of Solids"
+  },
+  {
+    "questionNumber": 28,
+    "questionText": "若 8, 10, x, 16 的平均數為 12 ，求 x 。\nIf the mean of 8, 10, x, 16 is 12 , find x .",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "14",
+      "B": "12",
+      "C": "10",
+      "D": "13"
+    },
+    "correctAnswer": "A",
+    "section": "sectionA",
+    "category": "平均數/Mean"
+  },
+  {
+    "questionNumber": 29,
+    "questionText": "求數據 3, 6, 6, 9, 11, 14 的中位數。\nFind the median of the data 3, 6, 6, 9, 11, 14 .",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "7.5",
+      "D": "8"
+    },
+    "correctAnswer": "C",
+    "section": "sectionA",
+    "category": "中位數/Median"
+  },
+  {
+    "questionNumber": 30,
+    "questionText": "擲一粒公平骰子。求出現大於 4 的點數的概率。\nA fair die is thrown. Find the probability of getting a number greater than 4 .",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "\\frac{1}{2}",
+      "B": "\\frac{2}{3}",
+      "C": "\\frac{1}{6}",
+      "D": "\\frac{1}{3}"
+    },
+    "correctAnswer": "D",
+    "section": "sectionA",
+    "category": "簡單概率/Simple Probability"
+  },
+  {
+    "questionNumber": 31,
+    "questionText": "設 a > b ，其中 a 及 b 為實數。\nI. a^{2} > b^{2}\nII. a - b > 0\nIII. -a < -b\n下列何者為正確？\nLet a > b , where a and b are real numbers.\nI. a^{2} > b^{2}\nII. a - b > 0\nIII. -a < -b\nWhich of the above is/are true?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "\\text{I and II only}",
+      "B": "\\text{I and III only}",
+      "C": "\\text{II and III only}",
+      "D": "\\text{I, II and III}"
+    },
+    "correctAnswer": "C",
+    "section": "sectionB",
+    "category": "不等式/Inequalities"
+  },
+  {
+    "questionNumber": 32,
+    "questionText": "設 x 及 y 為正數。\nI. \\log(x^{2}) = 2\\log x\nII. \\log(x + y) = \\log x + \\log y\nIII. \\log \\frac{x}{y} = \\log x - \\log y\n下列何者為正確？\nLet x and y be positive numbers.\nI. \\log(x^{2}) = 2\\log x\nII. \\log(x + y) = \\log x + \\log y\nIII. \\log \\frac{x}{y} = \\log x - \\log y\nWhich of the above is/are true?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "\\text{I and II only}",
+      "B": "\\text{I and III only}",
+      "C": "\\text{II and III only}",
+      "D": "\\text{I, II and III}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "指數與對數/Indices and Logarithms"
+  },
+  {
+    "questionNumber": 33,
+    "questionText": "考慮二次函數 y = x^{2} - 6x + 11 。\nI. 圖像的頂點為 (3, 2)\nII. 圖像開口向上\nIII. 圖像與 x 軸相交於兩點\n下列何者為正確？\nConsider the quadratic function y = x^{2} - 6x + 11 .\nI. The vertex of the graph is (3, 2)\nII. The graph opens upwards\nIII. The graph cuts the x-axis at two points\nWhich of the above is/are true?",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "\\text{I and II only}",
+      "B": "\\text{I and III only}",
+      "C": "\\text{II and III only}",
+      "D": "\\text{I, II and III}"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "二次函數/Quadratic Functions"
+  },
+  {
+    "questionNumber": 34,
+    "questionText": "設 ABCD 為一平行四邊形。\nI. 兩對角線互相平分\nII. 所有內角相等\nIII. 兩雙對邊分別平行\n下列何者為正確？\nLet ABCD be a parallelogram.\nI. The diagonals bisect each other\nII. All interior angles are equal\nIII. Both pairs of opposite sides are parallel\nWhich of the above is/are true?",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "\\text{I and II only}",
+      "B": "\\text{I and III only}",
+      "C": "\\text{II and III only}",
+      "D": "\\text{I, II and III}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "平行四邊形/Parallelograms"
+  },
+  {
+    "questionNumber": 35,
+    "questionText": "在圖中， AB 為圓 O 的直徑， C 為圓上一點，且 \\angle BAC = 40° 。求 \\angle ABC 。\nIn the figure, AB is a diameter of the circle O and C is a point on the circle with \\angle BAC = 40° . Find \\angle ABC .",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "50^{\\circ}",
+      "B": "40^{\\circ}",
+      "C": "90^{\\circ}",
+      "D": "80^{\\circ}"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "圓的性質/Properties of Circles"
+  },
+  {
+    "questionNumber": 36,
+    "questionText": "考慮數列 3, 6, 12, 24, \\ldots 。\nI. 它是公比為 2 的等比數列\nII. 它是等差數列\nIII. 第 6 項為 96\n下列何者為正確？\nConsider the sequence 3, 6, 12, 24, \\ldots .\nI. It is a geometric sequence with common ratio 2\nII. It is an arithmetic sequence\nIII. The 6th term is 96\nWhich of the above is/are true?",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "\\text{I and II only}",
+      "B": "\\text{I and III only}",
+      "C": "\\text{II and III only}",
+      "D": "\\text{I, II and III}"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "數列/Sequences"
+  },
+  {
+    "questionNumber": 37,
+    "questionText": "一組數據的每個數值都乘以 2 再加 5 。若原數據的標準差為 6 ，求新數據的標準差。\nEach datum of a set of data is multiplied by 2 and then increased by 5 . If the standard deviation of the original data is 6 , find the standard deviation of the new data.",
+    "imageUrl": "q37.png",
+    "options": {
+      "A": "17",
+      "B": "6",
+      "C": "29",
+      "D": "12"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "統計數據的變換/Transformation of Data"
+  },
+  {
+    "questionNumber": 38,
+    "questionText": "若 C^{n}_{2} = 66 ，求 n 。\nIf C^{n}_{2} = 66 , find n .",
+    "imageUrl": "q38.png",
+    "options": {
+      "A": "11",
+      "B": "12",
+      "C": "66",
+      "D": "10"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "組合/Combinations"
+  },
+  {
+    "questionNumber": 39,
+    "questionText": "設 A 及 B 為互斥事件，且 P(A) = 0.35 、 P(B) = 0.45 。求 P(A \\cup B) 。\nLet A and B be mutually exclusive events with P(A) = 0.35 and P(B) = 0.45 . Find P(A \\cup B) .",
+    "imageUrl": "q39.png",
+    "options": {
+      "A": "0.8",
+      "B": "0.1575",
+      "C": "0.1",
+      "D": "0.63"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "互斥事件/Mutually Exclusive Events"
+  },
+  {
+    "questionNumber": 40,
+    "questionText": "把 5 本不同的書排成一行，其中指定的 2 本書須相鄰。求不同的排法數目。\n5 different books are arranged in a row such that 2 particular books must be next to each other. Find the number of different arrangements.",
+    "imageUrl": "q40.png",
+    "options": {
+      "A": "240",
+      "B": "24",
+      "C": "120",
+      "D": "48"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "排列/Permutations"
+  },
+  {
+    "questionNumber": 41,
+    "questionText": "某數列的第 n 項為 T(n) = 2n^{2} + n 。求 T(6) - T(5) 。\nThe nth term of a sequence is T(n) = 2n^{2} + n . Find T(6) - T(5) .",
+    "imageUrl": "q41.png",
+    "options": {
+      "A": "22",
+      "B": "78",
+      "C": "23",
+      "D": "55"
+    },
+    "correctAnswer": "C",
+    "section": "sectionB",
+    "category": "數列/Sequences"
+  },
+  {
+    "questionNumber": 42,
+    "questionText": "某測驗的平均分為 50 分，標準差為 12 分。一名學生的標準分為 -1.5 。求該學生的分數。\nIn a test, the mean is 50 marks and the standard deviation is 12 marks. A student has a standard score of -1.5 . Find the student's marks.",
+    "imageUrl": "q42.png",
+    "options": {
+      "A": "68",
+      "B": "32",
+      "C": "48.5",
+      "D": "30"
+    },
+    "correctAnswer": "B",
+    "section": "sectionB",
+    "category": "標準分/Standard Score"
+  },
+  {
+    "questionNumber": 43,
+    "questionText": "某盒鬚圖顯示：最小值 10 、下四分位數 18 、中位數 20 、上四分位數 34 、最大值 46 。下列關於此分佈的敘述何者正確？\nA box-and-whisker diagram shows: minimum 10 , lower quartile 18 , median 20 , upper quartile 34 , maximum 46 . Which of the following about the distribution is correct?",
+    "imageUrl": "q43.png",
+    "options": {
+      "A": "\\text{negatively skewed / 負偏（左偏）}",
+      "B": "\\text{symmetric / 對稱}",
+      "C": "\\text{IQR is } 20 \\text{ / 四分位數間距為 } 20",
+      "D": "\\text{positively skewed / 正偏（右偏）}"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "數據分佈/Distribution of Data"
+  },
+  {
+    "questionNumber": 44,
+    "questionText": "一個袋內有 4 個紅球及 2 個白球。同時隨機抽出 2 個球。求至少抽得 1 個白球的概率。\nA bag contains 4 red balls and 2 white balls. 2 balls are drawn at random at the same time. Find the probability of drawing at least 1 white ball.",
+    "imageUrl": "q44.png",
+    "options": {
+      "A": "\\frac{3}{5}",
+      "B": "\\frac{2}{5}",
+      "C": "\\frac{1}{3}",
+      "D": "\\frac{4}{5}"
+    },
+    "correctAnswer": "A",
+    "section": "sectionB",
+    "category": "概率/Probability"
+  },
+  {
+    "questionNumber": 45,
+    "questionText": "求數據 1, 3, 5, 7, 9 的方差。\nFind the variance of the data 1, 3, 5, 7, 9 .",
+    "imageUrl": "q45.png",
+    "options": {
+      "A": "4",
+      "B": "2\\sqrt{2}",
+      "C": "40",
+      "D": "8"
+    },
+    "correctAnswer": "D",
+    "section": "sectionB",
+    "category": "方差/Variance"
+  }
+]
