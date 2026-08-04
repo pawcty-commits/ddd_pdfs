@@ -3,6 +3,32 @@
   "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
   "papers": [
     {
+      "id": "set0804_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2026-08-04",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "set0804/p1/questions.json",
+      "imageBaseUrl": "set0804/p1",
+      "markingSchemeUrl": "set0804/p1/markingscheme_{lang}.pdf",
+      "pdfUrl": "set0804/p1/paper_{lang}.pdf"
+    },
+    {
+      "id": "set0804_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2026-08-04",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "set0804/p2/questions.json",
+      "imageBaseUrl": "set0804/p2",
+      "solutionUrl": "set0804/p2/answers_solutions_{lang}.pdf",
+      "pdfUrl": "set0804/p2/paper_{lang}.pdf"
+    },
+    {
       "id": "set1_p1",
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
