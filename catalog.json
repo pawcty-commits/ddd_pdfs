@@ -3,17 +3,17 @@
   "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
   "papers": [
     {
-      "id": "set0805_p1",
+      "id": "set0806_p1",
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "longQuestion",
-      "examDate": "2026-08-05",
+      "examDate": "2026-08-06",
       "timedExam": true,
       "source": "both",
-      "jsonPath": "set0805/p1/questions.json",
-      "imageBaseUrl": "set0805/p1",
-      "markingSchemeUrl": "set0805/p1/markingscheme_{lang}.pdf",
-      "pdfUrl": "set0805/p1/paper_{lang}.pdf"
+      "jsonPath": "set080/p1/questions.json",
+      "imageBaseUrl": "set0806/p1",
+      "markingSchemeUrl": "set08066/p1/markingscheme_{lang}.pdf",
+      "pdfUrl": "set0806/p1/paper_{lang}.pdf"
     },
     {
       "id": "set0805_p2",
