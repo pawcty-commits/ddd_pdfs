@@ -3,30 +3,30 @@
   "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
   "papers": [
     {
-      "id": "set0912_p1",
+      "id": "set1029_p1",
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "longQuestion",
-      "examDate": "2026-09-12",
+      "examDate": "2026-10-28",
       "timedExam": true,
       "source": "both",
-      "jsonPath": "set0912/p1/questions.json",
-      "imageBaseUrl": "set0912/p1",
-      "markingSchemeUrl": "set0912/p1/markingscheme_{lang}.pdf",
-      "pdfUrl": "set0912/p1/paper_{lang}.pdf"
+      "jsonPath": "set1029/p1/questions.json",
+      "imageBaseUrl": "set1029/p1",
+      "markingSchemeUrl": "set1029/p1/markingscheme_{lang}.pdf",
+      "pdfUrl": "set1029/p1/paper_{lang}.pdf"
     },
     {
-      "id": "set0912_p2",
+      "id": "set1029_p2",
       "title": "今日試卷",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
       "type": "mc",
-      "examDate": "2026-09-12",
+      "examDate": "2026-10-28",
       "timedExam": true,
       "source": "both",
-      "jsonPath": "set0912/p2/questions.json",
-      "imageBaseUrl": "set0912/p2",
-      "solutionUrl": "set0912/p2/answers_solutions_{lang}.pdf",
-      "pdfUrl": "set0912/p2/paper_{lang}.pdf"
+      "jsonPath": "set1029/p2/questions.json",
+      "imageBaseUrl": "set1029/p2",
+      "solutionUrl": "set1029/p2/answers_solutions_{lang}.pdf",
+      "pdfUrl": "set1029/p2/paper_{lang}.pdf"
     },
     {
       "id": "set1_p1",
@@ -51,28 +51,6 @@
       "jsonPath": "set1/p2/questions.json",
       "imageBaseUrl": "set1/p2",
       "pdfUrl": "set1/p2/paper_{lang}.pdf"
-    },
-    {
-      "id": "set0_p1",
-      "title": "今日試卷",
-      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
-      "type": "longQuestion",
-      "examDate": "2026-07-19",
-      "timedExam": false,
-      "source": "pastpaper",
-      "jsonPath": "set0/p1/questions.json",
-      "imageBaseUrl": "set0/p1"
-    },
-    {
-      "id": "set0_p2",
-      "title": "今日試卷",
-      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
-      "type": "mc",
-      "examDate": "2026-07-19",
-      "timedExam": false,
-      "source": "pastpaper",
-      "jsonPath": "set0/p2/questions.json",
-      "imageBaseUrl": "set0/p2"
     },
     {
       "id": "set2023_p1",
