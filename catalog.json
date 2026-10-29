@@ -3,6 +3,32 @@
   "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
   "papers": [
     {
+      "id": "set261030_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2026-10-30",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "set261030/p1/questions.json",
+      "imageBaseUrl": "set261030/p1",
+      "markingSchemeUrl": "set261030/p1/markingscheme_{lang}.pdf",
+      "pdfUrl": "set261030/p1/paper_{lang}.pdf"
+    },
+    {
+      "id": "set261030_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2026-10-30",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "set261030/p2/questions.json",
+      "imageBaseUrl": "set261030/p2",
+      "solutionUrl": "set261030/p2/answers_solutions_{lang}.pdf",
+      "pdfUrl": "set261030/p2/paper_{lang}.pdf"
+    },
+    {
       "id": "set250402_p1",
       "title": "2025",
       "subject": "數學 (必修部分) / Mathematics (Compulsory)",
@@ -27,6 +53,32 @@
       "jsonPath": "set250402/p2/questions.json",
       "imageBaseUrl": "set250402/p2",
       "solutionUrl": "set250402/p2/answers_solutions_{lang}.pdf"
+    },
+    {
+      "id": "set240402_p1",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "longQuestion",
+      "examDate": "2024-04-02",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2012",
+      "jsonPath": "set240402/p1/questions.json",
+      "imageBaseUrl": "set240402/p1",
+      "markingSchemeUrl": "set240402/p1/markingscheme_{lang}.pdf"
+    },
+    {
+      "id": "set240402_p2",
+      "title": "今日試卷",
+      "subject": "數學 (必修部分) / Mathematics (Compulsory)",
+      "type": "mc",
+      "examDate": "2024-04-02",
+      "timedExam": false,
+      "source": "pastpaper",
+      "similarTo": "2012",
+      "jsonPath": "set240402/p2/questions.json",
+      "imageBaseUrl": "set240402/p2",
+      "solutionUrl": "set240402/p2/answers_solutions_{lang}.pdf"
     }
   ]
 }
