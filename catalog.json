@@ -62,7 +62,7 @@
       "examDate": "2024-04-02",
       "timedExam": false,
       "source": "pastpaper",
-      "similarTo": "2012",
+      "similarTo": "2024",
       "jsonPath": "set240402/p1/questions.json",
       "imageBaseUrl": "set240402/p1",
       "markingSchemeUrl": "set240402/p1/markingscheme_{lang}.pdf"
@@ -75,7 +75,7 @@
       "examDate": "2024-04-02",
       "timedExam": false,
       "source": "pastpaper",
-      "similarTo": "2012",
+      "similarTo": "2024",
       "jsonPath": "set240402/p2/questions.json",
       "imageBaseUrl": "set240402/p2",
       "solutionUrl": "set240402/p2/answers_solutions_{lang}.pdf"
