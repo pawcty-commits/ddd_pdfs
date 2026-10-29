@@ -1,0 +1,632 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "sectionA",
+    "category": "兩個一次二項式的平方之和的展開與化簡/Expanding and Simplifying a Sum of Two Squares of Linear Binomials",
+    "questionText": "展開並化簡 $(2x+3)^{2}+(x-4)^{2}$ ，答案須按 $x$ 的降冪排列。\nExpand and simplify $(2x+3)^{2}+(x-4)^{2}$ , giving the answer in descending powers of $x$ .",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$5x^{2}+4x+25$",
+      "B": "$5x^{2}-4x+25$",
+      "C": "$5x^{2}+4x+7$",
+      "D": "$3x^{2}+4x+25$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 2,
+    "section": "sectionA",
+    "category": "由量度值及相對誤差求最大絕對誤差/The Maximum Absolute Error from a Relative Error",
+    "questionText": "一條繩的長量得為 $48$ cm，相對誤差為 $\\dfrac{1}{96}$ 。求最大絕對誤差。\nThe length of a rope is measured as $48$ cm and the relative error is $\\dfrac{1}{96}$ . Find the maximum absolute error.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "$0.05$ cm",
+      "B": "$0.25$ cm",
+      "C": "$0.4$ cm",
+      "D": "$0.5$ cm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 3,
+    "section": "sectionA",
+    "category": "繞一個定點旋轉 180 度後像的坐標/The Image after a Rotation of 180 Degrees about a Fixed Point",
+    "questionText": "在坐標平面上，點 $P(7,-2)$ 繞點 $(3,1)$ 旋轉 $180^{\\circ}$ 至 $P'$ 。求 $P'$ 的坐標。\nIn the rectangular coordinate plane, the point $P(7,-2)$ is rotated through $180^{\\circ}$ about the point $(3,1)$ to $P'$ . Find the coordinates of $P'$ .",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$(1,-4)$",
+      "B": "$(-1,4)$",
+      "C": "$(-7,2)$",
+      "D": "$(4,-1)$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 4,
+    "section": "sectionA",
+    "category": "反變中由一組數值求另一組/Inverse Variation: Finding a Value from a Given Pair",
+    "questionText": "已知 $y$ 與 $x$ 成反變。當 $x=6$ 時 $y=15$ 。求當 $x=10$ 時 $y$ 的值。\nIt is given that $y$ varies inversely as $x$ . When $x=6$ , $y=15$ . Find the value of $y$ when $x=10$ .",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$4$",
+      "B": "$6$",
+      "C": "$8$",
+      "D": "$9$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 5,
+    "section": "sectionA",
+    "category": "正五邊形與正六邊形共用一邊時在該邊一端所成的第三個角/The Third Angle at a Vertex Shared by a Regular Pentagon and a Regular Hexagon",
+    "questionText": "圖中，正五邊形 $ABCDE$ 與正六邊形 $ABPQRS$ 以 $AB$ 為公共邊，且分別位於 $AB$ 的兩側。求 $\\angle CBP$ 。\nIn the figure, the regular pentagon $ABCDE$ and the regular hexagon $ABPQRS$ have a common side $AB$ and lie on opposite sides of $AB$ . Find $\\angle CBP$ .",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$120^{\\circ}$",
+      "B": "$132^{\\circ}$",
+      "C": "$138^{\\circ}$",
+      "D": "$150^{\\circ}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 6,
+    "section": "sectionA",
+    "category": "由菱形的兩條對角線求它的周界/The Perimeter of a Rhombus from Its Diagonals",
+    "questionText": "圖中，$ABCD$ 是一塊菱形的地磚，它的兩條對角線的長分別為 $16$ cm 及 $12$ cm。求這塊地磚的周界。\nIn the figure, $ABCD$ is a rhombus-shaped tile whose diagonals are of lengths $16$ cm and $12$ cm. Find the perimeter of the tile.",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$36$ cm",
+      "B": "$40$ cm",
+      "C": "$48$ cm",
+      "D": "$56$ cm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 7,
+    "section": "sectionA",
+    "category": "由二元一次聯立方程的解滿足另一條方程求未知的常數/Finding a Constant from the Solution of a System of Linear Equations",
+    "questionText": "已知兩個數 $x$ 及 $y$ 同時滿足方程 $2x+3y=12$ 及 $x-y=1$ 。若 $x$ 及 $y$ 亦滿足 $kx+y=11$ ，求常數 $k$ 的值。\nTwo numbers $x$ and $y$ satisfy both $2x+3y=12$ and $x-y=1$ . If $x$ and $y$ also satisfy $kx+y=11$ , find the value of the constant $k$ .",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "$3$",
+      "B": "$4$",
+      "C": "$5$",
+      "D": "$9$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 8,
+    "section": "sectionA",
+    "category": "把兩個不同底的指數式之商化成同一底的冪/Expressing a Quotient of Powers with Different Bases as a Single Power",
+    "questionText": "在不求出 $n$ 的值的情況下化簡 $\\dfrac{8^{n+1}}{4^{n}}$ ，其中 $n$ 為一個正整數，答案須寫成 $2$ 的一個冪。\nWithout finding the value of $n$ , simplify $\\dfrac{8^{n+1}}{4^{n}}$ , where $n$ is a positive integer, giving the answer as a power of $2$ .",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$2^{n+3}$",
+      "B": "$2^{n+1}$",
+      "C": "$2^{n+2}$",
+      "D": "$2^{3n+3}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 9,
+    "section": "sectionA",
+    "category": "十進制數化成二進制數/Converting a Decimal Number into a Binary Number",
+    "questionText": "把十進制數 $205$ 化成二進制數。\nConvert the decimal number $205$ into a binary number.",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "$(11001101)_{2}$",
+      "B": "$(11001110)_{2}$",
+      "C": "$(11010101)_{2}$",
+      "D": "$(110011001)_{2}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 10,
+    "section": "sectionA",
+    "category": "由圓中兩條相等的弦所對的圓心角的代數式求未知數/Finding an Unknown from the Angles at the Centre Subtended by Two Equal Chords",
+    "questionText": "圖中，$O$ 是圓心，而 $AB$ 及 $CD$ 是圓 $O$ 的兩條弦，其中 $AB=CD$ 。已知 $\\angle AOB=5x^{\\circ}$ 及 $\\angle COD=(2x+42)^{\\circ}$ 。求 $x$ 的值，答案須為一個整數。\nIn the figure, $O$ is the centre and $AB$ and $CD$ are two chords of the circle $O$ , where $AB=CD$ . It is given that $\\angle AOB=5x^{\\circ}$ and $\\angle COD=(2x+42)^{\\circ}$ . Find the value of $x$ , giving the answer as an integer.",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "$8$",
+      "B": "$12$",
+      "C": "$14$",
+      "D": "$18$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 11,
+    "section": "sectionA",
+    "category": "由單利的利息、本金及年期求年利率/The Interest Rate from Simple Interest, Principal and Time",
+    "questionText": "把 $24000$ 元以單利存入戶口，$3$ 年後得利息 $2880$ 元。求年利率。\nA sum of $24000$ dollars is deposited at simple interest and the interest obtained after $3$ years is $2880$ dollars. Find the interest rate per annum.",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "$1\\%$",
+      "B": "$2\\%$",
+      "C": "$3\\%$",
+      "D": "$4\\%$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 12,
+    "section": "sectionA",
+    "category": "由兩根之和及積求兩根之差的平方/The Square of the Difference of the Roots from Their Sum and Product",
+    "questionText": "已知 $\\alpha$ 及 $\\beta$ 是方程 $x^{2}-7x+10=0$ 的兩個實根。在不解該方程的情況下，求 $(\\alpha-\\beta)^{2}$ 的值。\nIt is given that $\\alpha$ and $\\beta$ are the two real roots of the equation $x^{2}-7x+10=0$ . Without solving the equation, find the value of $(\\alpha-\\beta)^{2}$ .",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "$-9$",
+      "B": "$0$",
+      "C": "$4$",
+      "D": "$9$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 13,
+    "section": "sectionA",
+    "category": "正方形內減去一個內切圓後的陰影面積/The Shaded Area of a Square with Its Inscribed Circle Removed",
+    "questionText": "圖中的陰影部分由邊長 $12$ cm 的正方形減去它的內切圓而成。求陰影部分的面積（以 $\\pi$ 表示）。\nIn the figure, the shaded region is formed by removing its inscribed circle from a square of side $12$ cm. Find the area of the shaded region in terms of $\\pi$ .",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "$(36-9\\pi)$ cm$^{2}$",
+      "B": "$(72-18\\pi)$ cm$^{2}$",
+      "C": "$(108-27\\pi)$ cm$^{2}$",
+      "D": "$(144-36\\pi)$ cm$^{2}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 14,
+    "section": "sectionA",
+    "category": "兩個分式之和的化簡並把分子因式分解/Simplifying a Sum of Two Fractions and Factorizing the Numerator",
+    "questionText": "把 $\\dfrac{3}{x-2}+\\dfrac{2}{x+3}$ 化成一個單一的分式，並把分子完全因式分解，其中 $x$ 不等於 $2$ 及 $-3$ 。\nExpress $\\dfrac{3}{x-2}+\\dfrac{2}{x+3}$ as a single fraction and factorize its numerator completely, where $x$ is neither $2$ nor $-3$ .",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "$\\dfrac{5}{(x-2)(x+3)}$",
+      "B": "$\\dfrac{5(x+1)}{(x-2)(x+3)}$",
+      "C": "$\\dfrac{5(x-1)}{(x-2)(x+3)}$",
+      "D": "$\\dfrac{x+13}{(x-2)(x+3)}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 15,
+    "section": "sectionA",
+    "category": "由含未知數的七個數據的中位數反求該未知數/Finding an Unknown Datum from the Median of Seven Data",
+    "questionText": "已知七個數據 $11$ 、 $4$ 、 $9$ 、 $x$ 、 $6$ 、 $13$ 及 $6$ 的中位數為 $8$ ，其中 $x$ 為一個整數。求 $x$ 的值。\nThe median of the seven data $11$ , $4$ , $9$ , $x$ , $6$ , $13$ and $6$ is $8$ , where $x$ is an integer. Find the value of $x$ .",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "$6$",
+      "B": "$7$",
+      "C": "$8$",
+      "D": "$9$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 16,
+    "section": "sectionA",
+    "category": "由等差級數的首 n 項和及首項求第 n 項/The nth Term from the Sum of the First n Terms and the First Term",
+    "questionText": "某等差級數的首 $20$ 項之和為 $650$ ，而該數列的首項為 $5$ 。求該數列的第 $20$ 項。\nThe sum of the first $20$ terms of an arithmetic series is $650$ and the first term of the sequence is $5$ . Find the $20$th term of the sequence.",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$35$",
+      "B": "$45$",
+      "C": "$60$",
+      "D": "$62$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "section": "sectionA",
+    "category": "以正弦公式由兩邊及其中一邊的對角求另一個角/Using the Sine Formula to Find an Angle from Two Sides and a Non-included Angle",
+    "questionText": "圖中，$\\triangle ABC$ 是一塊三角形玻璃板的平面圖，其中 $AB=11$ cm 及 $BC=9$ cm。已知 $\\angle BAC=40^{\\circ}$ ，而 $\\angle ACB$ 是一個銳角。在不量度圖中任何角的情況下，求 $\\angle ACB$ ，答案準確至最接近的 $0.1$ 度。\nIn the figure, $\\triangle ABC$ is the plane figure of a triangular glass panel, where $AB=11$ cm and $BC=9$ cm. It is given that $\\angle BAC=40^{\\circ}$ and $\\angle ACB$ is an acute angle. Without measuring any angle in the figure, find $\\angle ACB$ , correct to the nearest $0.1$ degree.",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "$35.6^{\\circ}$",
+      "B": "$40.0^{\\circ}$",
+      "C": "$47.3^{\\circ}$",
+      "D": "$51.8^{\\circ}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 18,
+    "section": "sectionA",
+    "category": "由每百公里的耗油量及油箱的油量求最遠行駛距離/The Greatest Distance from the Fuel Consumption Rate and the Fuel Available",
+    "questionText": "一輛汽車每行駛 $100$ km 耗用 $7.5$ L 燃油。若油箱內有 $48$ L 燃油，求這輛汽車最多可行駛的距離。\nA car consumes $7.5$ L of fuel for every $100$ km travelled. If there are $48$ L of fuel in the tank, find the greatest distance that the car can travel.",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "$640$ km",
+      "B": "$660$ km",
+      "C": "$720$ km",
+      "D": "$6400$ km"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 19,
+    "section": "sectionA",
+    "category": "由正四角錐的體積及底邊求它的高並由此求斜高/The Slant Height of a Right Pyramid from Its Volume and Base Edge",
+    "questionText": "圖中的實心正四角錐的底是一個邊長 $12$ cm 的正方形，而它的體積為 $384$ cm$^{3}$。求這個正四角錐的斜高，答案以 cm 為單位。\nThe base of the solid right pyramid in the figure is a square of side $12$ cm and the volume of the pyramid is $384$ cm$^{3}$. Find the slant height of the pyramid in cm.",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "$8$ cm",
+      "B": "$9$ cm",
+      "C": "$10$ cm",
+      "D": "$12$ cm"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 20,
+    "section": "sectionA",
+    "category": "由一個複數的平方求它的虛部/The Imaginary Part of the Square of a Complex Number",
+    "questionText": "在不使用計算器的情況下，求複數 $(3-4i)^{2}$ 的虛部，其中 $i$ 為虛數單位而 $i^{2}=-1$ 。\nWithout using a calculator, find the imaginary part of the complex number $(3-4i)^{2}$ , where $i$ is the imaginary unit and $i^{2}=-1$ .",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "$-48$",
+      "B": "$-25$",
+      "C": "$-24$",
+      "D": "$-7$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 21,
+    "section": "sectionA",
+    "category": "由兩條直線的一般式判斷它們是否平行、一條的 y 截距及一點是否在線上的三項陳述/Three Statements on Two Straight Lines Given in General Form",
+    "questionText": "在坐標平面上，直線 $L_{1}$ 的方程為 $2x-y+6=0$ ，而直線 $L_{2}$ 的方程為 $4x-2y-5=0$ 。考慮以下三項陳述：\n　I． $L_{1}$ 與 $L_{2}$ 互相平行。\n　II． $L_{1}$ 的 $y$ 截距是 $6$ 。\n　III． $L_{2}$ 通過點 $(2,2)$ 。\n下列哪一項／哪些項正確？\nIn the rectangular coordinate plane, the equation of the straight line $L_{1}$ is $2x-y+6=0$ and the equation of the straight line $L_{2}$ is $4x-2y-5=0$ . Consider the following three statements:\n　I． $L_{1}$ and $L_{2}$ are parallel to each other.\n　II． The $y$-intercept of $L_{1}$ is $6$ .\n　III． $L_{2}$ passes through the point $(2,2)$ .\nWhich of the above is/are correct?",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "只有 III",
+      "B": "只有 I 及 II",
+      "C": "只有 I 及 III",
+      "D": "只有 II 及 III"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 22,
+    "section": "sectionA",
+    "category": "以配方法求二次函數的最大值/Using the Method of Completing the Square to Find the Maximum Value",
+    "questionText": "某二次函數為 $y=-2x^{2}+12x-5$ ，其中 $x$ 為任何實數。在不畫出它的圖像的情況下，以配方法求 $y$ 的最大值。\nA quadratic function is $y=-2x^{2}+12x-5$ , where $x$ is any real number. Without drawing its graph, use the method of completing the square to find the maximum value of $y$ .",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "$3$",
+      "B": "$11$",
+      "C": "$13$",
+      "D": "$18$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 23,
+    "section": "sectionA",
+    "category": "由直角梯形的三條邊求斜邊的長及周界/The Slant Side and the Perimeter of a Right-angled Trapezium",
+    "questionText": "圖中，$ABCD$ 是一塊直角梯形的鐵片，它的四條邊都是筆直的，其中 $AD$ 平行於 $BC$ ，而 $\\angle ABC=\\angle BAD=90^{\\circ}$ 。已知 $AD=8$ cm、$BC=14$ cm 及 $AB=8$ cm。求這塊鐵片的周界。\nIn the figure, $ABCD$ is a right-angled trapezium-shaped metal sheet with four straight sides, where $AD$ is parallel to $BC$ and $\\angle ABC=\\angle BAD=90^{\\circ}$ . It is given that $AD=8$ cm, $BC=14$ cm and $AB=8$ cm. Find the perimeter of the metal sheet.",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "$36$ cm",
+      "B": "$38$ cm",
+      "C": "$40$ cm",
+      "D": "$42$ cm"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 24,
+    "section": "sectionA",
+    "category": "由二次方程的判別式及根的和與積的三項陳述/Three Statements on the Discriminant and the Sum and Product of the Roots",
+    "questionText": "設 $\\alpha$ 及 $\\beta$ 是方程 $2x^{2}-5x-3=0$ 的兩個根。在不解該方程的情況下，考慮以下三項陳述：\n　I． 該方程有兩個不相等的實根。\n　II． $\\alpha+\\beta=-\\dfrac{5}{2}$\n　III． $\\alpha\\beta=-\\dfrac{3}{2}$\n下列哪一項／哪些項正確？\nLet $\\alpha$ and $\\beta$ be the roots of the equation $2x^{2}-5x-3=0$ . Without solving the equation, consider the following three statements:\n　I． The equation has two distinct real roots.\n　II． $\\alpha+\\beta=-\\dfrac{5}{2}$\n　III． $\\alpha\\beta=-\\dfrac{3}{2}$\nWhich of the above is/are correct?",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "只有 III",
+      "B": "只有 I 及 II",
+      "C": "只有 I 及 III",
+      "D": "只有 II 及 III"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 25,
+    "section": "sectionA",
+    "category": "由抽得指定顏色的概率反求袋中另一種顏色的球的數目/Finding a Number of Balls from a Given Probability",
+    "questionText": "袋中有 $8$ 個紅球及若干個白球。隨機抽一個球，抽得紅球的概率為 $\\dfrac{2}{5}$ 。求白球的數目。\nA bag contains $8$ red balls and some white balls. A ball is randomly drawn from the bag and the probability of drawing a red ball is $\\dfrac{2}{5}$ . Find the number of white balls.",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "$3$",
+      "B": "$5$",
+      "C": "$8$",
+      "D": "$12$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 26,
+    "section": "sectionA",
+    "category": "由成本、加成百分率及折扣判斷標價、售價及利潤率的三項陳述/Three Statements on a Marked Price, a Selling Price and a Profit Percent",
+    "questionText": "一件貨品的標價定為成本加 $40\\%$ ，而售價是標價的 $85\\%$ 。已知成本為 $500$ 元。考慮以下三項陳述：\n　I． 該貨品的標價為 $680$ 元。\n　II． 該貨品的售價為 $595$ 元。\n　III． 這次出售的利潤率為 $25\\%$ 。\n下列哪一項／哪些項正確？\nThe marked price of an article is set at $40\\%$ above its cost and the selling price is $85\\%$ of the marked price. It is given that the cost is $500$ dollars. Consider the following three statements:\n　I． The marked price of the article is $680$ dollars.\n　II． The selling price of the article is $595$ dollars.\n　III． The profit percent of this sale is $25\\%$ .\nWhich of the above is/are correct?",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "只有 I",
+      "B": "只有 II",
+      "C": "只有 III",
+      "D": "只有 I 及 II"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 27,
+    "section": "sectionA",
+    "category": "由頻數分佈直方圖求指定組別的人數佔全組的百分率/The Percentage of a Class Interval Read from a Frequency Histogram",
+    "questionText": "圖中的頻數分佈直方圖顯示某班學生在一次測驗中的得分，其中橫軸表示得分，縱軸表示學生人數。求得分在 $60.5$ 分至 $70.5$ 分這一組的學生人數佔全班人數的百分率。\nThe frequency histogram in the figure shows the test scores of the students in a class, where the horizontal axis shows the score and the vertical axis shows the number of students. Find the percentage of students whose scores lie in the class from $60.5$ marks to $70.5$ marks.",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "$17.5\\%$",
+      "B": "$20\\%$",
+      "C": "$30\\%$",
+      "D": "$33.3\\%$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 28,
+    "section": "sectionA",
+    "category": "由直角三角形中一個銳角的正弦判斷餘弦、正切及兩者之積的三項陳述/Three Statements on the Trigonometric Ratios of an Acute Angle",
+    "questionText": "在一個直角三角形 $ABC$ 中，$\\angle ABC=90^{\\circ}$ ，而 $\\theta$ 是 $\\angle BAC$ 。已知 $\\sin\\theta=\\dfrac{5}{13}$ ，其中 $\\theta$ 是一個銳角。在不先求出 $\\theta$ 的值的情況下，考慮以下三項陳述：\n　I． $\\cos\\theta=\\dfrac{8}{13}$\n　II． $\\tan\\theta=\\dfrac{13}{5}$\n　III． $\\sin\\theta\\cos\\theta=\\dfrac{60}{169}$\n下列哪一項／哪些項正確？\nIn a right-angled triangle $ABC$ , $\\angle ABC=90^{\\circ}$ and $\\theta$ is $\\angle BAC$ . It is given that $\\sin\\theta=\\dfrac{5}{13}$ , where $\\theta$ is an acute angle. Without first finding the value of $\\theta$ , consider the following three statements:\n　I． $\\cos\\theta=\\dfrac{8}{13}$\n　II． $\\tan\\theta=\\dfrac{13}{5}$\n　III． $\\sin\\theta\\cos\\theta=\\dfrac{60}{169}$\nWhich of the above is/are correct?",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "只有 III",
+      "B": "只有 I 及 II",
+      "C": "只有 I 及 III",
+      "D": "只有 II 及 III"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 29,
+    "section": "sectionA",
+    "category": "由餘式定理及因式定理判斷一個函數值、一個因式及完全分解的三項陳述/Three Statements on a Cubic Polynomial by the Remainder and Factor Theorems",
+    "questionText": "設 $f(x)=2x^{3}-3x^{2}-11x+6$ ，其中 $x$ 為任何實數。在不用長除法的情況下，利用餘式定理及因式定理考慮以下三項陳述：\n　I． $f(3)=0$\n　II． $x+2$ 是 $f(x)$ 的因式。\n　III． $f(x)=(x-3)(x+2)(2x-1)$\n下列哪一項／哪些項正確？\nLet $f(x)=2x^{3}-3x^{2}-11x+6$ , where $x$ is any real number. Without using long division, use the remainder theorem and the factor theorem to consider the following three statements:\n　I． $f(3)=0$\n　II． $x+2$ is a factor of $f(x)$ .\n　III． $f(x)=(x-3)(x+2)(2x-1)$\nWhich of the above is/are correct?",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "只有 I 及 II",
+      "B": "只有 I 及 III",
+      "C": "只有 II 及 III",
+      "D": "I、II 及 III"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 30,
+    "section": "sectionA",
+    "category": "由平均數及標準差判斷一個標準分及數據經兩種變換後的標準差的三項陳述/Three Statements on a Standard Score and the Standard Deviation after Transformations",
+    "questionText": "某班測驗分數的平均數為 $66$ 分、標準差為 $8$ 分，而小明得 $78$ 分。考慮以下三項陳述：\n　I． 小明的標準分是 $1.2$ 。\n　II． 各人加 $5$ 分後標準差仍是 $8$ 分。\n　III． 各人增加 $10\\%$ 後標準差是 $8.8$ 分。\n下列哪一項／哪些項正確？\nThe mean and the standard deviation of the test scores of a class are $66$ marks and $8$ marks respectively, and Ming scores $78$ marks. Consider the following three statements:\n　I． The standard score of Ming is $1.2$ .\n　II． If $5$ marks are added to the score of each student, the new standard deviation is still $8$ marks.\n　III． If the score of each student is increased by $10\\%$ , the new standard deviation is $8.8$ marks.\nWhich of the above is/are correct?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "只有 III",
+      "B": "只有 I 及 II",
+      "C": "只有 I 及 III",
+      "D": "只有 II 及 III"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 31,
+    "section": "sectionB",
+    "category": "由圓的一般式求它與橫軸的兩個交點之間的距離/The Distance between the Two x-intercepts of a Circle",
+    "questionText": "圖中，在以單位長為一的坐標平面上，圓 $C$ 的方程為 $x^{2}+y^{2}-8x-6y=0$ 。已知 $C$ 與 $x$ 軸相交於原點 $O$ 及另一點 $A$ ，而 $C$ 的圓心在第一象限。求 $OA$ 的長。\nIn the figure, in a rectangular coordinate plane with one unit length as unit, the equation of the circle $C$ is $x^{2}+y^{2}-8x-6y=0$ . It is given that $C$ cuts the $x$-axis at the origin $O$ and another point $A$ , and the centre of $C$ lies in quadrant I. Find the length of $OA$ .",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "$4$",
+      "B": "$5$",
+      "C": "$6$",
+      "D": "$8$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 32,
+    "section": "sectionB",
+    "category": "由拋物線與橫軸的兩個交點及 y 截距求二次函數/A Quadratic Function from Its x-intercepts and y-intercept",
+    "questionText": "在坐標平面上，一條拋物線與 $x$ 軸相交於 $(-1,0)$ 及 $(4,0)$ 兩點，而它的 $y$ 截距為 $-12$ 。求這條拋物線所代表的二次函數。\nIn the rectangular coordinate plane, a parabola cuts the $x$-axis at $(-1,0)$ and $(4,0)$ , and its $y$-intercept is $-12$ . Find the quadratic function represented by the parabola.",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "$y=x^{2}-3x-4$",
+      "B": "$y=3x^{2}+9x-12$",
+      "C": "$y=3x^{2}-9x-12$",
+      "D": "$y=-3x^{2}+9x+12$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 33,
+    "section": "sectionB",
+    "category": "由圓內接四邊形的一個內角判斷對角、外角及相應的圓心角的三項陳述/Three Statements on a Cyclic Quadrilateral Given One of Its Angles",
+    "questionText": "圖中，$A$ 、 $B$ 、 $C$ 及 $D$ 是以 $O$ 為圓心的圓上的四點，而 $ABCD$ 是一個圓內接四邊形。已知 $\\angle BAD=104^{\\circ}$ ，而 $E$ 是 $BC$ 延線上的一點，使 $E$ 與 $B$ 位於 $C$ 的兩側。在不量度圖中任何角的情況下（圖中並非按比例繪製），考慮以下三項陳述：\n　I． $\\angle BCD=76^{\\circ}$\n　II． $\\angle DCE=76^{\\circ}$\n　III． $\\angle BOD=104^{\\circ}$ ，其中 $\\angle BOD$ 並非反射角。\n下列哪一項／哪些項正確？\nIn the figure, $A$ , $B$ , $C$ and $D$ are four points on the circle with centre $O$ and $ABCD$ is a cyclic quadrilateral. It is given that $\\angle BAD=104^{\\circ}$ and $E$ is a point on $BC$ produced such that $E$ and $B$ lie on opposite sides of $C$ . Without measuring any angle in the figure (the figure is not drawn to scale), consider the following three statements:\n　I． $\\angle BCD=76^{\\circ}$\n　II． $\\angle DCE=76^{\\circ}$\n　III． $\\angle BOD=104^{\\circ}$ , where $\\angle BOD$ is not a reflex angle.\nWhich of the above is/are correct?",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "只有 I",
+      "B": "只有 II",
+      "C": "只有 III",
+      "D": "只有 I 及 II"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 34,
+    "section": "sectionB",
+    "category": "由無窮等比級數的公比及總和求第三項/The Third Term from the Common Ratio and the Sum to Infinity",
+    "questionText": "一個無窮等比級數的公比為 $\\dfrac{2}{5}$ ，而它的所有項之和為 $45$ 。求與這個級數相應的等比數列的第 $3$ 項，答案以小數表示。\nThe common ratio of an infinite geometric series is $\\dfrac{2}{5}$ and the sum of all the terms of the series is $45$ . Find the $3$rd term of the geometric sequence corresponding to the series, giving the answer as a decimal.",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "$1.728$",
+      "B": "$2.7$",
+      "C": "$4.2$",
+      "D": "$4.32$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 35,
+    "section": "sectionB",
+    "category": "把一點的極坐標化成直角坐標/Converting Polar Coordinates into Rectangular Coordinates",
+    "questionText": "在極坐標系中，$O$ 為極點而極軸為 $x$ 軸的正方向。已知點 $P$ 的極坐標為 $(8,150^{\\circ})$ 。在不使用計算器的情況下，求 $P$ 的直角坐標。\nIn a polar coordinate system, $O$ is the pole and the polar axis is along the positive direction of the $x$-axis. The polar coordinates of the point $P$ are $(8,150^{\\circ})$ . Without using a calculator, find the rectangular coordinates of $P$ .",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "$(-4\\sqrt{3},4)$",
+      "B": "$(-4,4\\sqrt{3})$",
+      "C": "$(4\\sqrt{3},-4)$",
+      "D": "$(4,4\\sqrt{3})$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 36,
+    "section": "sectionB",
+    "category": "由兩條直線的交點及其中一條與橫軸的交點求與原點所成三角形的面積/The Area of a Triangle Formed by Two Lines and the Origin",
+    "questionText": "圖中，直線 $L_{1}$ 的方程為 $y=2x$ ，而直線 $L_{2}$ 的方程為 $x+y=9$ 。$L_{1}$ 與 $L_{2}$ 相交於 $P$ ，而 $L_{2}$ 與 $x$ 軸相交於 $Q$ 。求 $\\triangle OPQ$ 的面積，其中 $O$ 為原點，答案以平方單位表示。\nIn the figure, the equation of the straight line $L_{1}$ is $y=2x$ and the equation of the straight line $L_{2}$ is $x+y=9$ . $L_{1}$ and $L_{2}$ intersect at $P$ , and $L_{2}$ cuts the $x$-axis at $Q$ . Find the area of $\\triangle OPQ$ , where $O$ is the origin, giving the answer in square units.",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "$24$",
+      "B": "$27$",
+      "C": "$31.5$",
+      "D": "$40.5$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 37,
+    "section": "sectionB",
+    "category": "由兩個獨立事件的概率求至少有一個發生的概率/The Probability that at Least One of Two Independent Events Occurs",
+    "questionText": "某工場中機器甲及機器乙是否故障互不影響。某天機器甲故障的概率為 $0.2$ ，機器乙為 $0.1$ 。求該天至少有一部機器故障的概率。\nIn a workshop, whether machine A breaks down and whether machine B breaks down are independent. On a certain day, the probability that machine A breaks down is $0.2$ and the probability that machine B breaks down is $0.1$ . Find the probability that at least one of the machines breaks down on that day.",
+    "imageUrl": "q37.png",
+    "options": {
+      "A": "$0.1$",
+      "B": "$0.26$",
+      "C": "$0.28$",
+      "D": "$0.3$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 38,
+    "section": "sectionB",
+    "category": "由兩種產品的兩項工時限制求最大總利潤/The Greatest Total Profit under Two Working-hour Constraints",
+    "questionText": "某工場生產甲款及乙款木椅。每張甲款木椅需 $2$ 小時打磨及 $1$ 小時上漆，而每張乙款需 $1$ 小時打磨及 $2$ 小時上漆。該工場每天最多提供打磨 $18$ 小時及上漆 $21$ 小時。甲款木椅每張的利潤為 $120$ 元，而乙款每張的利潤為 $150$ 元。求該工場每天可得的最大總利潤。\nA workshop produces chairs of type A and type B. Each type A chair requires $2$ hours of sanding and $1$ hour of painting, while each type B chair requires $1$ hour of sanding and $2$ hours of painting. The workshop provides at most $18$ hours of sanding and $21$ hours of painting each day. The profit on each type A chair is $120$ dollars and the profit on each type B chair is $150$ dollars. Find the greatest total profit that the workshop can make in a day.",
+    "imageUrl": "q38.png",
+    "options": {
+      "A": "$1710$ 元",
+      "B": "$1800$ 元",
+      "C": "$1890$ 元",
+      "D": "$2160$ 元"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 39,
+    "section": "sectionB",
+    "category": "由實心半球熔鑄成圓錐求圓錐的高/The Height of a Cone Recast from a Solid Hemisphere",
+    "questionText": "圖中，一個半徑為 $6$ cm 的實心金屬半球熔鑄成一個底半徑為 $4$ cm 的實心圓錐，而過程中沒有金屬損失。求這個圓錐的高。\nIn the figure, a solid metal hemisphere of radius $6$ cm is recast into a solid cone of base radius $4$ cm, and no metal is lost in the process. Find the height of the cone.",
+    "imageUrl": "q39.png",
+    "options": {
+      "A": "$27$ cm",
+      "B": "$36$ cm",
+      "C": "$54$ cm",
+      "D": "$81$ cm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 40,
+    "section": "sectionB",
+    "category": "由含複數系數的一次方程求該複數/Solving a Linear Equation with a Complex Coefficient",
+    "questionText": "已知複數 $z$ 滿足 $(2+i)z=5+10i$ ，其中 $i$ 為虛數單位而 $i^{2}=-1$ 。在不使用計算器的情況下求 $z$ ，答案須寫成 $a+bi$ 的形式，其中 $a$ 及 $b$ 為實數。\nThe complex number $z$ satisfies $(2+i)z=5+10i$ , where $i$ is the imaginary unit and $i^{2}=-1$ . Without using a calculator, find $z$ , giving the answer in the form $a+bi$ , where $a$ and $b$ are real numbers.",
+    "imageUrl": "q40.png",
+    "options": {
+      "A": "$4+3i$",
+      "B": "$4-3i$",
+      "C": "$3+4i$",
+      "D": "$-4+3i$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 41,
+    "section": "sectionB",
+    "category": "由成等差的三個數之和及積求最大的一個/The Largest of Three Numbers in Arithmetic Sequence Given Their Sum and Product",
+    "questionText": "已知三個正整數成等差數列，它們的和為 $42$ ，而它們的積為 $2688$ 。在不逐一試驗的情況下，求這三個數之中最大的一個。\nThree positive integers are in arithmetic sequence. Their sum is $42$ and their product is $2688$ . Without testing the integers one by one, find the largest of the three numbers.",
+    "imageUrl": "q41.png",
+    "options": {
+      "A": "$16$",
+      "B": "$18$",
+      "C": "$21$",
+      "D": "$24$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 42,
+    "section": "sectionB",
+    "category": "關於三種軌跡的描述的三項陳述/Three Statements on the Descriptions of Three Loci",
+    "questionText": "考慮以下關於平面上的軌跡的三項陳述：\n　I． 與定點 $A$ 相距 $5$ cm 的點的軌跡是圓心為 $A$ 、半徑 $5$ cm 的圓。\n　II． 與定直線 $L$ 相距 $3$ cm 的點的軌跡是一條平行於 $L$ 的直線。\n　III． 在定角內與兩邊等距的點的軌跡是該角的平分線。\n下列哪一項／哪些項正確？\nConsider the following three statements about loci on a plane:\n　I． The locus of a point at a distance of $5$ cm from a fixed point $A$ is a circle with centre $A$ and radius $5$ cm.\n　II． The locus of a point at a distance of $3$ cm from a fixed straight line $L$ is a straight line parallel to $L$ .\n　III． The locus of a point inside a fixed angle and equidistant from the two sides of the angle is the angle bisector of that angle.\nWhich of the above is/are correct?",
+    "imageUrl": "q42.png",
+    "options": {
+      "A": "只有 I 及 II",
+      "B": "只有 I 及 III",
+      "C": "只有 II 及 III",
+      "D": "I、II 及 III"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 43,
+    "section": "sectionB",
+    "category": "由兩個可化成同底的指數式相等求未知數/Solving an Exponential Equation by Expressing Both Sides with the Same Base",
+    "questionText": "已知 $x$ 為一個實數，且 $4^{x+1}=8^{x-1}$ 。在不使用對數及計算器的情況下，先把兩邊化成以 $2$ 為底的冪，然後求 $x$ 的值。\nIt is given that $x$ is a real number and $4^{x+1}=8^{x-1}$ . Without using logarithms or a calculator, first express both sides as powers of $2$ and then find the value of $x$ .",
+    "imageUrl": "q43.png",
+    "options": {
+      "A": "$-5$",
+      "B": "$0$",
+      "C": "$3$",
+      "D": "$5$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 44,
+    "section": "sectionB",
+    "category": "由正四面體的棱長求一條棱與底面所成的角/The Angle between an Edge and the Base of a Regular Tetrahedron",
+    "questionText": "圖中，$ABCD$ 是一個棱長為 $6$ cm 的正四面體，它的四個面都是全等的等邊三角形。求棱 $AB$ 與底面 $BCD$ 所成的角，答案準確至最接近的 $0.1$ 度。\nIn the figure, $ABCD$ is a regular tetrahedron of edge $6$ cm whose four faces are congruent equilateral triangles. Find the angle between the edge $AB$ and the base $BCD$ , correct to the nearest $0.1$ degree.",
+    "imageUrl": "q44.png",
+    "options": {
+      "A": "$45.0^{\\circ}$",
+      "B": "$54.7^{\\circ}$",
+      "C": "$60.0^{\\circ}$",
+      "D": "$70.5^{\\circ}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 45,
+    "section": "sectionB",
+    "category": "由兩個常用對數的近似值判斷三個常用對數的值的三項陳述/Three Statements on Common Logarithms Evaluated from Two Given Values",
+    "questionText": "已知 $\\log 2=0.301$ 及 $\\log 3=0.477$ ，兩者均準確至三位小數，其中所有對數均為以 $10$ 為底的常用對數。在不使用計算器的情況下，只利用上述兩個近似值，考慮以下三項陳述（下列各個對數的值均準確至三位小數）：\n　I． $\\log 6=0.778$\n　II． $\\log 12=1.079$\n　III． $\\log\\dfrac{3}{2}=1.585$\n下列哪一項／哪些項正確？\nIt is given that $\\log 2=0.301$ and $\\log 3=0.477$ , both correct to $3$ decimal places, where all the logarithms are common logarithms with base $10$ . Without using a calculator and using only the two approximations above, consider the following three statements (the value of each logarithm below is correct to $3$ decimal places):\n　I． $\\log 6=0.778$\n　II． $\\log 12=1.079$\n　III． $\\log\\dfrac{3}{2}=1.585$\nWhich of the above is/are correct?",
+    "imageUrl": "q45.png",
+    "options": {
+      "A": "只有 III",
+      "B": "只有 I 及 II",
+      "C": "只有 I 及 III",
+      "D": "只有 II 及 III"
+    },
+    "correctAnswer": "B"
+  }
+]

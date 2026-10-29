@@ -1,0 +1,505 @@
+{
+  "paperTitleZh": "全新模擬卷 — 試卷一",
+  "paperTitle": "Mock Examination — Paper 1",
+  "durationMinutes": 135,
+  "totalMarks": 105,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "甲部(1)",
+      "categoryZh": "二次三項式的十字相乘分解及由此以提取公因式分解一個五項式",
+      "categoryEn": "Factorizing a Quadratic Trinomial and Hence a Five-term Expression",
+      "difficultyGrade": "B+",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "因式分解 $x^{2}+2x-15$ 。",
+          "questionTextEn": "Factorize $x^{2}+2x-15$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，因式分解 $x^{2}+2x-15-4xy-20y$ 。",
+          "questionTextEn": "Hence, factorize $x^{2}+2x-15-4xy-20y$ .",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "甲部(1)",
+      "categoryZh": "負分數指數的商的冪的化簡及由此求值",
+      "categoryEn": "Simplifying a Quotient Raised to a Negative Fractional Index and Hence Evaluating It",
+      "difficultyGrade": "B+",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "化簡 $\\left(\\dfrac{8x^{-3}}{27y^{6}}\\right)^{-\\frac{1}{3}}$ ，答案只可含正指數，其中 $x$ 及 $y$ 皆為正數。",
+          "questionTextEn": "Simplify $\\left(\\dfrac{8x^{-3}}{27y^{6}}\\right)^{-\\frac{1}{3}}$ , expressing the answer with positive indices only, where $x$ and $y$ are positive numbers.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求當 $x=4$ 及 $y=\\dfrac{1}{3}$ 時該式的值。",
+          "questionTextEn": "Hence, find the value of the expression when $x=4$ and $y=\\dfrac{1}{3}$ .",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "甲部(1)",
+      "categoryZh": "把等差級數和公式中的公差變為公式的主項並由此求值",
+      "categoryEn": "Making the Common Difference the Subject of the Sum Formula of an Arithmetic Series",
+      "difficultyGrade": "B+",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知等差級數的和為 $S=\\dfrac{n}{2}\\left[2a+(n-1)d\\right]$ ，其中 $a$ 為首項、 $d$ 為公差而 $n$ 為項數且 $n$ 大於 $1$ 。把 $d$ 變為這條公式的主項。",
+          "questionTextEn": "The sum of an arithmetic series is $S=\\dfrac{n}{2}\\left[2a+(n-1)d\\right]$ , where $a$ is the first term, $d$ is the common difference and $n$ is the number of terms with $n$ greater than $1$ . Make $d$ the subject of the formula.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求當 $S=185$ 、 $a=5$ 及 $n=10$ 時 $d$ 的值。",
+          "questionTextEn": "Hence, find the value of $d$ when $S=185$ , $a=5$ and $n=10$ .",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "甲部(1)",
+      "categoryZh": "鷂形中由一個頂角及一個底角求另外兩個角及一條對角線所成的角",
+      "categoryEn": "Angles of a Kite and the Angles Made by One of Its Diagonals",
+      "difficultyGrade": "A-",
+      "figureSpecId": "F55-Q4",
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖中 $ABCD$ 是一個鷂形的風箏骨架，其中 $AB=AD$ 及 $CB=CD$ 。已知 $\\angle BAD=48^{\\circ}$ 及 $\\angle ABC=106^{\\circ}$ 。求 $\\angle ADC$ 及 $\\angle BCD$ 。",
+          "questionTextEn": "In the figure, $ABCD$ is a kite-shaped kite frame in which $AB=AD$ and $CB=CD$ . It is given that $\\angle BAD=48^{\\circ}$ and $\\angle ABC=106^{\\circ}$ . Find $\\angle ADC$ and $\\angle BCD$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求 $\\angle ACD$ 及 $\\angle CAD$ 。",
+          "questionTextEn": "Hence, find $\\angle ACD$ and $\\angle CAD$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "甲部(1)",
+      "categoryZh": "由兩年複利的利息及年利率反求本金並由此求三年後的本利和",
+      "categoryEn": "Finding a Principal from Two Years' Compound Interest and Hence the Amount after Three Years",
+      "difficultyGrade": "A-",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某人把一筆款項存入一個年利率為 $5\\%$ 而每年複利結算一次的銀行戶口。已知 $2$ 年後所得的利息為 $3075$ 元。求該筆款項。",
+          "questionTextEn": "A person deposits a sum of money in a bank account at an interest rate of $5\\%$ per annum, compounded yearly. The interest obtained after $2$ years is $3075$ dollars. Find the sum of money.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求該筆款項在同一個戶口存放 $3$ 年後的本利和，答案準確至最接近的元。",
+          "questionTextEn": "Hence, find the amount of the sum of money after it has been deposited in the same account for $3$ years, correct to the nearest dollar.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "甲部(1)",
+      "categoryZh": "由等腰三角形的周界及底邊求腰長及面積",
+      "categoryEn": "The Leg and the Area of an Isosceles Triangle from Its Perimeter and Base",
+      "difficultyGrade": "A-",
+      "figureSpecId": "F55-Q6",
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖中 $\\triangle ABC$ 是一塊等腰三角形的金屬牌，其中 $AB=AC$ 。已知這塊金屬牌的周界為 $36$ cm 而 $BC=10$ cm。求 $AB$ 。",
+          "questionTextEn": "In the figure, $\\triangle ABC$ is an isosceles triangular metal plate in which $AB=AC$ . It is given that the perimeter of the plate is $36$ cm and $BC=10$ cm. Find $AB$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $\\triangle ABC$ 的面積。",
+          "questionTextEn": "Find the area of $\\triangle ABC$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "甲部(1)",
+      "categoryZh": "由含未知數的五個數據的中位數反求該未知數並由此求平均數及全距",
+      "categoryEn": "Finding an Unknown Datum from a Median and Hence the Mean and the Range",
+      "difficultyGrade": "A-",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知五個數據 $3$ 、 $x$ 、 $8$ 、 $12$ 及 $15$ 的中位數為 $9$ ，其中 $x$ 為一個整數。求 $x$ 的值。",
+          "questionTextEn": "The median of the five data $3$ , $x$ , $8$ , $12$ and $15$ is $9$ , where $x$ is an integer. Find the value of $x$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求這五個數據的平均數及全距。",
+          "questionTextEn": "Hence, find the mean and the range of the five data.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "甲部(1)",
+      "categoryZh": "由長方形的長與闊之差及面積列二次方程求闊並由此求對角線的長",
+      "categoryEn": "Forming a Quadratic Equation from a Rectangle and Hence Finding a Diagonal",
+      "difficultyGrade": "A",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一塊長方形的鋁板的長比它的闊長 $7$ cm，而它的面積為 $120$ cm$^{2}$。求這塊鋁板的闊。",
+          "questionTextEn": "The length of a rectangular aluminium board is $7$ cm longer than its width and the area of the board is $120$ cm$^{2}$. Find the width of the board.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求這塊鋁板的一條對角線的長。",
+          "questionTextEn": "Hence, find the length of a diagonal of the board.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "甲部(1)",
+      "categoryZh": "由兩條直線的交點求該點的坐標並由此求經過該點且垂直於其中一條直線的方程",
+      "categoryEn": "The Intersection of Two Lines and Hence a Perpendicular Line through It",
+      "difficultyGrade": "A-",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在坐標平面上，直線 $L_{1}$ 的方程為 $2x+y-11=0$ ，而直線 $L_{2}$ 的方程為 $x-y-1=0$ 。已知 $L_{1}$ 與 $L_{2}$ 相交於點 $P$ 。求 $P$ 的坐標。",
+          "questionTextEn": "In the rectangular coordinate plane, the equation of the straight line $L_{1}$ is $2x+y-11=0$ and the equation of the straight line $L_{2}$ is $x-y-1=0$ . $L_{1}$ and $L_{2}$ intersect at the point $P$ . Find the coordinates of $P$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求經過 $P$ 且垂直於 $L_{1}$ 的直線的方程，答案以一般式表示。",
+          "questionTextEn": "Hence, find the equation of the straight line which passes through $P$ and is perpendicular to $L_{1}$ , giving the answer in general form.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "甲部(2)",
+      "categoryZh": "氣體的壓力與溫度成正變而與體積成反變：求關係式、指定值及由兩者的百分變化求壓力的百分變化",
+      "categoryEn": "Pressure Varying Directly as Temperature and Inversely as Volume",
+      "difficultyGrade": "A",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知某密封容器內氣體的壓力 $P$ 與它的溫度 $T$ 成正變，而與它的體積 $V$ 成反變。當 $T=300$ 及 $V=5$ 時 $P=120$ 。求 $P$ 關於 $T$ 及 $V$ 的關係式。",
+          "questionTextEn": "The pressure $P$ of the gas in a sealed container varies directly as its temperature $T$ and inversely as its volume $V$ . When $T=300$ and $V=5$ , $P=120$ . Express $P$ in terms of $T$ and $V$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求當 $T=450$ 及 $V=6$ 時 $P$ 的值。",
+          "questionTextEn": "Find the value of $P$ when $T=450$ and $V=6$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "若該氣體的溫度增加 $20\\%$ 而它的體積減少 $25\\%$ ，求它的壓力增加的百分率。",
+          "questionTextEn": "If the temperature of the gas is increased by $20\\%$ and its volume is decreased by $25\\%$ , find the percentage increase in its pressure.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "甲部(2)",
+      "categoryZh": "由三角形的兩個底角及一條高求兩段底邊、底邊的長、面積、一腰及一點至另一邊的距離",
+      "categoryEn": "Solving a Triangle from Two Base Angles and an Altitude",
+      "difficultyGrade": "A",
+      "figureSpecId": "F55-Q11",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖中 $\\triangle ABC$ 是一塊三角形的園地，而 $AD$ 是由 $A$ 至 $BC$ 的垂線，其中 $D$ 在 $BC$ 上。已知 $AD=9$ m、$\\angle ABC=52^{\\circ}$ 及 $\\angle ACB=41^{\\circ}$ 。求 $BD$ 及 $CD$ 的長，答案準確至三位有效數字。",
+          "questionTextEn": "In the figure, $\\triangle ABC$ is a triangular garden and $AD$ is the perpendicular from $A$ to $BC$ , where $D$ lies on $BC$ . It is given that $AD=9$ m, $\\angle ABC=52^{\\circ}$ and $\\angle ACB=41^{\\circ}$ . Find the lengths of $BD$ and $CD$ , correct to $3$ significant figures.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求 $BC$ 的長及這塊園地的面積，答案準確至三位有效數字。",
+          "questionTextEn": "Hence, find the length of $BC$ and the area of the garden, correct to $3$ significant figures.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求 $AB$ 的長及點 $D$ 與 $AC$ 之間的距離，答案準確至三位有效數字。",
+          "questionTextEn": "Find the length of $AB$ and the distance between the point $D$ and $AC$ , correct to $3$ significant figures.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "甲部(2)",
+      "categoryZh": "由等差級數的前 n 項和的二次式求首項、公差及第 n 項並求和首次超過定值的項數",
+      "categoryEn": "An Arithmetic Series Given the Quadratic Formula of Its Partial Sums",
+      "difficultyGrade": "A",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知某等差級數的前 $n$ 項之和為 $S_{n}=3n^{2}+5n$ ，其中 $n$ 為任何正整數。求該級數的首項及第 $2$ 項。",
+          "questionTextEn": "The sum of the first $n$ terms of an arithmetic series is $S_{n}=3n^{2}+5n$ , where $n$ is any positive integer. Find the first term and the $2$nd term of the series.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求該級數的公差及第 $n$ 項。",
+          "questionTextEn": "Hence, find the common difference and the $n$th term of the series.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求使 $S_{n}$ 首次超過 $1000$ 的 $n$ 的值，以及該級數的第 $n$ 項。",
+          "questionTextEn": "Find the value of $n$ such that $S_{n}$ exceeds $1000$ for the first time, and the $n$th term of the series.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "甲部(2)",
+      "categoryZh": "地震的級數與釋放能量的對數關係：求能量、由能量反求級數及一個關於級數相差二時能量之比的聲稱",
+      "categoryEn": "A Logarithmic Model Relating Earthquake Magnitude and Released Energy",
+      "difficultyGrade": "A+",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "地震學家以黎克特制的級數來描述一次地震的規模。由於不同地震所釋放的能量相差可以十分懸殊，直接比較能量的數值並不方便，故地震學家改以能量的常用對數來定出級數。設一次地震所釋放的能量為 $E$ 焦耳而它在黎克特制上的級數為 $M$ ，兩者的關係為 $\\log E=4.8+1.5M$ ，其中 $M$ 為一個正數。某次地震在黎克特制上的級數為 $6$ 。求這次地震所釋放的能量，答案以標準形式表示並準確至三位有效數字。",
+          "questionTextEn": "Seismologists describe the scale of an earthquake by its magnitude on the Richter scale. As the energies released by different earthquakes may differ enormously, comparing the values of the energy directly is inconvenient, so seismologists define the magnitude using the common logarithm of the energy. Let $E$ joules be the energy released by an earthquake and $M$ be its magnitude on the Richter scale, where $\\log E=4.8+1.5M$ and $M$ is a positive number. The magnitude of an earthquake on the Richter scale is $6$ . Find the energy released by this earthquake, giving the answer in scientific notation correct to $3$ significant figures.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "另一次地震所釋放的能量為 $2\\times 10^{15}$ 焦耳。求這次地震在黎克特制上的級數，答案準確至一位小數。",
+          "questionTextEn": "The energy released by another earthquake is $2\\times 10^{15}$ joules. Find the magnitude of this earthquake on the Richter scale, correct to $1$ decimal place.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "有人聲稱：若一次地震在黎克特制上的級數比另一次地震的級數高 $2$ ，則前者所釋放的能量是後者所釋放的能量的 $1000$ 倍。你是否同意？試解釋你的答案，並在解釋中說明這個倍數是否與原來的級數有關。",
+          "questionTextEn": "Someone claims that if the magnitude of an earthquake on the Richter scale is $2$ higher than that of another earthquake, then the energy released by the former is $1000$ times that released by the latter. Do you agree? Explain your answer, stating in your explanation whether this multiple depends on the original magnitude.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "section": "甲部(2)",
+      "categoryZh": "由實心圓柱的頂面向下挖去一個同底的圓錐：圓柱及圓錐的體積、餘下部分的體積、圓錐的斜高與曲面面積及餘下部分的總表面積",
+      "categoryEn": "A Solid Cylinder with a Cone of the Same Base Removed from Its Top",
+      "difficultyGrade": "A",
+      "figureSpecId": "F55-Q14",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖中的擺設由一個實心圓柱形木塊向下挖去一個圓錐而成。該圓柱的底半徑為 $9$ cm 而高為 $12$ cm；所挖去的圓錐的底面與圓柱的頂面重合，而圓錐的頂點在圓柱底面的圓心。求該圓柱的體積，答案以 $\\pi$ 表示。",
+          "questionTextEn": "The ornament in the figure is made by removing a cone from the top of a solid cylindrical block of wood. The base radius of the cylinder is $9$ cm and its height is $12$ cm. The base of the cone removed coincides with the top face of the cylinder and the vertex of the cone is at the centre of the base of the cylinder. Find the volume of the cylinder in terms of $\\pi$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求所挖去的圓錐的體積，並由此求該擺設的體積，答案以 $\\pi$ 表示。",
+          "questionTextEn": "Find the volume of the cone removed and hence the volume of the ornament, giving the answers in terms of $\\pi$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求所挖去的圓錐的斜高，並由此求該圓錐的曲面面積，答案以 $\\pi$ 表示。",
+          "questionTextEn": "Find the slant height of the cone removed and hence the curved surface area of that cone, giving the latter in terms of $\\pi$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "求該擺設的總表面積，答案準確至三位有效數字。",
+          "questionTextEn": "Find the total surface area of the ornament, correct to $3$ significant figures.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "section": "乙部",
+      "categoryZh": "由兩個複數之積的實部與虛部求兩個實數並由此求其中一個複數的平方",
+      "categoryEn": "Finding Two Real Numbers from a Product of Complex Numbers and Hence a Square",
+      "difficultyGrade": "A-",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知 $a$ 及 $b$ 為實數，且 $(a+bi)(3-2i)=13+13i$ ，其中 $i$ 為虛數單位而 $i^{2}=-1$ 。求 $a$ 及 $b$ 。",
+          "questionTextEn": "It is given that $a$ and $b$ are real numbers and $(a+bi)(3-2i)=13+13i$ , where $i$ is the imaginary unit and $i^{2}=-1$ . Find $a$ and $b$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求 $(a+bi)^{2}$ 的實部及虛部。",
+          "questionTextEn": "Hence, find the real part and the imaginary part of $(a+bi)^{2}$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "section": "乙部",
+      "categoryZh": "由二次方程沒有實根求參數的取值範圍並由此求參數的最大及最小整數值",
+      "categoryEn": "The Range of a Parameter for Which a Quadratic Equation Has No Real Roots",
+      "difficultyGrade": "A",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "已知二次方程 $x^{2}+(k-3)x+k=0$ 沒有實根，其中 $k$ 為一個實數。求 $k$ 的取值範圍。",
+          "questionTextEn": "It is given that the quadratic equation $x^{2}+(k-3)x+k=0$ has no real roots, where $k$ is a real number. Find the range of values of $k$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，求使該方程沒有實根的 $k$ 的最大整數值及最小整數值。",
+          "questionTextEn": "Hence, find the greatest integral value and the least integral value of $k$ for which the equation has no real roots.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "section": "乙部",
+      "categoryZh": "正弦與餘弦的四次方之差的化簡、由此求值及解一條三角方程",
+      "categoryEn": "Simplifying a Difference of Fourth Powers of Sine and Cosine and Hence Solving an Equation",
+      "difficultyGrade": "A",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "化簡 $\\sin^{4}\\theta-\\cos^{4}\\theta$ ，答案只可以 $\\sin\\theta$ 表示。",
+          "questionTextEn": "Simplify $\\sin^{4}\\theta-\\cos^{4}\\theta$ , expressing the answer in terms of $\\sin\\theta$ only.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "已知 $\\sin\\theta=\\dfrac{3}{5}$ 。由此，求 $\\sin^{4}\\theta-\\cos^{4}\\theta$ 的值。",
+          "questionTextEn": "It is given that $\\sin\\theta=\\dfrac{3}{5}$ . Hence, find the value of $\\sin^{4}\\theta-\\cos^{4}\\theta$ .",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "解方程 $\\sin^{4}\\theta-\\cos^{4}\\theta=-\\dfrac{1}{2}$ ，其中 $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ 。",
+          "questionTextEn": "Solve the equation $\\sin^{4}\\theta-\\cos^{4}\\theta=-\\dfrac{1}{2}$ , where $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "section": "乙部",
+      "categoryZh": "由圓經過兩點及圓心在一條直線上求圓心與半徑、圓的方程，並求圓被一條水平直線所截的弦長",
+      "categoryEn": "A Circle through Two Points with Its Centre on a Given Line",
+      "difficultyGrade": "A",
+      "figureSpecId": "F55-Q18",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖中，圓 $C$ 經過 $A(1,0)$ 及 $B(8,7)$ 兩點，而 $C$ 的圓心在直線 $x-y-2=0$ 上。求 $C$ 的圓心的坐標及半徑。",
+          "questionTextEn": "In the figure, the circle $C$ passes through $A(1,0)$ and $B(8,7)$ , and the centre of $C$ lies on the straight line $x-y-2=0$ . Find the coordinates of the centre and the radius of $C$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "由此，寫出 $C$ 的方程，答案以一般式表示。",
+          "questionTextEn": "Hence, write down the equation of $C$ , giving the answer in general form.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求圓 $C$ 被直線 $y=6$ 所截的弦的長。",
+          "questionTextEn": "Find the length of the chord cut on the circle $C$ by the straight line $y=6$ .",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "section": "乙部",
+      "categoryZh": "相交弦所成的兩個相似三角形的證明、由此求兩段弦之積、由中點求弦長與弦心距，以及一個關於經過定點的最短弦的宣稱",
+      "categoryEn": "Similar Triangles Formed by Two Intersecting Chords and the Shortest Chord through a Point",
+      "difficultyGrade": "A+",
+      "figureSpecId": "F55-Q19",
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一間工場要在一塊圓形鐵板上安裝兩條筆直的鋼索作為加固之用。圖中，$PQ$ 及 $RS$ 是這塊鐵板上的兩條弦，分別代表那兩條鋼索，而它們相交於板內的一點 $E$ 。已知 $PQ$ 是這塊鐵板的一條直徑，而鐵板的圓心為 $O$ 。工場的工程師指出，只要能證明 $E$ 處所成的兩個三角形相似，便可以由其中三段的長度推算餘下的一段。證明 $\\triangle PER\\sim\\triangle SEQ$ 。",
+          "questionTextEn": "A workshop is installing two straight steel cables on a circular metal plate for reinforcement. In the figure, $PQ$ and $RS$ are two chords of the plate representing the two cables, and they intersect at a point $E$ inside the plate. It is given that $PQ$ is a diameter of the plate and the centre of the plate is $O$ . The engineer of the workshop points out that once the two triangles formed at $E$ are shown to be similar, the remaining segment can be found from the lengths of the other three. Prove that $\\triangle PER\\sim\\triangle SEQ$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "由此，求 $RE\\times ES$ 。",
+          "questionTextEn": "Hence, find $RE\\times ES$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "已知 $E$ 是 $RS$ 的中點。求 $RS$ 的長及點 $O$ 與 $RS$ 之間的距離。",
+          "questionTextEn": "It is given that $E$ is the mid-point of $RS$ . Find the length of $RS$ and the distance between the point $O$ and $RS$ .",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "某人宣稱：在這塊圓形鐵板上，所有經過點 $E$ 的弦之中，$RS$ 是最短的一條。該宣稱是否正確？試解釋你的答案。",
+          "questionTextEn": "Someone claims that among all the chords of the circular plate passing through the point $E$ , $RS$ is the shortest one. Is the claim correct? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}
