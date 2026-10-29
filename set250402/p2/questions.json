@@ -1,0 +1,632 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "sectionA",
+    "category": "指數律/Laws of Indices",
+    "questionText": "$\\dfrac{(3^{n})^{2}\\cdot 3^{-4}}{27^{n-1}}=$",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$\\dfrac{1}{3^{n+7}}$",
+      "B": "$\\dfrac{1}{3^{n+1}}$",
+      "C": "$3^{5n-1}$",
+      "D": "$3^{n-1}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 2,
+    "section": "sectionA",
+    "category": "因式分解/Factorization",
+    "questionText": "$16-(x-3)^{2}=$",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "$(1-x)(7+x)$",
+      "B": "$(7-x)(x-1)$",
+      "C": "$(7-x)(1+x)$",
+      "D": "$(x+7)(x+1)$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "section": "sectionA",
+    "category": "恆等式/Identities",
+    "questionText": "若 $(2x-a)(x+3)-b\\equiv 2x^{2}+x-17$ ，其中 $a$ 及 $b$ 為常數，則 $b=$\nIf $(2x-a)(x+3)-b\\equiv 2x^{2}+x-17$ , where $a$ and $b$ are constants, then $b=$",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$-2$",
+      "B": "$17$",
+      "C": "$2$",
+      "D": "$32$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 4,
+    "section": "sectionA",
+    "category": "公式主項變換/Change of Subject",
+    "questionText": "若 $a(x-2)=b(x+3)$ ，則 $x=$\nIf $a(x-2)=b(x+3)$ , then $x=$",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$\\dfrac{2a-3b}{a-b}$",
+      "B": "$\\dfrac{2a+3b}{a-b}$",
+      "C": "$\\dfrac{a-b}{2a+3b}$",
+      "D": "$\\dfrac{2a+3b}{a+b}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "sectionA",
+    "category": "二次方程/Quadratic Equations",
+    "questionText": "設 $k$ 為常數。方程 $x^{2}-(k+3)x+3k=0$ 的根為\nLet $k$ be a constant. The roots of the equation $x^{2}-(k+3)x+3k=0$ are",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$k$ 或 $3$\n$k$ or $3$",
+      "B": "$-k$ 或 $-3$\n$-k$ or $-3$",
+      "C": "$k$ 或 $-3$\n$k$ or $-3$",
+      "D": "$-k$ 或 $3$\n$-k$ or $3$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "sectionA",
+    "category": "近似值與誤差/Approximation and Errors",
+    "questionText": "若把 $x$ 捨入至二位小數後為 $8.40$ ，則\nIf $x$ is rounded off to $8.40$ correct to 2 decimal places, then",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$8.395\\le x<8.405$",
+      "B": "$8.395<x\\le 8.405$",
+      "C": "$8.35\\le x<8.45$",
+      "D": "$8.39\\le x<8.41$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "section": "sectionA",
+    "category": "一元一次不等式/Linear Inequalities",
+    "questionText": "不等式 $-7\\le 2x+1<9$ 的解為\nThe solution of the inequality $-7\\le 2x+1<9$ is",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "$-4<x\\le 4$",
+      "B": "$x<4$",
+      "C": "$-3\\le x<5$",
+      "D": "$-4\\le x<4$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 8,
+    "section": "sectionA",
+    "category": "函數/Functions",
+    "questionText": "設 $f(x)=2x^{3}-kx^{2}+3x-5$ ，其中 $k$ 為常數。若 $f(2)+f(-2)=-42$ ，則 $k=$\nLet $f(x)=2x^{3}-kx^{2}+3x-5$ , where $k$ is a constant. If $f(2)+f(-2)=-42$ , then $k=$",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$-4$",
+      "B": "$8$",
+      "C": "$2$",
+      "D": "$4$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 9,
+    "section": "sectionA",
+    "category": "餘式及因式定理/Remainder and Factor Theorems",
+    "questionText": "設 $f(x)=x^{3}+kx^{2}-4x+12$ ，其中 $k$ 為常數。若 $x-2$ 是 $f(x)$ 的因式，則 $f(-1)=$\nLet $f(x)=x^{3}+kx^{2}-4x+12$ , where $k$ is a constant. If $x-2$ is a factor of $f(x)$ , then $f(-1)=$",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "$18$",
+      "B": "$12$",
+      "C": "$0$",
+      "D": "$6$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 10,
+    "section": "sectionA",
+    "category": "百分法（複利息）/Percentages (Compound Interest)",
+    "questionText": "某人把 $\\$20\\,000$ 存入銀行，年利率為 $4\\%$ ，每半年複利計算一次。求 $3$ 年後的本利和，答案準確至最接近的元。\nA person deposits $\\$20\\,000$ in a bank at an interest rate of $4\\%$ per annum, compounded half-yearly. Find the amount after $3$ years, correct to the nearest dollar.",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "$\\$22\\,523$",
+      "B": "$\\$22\\,400$",
+      "C": "$\\$22\\,497$",
+      "D": "$\\$22\\,082$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 11,
+    "section": "sectionA",
+    "category": "比與率/Rates and Ratios",
+    "questionText": "若 $(a+b):(b+c):(c+a)=5:6:7$ ，則 $a:c=$\nIf $(a+b):(b+c):(c+a)=5:6:7$ , then $a:c=$",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "$3:4$",
+      "B": "$4:3$",
+      "C": "$5:7$",
+      "D": "$2:3$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 12,
+    "section": "sectionA",
+    "category": "變分/Variations",
+    "questionText": "已知 $z$ 隨 $x^{3}$ 正變及隨 $y^{2}$ 反變。當 $x=2$ 及 $y=3$ 時，$z=16$ 。當 $x=3$ 及 $y=2$ 時，$z=$\nIt is given that $z$ varies directly as $x^{3}$ and inversely as $y^{2}$ . When $x=2$ and $y=3$ , $z=16$ . When $x=3$ and $y=2$ , $z=$",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "$81$",
+      "B": "$54$",
+      "C": "$\\dfrac{243}{2}$",
+      "D": "$32$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 13,
+    "section": "sectionA",
+    "category": "數列/Sequences",
+    "questionText": "某數列中，$T(1)=2$ 、 $T(2)=5$ ，且對任意正整數 $n$ ，$T(n+2)=2T(n+1)-T(n)+3$ 。$T(5)=$\nIn a sequence, $T(1)=2$ , $T(2)=5$ , and $T(n+2)=2T(n+1)-T(n)+3$ for any positive integer $n$ . $T(5)=$",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "$32$",
+      "B": "$20$",
+      "C": "$47$",
+      "D": "$29$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 14,
+    "section": "sectionA",
+    "category": "直線的方程/Equations of Straight Lines",
+    "questionText": "圖中，直線 $L_{1}:y=ax+b$ 與 $L_{2}:y=cx+d$ 相交於一點，其 $x$ 坐標為 $2$ 。$L_{1}$ 的 $y$ 截距為正數而 $L_{2}$ 的 $y$ 截距為負數。下列何者正確？\nI. $a<c$\nII. $b>d$\nIII. $a+b<c+d$\nIn the figure, the straight lines $L_{1}:y=ax+b$ and $L_{2}:y=cx+d$ intersect at a point with $x$-coordinate $2$ . The $y$-intercept of $L_{1}$ is positive while that of $L_{2}$ is negative. Which of the following are true?\nI. $a<c$\nII. $b>d$\nIII. $a+b<c+d$",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "只有 I\nI only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "只有 I 及 II\nI and II only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 15,
+    "section": "sectionA",
+    "category": "弧長及扇形面積/Arc Lengths and Areas of Sectors",
+    "questionText": "扇形 $OAB$ 的半徑為 $6$ cm，周界為 $(12+4\\pi)$ cm。下列何者正確？\nI. 該扇形的面積為 $12\\pi$ cm$^{2}$ 。\nII. 弦 $AB$ 的長度為 $6\\sqrt{2}$ cm。\nIII. $\\angle AOB=120^{\\circ}$\nThe radius of the sector $OAB$ is $6$ cm and its perimeter is $(12+4\\pi)$ cm. Which of the following are true?\nI. The area of the sector is $12\\pi$ cm$^{2}$ .\nII. The length of the chord $AB$ is $6\\sqrt{2}$ cm.\nIII. $\\angle AOB=120^{\\circ}$",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "只有 I\nI only",
+      "B": "只有 I 及 II\nI and II only",
+      "C": "只有 II 及 III\nII and III only",
+      "D": "只有 I 及 III\nI and III only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 16,
+    "section": "sectionA",
+    "category": "立體圖形/Solids",
+    "questionText": "某直立圓柱體的高為 $8$ cm，總表面面積為 $66\\pi$ cm$^{2}$ 。求半徑與該圓柱體的底半徑相同的球體的體積。\nThe height of a right circular cylinder is $8$ cm and its total surface area is $66\\pi$ cm$^{2}$ . Find the volume of a sphere whose radius is equal to the base radius of the cylinder.",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$288\\pi$ cm$^{3}$",
+      "B": "$108\\pi$ cm$^{3}$",
+      "C": "$36\\pi$ cm$^{3}$",
+      "D": "$12\\pi$ cm$^{3}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "section": "sectionA",
+    "category": "面積與相似/Areas and Similarity",
+    "questionText": "圖中，$ABCD$ 為一平行四邊形，$E$ 為 $AB$ 的中點。$DE$ 的延線與 $CB$ 的延線相交於 $F$ 。若 $\\triangle BEF$ 的面積為 $3$ cm$^{2}$ ，則四邊形 $EBCD$ 的面積為\nIn the figure, $ABCD$ is a parallelogram and $E$ is the mid-point of $AB$ . $DE$ produced and $CB$ produced meet at $F$ . If the area of $\\triangle BEF$ is $3$ cm$^{2}$ , then the area of the quadrilateral $EBCD$ is",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "$12$ cm$^{2}$",
+      "B": "$6$ cm$^{2}$",
+      "C": "$9$ cm$^{2}$",
+      "D": "$15$ cm$^{2}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "section": "sectionA",
+    "category": "相似三角形/Similar Triangles",
+    "questionText": "圖中，$D$ 為 $AC$ 上的一點，使得 $AB^{2}=AD\\times AC$ 。若 $AD=4$ cm、 $AC=9$ cm 及 $BC=7.5$ cm，則 $BD=$\nIn the figure, $D$ is a point on $AC$ such that $AB^{2}=AD\\times AC$ . If $AD=4$ cm, $AC=9$ cm and $BC=7.5$ cm, then $BD=$",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "$\\dfrac{10}{3}$ cm",
+      "B": "$4.5$ cm",
+      "C": "$6$ cm",
+      "D": "$5$ cm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 19,
+    "section": "sectionA",
+    "category": "四邊形的性質/Properties of Quadrilaterals",
+    "questionText": "圖中，$ABCD$ 為一正方形，而 $BCFE$ 為一菱形，其中 $\\angle CBE=120^{\\circ}$ 。下列何者正確？\nI. $AE=BF$\nII. $\\angle BAE=15^{\\circ}$\nIII. $\\triangle ABE\\sim\\triangle DCF$\nIn the figure, $ABCD$ is a square and $BCFE$ is a rhombus, where $\\angle CBE=120^{\\circ}$ . Which of the following are true?\nI. $AE=BF$\nII. $\\angle BAE=15^{\\circ}$\nIII. $\\triangle ABE\\sim\\triangle DCF$",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I 及 III\nI and III only",
+      "C": "I 、 II 及 III\nI, II and III",
+      "D": "只有 II 及 III\nII and III only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 20,
+    "section": "sectionA",
+    "category": "三角學/Trigonometry",
+    "questionText": "$ABCD$ 為一梯形，其中 $AD\\parallel BC$ 、 $AB=10$ cm、 $AD=6$ cm、 $\\angle DAB=120^{\\circ}$ 及 $\\angle ADC=135^{\\circ}$ 。求 $BC$ ，答案準確至三位有效數字。\n$ABCD$ is a trapezium, where $AD\\parallel BC$ , $AB=10$ cm, $AD=6$ cm, $\\angle DAB=120^{\\circ}$ and $\\angle ADC=135^{\\circ}$ . Find $BC$ correct to 3 significant figures.",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "$19.7$ cm",
+      "B": "$16.7$ cm",
+      "C": "$14.7$ cm",
+      "D": "$11.0$ cm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 21,
+    "section": "sectionA",
+    "category": "三角學/Trigonometry",
+    "questionText": "圖中，$ABCD$ 為一長方形，其中 $AB=12$ cm 及 $BC=5$ cm。求 $D$ 與 $AC$ 之間的距離。\nIn the figure, $ABCD$ is a rectangle, where $AB=12$ cm and $BC=5$ cm. Find the distance between $D$ and $AC$ .",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "$\\dfrac{30}{13}$ cm",
+      "B": "$5$ cm",
+      "C": "$\\dfrac{60}{13}$ cm",
+      "D": "$\\dfrac{65}{12}$ cm"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 22,
+    "section": "sectionA",
+    "category": "圓的基本性質/Basic Properties of Circles",
+    "questionText": "圖中，$ABCDE$ 為一圓內接五邊形，其中 $AE\\parallel BD$ ，且 $BD$ 平分 $\\angle ABC$ 。若 $\\angle ADB=30^{\\circ}$ 及 $\\angle ABE=20^{\\circ}$ ，則 $\\angle BCD=$\nIn the figure, $ABCDE$ is a pentagon inscribed in a circle, where $AE\\parallel BD$ and $BD$ bisects $\\angle ABC$ . If $\\angle ADB=30^{\\circ}$ and $\\angle ABE=20^{\\circ}$ , then $\\angle BCD=$",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "$100^{\\circ}$",
+      "B": "$80^{\\circ}$",
+      "C": "$50^{\\circ}$",
+      "D": "$130^{\\circ}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 23,
+    "section": "sectionA",
+    "category": "三角比/Trigonometric Ratios",
+    "questionText": "圖中，$ABCD$ 為一四邊形，其中 $\\angle ABC=\\angle BCD=90^{\\circ}$ 、 $AB=a$ 、 $BC=b$ 及 $CD=c$ ，其中 $c>a$ 。$\\tan\\angle ADC=$\nIn the figure, $ABCD$ is a quadrilateral, where $\\angle ABC=\\angle BCD=90^{\\circ}$ , $AB=a$ , $BC=b$ and $CD=c$ , where $c>a$ . $\\tan\\angle ADC=$",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "$\\dfrac{c-a}{b}$",
+      "B": "$\\dfrac{b}{c-a}$",
+      "C": "$\\dfrac{b}{c+a}$",
+      "D": "$\\dfrac{a}{b}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 24,
+    "section": "sectionA",
+    "category": "極坐標/Polar Coordinates",
+    "questionText": "$O$ 為極點。$A$ 及 $B$ 的極坐標分別為 $(4,30^{\\circ})$ 及 $(4,90^{\\circ})$ 。$C$ 的極坐標為 $(r,60^{\\circ})$ ，其中 $r>4$ ，使得 $\\triangle ABC$ 為等邊三角形。$r=$\n$O$ is the pole. The polar coordinates of $A$ and $B$ are $(4,30^{\\circ})$ and $(4,90^{\\circ})$ respectively. The polar coordinates of $C$ are $(r,60^{\\circ})$ , where $r>4$ , such that $\\triangle ABC$ is an equilateral triangle. $r=$",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "$8$",
+      "B": "$4\\sqrt{2}$",
+      "C": "$2\\sqrt{3}$",
+      "D": "$4\\sqrt{3}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 25,
+    "section": "sectionA",
+    "category": "軌跡/Locus",
+    "questionText": "設 $P$ 為平面上的一動點，使得 $P$ 與定點 $Q$ 的距離恆為 $5$ 。$P$ 的軌跡是\nLet $P$ be a moving point on a plane such that its distance from a fixed point $Q$ is always $5$ . The locus of $P$ is",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "一條直線\na straight line",
+      "B": "一對平行線\na pair of parallel lines",
+      "C": "一個圓\na circle",
+      "D": "一條拋物線\na parabola"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 26,
+    "section": "sectionA",
+    "category": "直線的方程/Equations of Straight Lines",
+    "questionText": "直線 $L_{1}:2x-y+4=0$ 與直線 $L_{2}:x+2y+k=0$ 互相垂直，其中 $k>0$ 。若 $L_{1}$ 、 $L_{2}$ 與 $x$ 軸所圍成的三角形的面積為 $20$ ，則 $k=$\nThe straight lines $L_{1}:2x-y+4=0$ and $L_{2}:x+2y+k=0$ are perpendicular, where $k>0$ . If the area of the triangle bounded by $L_{1}$ , $L_{2}$ and the $x$-axis is $20$ , then $k=$",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "$8$",
+      "B": "$22$",
+      "C": "$12$",
+      "D": "$2$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 27,
+    "section": "sectionA",
+    "category": "圓的方程/Equations of Circles",
+    "questionText": "某圓的圓心為 $(3,-4)$ ，且該圓在 $x$ 軸上截出的弦長為 $6$ 。該圓的方程為\nThe centre of a circle is $(3,-4)$ , and the chord cut by the $x$-axis on the circle has length $6$ . The equation of the circle is",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "$x^{2}+y^{2}+6x-8y=0$",
+      "B": "$x^{2}+y^{2}-6x+8y+16=0$",
+      "C": "$x^{2}+y^{2}-6x+8y-11=0$",
+      "D": "$x^{2}+y^{2}-6x+8y=0$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 28,
+    "section": "sectionA",
+    "category": "期望值/Expected Values",
+    "questionText": "盒中有 $10$ 張卡，其中 $1$ 張可換 $\\$50$ ，$3$ 張可換 $\\$20$ ，其餘不能換錢。從盒中隨機抽出一張卡，求所換金額的期望值。\nA box contains $10$ cards, $1$ of which can be exchanged for $\\$50$ , $3$ for $\\$20$ each, and the rest for nothing. A card is drawn randomly from the box. Find the expected amount obtained.",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "$\\$11$",
+      "B": "$\\$\\dfrac{70}{3}$",
+      "C": "$\\$14$",
+      "D": "$\\$7$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 29,
+    "section": "sectionA",
+    "category": "離差的量度/Measures of Dispersion",
+    "questionText": "下面的棒形圖顯示某班 $24$ 名學生每星期做運動的日數分佈。求該分佈的四分位數間距。\nThe bar chart below shows the distribution of the numbers of days of exercise per week of $24$ students in a class. Find the inter-quartile range of the distribution.",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "$3$",
+      "B": "$2$",
+      "C": "$1$",
+      "D": "$4$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 30,
+    "section": "sectionA",
+    "category": "集中趨勢及分佈域/Central Tendency and Range",
+    "questionText": "數據 $2$ 、 $5$ 、 $8$ 、 $a$ 、 $b$ 的平均數為 $6$ ，分佈域為 $10$ ，其中 $a$ 及 $b$ 為正整數且 $a<b$ 。下列何者正確？\nI. 中位數為 $5$ 。\nII. $b-a=9$\nIII. 標準差大於 $3$ 。\nThe mean and the range of the data $2$ , $5$ , $8$ , $a$ , $b$ are $6$ and $10$ respectively, where $a$ and $b$ are positive integers with $a<b$ . Which of the following are true?\nI. The median is $5$ .\nII. $b-a=9$\nIII. The standard deviation is greater than $3$ .",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "I 、 II 及 III\nI, II and III",
+      "C": "只有 I 及 III\nI and III only",
+      "D": "只有 II 及 III\nII and III only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 31,
+    "section": "sectionB",
+    "category": "進制/Number Systems",
+    "questionText": "$\\text{2C5}_{16}=$",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "$2^{9}+2^{7}+2^{6}+2^{2}+1$",
+      "B": "$2^{10}+2^{8}+2^{7}+2^{3}+2$",
+      "C": "$2^{9}+2^{8}+2^{6}+2^{2}+1$",
+      "D": "$2^{9}+2^{7}+2^{5}+2^{2}+1$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 32,
+    "section": "sectionB",
+    "category": "L.C.M.",
+    "questionText": "$x^{2}-4$ 、 $x^{3}-8$ 及 $x^{2}-4x+4$ 的 L.C.M. 為\nThe L.C.M. of $x^{2}-4$ , $x^{3}-8$ and $x^{2}-4x+4$ is",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "$x-2$",
+      "B": "$(x-2)^{3}(x+2)(x^{2}+2x+4)$",
+      "C": "$(x-2)^{2}(x+2)(x^{2}-2x+4)$",
+      "D": "$(x-2)^{2}(x+2)(x^{2}+2x+4)$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 33,
+    "section": "sectionB",
+    "category": "對數（線性化）/Logarithms (Linearization)",
+    "questionText": "$\\log_{3}y$ 對 $\\log_{9}x$ 的圖像為一直線，其橫軸截距為 $2$ ，縱軸截距為 $4$ 。若 $y=kx^{n}$ ，其中 $k$ 及 $n$ 為常數，則 $n=$\nThe graph of $\\log_{3}y$ against $\\log_{9}x$ is a straight line with intercept $2$ on the horizontal axis and intercept $4$ on the vertical axis. If $y=kx^{n}$ , where $k$ and $n$ are constants, then $n=$",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "$-2$",
+      "B": "$-\\dfrac{1}{2}$",
+      "C": "$-1$",
+      "D": "$-4$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 34,
+    "section": "sectionB",
+    "category": "指數及對數函數的圖像/Graphs of Exponential and Logarithmic Functions",
+    "questionText": "設 $a$ 為正常數且 $a\\ne 1$ 。已知 $y=\\log_{a}x$ 的圖像通過點 $(4,-2)$ 。下列何者正確？\nI. $a>1$\nII. $y=a^{x}$ 的圖像通過點 $(2,4)$ 。\nIII. $y=a^{x}$ 的圖像與 $y=\\log_{a}x$ 的圖像相交。\nLet $a$ be a positive constant with $a\\ne 1$ . It is given that the graph of $y=\\log_{a}x$ passes through the point $(4,-2)$ . Which of the following are true?\nI. $a>1$\nII. The graph of $y=a^{x}$ passes through the point $(2,4)$ .\nIII. The graph of $y=a^{x}$ and the graph of $y=\\log_{a}x$ intersect.",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "只有 III\nIII only",
+      "B": "只有 I\nI only",
+      "C": "只有 II\nII only",
+      "D": "只有 I 及 III\nI and III only"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 35,
+    "section": "sectionB",
+    "category": "複數/Complex Numbers",
+    "questionText": "$i+i^{2}+i^{3}+\\cdots+i^{2027}=$",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "$i$",
+      "B": "$-1$",
+      "C": "$-1+i$",
+      "D": "$0$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 36,
+    "section": "sectionB",
+    "category": "線性規劃/Linear Programming",
+    "questionText": "設 $(x,y)$ 為滿足 $x\\ge 0$ 、 $y\\ge 0$ 、 $x+2y\\le 10$ 及 $3x+y\\le 15$ 的一點。$2x+3y$ 的最大值為\nLet $(x,y)$ be a point satisfying $x\\ge 0$ , $y\\ge 0$ , $x+2y\\le 10$ and $3x+y\\le 15$ . The greatest value of $2x+3y$ is",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "$15$",
+      "B": "$10$",
+      "C": "$17$",
+      "D": "$18$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 37,
+    "section": "sectionB",
+    "category": "等差及等比數列/Arithmetic and Geometric Sequences",
+    "questionText": "設 $T(n)$ 為某等差數列的第 $n$ 項，其中公差不為零且所有項均不為零。下列何者必定正確？\nI. $T(1)^{2}$ 、 $T(2)^{2}$ 、 $T(3)^{2}$ 、 $\\dots$ 為一等差數列。\nII. $T(2)$ 、 $T(4)$ 、 $T(6)$ 、 $\\dots$ 為一等差數列。\nIII. $\\dfrac{1}{T(1)}$ 、 $\\dfrac{1}{T(2)}$ 、 $\\dfrac{1}{T(3)}$ 、 $\\dots$ 為一等比數列。\nLet $T(n)$ be the $n$th term of an arithmetic sequence, where the common difference is non-zero and all terms are non-zero. Which of the following must be true?\nI. $T(1)^{2}$ , $T(2)^{2}$ , $T(3)^{2}$ , $\\dots$ is an arithmetic sequence.\nII. $T(2)$ , $T(4)$ , $T(6)$ , $\\dots$ is an arithmetic sequence.\nIII. $\\dfrac{1}{T(1)}$ , $\\dfrac{1}{T(2)}$ , $\\dfrac{1}{T(3)}$ , $\\dots$ is a geometric sequence.",
+    "imageUrl": "q37.png",
+    "options": {
+      "A": "只有 I\nI only",
+      "B": "只有 II\nII only",
+      "C": "只有 III\nIII only",
+      "D": "只有 II 及 III\nII and III only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 38,
+    "section": "sectionB",
+    "category": "圓的切線/Tangents to Circles",
+    "questionText": "圖中，$AB$ 為圓的直徑，$TB$ 為圓在 $B$ 的切線。$AC$ 的延線與 $TB$ 相交於 $T$ 。$D$ 為圓上的一點，$BD$ 與 $AC$ 相交於 $E$ 。若 $\\angle CBT=40^{\\circ}$ 及 $\\angle ABD=25^{\\circ}$ ，則 $\\angle AEB=$\nIn the figure, $AB$ is a diameter of the circle and $TB$ is the tangent to the circle at $B$ . $AC$ produced meets $TB$ at $T$ . $D$ is a point on the circle, and $BD$ cuts $AC$ at $E$ . If $\\angle CBT=40^{\\circ}$ and $\\angle ABD=25^{\\circ}$ , then $\\angle AEB=$",
+    "imageUrl": "q38.png",
+    "options": {
+      "A": "$65^{\\circ}$",
+      "B": "$105^{\\circ}$",
+      "C": "$115^{\\circ}$",
+      "D": "$125^{\\circ}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 39,
+    "section": "sectionB",
+    "category": "三角方程/Trigonometric Equations",
+    "questionText": "方程 $\\tan^{2}\\theta=3\\tan\\theta$ 在 $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ 內有多少個根？\nHow many roots does the equation $\\tan^{2}\\theta=3\\tan\\theta$ have for $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ ?",
+    "imageUrl": "q39.png",
+    "options": {
+      "A": "$5$",
+      "B": "$4$",
+      "C": "$2$",
+      "D": "$3$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 40,
+    "section": "sectionB",
+    "category": "三維空間的三角學/Trigonometry in 3-D",
+    "questionText": "$ABCD$ 為一正四面體。求棱 $AB$ 與平面 $BCD$ 之間的交角，答案準確至最接近的度。\n$ABCD$ is a regular tetrahedron. Find the angle between the edge $AB$ and the plane $BCD$ , correct to the nearest degree.",
+    "imageUrl": "q40.png",
+    "options": {
+      "A": "$60^{\\circ}$",
+      "B": "$71^{\\circ}$",
+      "C": "$55^{\\circ}$",
+      "D": "$35^{\\circ}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 41,
+    "section": "sectionB",
+    "category": "三角形的心/Centres of Triangles",
+    "questionText": "$\\triangle OAB$ 的頂點為 $O(0,0)$ 、 $A(6,0)$ 及 $B(0,b)$ ，其中 $b>0$ 。若 $\\triangle OAB$ 的內心的 $x$ 坐標為 $2$ ，則 $\\triangle OAB$ 的面積為\nThe vertices of $\\triangle OAB$ are $O(0,0)$ , $A(6,0)$ and $B(0,b)$ , where $b>0$ . If the $x$-coordinate of the in-centre of $\\triangle OAB$ is $2$ , then the area of $\\triangle OAB$ is",
+    "imageUrl": "q41.png",
+    "options": {
+      "A": "$48$",
+      "B": "$12$",
+      "C": "$30$",
+      "D": "$24$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 42,
+    "section": "sectionB",
+    "category": "排列與組合/Permutation and Combination",
+    "questionText": "從 $6$ 名教師及 $5$ 名學生中選出 $4$ 人組成一個小組。若小組中最少有 $1$ 名教師，可組成多少個不同的小組？\nA group of $4$ people is formed by selecting from $6$ teachers and $5$ students. If there is at least $1$ teacher in the group, how many different groups can be formed?",
+    "imageUrl": "q42.png",
+    "options": {
+      "A": "$330$",
+      "B": "$720$",
+      "C": "$315$",
+      "D": "$325$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 43,
+    "section": "sectionB",
+    "category": "概率/Probability",
+    "questionText": "袋中有 $5$ 個紅球及 $4$ 個白球。若同時從袋中隨機抽出 $3$ 個球，求最多抽得 $2$ 個紅球的概率。\nA bag contains $5$ red balls and $4$ white balls. If $3$ balls are drawn randomly from the bag at the same time, find the probability that at most $2$ red balls are drawn.",
+    "imageUrl": "q43.png",
+    "options": {
+      "A": "$\\dfrac{37}{42}$",
+      "B": "$\\dfrac{5}{42}$",
+      "C": "$\\dfrac{17}{42}$",
+      "D": "$\\dfrac{10}{21}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 44,
+    "section": "sectionB",
+    "category": "標準分/Standard Scores",
+    "questionText": "某測驗的平均分為 $60$ 分。嘉欣在該測驗得 $68$ 分，其標準分為 $1$ 。志明的分數與嘉欣的分數相差 $12$ 分。志明的標準分為\nThe mean score of a test is $60$ marks. Ka-yan scored $68$ marks in the test and her standard score is $1$ . The score of Chi-ming differs from that of Ka-yan by $12$ marks. The standard score of Chi-ming is",
+    "imageUrl": "q44.png",
+    "options": {
+      "A": "只有 $2.5$\n$2.5$ only",
+      "B": "$2.5$ 或 $-0.5$\n$2.5$ or $-0.5$",
+      "C": "$1.5$ 或 $-1.5$\n$1.5$ or $-1.5$",
+      "D": "只有 $-0.5$\n$-0.5$ only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 45,
+    "section": "sectionB",
+    "category": "數據變換對統計量的影響/Effects of Data Transformations",
+    "questionText": "某組數據 $x_{1}$ 、 $x_{2}$ 、 $\\dots$ 、 $x_{n}$ 的平均數、分佈域及方差分別為 $m$ 、 $R$ 及 $V$ 。考慮數據組 $3x_{1}-2$ 、 $3x_{2}-2$ 、 $\\dots$ 、 $3x_{n}-2$ 。下列何者正確？\nI. 新數據的平均數為 $3m-2$ 。\nII. 新數據的分佈域為 $3R-2$ 。\nIII. 新數據的方差為 $3V$ 。\nThe mean, the range and the variance of the data $x_{1}$ , $x_{2}$ , $\\dots$ , $x_{n}$ are $m$ , $R$ and $V$ respectively. Consider the data $3x_{1}-2$ , $3x_{2}-2$ , $\\dots$ , $3x_{n}-2$ . Which of the following are true?\nI. The mean of the new data is $3m-2$ .\nII. The range of the new data is $3R-2$ .\nIII. The variance of the new data is $3V$ .",
+    "imageUrl": "q45.png",
+    "options": {
+      "A": "只有 I 及 II\nI and II only",
+      "B": "只有 I\nI only",
+      "C": "只有 I 及 III\nI and III only",
+      "D": "只有 II 及 III\nII and III only"
+    },
+    "correctAnswer": "B"
+  }
+]
