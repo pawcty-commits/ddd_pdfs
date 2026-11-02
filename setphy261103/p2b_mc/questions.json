@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "三粒動能相同的 $\\alpha$ 粒子沿路徑 1、2、3 接近一個金原子核 N，並被偏轉（見下圖）。以下哪些正確？\n(1) 沿路徑 1 的 $\\alpha$ 粒子最接近原子核。\n(2) 在每條路徑上，$\\alpha$ 粒子在最接近原子核時的動能最小。\n(3) $\\alpha$ 粒子遠離原子核後的速率比接近前小。\nThree $\\alpha$ particles with the same kinetic energy approach a gold nucleus N along paths 1, 2 and 3 and are deflected (see the figure). Which of the following is/are correct?\n(1) The $\\alpha$ particle on path 1 comes closest to the nucleus.\n(2) On each path, the kinetic energy of the $\\alpha$ particle is least at its closest approach to the nucleus.\n(3) The speed of an $\\alpha$ particle after it has moved far away from the nucleus is smaller than before.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "在下圖的裝置中，電子經電勢差 $V$ 加速後穿過一片很薄的多晶鋁箔，在螢光屏上形成一組同心光環。以下哪些正確？\n(1) 形成光環是因為鋁箔由大量取向雜亂的微小晶體組成。\n(2) 若 $V$ 由 $4.0\\ \\text{kV}$ 增至 $16\\ \\text{kV}$，光環的半徑約減半。\n(3) 若改用速率相同的中子穿過鋁箔，所形成光環的半徑會較大。\nIn the set-up shown, electrons accelerated through a potential difference $V$ pass through a very thin polycrystalline aluminium foil and form a set of concentric rings on a fluorescent screen. Which of the following is/are correct?\n(1) Rings are formed because the foil consists of a large number of tiny crystals in random orientations.\n(2) If $V$ is increased from $4.0\\ \\text{kV}$ to $16\\ \\text{kV}$, the radii of the rings are roughly halved.\n(3) If neutrons with the same speed are passed through the foil instead, the rings formed will have larger radii.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "以頻率為 $f$ 的單色光照射某金屬表面，光電子的截止電壓為 $1.0\\ \\text{V}$；改用頻率為 $1.5f$ 的單色光照射時，截止電壓為 $2.5\\ \\text{V}$。這金屬的逸出功是多少？\nWhen monochromatic light of frequency $f$ falls on a metal surface, the stopping potential of the photoelectrons is $1.0\\ \\text{V}$. With monochromatic light of frequency $1.5f$, the stopping potential is $2.5\\ \\text{V}$. What is the work function of the metal?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$1.0\\ \\text{eV}$",
+      "B": "$1.5\\ \\text{eV}$",
+      "C": "$2.0\\ \\text{eV}$",
+      "D": "$3.0\\ \\text{eV}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "下圖每個線圖中的實線，顯示從金屬 X 射出的光電子的最大動能 $K_{\\max}$ 隨入射光波長倒數 $\\dfrac{1}{\\lambda}$ 的變化。金屬 Y 的逸出功比 X 大。哪個線圖中的虛線可表示金屬 Y 的情況？\nIn each graph in the figure, the solid line shows the variation of the maximum kinetic energy $K_{\\max}$ of photoelectrons from metal X with the reciprocal of the wavelength $\\dfrac{1}{\\lambda}$ of the incident light. Metal Y has a larger work function than X. In which graph could the dashed line represent metal Y?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "線圖 A\nGraph A",
+      "B": "線圖 B\nGraph B",
+      "C": "線圖 C\nGraph C",
+      "D": "線圖 D\nGraph D"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "下圖顯示氫原子的部分能級。以下哪個躍遷會發出波長為 $1.88\\ \\mu\\text{m}$ 的光子？\nThe figure shows some energy levels of the hydrogen atom. Which of the following transitions emits a photon of wavelength $1.88\\ \\mu\\text{m}$?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$n=2\\rightarrow n=1$",
+      "B": "$n=3\\rightarrow n=2$",
+      "C": "$n=5\\rightarrow n=3$",
+      "D": "$n=4\\rightarrow n=3$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "一粒電子由靜止經 $150\\ \\text{V}$ 的電勢差加速後，其德布羅意波長為 $\\lambda$。一粒質子要由靜止經多大的電勢差加速，才會有相同的德布羅意波長？（質子質量約為電子質量的 $1836$ 倍）\nAn electron accelerated from rest through a potential difference of $150\\ \\text{V}$ has a de Broglie wavelength $\\lambda$. Through what potential difference must a proton be accelerated from rest to have the same de Broglie wavelength? (The mass of a proton is about $1836$ times that of an electron.)",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$0.0817\\ \\text{V}$",
+      "B": "$3.50\\ \\text{V}$",
+      "C": "$150\\ \\text{V}$",
+      "D": "$2.75\\times10^{5}\\ \\text{V}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "以下哪些有關透射電子顯微鏡（TEM）的描述正確？\n(1) 經 $100\\ \\text{kV}$ 加速的電子的德布羅意波長約為 $3.9\\times10^{-12}\\ \\text{m}$（不計相對論效應），遠比可見光的波長短，所以 TEM 的分辨率比光學顯微鏡高得多。\n(2) 用 TEM 觀察的樣本必須非常薄。\n(3) TEM 可用來觀察浸在水中的活細胞。\nWhich of the following statements about the transmission electron microscope (TEM) is/are correct?\n(1) Electrons accelerated through $100\\ \\text{kV}$ have a de Broglie wavelength of about $3.9\\times10^{-12}\\ \\text{m}$ (neglecting relativistic effects), far shorter than that of visible light, so a TEM has a much higher resolution than an optical microscope.\n(2) The specimen viewed in a TEM must be very thin.\n(3) A TEM can be used to observe living cells immersed in water.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (2)\n(1) and (2) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "以下哪些有關納米材料的描述正確？\n(1) 金納米粒子的溶液可呈紅色或紫色，而非金色。\n(2) 把一個邊長 $1\\ \\mu\\text{m}$ 的立方體切成邊長 $10\\ \\text{nm}$ 的小立方體，總表面積增加至 100 倍。\n(3) 化學成分相同時，納米材料的物理性質必定與其大塊材料相同。\nWhich of the following statements about nanomaterials is/are correct?\n(1) A solution of gold nanoparticles can appear red or purple rather than golden.\n(2) If a cube of side $1\\ \\mu\\text{m}$ is cut into small cubes of side $10\\ \\text{nm}$, the total surface area becomes 100 times as large.\n(3) A nanomaterial must have the same physical properties as the bulk material of the same chemical composition.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  }
+]

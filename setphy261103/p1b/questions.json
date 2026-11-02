@@ -1,0 +1,364 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷一乙部",
+  "paperTitle": "Physics Mock — Paper 1 Section B",
+  "durationMinutes": 150,
+  "totalMarks": 84,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "一支沒有刻度的酒精溫度計放在熔化中的冰時，酒精柱長 $3.2\\ \\text{cm}$；放在沸水中時，酒精柱長 $18.4\\ \\text{cm}$。學生假設沸水的溫度是 $100\\ ^{\\circ}\\text{C}$，然後把溫度計放進一杯暖水中，酒精柱長 $11.0\\ \\text{cm}$。\n求暖水的溫度。",
+          "questionTextEn": "An alcohol thermometer without a scale has an alcohol column of length $3.2\\ \\text{cm}$ when placed in melting ice and $18.4\\ \\text{cm}$ when placed in boiling water. A student assumes that the boiling water is at $100\\ ^{\\circ}\\text{C}$ and then puts the thermometer into a cup of warm water, where the column length is $11.0\\ \\text{cm}$.\nFind the temperature of the warm water.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "寫出 (a)(i) 的計算所依據的一個假設。",
+          "questionTextEn": "State one assumption made in the calculation in (a)(i).",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "後來發現，校準時所用的沸水其實是在高地煮沸的，溫度只有 $98.0\\ ^{\\circ}\\text{C}$。求暖水的實際溫度，並指出 (a)(i) 的結果是高估還是低估。",
+          "questionTextEn": "It is later found that the boiling water used in the calibration was boiled at high altitude and was only at $98.0\\ ^{\\circ}\\text{C}$. Find the actual temperature of the warm water, and state whether the result in (a)(i) is an overestimate or an underestimate.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一個派對用的氦氣罐內部容積為 $0.012\\ \\text{m}^{3}$，罐內氦氣壓強為 $1.5\\times10^{7}\\ \\text{Pa}$。每個氣球充氣後的容積為 $0.0080\\ \\text{m}^{3}$，球內氦氣壓強為 $1.2\\times10^{5}\\ \\text{Pa}$。假設在整個過程中氦氣溫度保持不變，並把氦氣視為理想氣體。\n若罐內所有氦氣的壓強降至 $1.2\\times10^{5}\\ \\text{Pa}$，求其體積。",
+          "questionTextEn": "A party helium cylinder has an internal volume of $0.012\\ \\text{m}^{3}$ and contains helium at a pressure of $1.5\\times10^{7}\\ \\text{Pa}$. Each balloon, when filled, has a volume of $0.0080\\ \\text{m}^{3}$ and contains helium at $1.2\\times10^{5}\\ \\text{Pa}$. Assume the temperature of the helium stays constant throughout, and treat helium as an ideal gas.\nFind the volume that all the helium in the cylinder would occupy at a pressure of $1.2\\times10^{5}\\ \\text{Pa}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "當罐內壓強降至 $1.2\\times10^{5}\\ \\text{Pa}$ 時，氦氣便不能再流入氣球。求可用來充氣球的氦氣體積（在 $1.2\\times10^{5}\\ \\text{Pa}$ 下量度）。",
+          "questionTextEn": "Helium can no longer flow into a balloon once the cylinder pressure falls to $1.2\\times10^{5}\\ \\text{Pa}$. Find the volume of helium (measured at $1.2\\times10^{5}\\ \\text{Pa}$) available for filling balloons.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "一個派對需要 $200$ 個氣球。判斷一罐氦氣是否足夠，試以計算支持你的答案。",
+          "questionTextEn": "A party needs $200$ balloons. Determine whether one cylinder of helium is enough. Support your answer with calculation.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ3",
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一名滑雪者由靜止開始，從 A 點沿光滑斜坡滑下，經過最低點 B，再沿跳台滑上並在 C 點離開跳台。C 點的運動方向與水平成 $35^{\\circ}$。A 點比 B 點高 $12.0\\ \\text{m}$，C 點比 B 點高 $2.0\\ \\text{m}$；B 點所在的水平面就是着陸的地面（見圖 1.3）。不計空氣阻力及所有摩擦，把滑雪者視為質點。\n描述滑雪者由 A 至 C 期間的能量轉換，並求滑雪者在 C 點的速率。",
+          "questionTextEn": "A skier starts from rest at A and slides down a smooth slope through the lowest point B, then up a ramp, leaving it at C where the direction of motion is $35^{\\circ}$ above the horizontal. A is $12.0\\ \\text{m}$ above B and C is $2.0\\ \\text{m}$ above B; the horizontal level of B is also the landing ground (see Figure 1.3). Neglect air resistance and all friction, and treat the skier as a particle.\nDescribe the energy conversion of the skier from A to C, and find the speed of the skier at C.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求滑雪者在空中時離地面的最大高度。",
+          "questionTextEn": "Find the maximum height of the skier above the ground while in the air.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求滑雪者着地點與 C 點之間的水平距離。",
+          "questionTextEn": "Find the horizontal distance between C and the point where the skier lands.",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "一名同學說：「若把跳台末端的角度改得更陡（C 點高度不變），滑雪者着地時的速率會更大。」評論這個說法。",
+          "questionTextEn": "A classmate says, \"If the end of the ramp is made steeper (with the height of C unchanged), the skier will land with a greater speed.\" Comment on this statement.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ4",
+      "totalMarks": 11,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一輛質量為 $1.20\\ \\text{kg}$ 的小車放在粗糙的水平軌道上，以一條跨過滑輪的輕繩連接一個懸掛的重物（見圖 1.4 左）。由靜止釋放後，小車被拉動；重物在某時刻着地，之後小車繼續滑行。運動感應器量得小車的速度 $v$ 如下：\n$t$ / s：$0$、$0.2$、$0.4$、$0.6$、$0.8$、$1.0$、$1.2$、$1.4$、$1.6$、$1.8$、$2.0$\n$v$ / $\\text{m s}^{-1}$：$0.00$、$0.30$、$0.61$、$0.91$、$1.21$、$1.52$、$1.27$、$1.02$、$0.77$、$0.52$、$0.27$\n假設小車所受的摩擦力大小不變，滑輪光滑，繩不可伸長。\n畫出小車在首 $1.0\\ \\text{s}$ 內的自由體圖，並標示所有作用於小車的力。",
+          "questionTextEn": "A trolley of mass $1.20\\ \\text{kg}$ is placed on a rough horizontal track and connected by a light string passing over a pulley to a hanging weight (see Figure 1.4, left). When released from rest, the trolley is pulled along; at some instant the weight hits the floor, after which the trolley continues to move. A motion sensor records the velocity $v$ of the trolley as follows:\n$t$ / s: $0$, $0.2$, $0.4$, $0.6$, $0.8$, $1.0$, $1.2$, $1.4$, $1.6$, $1.8$, $2.0$\n$v$ / $\\text{m s}^{-1}$: $0.00$, $0.30$, $0.61$, $0.91$, $1.21$, $1.52$, $1.27$, $1.02$, $0.77$, $0.52$, $0.27$\nAssume the friction on the trolley has a constant magnitude, the pulley is smooth and the string is inextensible.\nDraw a free-body diagram of the trolley during the first $1.0\\ \\text{s}$, labelling all the forces acting on it.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "在圖 1.4 右方的方格紙上，描繪小車的 $v$–$t$ 線圖。",
+          "questionTextEn": "On the grid on the right of Figure 1.4, plot the $v$–$t$ graph of the trolley.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "由線圖求小車在首 $1.0\\ \\text{s}$ 內及之後的加速度量值。",
+          "questionTextEn": "From the graph, find the magnitudes of the acceleration of the trolley during the first $1.0\\ \\text{s}$ and afterwards.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "解釋小車在 $t=1.0\\ \\text{s}$ 後減速的原因。",
+          "questionTextEn": "Explain why the trolley decelerates after $t=1.0\\ \\text{s}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "根據 (b)(ii) 的結果，求小車所受的摩擦力 $f$ 及懸掛重物的質量 $m$。",
+          "questionTextEn": "From the results of (b)(ii), find the friction $f$ on the trolley and the mass $m$ of the hanging weight.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ5",
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "一名學生想量度一輛巴士在平直路面上由車站開出時的加速度（假設加速度大致均勻）。她有以下器材：\n• 一個透明密封長方形膠盒（長 $30\\ \\text{cm}$），內有半盒有色水\n• 一把米尺\n• 雙面膠紙\n當巴士加速時，盒內水面會傾斜，與水平成角 $\\theta$（見圖 1.5）。\n描述她應如何利用上述器材量度巴士的加速度 $a$。你的答案須包括：器材的擺放方法、要量度的量、如何由量度結果計算 $a$（須推導所用的關係式），以及一項為提高準確度而採取的預防措施。",
+          "questionTextEn": "A student wants to measure the acceleration of a bus as it pulls away from a stop on a straight level road (assume the acceleration is roughly uniform). She has the following apparatus:\n• a transparent sealed rectangular plastic box (length $30\\ \\text{cm}$), half filled with coloured water\n• a metre rule\n• double-sided tape\nWhen the bus accelerates, the water surface in the box tilts at an angle $\\theta$ to the horizontal (see Figure 1.5).\nDescribe how she should use the apparatus to measure the acceleration $a$ of the bus. Your answer should include: how the apparatus is set up, the quantities to be measured, how $a$ is calculated from the measurements (derive the relation used), and one precaution to improve accuracy.",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ6",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "閱讀以下短文，然後回答問題。\n\n【液體密度柱】\n科學館展出一個高身透明玻璃筒：筒底是一塊厚玻璃，上面先倒入一層水，再在水面上加一層液體石蠟。由於石蠟的密度較小，它浮在水上，兩層液體之間形成一個平整的分界面。玻璃、水和石蠟的折射率分別為 $1.52$、$1.33$ 和 $1.47$。\n\n導賞員用一支激光筆從空氣斜射入石蠟層的頂面。光線每經過一個分界面都會折射，但因所有分界面互相平行，光線在任何一層中與法線所成的角 $\\theta$ 都滿足同一個關係：$n\\sin\\theta$ 在各層中保持不變。\n利用斯涅耳定律，解釋為何短文所述的 $n\\sin\\theta$ 在各層中保持不變。",
+          "questionTextEn": "Read the following passage and answer the questions.\n\n[Liquid density column]\nA science museum displays a tall transparent glass cylinder. At its bottom is a thick glass base; a layer of water is poured on it, followed by a layer of liquid paraffin. Being less dense, the paraffin floats on the water, forming a flat boundary between the two liquids. The refractive indices of glass, water and paraffin are $1.52$, $1.33$ and $1.47$ respectively.\n\nA guide shines a laser pointer obliquely from the air onto the top surface of the paraffin layer. The light is refracted at every boundary, but since all the boundaries are parallel, the angle $\\theta$ that the ray makes with the normal in every layer satisfies one relation: $n\\sin\\theta$ stays the same in all layers.\nUsing Snell's law, explain why $n\\sin\\theta$ stays the same in all layers, as stated in the passage.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求光線在石蠟層中及在水層中的折射角。",
+          "questionTextEn": "Find the angles of refraction of the ray in the paraffin layer and in the water layer.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "光線穿過玻璃底後到達玻璃與外面空氣的水平底面。判斷光線能否從底面射出；若能，求它射出時與法線所成的角。",
+          "questionTextEn": "The ray passes through the glass base and reaches its horizontal bottom surface, which is in contact with air outside. Determine whether the ray can emerge from the bottom surface; if so, find the angle it makes with the normal on emerging.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "另一條光線在玻璃底內，以 $65^{\\circ}$ 的入射角射向玻璃與水的分界面（見圖 1.6）。判斷這條光線能否進入水中。試以計算支持你的答案。",
+          "questionTextEn": "Another ray inside the glass base strikes the glass–water boundary at an angle of incidence of $65^{\\circ}$ (see Figure 1.6). Determine whether this ray can enter the water. Support your answer with calculation.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ7",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖 1.7 顯示一個微波雙縫實驗的俯視圖。微波發射器 T 發出波長 $2.8\\ \\text{cm}$ 的微波，射向一塊有兩條狹縫 $S_1$ 和 $S_2$ 的金屬板，兩縫中心相距 $6.0\\ \\text{cm}$。接收器沿一條與金屬板平行、相距 $1.20\\ \\text{m}$ 的直線 XY 移動。O 點位於兩縫的中垂線上。P 點與 $S_1$ 和 $S_2$ 的距離分別為 $170.2\\ \\text{cm}$ 和 $166.0\\ \\text{cm}$。\n接收器由 X 移向 Y 時，讀數交替地增大和減小。解釋這現象。",
+          "questionTextEn": "Figure 1.7 shows the top view of a microwave double-slit experiment. A transmitter T emits microwaves of wavelength $2.8\\ \\text{cm}$ towards a metal plate with two slits $S_1$ and $S_2$ whose centres are $6.0\\ \\text{cm}$ apart. A receiver is moved along a straight line XY parallel to the plate and $1.20\\ \\text{m}$ from it. O is on the perpendicular bisector of the slits. P is $170.2\\ \\text{cm}$ from $S_1$ and $166.0\\ \\text{cm}$ from $S_2$.\nAs the receiver moves from X to Y, its reading rises and falls alternately. Explain this.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "判斷 P 點的讀數是極大還是極小，並寫出它是 O 點以下第幾個極大或極小。",
+          "questionTextEn": "Determine whether the reading at P is a maximum or a minimum, and state which maximum or minimum below O it is.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "一名學生用公式 $\\Delta y=\\dfrac{\\lambda D}{a}$ 預測第一個極大與 O 點的距離。實際量得的距離是 $0.63\\ \\text{m}$。計算預測值，並解釋兩者為何有明顯差異。",
+          "questionTextEn": "A student uses the formula $\\Delta y=\\dfrac{\\lambda D}{a}$ to predict the distance of the first maximum from O. The measured distance is $0.63\\ \\text{m}$. Calculate the predicted value, and explain why the two differ noticeably.",
+          "totalMarks": 3
+        },
+        {
+          "label": "d(i)",
+          "questionTextZh": "若直線 XY 向兩邊無限延長，接收器最多可錄得多少個極大（包括 O 點）？",
+          "questionTextEn": "If line XY is extended indefinitely in both directions, what is the maximum number of maxima (including that at O) that the receiver can record?",
+          "totalMarks": 1
+        },
+        {
+          "label": "d(ii)",
+          "questionTextZh": "若兩縫中心的距離減至 $2.0\\ \\text{cm}$，接收器沿 XY 可錄得多少個極大？解釋你的答案。",
+          "questionTextEn": "If the separation of the slit centres is reduced to $2.0\\ \\text{cm}$, how many maxima can the receiver record along XY? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ8",
+      "totalMarks": 13,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "一個浮動太陽能發電場經一對水底電纜把電能輸送到 $8.0\\ \\text{km}$ 外的村莊（電線總長 $16\\ \\text{km}$）。每條電纜由 $19$ 股相同的銅絲並合而成，每股直徑 $2.5\\ \\text{mm}$（見圖 1.8）。銅的電阻率為 $1.7\\times10^{-8}\\ \\Omega\\ \\text{m}$。\n求一股長 $1.00\\ \\text{km}$ 的銅絲的電阻。",
+          "questionTextEn": "A floating solar farm transmits electrical energy to a village $8.0\\ \\text{km}$ away through a pair of underwater cables (total wire length $16\\ \\text{km}$). Each cable consists of $19$ identical copper strands twisted together, each of diameter $2.5\\ \\text{mm}$ (see Figure 1.8). The resistivity of copper is $1.7\\times10^{-8}\\ \\Omega\\ \\text{m}$.\nFind the resistance of one strand of length $1.00\\ \\text{km}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "求一條長 $1.00\\ \\text{km}$ 的電纜的電阻。",
+          "questionTextEn": "Find the resistance of a $1.00\\ \\text{km}$ length of cable.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "某段 $1.00\\ \\text{km}$ 長的電纜中有 $2$ 股銅絲斷了（沿整段長度）。求這段電纜的電阻增加的百分比。",
+          "questionTextEn": "In one $1.00\\ \\text{km}$ section of cable, $2$ strands are broken along the whole length. Find the percentage increase in the resistance of this section.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求電纜中的電流。",
+          "questionTextEn": "Find the current in the cables.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求電纜中的功率損耗。",
+          "questionTextEn": "Find the power loss in the cables.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "若輸電電壓改為 $11\\ \\text{kV}$（輸出功率不變），求電纜中的功率損耗。",
+          "questionTextEn": "If the transmission voltage is changed to $11\\ \\text{kV}$ (same power sent out), find the power loss in the cables.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "村莊最少需要 $2.30\\ \\text{MW}$ 的功率。判斷以 $11\\ \\text{kV}$ 輸電能否滿足村莊的需要。",
+          "questionTextEn": "The village needs at least $2.30\\ \\text{MW}$. Determine whether transmission at $11\\ \\text{kV}$ can meet the needs of the village.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P1BQ9",
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "圖 1.9 顯示一個「電流天平」的俯視圖。一個輕金屬框擱在水平轉軸 XY 上，可自由轉動。金屬框的導線 PQ 長 $5.0\\ \\text{cm}$，與轉軸平行，距轉軸 $10.0\\ \\text{cm}$，位於一對磁極之間；磁場 $B$ 水平，方向垂直於 PQ，在圖中由 PQ 指向轉軸。金屬框另一端伸到轉軸另一邊。未通電時，金屬框保持水平。當電流 $2.0\\ \\text{A}$ 按圖中方向由 P 流向 Q 時，需在轉軸另一邊、距轉軸 $8.0\\ \\text{cm}$ 處放一張質量為 $0.15\\ \\text{g}$ 的紙片，金屬框才再次保持水平。\n解釋為何通電後須在轉軸的另一邊放紙片，金屬框才能保持水平。你的答案須指出 PQ 所受磁力的方向。",
+          "questionTextEn": "Figure 1.9 shows the top view of a \"current balance\". A light metal frame rests on a horizontal pivot axis XY and is free to rotate. Wire PQ of the frame, of length $5.0\\ \\text{cm}$, is parallel to the axis, $10.0\\ \\text{cm}$ from it, and lies between a pair of magnetic poles; the magnetic field $B$ is horizontal and perpendicular to PQ, pointing from PQ towards the axis in the figure. The other end of the frame extends to the other side of the axis. With no current the frame stays horizontal. When a current of $2.0\\ \\text{A}$ flows from P to Q as shown, a paper rider of mass $0.15\\ \\text{g}$ must be placed on the other side of the axis, $8.0\\ \\text{cm}$ from it, for the frame to be horizontal again.\nExplain why, with the current on, a rider must be placed on the other side of the axis to keep the frame horizontal. Your answer should state the direction of the magnetic force on PQ.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求 PQ 所受磁力的大小。",
+          "questionTextEn": "Find the magnitude of the magnetic force on PQ.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求磁場 $B$ 的大小。",
+          "questionTextEn": "Find the magnitude of the magnetic field $B$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "若把電流反向，紙片能否只改放在轉軸同一邊的另一位置，便令金屬框保持水平？解釋你的答案。",
+          "questionTextEn": "If the current is reversed, can the frame be balanced simply by moving the rider to another position on the same side of the axis? Explain your answer.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "若要用這個天平量度一個較弱的磁場，提出一個方法。",
+          "questionTextEn": "Suggest one way to use this balance to measure a weaker magnetic field.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "釙-210 是一種 $\\alpha$ 放射源，其衰變方程為：\n${}^{210}_{84}\\text{Po}\\rightarrow{}^{206}_{82}\\text{Pb}+{}^{4}_{2}\\text{He}$\n已知質量：${}^{210}_{84}\\text{Po}$：$209.982874\\ \\text{u}$；${}^{206}_{82}\\text{Pb}$：$205.974465\\ \\text{u}$；${}^{4}_{2}\\text{He}$：$4.002603\\ \\text{u}$。\n求每次衰變釋放的能量，以 MeV 表示。",
+          "questionTextEn": "Polonium-210 is an $\\alpha$ source. Its decay equation is:\n${}^{210}_{84}\\text{Po}\\rightarrow{}^{206}_{82}\\text{Pb}+{}^{4}_{2}\\text{He}$\nGiven masses: ${}^{210}_{84}\\text{Po}$: $209.982874\\ \\text{u}$; ${}^{206}_{82}\\text{Pb}$: $205.974465\\ \\text{u}$; ${}^{4}_{2}\\text{He}$: $4.002603\\ \\text{u}$.\nFind the energy released in each decay, in MeV.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求 $\\alpha$ 粒子的動能，以 MeV 表示。",
+          "questionTextEn": "Find the kinetic energy of the $\\alpha$ particle, in MeV.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋為何釙-210 放出的所有 $\\alpha$ 粒子都具有相同的動能。",
+          "questionTextEn": "Explain why all the $\\alpha$ particles emitted by polonium-210 have the same kinetic energy.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "一個密封小囊內有放射強度為 $4.0\\times10^{11}\\ \\text{Bq}$ 的釙-210，所有 $\\alpha$ 粒子及反衝的鉛核都在囊內停下。估算小囊內產生熱的速率。",
+          "questionTextEn": "A sealed capsule contains polonium-210 of activity $4.0\\times10^{11}\\ \\text{Bq}$. All the $\\alpha$ particles and recoiling lead nuclei are stopped inside the capsule. Estimate the rate at which heat is produced in the capsule.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

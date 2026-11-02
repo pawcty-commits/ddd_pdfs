@@ -1,0 +1,464 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "把溫度為 $70\\ ^{\\circ}\\text{C}$ 的熱水倒進一杯溫度為 $15\\ ^{\\circ}\\text{C}$ 的水中，杯中原有水 $0.40\\ \\text{kg}$。混合後最終溫度為 $30\\ ^{\\circ}\\text{C}$。假設沒有能量傳到杯和周圍環境，倒進的熱水質量是多少？\nHot water at $70\\ ^{\\circ}\\text{C}$ is poured into a cup containing $0.40\\ \\text{kg}$ of water at $15\\ ^{\\circ}\\text{C}$. The final temperature of the mixture is $30\\ ^{\\circ}\\text{C}$. Assuming no energy is transferred to the cup or the surroundings, what is the mass of the hot water poured in?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$0.0857\\ \\text{kg}$",
+      "B": "$0.109\\ \\text{kg}$",
+      "C": "$0.150\\ \\text{kg}$",
+      "D": "$0.171\\ \\text{kg}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "在 $100\\ ^{\\circ}\\text{C}$ 時，沸水轉化為同溫度的蒸汽。在這過程中，以下哪些有關水分子的描述正確？\n(1) 分子的平均動能保持不變。\n(2) 分子之間的平均距離增加。\n(3) 分子的勢能減少。\nAt $100\\ ^{\\circ}\\text{C}$, boiling water changes into steam at the same temperature. Which of the following statements about the water molecules during this process is/are correct?\n(1) The average kinetic energy of the molecules remains unchanged.\n(2) The average separation between the molecules increases.\n(3) The potential energy of the molecules decreases.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (2)\n(1) and (2) only",
+      "D": "只有 (1) 及 (3)\n(1) and (3) only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "一個容積為 $0.050\\ \\text{m}^{3}$ 的密封鋼罐盛有 $2.0\\ \\text{kg}$ 氮氣，溫度為 $17\\ ^{\\circ}\\text{C}$。氮的摩爾質量為 $0.028\\ \\text{kg mol}^{-1}$。把氮氣視為理想氣體，罐內氣壓是多少？\nA sealed steel tank of volume $0.050\\ \\text{m}^{3}$ contains $2.0\\ \\text{kg}$ of nitrogen at $17\\ ^{\\circ}\\text{C}$. The molar mass of nitrogen is $0.028\\ \\text{kg mol}^{-1}$. Treating nitrogen as an ideal gas, what is the pressure in the tank?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$3.44\\times10^{3}\\ \\text{Pa}$",
+      "B": "$9.64\\times10^{4}\\ \\text{Pa}$",
+      "C": "$2.02\\times10^{5}\\ \\text{Pa}$",
+      "D": "$3.44\\times10^{6}\\ \\text{Pa}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一名單車手由 P 點出發，沿半徑為 $40\\ \\text{m}$ 的圓形跑道以逆時針方向行駛了四分之三圈到達 Q 點，歷時 $30\\ \\text{s}$（見下圖）。單車手由 P 至 Q 的平均速度的量值是多少？\nA cyclist starts from P and rides anticlockwise for three-quarters of a lap along a circular track of radius $40\\ \\text{m}$ to Q, taking $30\\ \\text{s}$ (see the figure). What is the magnitude of the average velocity of the cyclist from P to Q?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$1.33\\ \\text{m s}^{-1}$",
+      "B": "$1.89\\ \\text{m s}^{-1}$",
+      "C": "$2.67\\ \\text{m s}^{-1}$",
+      "D": "$6.28\\ \\text{m s}^{-1}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一條長 $2.0\\ \\text{m}$、重 $40\\ \\text{N}$ 的均勻木條 PQ，其 P 端置於粗糙水平地面上，並擱在一條固定的光滑水平圓柱上，接觸點為 R，$\\text{PR}=1.6\\ \\text{m}$。木條與水平成 $30^{\\circ}$，並保持靜止（見下圖）。地面施於 P 端的摩擦力是多少？\nA uniform plank PQ of length $2.0\\ \\text{m}$ and weight $40\\ \\text{N}$ has its end P on rough horizontal ground and rests on a fixed smooth horizontal cylinder at R, where $\\text{PR}=1.6\\ \\text{m}$. The plank makes $30^{\\circ}$ with the horizontal and stays at rest (see the figure). What is the friction acting on end P by the ground?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$10.8\\ \\text{N}$，向右\n$10.8\\ \\text{N}$, to the right",
+      "B": "$10.8\\ \\text{N}$，向左\n$10.8\\ \\text{N}$, to the left",
+      "C": "$18.8\\ \\text{N}$，向右\n$18.8\\ \\text{N}$, to the right",
+      "D": "零\nzero"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "箱 X（質量 $2.0\\ \\text{kg}$）放在箱 Y（質量 $5.0\\ \\text{kg}$）上，Y 放在水平地面上。一條輕繩繫着 X，並以與水平成 $30^{\\circ}$ 向上、大小為 $10\\ \\text{N}$ 的力拉 X（見下圖）。X 和 Y 均保持靜止。地面施於 Y 的法向反作用力是多少？\nBox X (mass $2.0\\ \\text{kg}$) rests on box Y (mass $5.0\\ \\text{kg}$), which stands on horizontal ground. A light string attached to X pulls it with a force of $10\\ \\text{N}$ at $30^{\\circ}$ above the horizontal (see the figure). Both X and Y remain at rest. What is the normal reaction acting on Y by the ground?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$63.7\\ \\text{N}$",
+      "B": "$68.7\\ \\text{N}$",
+      "C": "$73.7\\ \\text{N}$",
+      "D": "$78.7\\ \\text{N}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一件包裹用氣泡膠紙包好後，由某高度跌落硬地面，比沒有包裹時較不易損壞（見下圖）。以下哪項是最佳解釋？\nA parcel wrapped in bubble wrap is less likely to be damaged when it falls from a certain height onto hard ground than one without bubble wrap (see the figure). Which of the following is the best explanation?",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "氣泡膠紙減少包裹的動量變化。\nThe bubble wrap reduces the change in momentum of the parcel.",
+      "B": "氣泡膠紙減少包裹所受的衝量。\nThe bubble wrap reduces the impulse on the parcel.",
+      "C": "氣泡膠紙減少作用於包裹的重力。\nThe bubble wrap reduces the gravitational force on the parcel.",
+      "D": "氣泡膠紙延長碰撞時間，使包裹所受的平均撞擊力減少。\nThe bubble wrap lengthens the time of impact, so the average impact force on the parcel is smaller."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "質量 $0.50\\ \\text{kg}$ 的冰球在光滑冰面上以 $3.0\\ \\text{m s}^{-1}$ 向右運動。由 $t=0$ 起，一個向左的力 $F$ 作用於冰球，$F$ 隨時間 $t$ 的變化如下圖所示。冰球在 $t=0.8\\ \\text{s}$ 時的速度是多少？\nA puck of mass $0.50\\ \\text{kg}$ moves to the right at $3.0\\ \\text{m s}^{-1}$ on smooth ice. From $t=0$, a force $F$ directed to the left acts on the puck. The variation of $F$ with time $t$ is shown in the figure. What is the velocity of the puck at $t=0.8\\ \\text{s}$?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$0.20\\ \\text{m s}^{-1}$，向左\n$0.20\\ \\text{m s}^{-1}$, to the left",
+      "B": "$1.8\\ \\text{m s}^{-1}$，向左\n$1.8\\ \\text{m s}^{-1}$, to the left",
+      "C": "$4.8\\ \\text{m s}^{-1}$，向左\n$4.8\\ \\text{m s}^{-1}$, to the left",
+      "D": "$7.8\\ \\text{m s}^{-1}$，向右\n$7.8\\ \\text{m s}^{-1}$, to the right"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一個水平圓形轉台繞中心 O 勻速轉動，從上方看為逆時針方向。站在轉台邊緣 P 點的女孩，以相對於自己水平指向 O 的方向拋出一個球。從上方看，球離手後相對於地面的路徑最可能是下圖中哪一條？（不計空氣阻力）\nA horizontal circular platform rotates uniformly about its centre O, anticlockwise as seen from above. A girl standing at point P on the edge of the platform throws a ball horizontally towards O relative to herself. As seen from above, which path in the figure is the ball most likely to follow relative to the ground after release? (Neglect air resistance.)",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "路徑 A\nPath A",
+      "B": "路徑 B\nPath B",
+      "C": "路徑 C\nPath C",
+      "D": "路徑 D\nPath D"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 10,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "在下圖的滑輪系統中，一個 $400\\ \\text{N}$ 的重物掛在一個重 $40\\ \\text{N}$ 的可動滑輪下。工人豎直向下拉繩的自由端，使重物以勻速上升。繩的自由端被拉下了 $3.0\\ \\text{m}$，工人共做了 $800\\ \\text{J}$ 的功。在這過程中，用於克服摩擦的能量是多少？（繩輕且不可伸長）\nIn the pulley system shown, a load of $400\\ \\text{N}$ hangs from a movable pulley of weight $40\\ \\text{N}$. A worker pulls the free end of the rope vertically downwards so that the load rises at constant speed. The free end is pulled down by $3.0\\ \\text{m}$ and the worker does $800\\ \\text{J}$ of work. How much energy is used to overcome friction in this process? (The rope is light and inextensible.)",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "$140\\ \\text{J}$",
+      "B": "$200\\ \\text{J}$",
+      "C": "$360\\ \\text{J}$",
+      "D": "$470\\ \\text{J}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 11,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "兩條光滑滑道 1 和 2 由同一點 X 通往同一點 Y，兩條滑道長度相同（見下圖）。兩個相同的小物體同時由 X 從靜止開始分別沿兩條滑道滑下。以下哪項正確？\nTwo smooth slides, 1 and 2, both run from point X to point Y and have the same length (see the figure). Two identical small objects are released from rest at X at the same time, one on each slide. Which of the following is correct?",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "兩物體到達 Y 時速率相同，並同時到達。\nThey reach Y with the same speed and at the same time.",
+      "B": "沿滑道 1 的物體到達 Y 時速率較大，並較早到達。\nThe object on slide 1 reaches Y with a greater speed and arrives earlier.",
+      "C": "兩物體到達 Y 時速率相同，沿滑道 2 的物體較早到達。\nThey reach Y with the same speed, and the object on slide 2 arrives earlier.",
+      "D": "兩物體到達 Y 時速率相同，沿滑道 1 的物體較早到達。\nThey reach Y with the same speed, and the object on slide 1 arrives earlier."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 12,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "在光滑水平軌道上，質量為 $1.0\\ \\text{kg}$ 的小車 A 撞向靜止的小車 B。下圖顯示兩車的位置 $x$ 隨時間 $t$ 的變化。B 的質量是多少？這次碰撞是否彈性碰撞？\nOn a smooth horizontal track, trolley A of mass $1.0\\ \\text{kg}$ collides with a stationary trolley B. The figure shows the variation of the positions $x$ of the two trolleys with time $t$. What is the mass of B, and is the collision elastic?",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "$1.0\\ \\text{kg}$，非彈性碰撞\n$1.0\\ \\text{kg}$, inelastic",
+      "B": "$1.7\\ \\text{kg}$，非彈性碰撞\n$1.7\\ \\text{kg}$, inelastic",
+      "C": "$2.5\\ \\text{kg}$，彈性碰撞\n$2.5\\ \\text{kg}$, elastic",
+      "D": "$1.7\\ \\text{kg}$，彈性碰撞\n$1.7\\ \\text{kg}$, elastic"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 13,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一架無人機在離地高度 $h$ 處以速率 $u$ 水平飛行，並釋放一個小包裹（見下圖）。若無人機改為在相同高度以速率 $2u$ 水平飛行並釋放同一包裹，以下哪些正確？（不計空氣阻力；無人機保持勻速飛行）\n(1) 兩次包裹着地時，無人機都在包裹的正上方。\n(2) 包裹由釋放至落地的水平位移加倍。\n(3) 包裹着地時的速率加倍。\nA drone flies horizontally at speed $u$ at a height $h$ above the ground and releases a small parcel (see the figure). If the drone instead flies horizontally at speed $2u$ at the same height and releases the same parcel, which of the following is/are correct? (Neglect air resistance; the drone keeps flying at constant velocity.)\n(1) In both cases, the drone is directly above the parcel when the parcel lands.\n(2) The horizontal displacement of the parcel from release to landing is doubled.\n(3) The speed of the parcel on hitting the ground is doubled.",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 14,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "下圖顯示自轉中的地球。E 是赤道上的一點，H 是北緯 $22^{\\circ}$ 的一點。以下哪些正確？\n(1) E 和 H 繞地軸轉動的角速度相同。\n(2) E 的線速率比 H 的大。\n(3) H 的向心加速度指向地球中心。\nThe figure shows the rotating Earth. E is a point on the equator and H is a point at latitude $22^{\\circ}$ N. Which of the following is/are correct?\n(1) E and H have the same angular velocity about the Earth's axis.\n(2) The linear speed of E is greater than that of H.\n(3) The centripetal acceleration of H is directed towards the centre of the Earth.",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 15,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一列橫波沿正 $x$ 方向傳播。下圖實線和虛線分別顯示 $t=0$ 及 $t=0.30\\ \\text{s}$ 時的波形。以下哪些正確？\n(1) 平衡位置在 $x=2\\ \\text{cm}$ 和 $x=6\\ \\text{cm}$ 的兩個質點，振動方向總是相反。\n(2) 波的周期可能是 $0.24\\ \\text{s}$。\n(3) 在 $t=0$ 時，平衡位置在 $x=0$ 的質點正向上運動。\nA transverse wave travels in the positive $x$-direction. The solid and dashed curves in the figure show the waveform at $t=0$ and $t=0.30\\ \\text{s}$ respectively. Which of the following is/are correct?\n(1) The particles whose equilibrium positions are at $x=2\\ \\text{cm}$ and $x=6\\ \\text{cm}$ always move in opposite directions.\n(2) The period of the wave could be $0.24\\ \\text{s}$.\n(3) At $t=0$, the particle whose equilibrium position is at $x=0$ is moving upwards.",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (2)\n(1) and (2) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 16,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一條弦線的一端接在頻率固定的振動器上，另一端跨過滑輪並掛上質量為 $M$ 的砝碼，弦上傳播的橫波波長為 $\\lambda$（見下圖）。若把砝碼換成質量為 $4M$ 的砝碼，而振動器的頻率不變，弦上橫波的波長變為多少？\nOne end of a string is attached to a vibrator of fixed frequency; the other end passes over a pulley and carries a hanging mass $M$. The transverse waves travelling on the string have wavelength $\\lambda$ (see the figure). If the hanging mass is replaced by one of mass $4M$ and the frequency of the vibrator is unchanged, what is the new wavelength of the transverse waves on the string?",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$\\dfrac{\\lambda}{2}$",
+      "B": "$\\lambda$",
+      "C": "$2\\lambda$",
+      "D": "$4\\lambda$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "水波從深水區 1 斜向進入淺水區 2（見下圖）。進入區域 2 後，水波的波長和頻率有何改變？傳播方向如何折射？\nWater waves pass obliquely from deep region 1 into shallow region 2 (see the figure). After entering region 2, how do the wavelength and frequency of the waves change, and how is the direction of travel bent?",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "波長減少；頻率減少；折向法線\nwavelength decreases; frequency decreases; bends towards the normal",
+      "B": "波長減少；頻率不變；折向法線\nwavelength decreases; frequency unchanged; bends towards the normal",
+      "C": "波長增加；頻率不變；折離法線\nwavelength increases; frequency unchanged; bends away from the normal",
+      "D": "波長不變；頻率減少；折向法線\nwavelength unchanged; frequency decreases; bends towards the normal"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 18,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一束單色光垂直照射在一塊衍射光柵上，第一級亮紋的衍射角為 $20.0^{\\circ}$（見下圖）。第二級亮紋的衍射角是多少？光柵後最多可觀察到多少條亮紋（包括中央亮紋）？\nA beam of monochromatic light is incident normally on a diffraction grating. The first-order bright fringe is at an angle of $20.0^{\\circ}$ (see the figure). What is the angle of the second-order bright fringe, and what is the maximum number of bright fringes (including the central one) that can be observed?",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "$43.2^{\\circ}$；$5$ 條\n$43.2^{\\circ}$; $5$",
+      "B": "$43.2^{\\circ}$；$6$ 條\n$43.2^{\\circ}$; $6$",
+      "C": "$40.0^{\\circ}$；$5$ 條\n$40.0^{\\circ}$; $5$",
+      "D": "$40.0^{\\circ}$；$7$ 條\n$40.0^{\\circ}$; $7$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 19,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "兩個揚聲器 $S_1$ 和 $S_2$ 由同一訊號產生器驅動，但兩者以反相振動。P 點與 $S_1$ 及 $S_2$ 的距離分別為 $4.20\\ \\text{m}$ 和 $3.35\\ \\text{m}$（見下圖）。聲速為 $340\\ \\text{m s}^{-1}$。以下哪個頻率會令 P 點出現相消干涉？\nTwo loudspeakers $S_1$ and $S_2$ are driven by the same signal generator but vibrate in antiphase. Point P is $4.20\\ \\text{m}$ from $S_1$ and $3.35\\ \\text{m}$ from $S_2$ (see the figure). The speed of sound is $340\\ \\text{m s}^{-1}$. Which frequency gives destructive interference at P?",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "$200\\ \\text{Hz}$",
+      "B": "$300\\ \\text{Hz}$",
+      "C": "$600\\ \\text{Hz}$",
+      "D": "$800\\ \\text{Hz}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 20,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "兩塊豎直平面鏡以 $90^{\\circ}$ 相接。一名學生站在鏡前，面向兩鏡的接縫，並舉起右手（見下圖，俯視圖）。她看見經兩塊鏡各反射一次所形成的像。以下哪項正確描述這個像？\nTwo vertical plane mirrors are joined at $90^{\\circ}$. A student stands in front of them facing the joint and raises her right hand (see the top view in the figure). She looks at the image formed by one reflection in each mirror. Which of the following correctly describes this image?",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "像看似舉起左手，像是正立的。\nThe image appears to raise its left hand and is upright.",
+      "B": "像看似舉起左手，像是倒立的。\nThe image appears to raise its left hand and is inverted.",
+      "C": "像看似舉起右手，像是倒立的。\nThe image appears to raise its right hand and is inverted.",
+      "D": "像看似舉起右手，像是正立的。\nThe image appears to raise its right hand and is upright."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 21,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "物體與白幕位置固定，相距 $80\\ \\text{cm}$。把一塊凸透鏡放在兩者之間、距物體 $20\\ \\text{cm}$ 處時，白幕上得到清晰的像（見下圖）。以下哪些正確？\n(1) 把透鏡移至距物體 $60\\ \\text{cm}$ 處，白幕上會再得到清晰的像。\n(2) 透鏡的焦距是 $15\\ \\text{cm}$。\n(3) 透鏡在第二個位置時，白幕上的像比物體大。\nAn object and a screen are fixed $80\\ \\text{cm}$ apart. When a convex lens is placed between them $20\\ \\text{cm}$ from the object, a sharp image is formed on the screen (see the figure). Which of the following is/are correct?\n(1) If the lens is moved to $60\\ \\text{cm}$ from the object, a sharp image is formed on the screen again.\n(2) The focal length of the lens is $15\\ \\text{cm}$.\n(3) With the lens at the second position, the image on the screen is larger than the object.",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "只有 (1) 及 (3)\n(1) and (3) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 22,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "以下哪些有關超聲波的描述正確？\n(1) 它的頻率高於 $20\\ \\text{kHz}$。\n(2) 它在空氣中的傳播速率比在水中快。\n(3) 它可以被反射和衍射。\nWhich of the following statements about ultrasound is/are correct?\n(1) Its frequency is higher than $20\\ \\text{kHz}$.\n(2) It travels faster in air than in water.\n(3) It can be reflected and diffracted.",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 23,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "兩個帶電小球 X 和 Y 分別以等長的絕緣絲線懸掛於同一點 O。X 的質量為 $2m$，電荷為 $+q$；Y 的質量為 $m$，電荷為 $+3q$。兩球靜止時，絲線與豎直方向的夾角分別為 $\\theta_X$ 和 $\\theta_Y$（見下圖，未按比例繪畫）。以下哪項正確？\nTwo small charged spheres X and Y hang from the same point O by insulating threads of equal length. X has mass $2m$ and charge $+q$; Y has mass $m$ and charge $+3q$. In equilibrium the threads make angles $\\theta_X$ and $\\theta_Y$ with the vertical (see the figure, not drawn to scale). Which of the following is correct?",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "$\\theta_X>\\theta_Y$",
+      "B": "$\\theta_X=\\theta_Y$",
+      "C": "$\\theta_X<\\theta_Y$，且 $\\sin\\theta_Y=6\\sin\\theta_X$\n$\\theta_X<\\theta_Y$, and $\\sin\\theta_Y=6\\sin\\theta_X$",
+      "D": "$\\theta_X<\\theta_Y$，且 $\\sin\\theta_Y=2\\sin\\theta_X$\n$\\theta_X<\\theta_Y$, and $\\sin\\theta_Y=2\\sin\\theta_X$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 24,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "兩個相同的負點電荷 $-Q$ 固定於 $x=-a$ 和 $x=+a$。取 $+x$ 方向為正，以下哪個線圖最能表示兩電荷之間（$-a<x<+a$）沿 $x$ 軸的電場 $E$ 的變化？\nTwo identical negative point charges $-Q$ are fixed at $x=-a$ and $x=+a$. Taking the $+x$ direction as positive, which graph best shows the variation of the electric field $E$ along the $x$-axis between the charges ($-a<x<+a$)?",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "線圖 A\nGraph A",
+      "B": "線圖 B\nGraph B",
+      "C": "線圖 C\nGraph C",
+      "D": "線圖 D\nGraph D"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 25,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一部手提電話以 $1.5\\ \\text{A}$ 的恆定電流充電 $40$ 分鐘。在這段時間內，有多少個電子流經充電線的任一截面？\nA mobile phone is charged with a steady current of $1.5\\ \\text{A}$ for $40$ minutes. How many electrons pass through any cross-section of the charging cable during this time?",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "$9.38\\times10^{18}$",
+      "B": "$3.75\\times10^{20}$",
+      "C": "$2.25\\times10^{22}$",
+      "D": "$1.35\\times10^{24}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 26,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "下圖電路中，電池的電動勢為 $12\\ \\text{V}$，內阻為 $2.0\\ \\Omega$；$R_1=4.0\\ \\Omega$，$R_2=2.0\\ \\Omega$。開關 S 與 $R_2$ 並聯，理想伏特計 V 接在 $R_1$ 兩端。S 斷開時和閉合時，伏特計的讀數分別是多少？\nIn the circuit shown, the battery has e.m.f. $12\\ \\text{V}$ and internal resistance $2.0\\ \\Omega$; $R_1=4.0\\ \\Omega$ and $R_2=2.0\\ \\Omega$. Switch S is connected in parallel with $R_2$, and an ideal voltmeter V is connected across $R_1$. What are the readings of the voltmeter when S is open and when S is closed?",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "$6.0\\ \\text{V}$；$8.0\\ \\text{V}$\n$6.0\\ \\text{V}$; $8.0\\ \\text{V}$",
+      "B": "$8.0\\ \\text{V}$；$12\\ \\text{V}$\n$8.0\\ \\text{V}$; $12\\ \\text{V}$",
+      "C": "$6.0\\ \\text{V}$；$12\\ \\text{V}$\n$6.0\\ \\text{V}$; $12\\ \\text{V}$",
+      "D": "$8.0\\ \\text{V}$；$8.0\\ \\text{V}$\n$8.0\\ \\text{V}$; $8.0\\ \\text{V}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 27,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "三條長直平行導線 P、Q、R 垂直於紙面，等距排成一直線，相鄰兩線相距 $d$。P 載有流入紙面的電流 $I$，Q 載有流出紙面的電流 $2I$，R 載有流入紙面的電流 $3I$（見下圖）。設 $F_0$ 為兩條相距 $d$、各載電流 $I$ 的長直導線之間每單位長度的作用力。R 每單位長度所受的合力是多少？\nThree long straight parallel wires P, Q and R are perpendicular to the paper and equally spaced along a straight line, with adjacent wires a distance $d$ apart. P carries a current $I$ into the paper, Q carries $2I$ out of the paper and R carries $3I$ into the paper (see the figure). Let $F_0$ be the force per unit length between two long straight wires a distance $d$ apart, each carrying a current $I$. What is the resultant force per unit length on R?",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "$3.0F_0$，背離 P\n$3.0F_0$, away from P",
+      "B": "$4.5F_0$，指向 P\n$4.5F_0$, towards P",
+      "C": "$4.5F_0$，背離 P\n$4.5F_0$, away from P",
+      "D": "$7.5F_0$，背離 P\n$7.5F_0$, away from P"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 28,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "下圖顯示一部簡單直流發電機。線圈在磁場中勻速轉動，經換向器和電刷 X、Y 連接電阻器 R。以下哪些正確？\n(1) 換向器每半周改變線圈與外電路的接駁，使流經 R 的電流方向不變。\n(2) 若線圈的轉速加倍，輸出電動勢的峰值和脈動頻率都會加倍。\n(3) 當線圈平面與磁場垂直時，輸出電動勢最大。\nThe figure shows a simple d.c. generator. The coil rotates uniformly in a magnetic field and is connected to a resistor R through a commutator and brushes X and Y. Which of the following is/are correct?\n(1) The commutator reverses the connections between the coil and the external circuit every half-turn, so the current through R is always in the same direction.\n(2) If the rotation speed of the coil is doubled, both the peak output e.m.f. and the frequency of its pulses are doubled.\n(3) The output e.m.f. is maximum when the plane of the coil is perpendicular to the magnetic field.",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 29,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一對平行金屬板之間有向下的均勻電場 $E$，以及垂直紙面向內的均勻磁場 $B$。一粒帶正電的粒子以速率 $v$ 向右射入，沿直線通過（見下圖）。不計重力。以下哪些正確？\n(1) 若只把磁場反向，粒子會偏向帶負電的金屬板。\n(2) 一粒帶正電、速率為 $2v$ 的粒子會偏向帶正電的金屬板。\n(3) 若 $E$ 加倍，須把 $B$ 減半，粒子才能以速率 $v$ 沿直線通過。\nBetween a pair of parallel metal plates there is a uniform electric field $E$ pointing downwards and a uniform magnetic field $B$ pointing into the paper. A positively charged particle enters moving to the right with speed $v$ and passes straight through (see the figure). Neglect gravity. Which of the following is/are correct?\n(1) If only the magnetic field is reversed, the particle will be deflected towards the negative plate.\n(2) A positively charged particle with speed $2v$ will be deflected towards the positive plate.\n(3) If $E$ is doubled, $B$ must be halved for the particle with speed $v$ to pass straight through.",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 30,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一盞標有「$6.0\\ \\text{V}$，$3.0\\ \\text{W}$」的燈泡接到峰值電壓為 $6.0\\ \\text{V}$ 的正弦交流電源。假設燈絲電阻不變，燈泡消耗的平均功率是多少？\nA lamp marked \"$6.0\\ \\text{V}$, $3.0\\ \\text{W}$\" is connected to a sinusoidal a.c. supply of peak voltage $6.0\\ \\text{V}$. Assuming the resistance of the filament is constant, what is the average power consumed by the lamp?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "$0.75\\ \\text{W}$",
+      "B": "$1.5\\ \\text{W}$",
+      "C": "$2.1\\ \\text{W}$",
+      "D": "$3.0\\ \\text{W}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 31,
+    "section": "A",
+    "category": "放射現象和核能/Radioactivity and Nuclear Energy",
+    "questionText": "一束 X 射線的波長為 $0.050\\ \\text{nm}$。以下哪項有關這束 X 射線的描述正確？\nA beam of X-rays has a wavelength of $0.050\\ \\text{nm}$. Which of the following statements about this beam is correct?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "它們在磁場中會偏轉。\nThey are deflected in a magnetic field.",
+      "B": "它們的波長比紫外線長。\nTheir wavelength is longer than that of ultraviolet radiation.",
+      "C": "每個光子的能量約為 $25\\ \\text{keV}$。\nThe energy of each photon is about $25\\ \\text{keV}$.",
+      "D": "每個光子的能量約為 $25\\ \\text{eV}$。\nThe energy of each photon is about $25\\ \\text{eV}$."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 32,
+    "section": "A",
+    "category": "放射現象和核能/Radioactivity and Nuclear Energy",
+    "questionText": "一個樣本含兩種放射性核素 P 和 Q，半衰期分別為 $4\\ \\text{h}$ 和 $12\\ \\text{h}$。在 $t=0$ 時，樣本的總放射強度為 $800\\ \\text{Bq}$；在 $t=12\\ \\text{h}$ 時為 $160\\ \\text{Bq}$。在 $t=0$ 時，P 的放射強度是多少？\nA sample contains two radioactive nuclides P and Q with half-lives of $4\\ \\text{h}$ and $12\\ \\text{h}$ respectively. At $t=0$ the total activity of the sample is $800\\ \\text{Bq}$; at $t=12\\ \\text{h}$ it is $160\\ \\text{Bq}$. What is the activity of P at $t=0$?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "$160\\ \\text{Bq}$",
+      "B": "$400\\ \\text{Bq}$",
+      "C": "$480\\ \\text{Bq}$",
+      "D": "$640\\ \\text{Bq}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 33,
+    "section": "A",
+    "category": "放射現象和核能/Radioactivity and Nuclear Energy",
+    "questionText": "以下是一個核裂變反應：\n$^{239}_{94}\\text{Pu}+{}^{1}_{0}\\text{n}\\rightarrow{}^{134}_{54}\\text{Xe}+{}^{A}_{40}\\text{Zr}+3\\,{}^{1}_{0}\\text{n}$\n$A$ 的值是多少？\nThe following is a nuclear fission reaction:\n$^{239}_{94}\\text{Pu}+{}^{1}_{0}\\text{n}\\rightarrow{}^{134}_{54}\\text{Xe}+{}^{A}_{40}\\text{Zr}+3\\,{}^{1}_{0}\\text{n}$\nWhat is the value of $A$?",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "$102$",
+      "B": "$103$",
+      "C": "$105$",
+      "D": "$106$"
+    },
+    "correctAnswer": "B"
+  }
+]

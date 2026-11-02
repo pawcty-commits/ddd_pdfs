@@ -1,0 +1,55 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 D 醫學物理學（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective D (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P2DSQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "(a) 部和 (b) 部分別使用圖 2.4 的 (a) 圖和 (b) 圖。\n求所需透鏡的焦強。",
+          "questionTextEn": "Parts (a) and (b) use diagrams (a) and (b) of Figure 2.4 respectively.\nFind the power of the lens required.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "在圖 2.4(a) 上畫兩條光線，顯示透鏡如何形成書本 O 的像，並標出像的位置 I。",
+          "questionTextEn": "On Figure 2.4(a), draw two rays to show how the lens forms the image of the book O, and mark the position of the image I.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "她戴着這副眼鏡時，能看清楚的最遠物距是多少？由此解釋為何她看遠處物體時須從眼鏡上方望出去。",
+          "questionTextEn": "While wearing these glasses, what is the farthest object distance she can see clearly? Hence explain why she must look over the top of the glasses to see distant objects.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求產生 $t=92\\ \\mu\\text{s}$ 回波的分界面的深度。",
+          "questionTextEn": "Find the depth of the boundary that produces the echo at $t=92\\ \\mu\\text{s}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求產生兩個回波的兩個分界面之間的距離。",
+          "questionTextEn": "Find the distance between the two boundaries that produce the two echoes.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "寫出一個原因，解釋為何 $t=92\\ \\mu\\text{s}$ 的回波比 $t=26\\ \\mu\\text{s}$ 的回波弱。",
+          "questionTextEn": "Give one reason why the echo at $t=92\\ \\mu\\text{s}$ is weaker than the echo at $t=26\\ \\mu\\text{s}$.",
+          "totalMarks": 1
+        }
+      ]
+    }
+  ]
+}

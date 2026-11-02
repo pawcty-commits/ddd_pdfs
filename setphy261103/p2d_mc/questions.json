@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "下圖顯示人耳的結構示意圖。哪一部分把傳到內耳的振動的壓強放大？\nThe figure shows a schematic diagram of the structure of the human ear. Which part amplifies the pressure of the vibrations passed on to the inner ear?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "內窺鏡中的光纖由纖芯及包層組成。纖芯的折射率為 $1.50$，包層的折射率為 $1.40$。以下哪些正確？\n(1) 包層可防止光由一條光纖漏進光纖束中相鄰的光纖。\n(2) 纖芯與包層分界面的臨界角約為 $69.0^{\\circ}$。\n(3) 光從光纖端面射入時的入射角越大，在纖芯與包層分界面越容易發生全內反射。\nAn optical fibre in an endoscope consists of a core and a cladding. The refractive index of the core is $1.50$ and that of the cladding is $1.40$. Which of the following is/are correct?\n(1) The cladding prevents light from leaking from one fibre into an adjacent fibre in a bundle.\n(2) The critical angle at the core–cladding boundary is about $69.0^{\\circ}$.\n(3) The larger the angle of incidence of light entering the end face of the fibre, the more easily total internal reflection occurs at the core–cladding boundary.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "以下哪些有關超聲波掃描的描述正確？（超聲波在軟組織中的速率為 $1540\\ \\text{m s}^{-1}$）\n(1) 若在發出脈衝後 $52\\ \\mu\\text{s}$ 收到回波，反射面的深度約為 $4.0\\ \\text{cm}$。\n(2) B 型掃描以回波峰的高度顯示回波強度。\n(3) 在探頭與皮膚之間塗上凝膠，是為了減少超聲波在皮膚表面的反射。\nWhich of the following statements about ultrasound scanning is/are correct? (The speed of ultrasound in soft tissue is $1540\\ \\text{m s}^{-1}$.)\n(1) If an echo is received $52\\ \\mu\\text{s}$ after the pulse is sent, the reflecting surface is about $4.0\\ \\text{cm}$ deep.\n(2) A B-scan shows the strength of an echo by the height of the echo peak.\n(3) Gel is applied between the probe and the skin to reduce the reflection of ultrasound at the skin surface.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 及 (2)\n(1) and (2) only",
+      "D": "只有 (1) 及 (3)\n(1) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "醫生為孕婦作例行檢查，監察胎兒生長時選用超聲波掃描而不用 X 射線電腦斷層掃描（CT）。以下哪些是合理的原因？\n(1) 超聲波不是電離輻射，對胎兒較安全。\n(2) 超聲波掃描可提供即時影像，觀察胎兒的活動。\n(3) 超聲波影像的分辨率比 CT 影像高。\nFor routine check-ups of a pregnant woman, a doctor uses ultrasound scanning rather than X-ray computed tomography (CT) to monitor the growth of the fetus. Which of the following is/are reasonable reasons?\n(1) Ultrasound is not an ionizing radiation, so it is safer for the fetus.\n(2) Ultrasound scanning can give real-time images showing the movement of the fetus.\n(3) Ultrasound images have a higher resolution than CT images.",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "一束超聲波由軟組織垂直射入一層頭骨，再進入腦組織（見下圖）。軟組織和腦組織的聲阻抗均為 $1.6\\times10^{6}\\ \\text{kg m}^{-2}\\ \\text{s}^{-1}$，骨的聲阻抗為 $7.8\\times10^{6}\\ \\text{kg m}^{-2}\\ \\text{s}^{-1}$。不計吸收及多次反射，進入腦組織的強度佔入射強度的比例是多少？\nA beam of ultrasound passes normally from soft tissue into a layer of skull bone and then into brain tissue (see the figure). Soft tissue and brain tissue both have an acoustic impedance of $1.6\\times10^{6}\\ \\text{kg m}^{-2}\\ \\text{s}^{-1}$, and bone has $7.8\\times10^{6}\\ \\text{kg m}^{-2}\\ \\text{s}^{-1}$. Neglecting absorption and multiple reflections, what fraction of the incident intensity enters the brain tissue?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$0.130$",
+      "B": "$0.319$",
+      "C": "$0.435$",
+      "D": "$0.565$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "一束單色 X 射線穿過 $4.0\\ \\text{mm}$ 厚的鋁片後，強度減至原來的 $60\\%$。要使強度由 $60\\%$ 再減至原來的 $15\\%$，還須加上多厚的鋁片？\nA beam of monochromatic X-rays has its intensity reduced to $60\\%$ of the original after passing through an aluminium sheet $4.0\\ \\text{mm}$ thick. What additional thickness of aluminium is needed to reduce the intensity from $60\\%$ to $15\\%$ of the original?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$5.43\\ \\text{mm}$",
+      "B": "$10.0\\ \\text{mm}$",
+      "C": "$10.9\\ \\text{mm}$",
+      "D": "$14.9\\ \\text{mm}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "鎝-99m 是常用的放射性示蹤劑，它只放出 $\\gamma$ 射線，半衰期為 $6.0$ 小時。以下哪些正確？\n(1) 注射 $24$ 小時後，示蹤劑的放射強度降至原來的 $6.25\\%$（不計排出體外的部分）。\n(2) $\\gamma$ 照相機前的鉛準直器只容許沿特定方向射來的 $\\gamma$ 射線到達探測器，使影像能顯示示蹤劑在體內的位置。\n(3) 使用只放出 $\\gamma$ 射線的示蹤劑，是因為 $\\gamma$ 射線的電離本領比 $\\alpha$ 粒子強，能產生更清晰的影像。\nTechnetium-99m is a commonly used radioactive tracer. It emits only $\\gamma$ rays and has a half-life of $6.0$ hours. Which of the following is/are correct?\n(1) $24$ hours after injection, the activity of the tracer falls to $6.25\\%$ of its initial value (ignoring any excreted from the body).\n(2) The lead collimator in front of a gamma camera lets only $\\gamma$ rays travelling in particular directions reach the detector, so the image shows where the tracer is in the body.\n(3) A tracer emitting only $\\gamma$ rays is used because $\\gamma$ rays are more strongly ionizing than $\\alpha$ particles and so give clearer images.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "一塊質量為 $0.50\\ \\text{kg}$ 的組織同時受 $\\alpha$ 粒子和 $\\gamma$ 射線照射（見下圖），分別吸收了 $2.0\\ \\text{mJ}$ 和 $4.0\\ \\text{mJ}$ 的能量。$\\alpha$ 粒子和 $\\gamma$ 射線的輻射權重因數分別為 $20$ 和 $1$。這塊組織所受的等效劑量是多少？\nA piece of tissue of mass $0.50\\ \\text{kg}$ is irradiated by both $\\alpha$ particles and $\\gamma$ rays (see the figure), absorbing $2.0\\ \\text{mJ}$ and $4.0\\ \\text{mJ}$ of energy respectively. The radiation weighting factors of $\\alpha$ particles and $\\gamma$ rays are $20$ and $1$ respectively. What is the equivalent dose received by the tissue?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$12\\ \\text{mSv}$",
+      "B": "$44\\ \\text{mSv}$",
+      "C": "$88\\ \\text{mSv}$",
+      "D": "$240\\ \\text{mSv}$"
+    },
+    "correctAnswer": "C"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 B 原子世界（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective B (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": "F1-P2BSQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "氫原子的能級可表示為 $E_n=-\\dfrac{13.6}{n^2}\\ \\text{eV}$，其中 $n=1,2,3,\\dots$。圖 2.2 顯示氫原子最低的幾個能級。\n解釋為何氫氣放電管發出的光譜是線光譜。",
+          "questionTextEn": "The energy levels of the hydrogen atom are given by $E_n=-\\dfrac{13.6}{n^2}\\ \\text{eV}$, where $n=1,2,3,\\dots$. Figure 2.2 shows the lowest few energy levels of the hydrogen atom.\nExplain why the spectrum of light from a hydrogen discharge tube is a line spectrum.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "這些原子回到基態時，最多可發出多少種不同波長的光子？",
+          "questionTextEn": "What is the greatest number of different wavelengths of photons these atoms can emit on returning to the ground state?",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "在圖 2.2 上，以箭嘴畫出發出最長波長光子的躍遷，並解釋你的選擇。",
+          "questionTextEn": "On Figure 2.2, draw an arrow for the transition that emits the photon of the longest wavelength, and explain your choice.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "求 (b)(ii) 中最長的波長，並指出這光子屬於電磁波譜的哪個區域。",
+          "questionTextEn": "Find the longest wavelength in (b)(ii), and state the region of the electromagnetic spectrum to which this photon belongs.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "其中一個處於 $n=3$ 的原子吸收一個光子後被電離，釋放的電子動能為 $0.50\\ \\text{eV}$。求該光子的波長，並判斷相同波長的光子能否使處於基態的氫原子電離。",
+          "questionTextEn": "One of the atoms in the $n=3$ level absorbs a photon and is ionized, releasing an electron with kinetic energy $0.50\\ \\text{eV}$. Find the wavelength of the photon, and determine whether photons of the same wavelength can ionize hydrogen atoms in the ground state.",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 C 能量和能源的使用（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective C (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": null,
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某運輸公司比較一輛電動巴士和一輛柴油巴士，資料如下：\n電動巴士：電池容量 $300\\ \\text{kWh}$；滿電可行駛 $250\\ \\text{km}$；電動機最大輸出功率 $200\\ \\text{kW}$；滿載質量 $14000\\ \\text{kg}$\n柴油巴士：耗油量 $35\\ \\text{L}$（每 $100\\ \\text{km}$）；柴油的能量含量 $36\\ \\text{MJ L}^{-1}$；滿載質量 $13000\\ \\text{kg}$\n寫出在市區使用電動巴士代替柴油巴士的一個環境好處。",
+          "questionTextEn": "A transport company compares an electric bus and a diesel bus. The data are as follows:\nElectric bus: battery capacity $300\\ \\text{kWh}$; range on a full charge $250\\ \\text{km}$; maximum motor output power $200\\ \\text{kW}$; fully loaded mass $14000\\ \\text{kg}$\nDiesel bus: fuel consumption $35\\ \\text{L}$ per $100\\ \\text{km}$; energy content of diesel $36\\ \\text{MJ L}^{-1}$; fully loaded mass $13000\\ \\text{kg}$\nState one environmental advantage of using electric buses instead of diesel buses in a city.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求電動巴士每行駛 $1\\ \\text{km}$ 所消耗的電池能量，以 MJ 表示。",
+          "questionTextEn": "Find the battery energy used by the electric bus per km travelled, in MJ.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求柴油巴士每行駛 $1\\ \\text{km}$ 所消耗的燃料能量。",
+          "questionTextEn": "Find the fuel energy used by the diesel bus per km travelled.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "估算這段時間內巴士所得的平均有用輸出功率。（不計阻力）",
+          "questionTextEn": "Estimate the average useful output power of the bus during this time. (Neglect resistive forces.)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "由電池至車輪的效率為 $85\\%$。假設加速期間電動機的輸出功率保持不變，求電池在這段時間的平均輸出功率，並判斷電動機能否應付。",
+          "questionTextEn": "The battery-to-wheel efficiency is $85\\%$. Assuming the output power of the motor is constant during the acceleration, find the average power delivered by the battery during this time, and determine whether the motor can cope.",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "為電池充電的電力由效率為 $40\\%$ 的發電廠產生（不計輸電及充電損耗）。有人說：「電動巴士只是把燃料消耗由路面轉到發電廠，所消耗的一次能源並沒有減少。」根據 (b) 的結果評論這個說法。",
+          "questionTextEn": "The electricity used to charge the battery is generated in a power station of efficiency $40\\%$ (neglect transmission and charging losses). Someone says, \"Electric buses only move fuel use from the road to the power station; they do not reduce the primary energy used.\" Comment on this statement using the results of (b).",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

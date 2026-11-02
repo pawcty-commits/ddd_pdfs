@@ -1,0 +1,49 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 A 天文學及航天科學（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective A (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F1-P2ASQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "天文學家發現，在距離地球 $1500\\ \\text{pc}$ 的地方，一顆明亮的恆星 S 環繞一個看不見的緻密天體 X 運行。假設 S 的軌道是以 X 為圓心的圓形，而 X 的質量遠大於 S 的質量。多年的影像顯示，從地球看，S 與 X 之間的最大角距離為 $0.0060^{\\prime\\prime}$。圖 2.1 顯示 S 的徑向速度 $v_r$ 隨時間 $t$ 的變化（$v_r$ 為正表示遠離地球）。太陽質量 $=1.99\\times10^{30}\\ \\text{kg}$。\n證明 S 的軌道半徑為 $9.0\\ \\text{AU}$。",
+          "questionTextEn": "Astronomers discover that, at a distance of $1500\\ \\text{pc}$ from the Earth, a bright star S orbits an unseen compact object X. Assume the orbit of S is a circle centred on X, and that the mass of X is much greater than that of S. Images taken over many years show that, as seen from the Earth, the greatest angular separation between S and X is $0.0060^{\\prime\\prime}$. Figure 2.1 shows the variation of the radial velocity $v_r$ of S with time $t$ (positive $v_r$ means moving away from the Earth). Mass of the Sun $=1.99\\times10^{30}\\ \\text{kg}$.\nShow that the orbital radius of S is $9.0\\ \\text{AU}$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "由圖 2.1 讀出 S 的公轉周期，並以太陽質量為單位，求 X 的質量。",
+          "questionTextEn": "From Figure 2.1, read the orbital period of S, and find the mass of X in solar masses.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "由圖 2.1 求 (1) 整個系統相對於地球的速度（須指明接近或遠離），及 (2) S 的徑向速度因公轉而變化的最大值。",
+          "questionTextEn": "From Figure 2.1, find (1) the velocity of the whole system relative to the Earth (state whether approaching or receding), and (2) the maximum change in the radial velocity of S due to its orbital motion.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "根據 (a) 的結果求 S 的公轉速率，並解釋為何它與 (b)(i)(2) 的數值不同。",
+          "questionTextEn": "From the results of (a), find the orbital speed of S, and explain why it differs from the value in (b)(i)(2).",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "中子星的質量上限約為 3 個太陽質量。根據 (a)(ii) 的結果，解釋天文學家為何認為 X 是黑洞，而不是一般恆星或中子星。",
+          "questionTextEn": "The maximum mass of a neutron star is about 3 solar masses. Using the result of (a)(ii), explain why astronomers believe that X is a black hole rather than an ordinary star or a neutron star.",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}

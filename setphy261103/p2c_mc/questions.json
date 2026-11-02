@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "一盞 $12\\ \\text{W}$ 燈的發光效能為 $90\\ \\text{lm W}^{-1}$。它發出的可見光中，每 $1\\ \\text{W}$ 光功率相當於 $500\\ \\text{lm}$ 的光通量。這盞燈把電能轉換為光能的效率是多少？\nA $12\\ \\text{W}$ lamp has a luminous efficacy of $90\\ \\text{lm W}^{-1}$. For the visible light it emits, $1\\ \\text{W}$ of light power corresponds to a luminous flux of $500\\ \\text{lm}$. What is the efficiency of the lamp in converting electrical energy into light energy?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$6.6\\%$",
+      "B": "$9.0\\%$",
+      "C": "$13.2\\%$",
+      "D": "$18.0\\%$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "以下哪些有關風力渦輪機的描述正確？\n(1) 若風速加倍，可用的風功率增加至 8 倍。\n(2) 若葉片長度加倍，可用的風功率增加至 4 倍。\n(3) 可用的風功率與空氣密度的二次方成正比。\nWhich of the following statements about wind turbines is/are correct?\n(1) If the wind speed is doubled, the available wind power becomes 8 times as large.\n(2) If the blade length is doubled, the available wind power becomes 4 times as large.\n(3) The available wind power is proportional to the square of the air density.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "在某時刻，到達地面的太陽輻射強度為 $800\\ \\text{W m}^{-2}$，陽光與一塊太陽能板的法線成 $30^{\\circ}$。太陽能板的面積為 $2.5\\ \\text{m}^{2}$，效率為 $18\\%$。太陽能板的電功率輸出是多少？\nAt a certain moment, the intensity of solar radiation reaching the ground is $800\\ \\text{W m}^{-2}$, and the sunlight makes $30^{\\circ}$ with the normal to a solar panel. The panel has an area of $2.5\\ \\text{m}^{2}$ and an efficiency of $18\\%$. What is the electrical power output of the panel?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$180\\ \\text{W}$",
+      "B": "$312\\ \\text{W}$",
+      "C": "$360\\ \\text{W}$",
+      "D": "$1730\\ \\text{W}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "一幢長方體辦公大樓長 $30\\ \\text{m}$、闊 $20\\ \\text{m}$、高 $15\\ \\text{m}$（見下圖）。四面外牆共有 $40$ 扇相同的窗，每扇 $2.5\\ \\text{m}\\times1.5\\ \\text{m}$。經實心外牆及經窗傳入大樓的熱量（包括傳導及太陽輻射）分別平均為每平方米 $15\\ \\text{W}$ 和 $120\\ \\text{W}$。這幢大樓外牆的總熱傳送值（OTTV）是多少？\nA rectangular office block is $30\\ \\text{m}$ long, $20\\ \\text{m}$ wide and $15\\ \\text{m}$ high (see the figure). Its four external walls have a total of $40$ identical windows, each $2.5\\ \\text{m}\\times1.5\\ \\text{m}$. The average heat transferred into the building (conduction and solar radiation) through the opaque walls and through the windows is $15\\ \\text{W}$ and $120\\ \\text{W}$ per square metre respectively. What is the overall thermal transfer value (OTTV) of the external walls of the building?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$15.0\\ \\text{W m}^{-2}$",
+      "B": "$18.2\\ \\text{W m}^{-2}$",
+      "C": "$25.5\\ \\text{W m}^{-2}$",
+      "D": "$27.0\\ \\text{W m}^{-2}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "以下哪些有關窗的 U 值的描述正確？\n(1) 雙層玻璃窗的 U 值比單層玻璃窗小，因為兩層玻璃之間的空氣層熱導率很低。\n(2) 窗的面積越大，它的 U 值越大。\n(3) 在相同的溫差下，每單位面積經窗傳送熱量的速率與窗的 U 值成正比。\nWhich of the following statements about the U-value of a window is/are correct?\n(1) A double-glazed window has a smaller U-value than a single-glazed window because the air layer between the panes has a very low thermal conductivity.\n(2) The larger the area of a window, the larger its U-value.\n(3) For the same temperature difference, the rate of heat transfer per unit area through a window is proportional to its U-value.",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "只有 (1) 及 (3)\n(1) and (3) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "下圖顯示一部冷氣機能源標籤上的部分資料（示意）。一個家庭每年使用這部冷氣機 $150$ 日，每日運作 $6$ 小時。假設冷氣機運作時的製冷量及性能系數與標籤所示相同，估算它每年消耗的電能。\nThe figure shows part of the information on the energy label of an air conditioner (for illustration). A family uses it for $150$ days a year, $6$ hours a day. Assuming the cooling capacity and coefficient of performance during operation are as shown on the label, estimate the electrical energy it consumes per year.",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$105\\ \\text{kWh}$",
+      "B": "$158\\ \\text{kWh}$",
+      "C": "$630\\ \\text{kWh}$",
+      "D": "$2520\\ \\text{kWh}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "下圖顯示一個水力發電站。水塘水面與渦輪機出水口的高度差 $h$ 為 $45\\ \\text{m}$。以下哪些正確？\n(1) 若水下降 $h$ 時減少的重力勢能全部轉為動能，水的速率約為 $30\\ \\text{m s}^{-1}$。\n(2) 若體積流率為 $20\\ \\text{m}^{3}\\ \\text{s}^{-1}$，總效率為 $80\\%$，輸出電功率約為 $7.1\\ \\text{MW}$。\n(3) 在 $h$ 及體積流率不變下，把水管改窄，水流得較快，所以輸出功率會增加。\nThe figure shows a hydroelectric power station. The height difference $h$ between the reservoir surface and the turbine outlet is $45\\ \\text{m}$. Which of the following is/are correct?\n(1) If all the gravitational potential energy lost by the water in falling through $h$ became kinetic energy, the speed of the water would be about $30\\ \\text{m s}^{-1}$.\n(2) If the volume flow rate is $20\\ \\text{m}^{3}\\ \\text{s}^{-1}$ and the overall efficiency is $80\\%$, the electrical output power is about $7.1\\ \\text{MW}$.\n(3) With $h$ and the volume flow rate unchanged, making the pipe narrower makes the water flow faster, so the output power increases.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "一座核電站以鈽-239 為燃料，電功率輸出為 $900\\ \\text{MW}$，整體效率為 $33\\%$。每個鈽-239 核裂變時的質量虧損為 $0.215\\ \\text{u}$，鈽-239 的摩爾質量為 $0.239\\ \\text{kg mol}^{-1}$。估算核電站每日消耗的鈽-239 質量。\nA nuclear power station uses plutonium-239 as fuel. Its electrical power output is $900\\ \\text{MW}$ and its overall efficiency is $33\\%$. The mass defect in each fission of plutonium-239 is $0.215\\ \\text{u}$, and the molar mass of plutonium-239 is $0.239\\ \\text{kg mol}^{-1}$. Estimate the mass of plutonium-239 used by the power station each day.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$0.318\\ \\text{kg}$",
+      "B": "$0.964\\ \\text{kg}$",
+      "C": "$1.46\\ \\text{kg}$",
+      "D": "$2.92\\ \\text{kg}$"
+    },
+    "correctAnswer": "D"
+  }
+]

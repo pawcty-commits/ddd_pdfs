@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "一顆人造衞星沿圓形軌道環繞地球運行。當衞星到達 P 點時，短暫向前噴射燃氣，使速率稍為減少，然後關掉引擎（見下圖）。衞星之後最可能沿下圖哪條路徑運行？\nA satellite moves in a circular orbit around the Earth. On reaching point P it briefly fires its engine forwards, slightly reducing its speed, and then shuts the engine off (see the figure). Which path in the figure is the satellite most likely to follow afterwards?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "路徑 A\nPath A",
+      "B": "路徑 B\nPath B",
+      "C": "路徑 C\nPath C",
+      "D": "路徑 D\nPath D"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "衞星 X 和 Y 環繞同一行星作圓周運動。X 的軌道半徑為 $r$，周期為 $2.0$ 日；Y 的軌道半徑為 $2.25r$。Y 的周期是多少？\nMoons X and Y move in circular orbits around the same planet. X has orbital radius $r$ and period $2.0$ days; Y has orbital radius $2.25r$. What is the period of Y?",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "$3.0$ 日\n$3.0$ days",
+      "B": "$4.5$ 日\n$4.5$ days",
+      "C": "$6.75$ 日\n$6.75$ days",
+      "D": "$10.1$ 日\n$10.1$ days"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "以下哪些有關地心說與日心說發展的描述正確？\n(1) 古代天文學家觀測不到恆星視差，這曾被用作支持地心說的論據。\n(2) 開普勒根據觀測數據指出，行星的軌道是以太陽為其中一個焦點的橢圓。\n(3) 哥白尼的日心說假設行星沿圓形軌道運行，因此預測行星位置的準確度遠高於托勒密的地心說。\nWhich of the following statements about the development of the geocentric and heliocentric models is/are correct?\n(1) Ancient astronomers could not observe stellar parallax, and this was used as an argument supporting the geocentric model.\n(2) Based on observational data, Kepler stated that planetary orbits are ellipses with the Sun at one focus.\n(3) The heliocentric model of Copernicus assumed circular planetary orbits and therefore predicted planetary positions far more accurately than the geocentric model of Ptolemy.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "下表列出兩顆恆星的視星等 $m$ 及絕對星等 $M$。\n恆星 X：$m=2.0$，$M=-3.0$\n恆星 Y：$m=4.0$，$M=1.0$\n以下哪項正確？\nThe table lists the apparent magnitude $m$ and absolute magnitude $M$ of two stars.\nStar X: $m=2.0$, $M=-3.0$\nStar Y: $m=4.0$, $M=1.0$\nWhich of the following is correct?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "X 的光度較 Y 大，而且 X 離地球較遠。\nX is more luminous than Y, and X is farther from the Earth.",
+      "B": "從地球看，X 比 Y 暗。\nX appears dimmer than Y from the Earth.",
+      "C": "X 離地球比 Y 近。\nX is closer to the Earth than Y.",
+      "D": "Y 的光度較 X 大。\nY is more luminous than X."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "恆星 P 和 Q 的視差分別為 $0.050^{\\prime\\prime}$ 和 $0.020^{\\prime\\prime}$。在地球上量得 Q 的視亮度是 P 的 $\\dfrac{1}{5}$。Q 的光度與 P 的光度之比 $\\dfrac{L_Q}{L_P}$ 是多少？\nThe parallaxes of stars P and Q are $0.050^{\\prime\\prime}$ and $0.020^{\\prime\\prime}$ respectively. The apparent brightness of Q measured on the Earth is $\\dfrac{1}{5}$ that of P. What is the ratio $\\dfrac{L_Q}{L_P}$ of the luminosity of Q to that of P?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$0.032$",
+      "B": "$0.50$",
+      "C": "$1.25$",
+      "D": "$6.25$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "星系 M（銀河系）、P 和 Q 位於同一直線上，P 和 Q 與 M 的距離分別為 $100\\ \\text{Mpc}$ 和 $300\\ \\text{Mpc}$（見下圖）。哈勃常數為 $70\\ \\text{km s}^{-1}\\ \\text{Mpc}^{-1}$。假設星系只隨宇宙膨脹而運動。以下哪些正確？\n(1) 從 P 觀測，Q 的退行速率是 $1.4\\times10^{4}\\ \\text{km s}^{-1}$。\n(2) 從 Q 觀測，M 和 P 都在退行。\n(3) 從 P 觀測，M 正在接近 P。\nGalaxies M (the Milky Way), P and Q lie on a straight line, with P and Q at distances of $100\\ \\text{Mpc}$ and $300\\ \\text{Mpc}$ from M respectively (see the figure). The Hubble constant is $70\\ \\text{km s}^{-1}\\ \\text{Mpc}^{-1}$. Assume the galaxies move only because of the expansion of the Universe. Which of the following is/are correct?\n(1) Observed from P, the recession speed of Q is $1.4\\times10^{4}\\ \\text{km s}^{-1}$.\n(2) Observed from Q, both M and P are receding.\n(3) Observed from P, M is approaching P.",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "分析一顆恆星的光譜，可以得知以下哪些資料？\n(1) 恆星外層所含的化學元素\n(2) 恆星的表面溫度\n(3) 恆星與地球的距離\nWhich of the following information about a star can be obtained by analysing its spectrum?\n(1) the chemical elements in the outer layers of the star\n(2) the surface temperature of the star\n(3) the distance of the star from the Earth",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "下圖比較實驗室光源與某遙遠星系光譜中的氫 H$\\alpha$ 吸收譜線。H$\\alpha$ 在實驗室量得的波長為 $656.3\\ \\text{nm}$，在星系光譜中量得 $662.9\\ \\text{nm}$。哈勃常數為 $70\\ \\text{km s}^{-1}\\ \\text{Mpc}^{-1}$。以下哪些正確？\n(1) 星系正以約 $3.0\\times10^{6}\\ \\text{m s}^{-1}$ 的速率遠離地球。\n(2) 星系與地球的距離約為 $43\\ \\text{Mpc}$。\n(3) 星系光譜中的 H$\\beta$ 譜線（實驗室波長 $486.1\\ \\text{nm}$）亦會向長波方向移動 $6.6\\ \\text{nm}$。\nThe figure compares the hydrogen H$\\alpha$ absorption line in the spectrum of a laboratory source with that in the spectrum of a distant galaxy. H$\\alpha$ has a laboratory wavelength of $656.3\\ \\text{nm}$ and is measured at $662.9\\ \\text{nm}$ in the galaxy's spectrum. The Hubble constant is $70\\ \\text{km s}^{-1}\\ \\text{Mpc}^{-1}$. Which of the following is/are correct?\n(1) The galaxy is moving away from the Earth at about $3.0\\times10^{6}\\ \\text{m s}^{-1}$.\n(2) The distance of the galaxy from the Earth is about $43\\ \\text{Mpc}$.\n(3) The H$\\beta$ line (laboratory wavelength $486.1\\ \\text{nm}$) in the galaxy's spectrum is also shifted towards longer wavelength by $6.6\\ \\text{nm}$.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (3)\n(3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  }
+]
