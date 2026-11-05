@@ -1,0 +1,506 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "PART I",
+    "category": "微觀世界 I/Microscopic World I",
+    "questionText": "下列哪對元素（以原子序表示）屬於周期表的同一族？\nWhich of the following pairs of elements, represented by their atomic numbers, belong to the same group of the Periodic Table?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "2 和 12\n2 and 12",
+      "B": "7 和 17\n7 and 17",
+      "C": "13 和 21\n13 and 21",
+      "D": "15 和 33\n15 and 33"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 2,
+    "section": "PART I",
+    "category": "微觀世界 I/Microscopic World I",
+    "questionText": "如下圖所示，一片含硝酸鉀的凝膠放在載玻片上，兩端插有碳電極 X 和 Y，並連接到直流電源。在凝膠中央相隔少許的位置，分別滴上一滴硫酸鎳(II)溶液（靠近 Y）和一滴鉻酸鉀溶液（靠近 X），然後接通電源一段時間。其後，以含蔗糖（不含硝酸鉀）的凝膠重複實驗。下列哪項正確描述預期的觀察？\nAs shown in the diagram below, a piece of gel containing potassium nitrate is placed on a glass slide. Carbon electrodes X and Y are inserted at its two ends and connected to a d.c. power supply. Near the centre of the gel, a little apart, a drop of nickel(II) sulphate solution (nearer Y) and a drop of potassium chromate solution (nearer X) are placed separately, and the power supply is switched on for some time. The experiment is then repeated using a gel containing sucrose instead of potassium nitrate. Which of the following correctly describes the expected observations?",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "綠色斑移向 Y，黃色斑移向 X；改用蔗糖凝膠後，兩斑基本上不移動。\nThe green patch moves towards Y and the yellow patch moves towards X; with the sucrose gel, both patches remain essentially unmoved.",
+      "B": "綠色斑移向 X，黃色斑移向 Y；改用蔗糖凝膠後，兩斑基本上不移動。\nThe green patch moves towards X and the yellow patch moves towards Y; with the sucrose gel, both patches remain essentially unmoved.",
+      "C": "綠色斑移向 Y，黃色斑移向 X；改用蔗糖凝膠後，兩斑同樣移動。\nThe green patch moves towards Y and the yellow patch moves towards X; with the sucrose gel, both patches move in the same way.",
+      "D": "綠色斑移向 X，黃色斑移向 Y；改用蔗糖凝膠後，兩斑同樣移動。\nThe green patch moves towards X and the yellow patch moves towards Y; with the sucrose gel, both patches move in the same way."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 3,
+    "section": "PART I",
+    "category": "氧化還原反應、化學電池和電解/Redox Reactions, Chemical Cells and Electrolysis",
+    "questionText": "下列哪個日常過程不涉及氧化還原反應？\nWhich of the following daily-life processes does NOT involve a redox reaction?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "用漂白水除去衣物上的污漬\nRemoving stains on clothes with bleach",
+      "B": "在切開的蘋果上塗丙種維生素，以減慢蘋果變褐\nApplying vitamin C on a cut apple to slow down browning",
+      "C": "服用含氫氧化鎂的胃藥，以舒緩胃酸過多\nTaking an antacid containing magnesium hydroxide to relieve excess stomach acid",
+      "D": "銀器在含硫化氫的空氣中變黑\nSilverware turning black in air containing hydrogen sulphide"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 4,
+    "section": "PART I",
+    "category": "酸和鹽基/Acids and Bases",
+    "questionText": "某固體酸 $\\mathrm{H_{n}Z}$ 的相對分子質量為 192.0。把 1.60 g 該酸溶於水，並調校成 $250.0\\ \\text{cm}^3$ 溶液。完全中和 $25.00\\ \\text{cm}^3$ 此溶液需要 $20.83\\ \\text{cm}^3$ $0.120\\ \\text{M}$ 氫氧化鈉溶液。n 的值是多少？\nA solid acid $\\mathrm{H_{n}Z}$ has a relative molecular mass of 192.0. 1.60 g of the acid is dissolved in water and made up to $250.0\\ \\text{cm}^3$ of solution. $20.83\\ \\text{cm}^3$ of $0.120\\ \\text{M}$ sodium hydroxide solution is required to completely neutralise $25.00\\ \\text{cm}^3$ of this solution. What is the value of n?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$1$",
+      "B": "$2$",
+      "C": "$3$",
+      "D": "$4$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 5,
+    "section": "PART I",
+    "category": "酸和鹽基/Acids and Bases",
+    "questionText": "把 $20.0\\ \\text{cm}^3$ $0.30\\ \\text{M}$ 硝酸鋅溶液與 $30.0\\ \\text{cm}^3$ $0.20\\ \\text{M}$ 氫氧化鈉溶液混合。假設氫氧化鋅完全不溶於水，且混合後的總體積為 $50.0\\ \\text{cm}^3$。所得溶液中 $\\mathrm{Zn^{2+}(aq)}$ 的濃度是多少？\n$20.0\\ \\text{cm}^3$ of $0.30\\ \\text{M}$ zinc nitrate solution is mixed with $30.0\\ \\text{cm}^3$ of $0.20\\ \\text{M}$ sodium hydroxide solution. Assume that zinc hydroxide is completely insoluble in water and that the total volume after mixing is $50.0\\ \\text{cm}^3$. What is the concentration of $\\mathrm{Zn^{2+}(aq)}$ in the resulting solution?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$0.060\\ \\text{M}$",
+      "B": "$0.12\\ \\text{M}$",
+      "C": "$0.15\\ \\text{M}$",
+      "D": "$0.30\\ \\text{M}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "PART I",
+    "category": "金屬/Metals",
+    "questionText": "強熱 5.10 g 硝酸銀至質量不再改變，留下 3.24 g 固體殘餘物。下列哪條化學方程式可表示這反應？（相對原子質量：N = 14.0，O = 16.0，Ag = 108.0）\n5.10 g of silver nitrate is strongly heated until there is no further change in mass. 3.24 g of solid residue remains. Which of the following equations can represent the reaction? (Relative atomic masses: N = 14.0, O = 16.0, Ag = 108.0)",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$\\mathrm{AgNO_3(s) \\rightarrow AgO(s) + NO_2(g)}$",
+      "B": "$\\mathrm{4AgNO_3(s) \\rightarrow 2Ag_2O(s) + 4NO_2(g) + O_2(g)}$",
+      "C": "$\\mathrm{2AgNO_3(s) \\rightarrow 2AgNO_2(s) + O_2(g)}$",
+      "D": "$\\mathrm{2AgNO_3(s) \\rightarrow 2Ag(s) + 2NO_2(g) + O_2(g)}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 7,
+    "section": "PART I",
+    "category": "化石燃料和碳化合物/Fossil Fuels and Carbon Compounds",
+    "questionText": "下圖所示的裝置用來裂解柴油。下列哪項有關這實驗的陳述不正確？\nThe set-up shown below is used to crack diesel. Which of the following statements concerning this experiment is INCORRECT?",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "氧化鋁粒作為催化劑，令裂解可在較低溫度下進行。\nThe aluminium oxide pellets act as a catalyst so that cracking can occur at a lower temperature.",
+      "B": "收集到的第一試管氣體應棄掉，因為它主要含有裝置內原有的空氣。\nThe first test tube of gas collected should be discarded as it mainly contains the air originally present in the set-up.",
+      "C": "收集到的氣體能令酸化高錳酸鉀溶液由紫色變為無色。\nThe gas collected can change acidified potassium permanganate solution from purple to colourless.",
+      "D": "實驗結束時，應先移走本生燈，然後才把導管移離水中。\nAt the end of the experiment, the Bunsen burners should be removed before taking the delivery tube out of the water."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 8,
+    "section": "PART I",
+    "category": "金屬/Metals",
+    "questionText": "把 6.85 g 鉛的氧化物在氫氣流中加熱至質量不再改變，得 6.21 g 鉛。這氧化物的實驗式是什麼？（相對原子質量：O = 16.0，Pb = 207.0）\n6.85 g of an oxide of lead is heated in a stream of hydrogen until there is no further change in mass. 6.21 g of lead is obtained. What is the empirical formula of this oxide? (Relative atomic masses: O = 16.0, Pb = 207.0)",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$\\mathrm{PbO}$",
+      "B": "$\\mathrm{Pb_3O_4}$",
+      "C": "$\\mathrm{Pb_2O_3}$",
+      "D": "$\\mathrm{PbO_2}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "section": "PART I",
+    "category": "化學反應和能量/Chemical Reactions and Energy",
+    "questionText": "已知以下的焓變：\n$\\mathrm{2CH_3COCH_3(l) + 8O_2(g) \\rightarrow 6CO_2(g) + 6H_2O(l)}$　　$\\Delta H = -3\\,580\\ \\text{kJ mol}^{-1}$\n$\\mathrm{C(s) + O_2(g) \\rightarrow CO_2(g)}$　　$\\Delta H = -393.5\\ \\text{kJ mol}^{-1}$\n$\\mathrm{2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)}$　　$\\Delta H = -571.6\\ \\text{kJ mol}^{-1}$\n丙酮 $\\mathrm{CH_3COCH_3(l)}$ 的標準生成焓變是多少？\nThe following enthalpy changes are given:\n$\\mathrm{2CH_3COCH_3(l) + 8O_2(g) \\rightarrow 6CO_2(g) + 6H_2O(l)}$　　$\\Delta H = -3\\,580\\ \\text{kJ mol}^{-1}$\n$\\mathrm{C(s) + O_2(g) \\rightarrow CO_2(g)}$　　$\\Delta H = -393.5\\ \\text{kJ mol}^{-1}$\n$\\mathrm{2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)}$　　$\\Delta H = -571.6\\ \\text{kJ mol}^{-1}$\nWhat is the standard enthalpy change of formation of propanone, $\\mathrm{CH_3COCH_3(l)}$?",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "$-1\\,105.3\\ \\text{kJ mol}^{-1}$",
+      "B": "$-247.9\\ \\text{kJ mol}^{-1}$",
+      "C": "$+247.9\\ \\text{kJ mol}^{-1}$",
+      "D": "$+1\\,542.1\\ \\text{kJ mol}^{-1}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 10,
+    "section": "PART I",
+    "category": "化石燃料和碳化合物/Fossil Fuels and Carbon Compounds",
+    "questionText": "下圖顯示某加成聚合物的部分鏈結構。這聚合物的單體是什麼？\nThe diagram below shows part of the chain of an addition polymer. What is the monomer of this polymer?",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "$\\mathrm{CF_2{=}CHCl}$",
+      "B": "$\\mathrm{CHF{=}CFCl}$",
+      "C": "$\\mathrm{CHCl{=}CHCl}$",
+      "D": "$\\mathrm{CF_2{=}CCl_2}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 11,
+    "section": "PART I",
+    "category": "氧化還原反應、化學電池和電解/Redox Reactions, Chemical Cells and Electrolysis",
+    "questionText": "下圖所示的電解裝置中，電極 X 是銀，電極 Y 是碳，電解質是硝酸鉀溶液。通電初期，兩電極上的主要反應是什麼？\nIn the electrolysis set-up shown below, electrode X is silver, electrode Y is carbon and the electrolyte is potassium nitrate solution. What are the main reactions at the two electrodes at the beginning of the electrolysis?",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "X：$\\mathrm{4OH^-(aq) \\rightarrow O_2(g) + 2H_2O(l) + 4e^-}$；Y：$\\mathrm{2H^+(aq) + 2e^- \\rightarrow H_2(g)}$\nX: $\\mathrm{4OH^-(aq) \\rightarrow O_2(g) + 2H_2O(l) + 4e^-}$; Y: $\\mathrm{2H^+(aq) + 2e^- \\rightarrow H_2(g)}$",
+      "B": "X：$\\mathrm{4OH^-(aq) \\rightarrow O_2(g) + 2H_2O(l) + 4e^-}$；Y：$\\mathrm{Ag^+(aq) + e^- \\rightarrow Ag(s)}$\nX: $\\mathrm{4OH^-(aq) \\rightarrow O_2(g) + 2H_2O(l) + 4e^-}$; Y: $\\mathrm{Ag^+(aq) + e^- \\rightarrow Ag(s)}$",
+      "C": "X：$\\mathrm{Ag(s) \\rightarrow Ag^+(aq) + e^-}$；Y：$\\mathrm{K^+(aq) + e^- \\rightarrow K(s)}$\nX: $\\mathrm{Ag(s) \\rightarrow Ag^+(aq) + e^-}$; Y: $\\mathrm{K^+(aq) + e^- \\rightarrow K(s)}$",
+      "D": "X：$\\mathrm{Ag(s) \\rightarrow Ag^+(aq) + e^-}$；Y：$\\mathrm{2H^+(aq) + 2e^- \\rightarrow H_2(g)}$\nX: $\\mathrm{Ag(s) \\rightarrow Ag^+(aq) + e^-}$; Y: $\\mathrm{2H^+(aq) + 2e^- \\rightarrow H_2(g)}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 12,
+    "section": "PART I",
+    "category": "氧化還原反應、化學電池和電解/Redox Reactions, Chemical Cells and Electrolysis",
+    "questionText": "下圖所示為以氫氧化鈉溶液作電解質的氫-氧燃料電池。下列哪項有關這電池運作的陳述正確？\nThe diagram below shows a hydrogen-oxygen fuel cell using sodium hydroxide solution as the electrolyte. Which of the following statements concerning the operation of this cell is correct?",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "電極 Y 上的半反應式為 $\\mathrm{O_2(g) + 4H^+(aq) + 4e^- \\rightarrow 2H_2O(l)}$。\nThe half equation at electrode Y is $\\mathrm{O_2(g) + 4H^+(aq) + 4e^- \\rightarrow 2H_2O(l)}$.",
+      "B": "氫氧化鈉溶液的濃度逐漸上升。\nThe concentration of the sodium hydroxide solution gradually increases.",
+      "C": "電解質中的 $\\mathrm{OH^-(aq)}$ 離子向電極 X 遷移。\n$\\mathrm{OH^-(aq)}$ ions in the electrolyte migrate towards electrode X.",
+      "D": "由於生成的水可被電解，這電池屬於二次電池。\nThe cell is a secondary cell because the water formed can be electrolysed."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 13,
+    "section": "PART I",
+    "category": "微觀世界 II/Microscopic World II",
+    "questionText": "下圖顯示五種分子形狀 I 至 V（灰色球代表中心原子）。下列哪個有關分子形狀和極性的組合正確？\nThe diagram below shows five molecular shapes I to V (the grey ball represents the central atom). Which of the following combinations concerning molecular shape and polarity is correct?",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "$\\mathrm{CH_2Cl_2}$：形狀 V；具極性\n$\\mathrm{CH_2Cl_2}$: shape V; polar",
+      "B": "$\\mathrm{BCl_3}$：形狀 III；具極性\n$\\mathrm{BCl_3}$: shape III; polar",
+      "C": "$\\mathrm{PH_3}$：形狀 III；非極性\n$\\mathrm{PH_3}$: shape III; non-polar",
+      "D": "$\\mathrm{SCl_2}$：形狀 I；非極性\n$\\mathrm{SCl_2}$: shape I; non-polar"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 14,
+    "section": "PART I",
+    "category": "氧化還原反應、化學電池和電解/Redox Reactions, Chemical Cells and Electrolysis",
+    "questionText": "考慮以下反應：\n$\\mathrm{2KMnO_4(s) \\rightarrow K_2MnO_4(s) + MnO_2(s) + O_2(g)}$\n下列有關這反應的陳述，何者正確？\n(1) 錳的氧化數由 +7 分別變為 +6 和 +4。\n(2) $\\mathrm{KMnO_4}$ 同時作為氧化劑和還原劑。\n(3) 每生成 1 mol $\\mathrm{O_2(g)}$，有 2 mol 電子轉移。\nConsider the following reaction:\n$\\mathrm{2KMnO_4(s) \\rightarrow K_2MnO_4(s) + MnO_2(s) + O_2(g)}$\nWhich of the following statements concerning this reaction is / are correct?\n(1) The oxidation number of manganese changes from +7 to +6 and +4 respectively.\n(2) $\\mathrm{KMnO_4}$ acts as both an oxidising agent and a reducing agent.\n(3) 2 mol of electrons are transferred for every 1 mol of $\\mathrm{O_2(g)}$ formed.",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 15,
+    "section": "PART I",
+    "category": "金屬/Metals",
+    "questionText": "一艘鋼製貨船的船身長期浸於海水中。下列哪些措施可減慢船身銹蝕？\n(1) 在船身鑲上鎂塊\n(2) 在船身鑲上鎳片\n(3) 改用含鉻的不銹鋼建造船身\nThe steel hull of a cargo ship is immersed in sea water for a long time. Which of the following measures can slow down the rusting of the hull?\n(1) attaching magnesium blocks to the hull\n(2) attaching nickel plates to the hull\n(3) building the hull with stainless steel containing chromium",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 16,
+    "section": "PART I",
+    "category": "酸和鹽基/Acids and Bases",
+    "questionText": "下列哪些測試可用來辨別 $1\\ \\text{M}$ 硫酸和 $1\\ \\text{M}$ 氫氯酸？\n(1) 分別加入硝酸鉛(II)溶液\n(2) 分別加入氯化鋇溶液\n(3) 分別加入過量的石灰石碎塊\nWhich of the following tests can be used to distinguish between $1\\ \\text{M}$ sulphuric acid and $1\\ \\text{M}$ hydrochloric acid?\n(1) adding lead(II) nitrate solution to each acid\n(2) adding barium chloride solution to each acid\n(3) adding excess limestone chips to each acid",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "section": "PART I",
+    "category": "金屬/Metals",
+    "questionText": "考慮金屬 R、S 和 T 的氧化物的以下資料：\nR 的氧化物：與碳一同強熱，得金屬 R\nS 的氧化物：與碳一同強熱，沒有反應\nT 的氧化物：單獨加熱，分解為金屬 T\n下列有關 R、S 和 T 的陳述，何者正確？\n(1) S 的活性較 R 高。\n(2) 把 R 放入 T 的鹽溶液中，R 可置換出 T。\n(3) T 的氧化物受熱分解，顯示 T 的活性較 R 高。\nConsider the following information about the oxides of metals R, S and T:\nOxide of R: gives metal R when strongly heated with carbon\nOxide of S: no reaction when strongly heated with carbon\nOxide of T: decomposes to metal T on heating alone\nWhich of the following statements concerning R, S and T is / are correct?\n(1) S is more reactive than R.\n(2) R can displace T when R is placed in a solution of a salt of T.\n(3) The decomposition of the oxide of T on heating shows that T is more reactive than R.",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 18,
+    "section": "PART I",
+    "category": "化石燃料和碳化合物/Fossil Fuels and Carbon Compounds",
+    "questionText": "下圖顯示化合物 X 和 Y 的結構。下列有關 X 和 Y 的陳述，何者正確？\n(1) 由於 X 和 Y 的通式相同，它們屬於同一同系列。\n(2) X 和 Y 是異構體。\n(3) Y 有順-反異構體。\nThe diagram below shows the structures of compounds X and Y. Which of the following statements concerning X and Y is / are correct?\n(1) As X and Y have the same general formula, they belong to the same homologous series.\n(2) X and Y are isomers.\n(3) Y has cis-trans isomers.",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 19,
+    "section": "PART I",
+    "category": "氧化還原反應、化學電池和電解/Redox Reactions, Chemical Cells and Electrolysis",
+    "questionText": "在下列哪個反應中，有底線的物質作還原劑？\n(1) $\\mathrm{Cu^{2+}(aq) + 4\\underline{NH_3}(aq) \\rightarrow [Cu(NH_3)_4]^{2+}(aq)}$\n(2) $\\mathrm{\\underline{H_2O_2}(aq) + 2Fe^{2+}(aq) + 2H^+(aq) \\rightarrow 2Fe^{3+}(aq) + 2H_2O(l)}$\n(3) $\\mathrm{\\underline{H_2O_2}(aq) + Cl_2(aq) \\rightarrow 2H^+(aq) + 2Cl^-(aq) + O_2(g)}$\nIn which of the following reactions does the underlined substance act as a reducing agent?\n(1) $\\mathrm{Cu^{2+}(aq) + 4\\underline{NH_3}(aq) \\rightarrow [Cu(NH_3)_4]^{2+}(aq)}$\n(2) $\\mathrm{\\underline{H_2O_2}(aq) + 2Fe^{2+}(aq) + 2H^+(aq) \\rightarrow 2Fe^{3+}(aq) + 2H_2O(l)}$\n(3) $\\mathrm{\\underline{H_2O_2}(aq) + Cl_2(aq) \\rightarrow 2H^+(aq) + 2Cl^-(aq) + O_2(g)}$",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 和 (2)\n(1) and (2) only",
+      "D": "只有 (2) 和 (3)\n(2) and (3) only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 20,
+    "section": "PART I",
+    "category": "酸和鹽基/Acids and Bases",
+    "questionText": "下列何者是氫氧化鈣溶液的用途？\n(1) 處理酸性的工業廢水\n(2) 一同加熱，以辨別 $\\mathrm{NH_4Cl(s)}$ 和 $\\mathrm{NaCl(s)}$\n(3) 乾燥氨氣\nWhich of the following is / are use(s) of calcium hydroxide solution?\n(1) treating acidic industrial waste water\n(2) distinguishing between $\\mathrm{NH_4Cl(s)}$ and $\\mathrm{NaCl(s)}$ by heating with it\n(3) drying ammonia gas",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 21,
+    "section": "PART I",
+    "category": "酸和鹽基/Acids and Bases",
+    "questionText": "下圖顯示某學生用移液管量取 $25.00\\ \\text{cm}^3$ 樣本溶液，用作返滴定（圓圈為調校液面時的放大圖）。下列有關使用移液管的陳述，何者正確？\n(1) 移液管用蒸餾水沖洗後，便可立即量取樣本溶液。\n(2) 視線與刻度線同高時，液面的最低點應與刻度線相切。\n(3) 放液後，要把移液管尖端剩餘的一滴吹出。\nThe diagram below shows a student using a pipette to measure $25.00\\ \\text{cm}^3$ of a sample solution for a back titration (the circle is an enlarged view of the liquid surface during adjustment). Which of the following statements concerning the use of a pipette is / are correct?\n(1) The pipette can be used to measure the sample solution immediately after rinsing with distilled water.\n(2) With the eye level with the graduation mark, the bottom of the meniscus should touch the mark.\n(3) After delivery, the last drop remaining in the tip of the pipette should be blown out.",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 和 (2)\n(1) and (2) only",
+      "D": "只有 (2) 和 (3)\n(2) and (3) only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 22,
+    "section": "PART I",
+    "category": "化學反應和能量/Chemical Reactions and Energy",
+    "questionText": "下列何者是放熱的？\n(1) 石灰石的熱分解\n(2) 水蒸氣凝結成水\n(3) 硝酸銨溶於水\nWhich of the following is / are exothermic?\n(1) thermal decomposition of limestone\n(2) condensation of steam to water\n(3) dissolving ammonium nitrate in water",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (3)\n(3) only",
+      "D": "只有 (2) 和 (3)\n(2) and (3) only"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 23,
+    "section": "PART I",
+    "category": "化石燃料和碳化合物/Fossil Fuels and Carbon Compounds",
+    "questionText": "下列有關乙醇的陳述，何者正確？\n(1) 1 mol 葡萄糖完全發酵，最多可得 2 mol 乙醇。\n(2) 乙醇含有 –OH，故其水溶液呈鹼性。\n(3) 把乙醇與酸化重鉻酸鉀溶液一同加熱，溶液由橙色變為綠色。\nWhich of the following statements concerning ethanol is / are correct?\n(1) Complete fermentation of 1 mol of glucose gives at most 2 mol of ethanol.\n(2) Ethanol contains –OH, so its aqueous solution is alkaline.\n(3) When ethanol is heated with acidified potassium dichromate solution, the solution changes from orange to green.",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 24,
+    "section": "PART I",
+    "category": "微觀世界 I/Microscopic World I",
+    "questionText": "考慮下列各陳述句並選出最佳的答案：\n第一陳述句：熔融的鋁能導電。\n第二陳述句：熔融的鋁含有離域電子。\nConsider the following statements and choose the best answer:\n1st statement: Molten aluminium conducts electricity.\n2nd statement: Molten aluminium contains delocalised electrons.",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "兩陳述句均正確，而第二陳述句為第一陳述句的合理解釋。\nBoth statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+      "B": "兩陳述句均正確，但第二陳述句並非第一陳述句的合理解釋。\nBoth statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+      "C": "第一陳述句錯誤，但第二陳述句正確。\nThe 1st statement is false but the 2nd statement is true.",
+      "D": "兩陳述句均錯誤。\nBoth statements are false."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 25,
+    "section": "PART II",
+    "category": "化學平衡/Chemical Equilibrium",
+    "questionText": "在一帶活塞的密閉容器中，以下體系於恆溫下達致平衡：\n$\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$\n此時 $\\mathrm{NH_3(g)}$ 的濃度為 $c$。在時間 $t$，把活塞迅速推入，令容器體積減半，溫度保持不變，體系其後再次達致平衡。下列哪幅坐標圖正確顯示 $\\mathrm{NH_3(g)}$ 的濃度隨時間的變化？\nThe following system attains equilibrium at constant temperature in a closed container fitted with a piston:\n$\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$\nThe concentration of $\\mathrm{NH_3(g)}$ is then $c$. At time $t$, the piston is quickly pushed in so that the volume of the container is halved, while the temperature is kept constant. The system then attains equilibrium again. Which of the following graphs correctly shows the variation in the concentration of $\\mathrm{NH_3(g)}$ with time?",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 26,
+    "section": "PART II",
+    "category": "化學平衡/Chemical Equilibrium",
+    "questionText": "在某溫度下，反應 $\\mathrm{H_2(g) + Br_2(g) \\rightleftharpoons 2HBr(g)}$ 的平衡常數 $K_c$ 為 64.0。在相同溫度下，反應 $\\mathrm{HBr(g) \\rightleftharpoons \\frac{1}{2}H_2(g) + \\frac{1}{2}Br_2(g)}$ 的平衡常數 $K_c$ 是多少？\nAt a certain temperature, the equilibrium constant $K_c$ of the reaction $\\mathrm{H_2(g) + Br_2(g) \\rightleftharpoons 2HBr(g)}$ is 64.0. What is the equilibrium constant $K_c$ of the reaction $\\mathrm{HBr(g) \\rightleftharpoons \\frac{1}{2}H_2(g) + \\frac{1}{2}Br_2(g)}$ at the same temperature?",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "$0.0156$",
+      "B": "$0.125$",
+      "C": "$8.00$",
+      "D": "$64.0$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 27,
+    "section": "PART II",
+    "category": "化學平衡/Chemical Equilibrium",
+    "questionText": "把 0.60 mol $\\mathrm{PCl_5(g)}$ 放入體積為 $2.0\\ \\text{dm}^3$ 的密閉容器中，在某溫度下發生以下反應：\n$\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}$\n達致平衡時，容器內有 0.20 mol $\\mathrm{Cl_2(g)}$。這反應在該溫度下的 $K_c$ 是多少？\n0.60 mol of $\\mathrm{PCl_5(g)}$ is placed in a closed container of volume $2.0\\ \\text{dm}^3$. At a certain temperature, the following reaction occurs:\n$\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}$\nAt equilibrium, the container has 0.20 mol of $\\mathrm{Cl_2(g)}$. What is $K_c$ of the reaction at this temperature?",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "$0.033\\ \\text{mol dm}^{-3}$",
+      "B": "$0.050\\ \\text{mol dm}^{-3}$",
+      "C": "$0.067\\ \\text{mol dm}^{-3}$",
+      "D": "$0.10\\ \\text{mol dm}^{-3}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 28,
+    "section": "PART II",
+    "category": "氣體摩爾體積/Molar Volume of Gases",
+    "questionText": "在室內條件下，$600\\ \\text{cm}^3$ 氣體混合物由氫氣和二氧化碳組成，其中二氧化碳按體積計佔 40%。把混合物通入 $0.20\\ \\text{M}$ 氫氧化鈉溶液，使所有二氧化碳恰好轉化為碳酸鈉，氫氣則不起反應。所需氫氧化鈉溶液的體積是多少？（在室內條件下，氣體的摩爾體積 = $24.0\\ \\text{dm}^3$）\nAt room conditions, a $600\\ \\text{cm}^3$ gaseous mixture consists of hydrogen and carbon dioxide, with 40% carbon dioxide by volume. The mixture is passed into $0.20\\ \\text{M}$ sodium hydroxide solution so that all the carbon dioxide is just converted to sodium carbonate, while hydrogen does not react. What is the volume of sodium hydroxide solution required? (Molar volume of gas at room conditions = $24.0\\ \\text{dm}^3$)",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "$25\\ \\text{cm}^3$",
+      "B": "$50\\ \\text{cm}^3$",
+      "C": "$100\\ \\text{cm}^3$",
+      "D": "$125\\ \\text{cm}^3$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 29,
+    "section": "PART II",
+    "category": "碳化合物的化學/Chemistry of Carbon Compounds",
+    "questionText": "下圖顯示一化合物（反應物）與四個結構 I 至 IV。這化合物與過量溴化氫反應時，主要的有機生成物是什麼？\nThe diagram below shows a compound (the reactant) and four structures I to IV. What is the major organic product when this compound reacts with excess hydrogen bromide?",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 30,
+    "section": "PART II",
+    "category": "碳化合物的化學/Chemistry of Carbon Compounds",
+    "questionText": "下圖顯示化合物 P、Q 和 R。下列哪個組合正確列出單獨時能發生加成聚合的化合物，以及單獨時能發生縮合聚合的化合物？\nThe diagram below shows compounds P, Q and R. Which of the following combinations correctly gives a compound that can undergo addition polymerisation on its own, and a compound that can undergo condensation polymerisation on its own?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "加成聚合：Q；縮合聚合：P\naddition polymerisation: Q; condensation polymerisation: P",
+      "B": "加成聚合：P；縮合聚合：R\naddition polymerisation: P; condensation polymerisation: R",
+      "C": "加成聚合：P；縮合聚合：Q\naddition polymerisation: P; condensation polymerisation: Q",
+      "D": "加成聚合：R；縮合聚合：Q\naddition polymerisation: R; condensation polymerisation: Q"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 31,
+    "section": "PART II",
+    "category": "碳化合物的化學/Chemistry of Carbon Compounds",
+    "questionText": "下圖顯示四個結構 I 至 IV。下列哪個有關結構及其系統名稱的組合正確？\nThe diagram below shows four structures I to IV. Which of the following combinations of structure and systematic name is correct?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "I：乙酸丙酯\nI: propyl ethanoate",
+      "B": "II：1-氯-2-甲基丙烷\nII: 1-chloro-2-methylpropane",
+      "C": "III：丁-1-烯-3-醇\nIII: but-1-en-3-ol",
+      "D": "IV：2-甲基戊-3-酮\nIV: 2-methylpentan-3-one"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 32,
+    "section": "PART II",
+    "category": "碳化合物的化學/Chemistry of Carbon Compounds",
+    "questionText": "下圖顯示一個兩步轉化。下列哪個組合舉出的試劑和條件適用於步驟 1 和步驟 2？\nThe diagram below shows a two-step conversion. Which of the following combinations gives suitable reagents and conditions for Step 1 and Step 2?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "步驟 1：酸化 $\\mathrm{K_2Cr_2O_7(aq)}$，加熱；步驟 2：濃 $\\mathrm{H_2SO_4}$，加熱\nStep 1: acidified $\\mathrm{K_2Cr_2O_7(aq)}$, heat; Step 2: conc. $\\mathrm{H_2SO_4}$, heat",
+      "B": "步驟 1：$\\mathrm{NaBH_4}$；步驟 2：濃 $\\mathrm{H_2SO_4}$，加熱\nStep 1: $\\mathrm{NaBH_4}$; Step 2: conc. $\\mathrm{H_2SO_4}$, heat",
+      "C": "步驟 1：$\\mathrm{LiAlH_4}$（在乾燥的醚中），然後酸化；步驟 2：$\\mathrm{NaOH(aq)}$，加熱\nStep 1: $\\mathrm{LiAlH_4}$ in dry ether, then acidify; Step 2: $\\mathrm{NaOH(aq)}$, heat",
+      "D": "步驟 1：$\\mathrm{LiAlH_4}$（在乾燥的醚中），然後酸化；步驟 2：濃 $\\mathrm{H_2SO_4}$，加熱\nStep 1: $\\mathrm{LiAlH_4}$ in dry ether, then acidify; Step 2: conc. $\\mathrm{H_2SO_4}$, heat"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 33,
+    "section": "PART II",
+    "category": "化學世界中的規律/Patterns in the Chemical World",
+    "questionText": "下列哪項不能顯示錳具有過渡金屬的特性？\nWhich of the following does NOT illustrate a characteristic of manganese as a transition metal?",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "錳形成 $\\mathrm{MnCl_2}$ 和 $\\mathrm{KMnO_4}$ 等化合物\nManganese forms compounds such as $\\mathrm{MnCl_2}$ and $\\mathrm{KMnO_4}$",
+      "B": "$\\mathrm{MnO_2}$ 可加快過氧化氫的分解\n$\\mathrm{MnO_2}$ can speed up the decomposition of hydrogen peroxide",
+      "C": "$\\mathrm{MnO_4^-(aq)}$ 呈紫色\n$\\mathrm{MnO_4^-(aq)}$ is purple",
+      "D": "錳與稀氫氯酸反應，釋出氫氣\nManganese reacts with dilute hydrochloric acid to give hydrogen"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 34,
+    "section": "PART II",
+    "category": "反應速率/Rate of Reaction",
+    "questionText": "進行以下兩個實驗，以探究次氯酸鈉溶液在氧化鈷粉末催化下的分解：\n$\\mathrm{2NaOCl(aq) \\rightarrow 2NaCl(aq) + O_2(g)}$\n實驗 I：25 °C，$100\\ \\text{cm}^3$ $0.40\\ \\text{M}$ NaOCl(aq)，加入 0.50 g 氧化鈷\n實驗 II：35 °C，$50\\ \\text{cm}^3$ $0.40\\ \\text{M}$ NaOCl(aq)，加入 0.50 g 氧化鈷\n氣體體積都在室內條件下量度。下列有關這兩個實驗的陳述，何者正確？\n(1) 與實驗 I 相比，實驗 II 的初速較高。\n(2) 實驗 II 最終釋出的氧氣體積是實驗 I 的一半。\n(3) 反應完結後，兩個實驗中氧化鈷的質量都減少了。\nThe following two experiments are carried out to investigate the decomposition of sodium hypochlorite solution catalysed by cobalt oxide powder:\n$\\mathrm{2NaOCl(aq) \\rightarrow 2NaCl(aq) + O_2(g)}$\nExperiment I: 25 °C, $100\\ \\text{cm}^3$ of $0.40\\ \\text{M}$ NaOCl(aq) with 0.50 g of cobalt oxide\nExperiment II: 35 °C, $50\\ \\text{cm}^3$ of $0.40\\ \\text{M}$ NaOCl(aq) with 0.50 g of cobalt oxide\nGas volumes are all measured at room conditions. Which of the following statements concerning these two experiments is / are correct?\n(1) In comparison with Experiment I, the initial rate in Experiment II is higher.\n(2) The final volume of oxygen evolved in Experiment II is half of that in Experiment I.\n(3) After the reaction, the mass of cobalt oxide has decreased in both experiments.",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 35,
+    "section": "PART II",
+    "category": "反應速率/Rate of Reaction",
+    "questionText": "在 25 °C 下，於開口燒杯中進行以下反應：\n$\\mathrm{H_2O_2(aq) + 2I^-(aq) + 2H^+(aq) \\rightarrow I_2(aq) + 2H_2O(l)}$\n下列哪些測量可用來跟隨這反應的進度？\n(1) 燒杯及其內容物的質量\n(2) 反應混合物的 pH\n(3) 反應混合物的顏色深度\nThe following reaction is carried out in an open beaker at 25 °C:\n$\\mathrm{H_2O_2(aq) + 2I^-(aq) + 2H^+(aq) \\rightarrow I_2(aq) + 2H_2O(l)}$\nWhich of the following measurements can be used to follow the progress of this reaction?\n(1) the mass of the beaker and its contents\n(2) the pH of the reaction mixture\n(3) the colour intensity of the reaction mixture",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 36,
+    "section": "PART II",
+    "category": "碳化合物的化學/Chemistry of Carbon Compounds",
+    "questionText": "考慮下列各陳述句並選出最佳的答案：\n第一陳述句：$\\mathrm{(CH_3)_2CHCH(OH)CH(CH_3)_2}$ 有一雙對映異構體。\n第二陳述句：$\\mathrm{(CH_3)_2CHCH(OH)CH(CH_3)_2}$ 是二級醇。\nConsider the following statements and choose the best answer:\n1st statement: $\\mathrm{(CH_3)_2CHCH(OH)CH(CH_3)_2}$ has a pair of enantiomers.\n2nd statement: $\\mathrm{(CH_3)_2CHCH(OH)CH(CH_3)_2}$ is a secondary alcohol.",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "兩陳述句均正確，而第二陳述句為第一陳述句的合理解釋。\nBoth statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+      "B": "兩陳述句均正確，但第二陳述句並非第一陳述句的合理解釋。\nBoth statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+      "C": "第一陳述句錯誤，但第二陳述句正確。\nThe 1st statement is false but the 2nd statement is true.",
+      "D": "兩陳述句均錯誤。\nBoth statements are false."
+    },
+    "correctAnswer": "C"
+  }
+]

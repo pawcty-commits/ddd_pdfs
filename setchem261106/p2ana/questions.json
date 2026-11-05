@@ -1,0 +1,97 @@
+{
+  "paperTitleZh": "化學 全新模擬卷 — 卷二 丙部 分析化學",
+  "paperTitle": "Chemistry Mock — Paper 2 Section C Analytical Chemistry",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "ANA",
+      "categoryZh": "分析化學",
+      "categoryEn": "Analytical Chemistry",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P2ANA",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "有兩瓶失去標籤的白色固體，分別是碳酸鉀和碳酸鈣。寫出利用焰色試驗辨別兩者的預期觀察。",
+          "questionTextEn": "Two bottles of white solid have lost their labels. They are potassium carbonate and calcium carbonate. State the expected observations that distinguish them using a flame test.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "無水碳酸鈉可用作基本標準物。寫出這物質所具有的一項性質，令它適合作基本標準物。",
+          "questionTextEn": "Anhydrous sodium carbonate can be used as a primary standard. State one property that makes it suitable.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "以己烷從碘水中萃取碘。根據碘的溶解度及己烷的性質，解釋這液-液萃取法的原理。",
+          "questionTextEn": "Iodine is extracted from iodine solution in water using hexane. In terms of the solubility of iodine and the properties of hexane, explain the principle of this liquid-liquid extraction.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "解釋為什麼這滴定不需加入指示劑。",
+          "questionTextEn": "Explain why no indicator needs to be added in this titration.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii1)",
+          "questionTextZh": "寫出終點時的顏色變化。",
+          "questionTextEn": "State the colour change at the end point.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii2)",
+          "questionTextZh": "計算消毒藥水中過氧化氫的濃度（以 $\\text{g dm}^{-3}$ 為單位）。（相對分子質量：$\\mathrm{H_2O_2}$ = 34.0）",
+          "questionTextEn": "Calculate the concentration of hydrogen peroxide in the disinfectant, in $\\text{g dm}^{-3}$. (Relative molecular mass: $\\mathrm{H_2O_2}$ = 34.0)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii3)",
+          "questionTextZh": "品質控制標準要求實際濃度與標示值相差不多於 ±5%。通過計算，確定這批消毒藥水是否合格。",
+          "questionTextEn": "The quality control standards require the actual concentration to be within ±5% of the labelled value. By calculation, determine whether this batch of disinfectant passes.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "解釋為什麼用硫酸而不用氫氯酸酸化。",
+          "questionTextEn": "Explain why sulphuric acid rather than hydrochloric acid is used to acidify the solution.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i1)",
+          "questionTextZh": "推定 T 的分子式。（相對原子質量：H = 1.0，C = 12.0，O = 16.0）",
+          "questionTextEn": "Deduce the molecular formula of T. (Relative atomic masses: H = 1.0, C = 12.0, O = 16.0)",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i2)",
+          "questionTextZh": "參照 m/z 45 的基峰，並指出圖中沒有哪一個峰，推定 T 的結構式。",
+          "questionTextEn": "With reference to the base peak at m/z 45, and by stating which peak is absent from the diagram, deduce the structural formula of T.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "把 T 與酸化重鉻酸鉀溶液一同加熱。寫出預期的觀察。",
+          "questionTextEn": "T is heated with acidified potassium dichromate solution. State the expected observation.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(iii)",
+          "questionTextZh": "由 (c)(ii) 的反應分離出有機生成物 V。寫出 V 的結構式，並解釋為什麼 V 不是羧酸。",
+          "questionTextEn": "The organic product V is separated from the reaction in (c)(ii). Write the structural formula of V, and explain why V is not a carboxylic acid.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(iv)",
+          "questionTextZh": "已知 C=O 的紅外吸收波數域為 $1680$–$1800\\ \\text{cm}^{-1}$，醇的 O–H 為 $3230$–$3670\\ \\text{cm}^{-1}$（闊峰）。解釋如何比較 T 和 V 的紅外光譜，以確定 T 已完全轉化。",
+          "questionTextEn": "Given that the infra-red absorption wavenumber ranges are $1680$–$1800\\ \\text{cm}^{-1}$ for C=O and $3230$–$3670\\ \\text{cm}^{-1}$ (broad) for O–H in alcohols, explain how the IR spectra of T and V can be compared to show that T has been completely converted.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

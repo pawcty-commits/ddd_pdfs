@@ -1,0 +1,109 @@
+{
+  "paperTitleZh": "化學 全新模擬卷 — 卷二 甲部 工業化學",
+  "paperTitle": "Chemistry Mock — Paper 2 Section A Industrial Chemistry",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "IND",
+      "categoryZh": "工業化學",
+      "categoryEn": "Industrial Chemistry",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P2IND",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i1)",
+          "questionTextZh": "以氫氣為目標產物，通過比較原子經濟，推定哪個方法的原子經濟較高。",
+          "questionTextEn": "Taking hydrogen as the desired product, compare the atom economies of the two methods and deduce which is higher.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(i2)",
+          "questionTextZh": "儘管如此，方法 2 仍被認為較「綠色」。舉出一個原因。",
+          "questionTextEn": "Even so, Method 2 is considered 'greener'. Give one reason.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii1)",
+          "questionTextZh": "蒸汽重整的第一階段產物是合成氣。合成氣含有哪兩種主要氣體？",
+          "questionTextEn": "The first-stage product of steam reforming is syngas. What are the two main gases in syngas?",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii2)",
+          "questionTextZh": "寫出由甲烷和水蒸氣製造合成氣的化學方程式。",
+          "questionTextEn": "Write the chemical equation for making syngas from methane and steam.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "氯鹼工業也有氫氣生成。除氫氣外，寫出氯鹼工業的另一種產品。",
+          "questionTextEn": "Hydrogen is also formed in the chloroalkali industry. Apart from hydrogen, name one other product of the chloroalkali industry.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "「活化能」一詞是什麼意思？",
+          "questionTextEn": "What is meant by the term 'activation energy'?",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "在下面的坐標軸上，繪出這正向反應的能線圖，並標示活化能和 $\\Delta H$。",
+          "questionTextEn": "On the axes below, draw the energy profile of this forward reaction, and label the activation energy and $\\Delta H$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "寫出甲醇合成的 $K_c$ 表達式，並說明溫度上升時 $K_c$ 怎樣改變。",
+          "questionTextEn": "Write the expression for $K_c$ of the synthesis of methanol, and state how $K_c$ changes when the temperature rises.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "解釋為什麼工業上選用約 250 °C 和 70 atm。",
+          "questionTextEn": "Explain why about 250 °C and 70 atm are chosen in industry.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(v)",
+          "questionTextZh": "解釋為什麼催化劑不會改變甲醇的平衡產率。",
+          "questionTextEn": "Explain why the catalyst does not change the equilibrium yield of methanol.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i1)",
+          "questionTextZh": "寫出這過程的總反應方程式。",
+          "questionTextEn": "Write the overall equation of this process.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i2)",
+          "questionTextZh": "解釋為什麼這過程只需少量的氯化銅(II)。",
+          "questionTextEn": "Explain why only a small amount of copper(II) chloride is needed in this process.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i3)",
+          "questionTextZh": "解釋為什麼可用水除去產物氣體中未反應的氯化氫。",
+          "questionTextEn": "Explain why water can be used to remove unreacted hydrogen chloride from the product gases.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii1)",
+          "questionTextZh": "某廠在恆溫下探究以下反應：\n$\\mathrm{2NO(g) + O_2(g) \\rightarrow 2NO_2(g)}$\n第 1 次：$[\\mathrm{NO}]$ = 0.010 M，$[\\mathrm{O_2}]$ = 0.010 M，初速 = $7.0\\times10^{-6}\\ \\text{mol dm}^{-3}\\ \\text{s}^{-1}$\n第 2 次：0.020 M，0.010 M，$2.8\\times10^{-5}$\n第 3 次：0.030 M，0.020 M，$1.26\\times10^{-4}$\n第 4 次：0.015 M，0.040 M，初速待求\n推定對應 NO 和 $\\mathrm{O_2}$ 的反應級數。",
+          "questionTextEn": "A plant investigates the following reaction at constant temperature:\n$\\mathrm{2NO(g) + O_2(g) \\rightarrow 2NO_2(g)}$\nTrial 1: $[\\mathrm{NO}]$ = 0.010 M, $[\\mathrm{O_2}]$ = 0.010 M, initial rate = $7.0\\times10^{-6}\\ \\text{mol dm}^{-3}\\ \\text{s}^{-1}$\nTrial 2: 0.020 M, 0.010 M, $2.8\\times10^{-5}$\nTrial 3: 0.030 M, 0.020 M, $1.26\\times10^{-4}$\nTrial 4: 0.015 M, 0.040 M, initial rate to be found\nDeduce the order of reaction with respect to NO and to $\\mathrm{O_2}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii2)",
+          "questionTextZh": "計算速率常數（須寫出單位），並預測第 4 次的初速。",
+          "questionTextEn": "Calculate the rate constant, stating its unit, and predict the initial rate in Trial 4.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

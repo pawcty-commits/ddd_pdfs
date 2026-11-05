@@ -1,0 +1,103 @@
+{
+  "paperTitleZh": "化學 全新模擬卷 — 卷二 乙部 物料化學",
+  "paperTitle": "Chemistry Mock — Paper 2 Section B Materials Chemistry",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "MAT",
+      "categoryZh": "物料化學",
+      "categoryEn": "Materials Chemistry",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P2MAT-a",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "解釋為什麼生物基聚乙烯在原料方面較石油聚乙烯「綠色」，並指出它在廢物處理方面為何沒有這優勢。",
+          "questionTextEn": "Explain why bio-based polyethene is 'greener' than petroleum polyethene in terms of its raw material, and state why it has no such advantage in waste disposal.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "下圖顯示一種具液晶特性的分子。寫出這分子有利於形成液晶的兩項結構特徵。",
+          "questionTextEn": "The diagram below shows a molecule with liquid-crystalline behaviour. State two structural features of this molecule that favour liquid-crystal formation.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "脲甲醛用來製造電插頭外殼。舉出一個原因。",
+          "questionTextEn": "Urea-methanal is used to make the casings of electric plugs. Give one reason.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "一個晶胞含多少個銅原子？",
+          "questionTextEn": "How many copper atoms are there in a unit cell?",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "根據圖中數據，計算銅的密度（以 $\\text{g cm}^{-3}$ 為單位）。（相對原子質量：Cu = 63.5；阿佛加德羅常數 = $6.02\\times10^{23}\\ \\text{mol}^{-1}$；$1\\ \\text{nm} = 10^{-7}\\ \\text{cm}$）",
+          "questionTextEn": "Based on the data in the diagram, calculate the density of copper, in $\\text{g cm}^{-3}$. (Relative atomic mass: Cu = 63.5; Avogadro constant = $6.02\\times10^{23}\\ \\text{mol}^{-1}$; $1\\ \\text{nm} = 10^{-7}\\ \\text{cm}$)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii1)",
+          "questionTextZh": "鋁鎂合金用來製造單車車架。解釋為什麼鋁鎂合金較純鋁堅硬。",
+          "questionTextEn": "An aluminium-magnesium alloy is used to make bicycle frames. Explain why the alloy is harder than pure aluminium.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii2)",
+          "questionTextZh": "這合金的熔點較純鋁低。寫出一個由此帶來的工業上好處。",
+          "questionTextEn": "The alloy has a lower melting point than pure aluminium. State one industrial advantage of this.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "把銅製成納米粒子，可大大增加表面面積。比較相同質量的銅，分別製成直徑 10 nm 和直徑 1 000 nm 的球形粒子。前者的總表面面積是後者的多少倍？",
+          "questionTextEn": "Making copper into nanoparticles greatly increases its surface area. Compare the same mass of copper made into spherical particles of diameter 10 nm and of diameter 1 000 nm. How many times is the total surface area of the former that of the latter?",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "PET 由苯-1,4-二羧酸和乙-1,2-二醇製造。寫出這聚合的類別。",
+          "questionTextEn": "PET is made from benzene-1,4-dicarboxylic acid and ethane-1,2-diol. State the type of this polymerisation.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "寫出生成 PET 的聚合方程式。",
+          "questionTextEn": "Write the polymerisation equation for the formation of PET.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(iii)",
+          "questionTextZh": "解釋為什麼 PET 是熱塑性塑膠。",
+          "questionTextEn": "Explain why PET is a thermoplastic.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(iv)",
+          "questionTextZh": "PET 可經水解（化學回收）變回單體，但聚乙烯不可以。根據兩者的結構解釋。",
+          "questionTextEn": "PET can be converted back to its monomers by hydrolysis (chemical recycling), but polyethene cannot. In terms of their structures, explain this.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(v)",
+          "questionTextZh": "寫出把 PET 製成連續長條片材的成型方法。",
+          "questionTextEn": "Name the moulding method for making PET into continuous sheets.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(vi)",
+          "questionTextZh": "舉出一個理由，解釋為什麼回收 PET 瓶前須把它與其他塑膠分開。",
+          "questionTextEn": "Give one reason why PET bottles must be separated from other plastics before recycling.",
+          "totalMarks": 1
+        }
+      ]
+    }
+  ]
+}

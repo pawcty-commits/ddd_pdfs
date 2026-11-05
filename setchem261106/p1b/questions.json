@@ -1,0 +1,433 @@
+{
+  "paperTitleZh": "化學 全新模擬卷 — 卷一乙部",
+  "paperTitle": "Chemistry Mock — Paper 1 Section B",
+  "durationMinutes": 150,
+  "totalMarks": 84,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "PART I",
+      "categoryZh": "微觀世界 I",
+      "categoryEn": "Microscopic World I",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P1BQ1",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "氯和碘都屬於周期表第 VII 族。\n繪出一氯化碘 $\\mathrm{ICl}$ 的電子圖（只顯示最外層的電子）。",
+          "questionTextEn": "Chlorine and iodine are both in Group VII of the Periodic Table.\nDraw the electron diagram for iodine monochloride, $\\mathrm{ICl}$, showing electrons in the outermost shells only.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋為什麼氯是較碘強的氧化劑。",
+          "questionTextEn": "Explain why chlorine is a stronger oxidising agent than iodine.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "寫出試管 X 內，在二氧化硫通入期間預期的觀察。",
+          "questionTextEn": "State the expected observation in tube X while sulphur dioxide is being passed in.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "寫出試管 X 內反應的離子方程式。",
+          "questionTextEn": "Write an ionic equation for the reaction in tube X.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(iii)",
+          "questionTextZh": "參照試管 W 和 X 的結果，根據氧化數，解釋二氧化硫在試管 X 內作還原劑。",
+          "questionTextEn": "With reference to the results of tubes W and X, in terms of oxidation number, explain why sulphur dioxide acts as a reducing agent in tube X.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "PART I",
+      "categoryZh": "金屬",
+      "categoryEn": "Metals",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P1BQ2-a",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "為找出金屬 M 的磷酸鹽的實驗式，某學生進行以下實驗：\n把不同體積的 $0.50\\ \\text{M}$ $\\mathrm{Na_3PO_4(aq)}$ 分別加進數份 $40.0\\ \\text{cm}^3$ $0.30\\ \\text{M}$ $\\mathrm{MCl_{n}(aq)}$ 中。過濾後，把每份沉澱物洗滌、烘乾並稱重。結果如下面的坐標圖所示。\n解釋為什麼加入 $16\\ \\text{cm}^3$ 以上的 $\\mathrm{Na_3PO_4(aq)}$ 後，沉澱物的質量不再增加。",
+          "questionTextEn": "To find the empirical formula of the phosphate of metal M, a student carried out the following experiment:\nDifferent volumes of $0.50\\ \\text{M}$ $\\mathrm{Na_3PO_4(aq)}$ were added separately to several $40.0\\ \\text{cm}^3$ portions of $0.30\\ \\text{M}$ $\\mathrm{MCl_{n}(aq)}$. After filtration, each precipitate was washed, dried and weighed. The results are shown in the graph below.\nExplain why the mass of precipitate does not increase further after more than $16\\ \\text{cm}^3$ of $\\mathrm{Na_3PO_4(aq)}$ has been added.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "解釋為什麼沉澱物須經洗滌才稱重。",
+          "questionTextEn": "Explain why the precipitate must be washed before weighing.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "該學生以 $20.0\\ \\text{cm}^3$（而非 $40.0\\ \\text{cm}^3$）相同的 $\\mathrm{MCl_{n}(aq)}$ 重複實驗。在下面的坐標圖上，用虛線草繪預期的結果。",
+          "questionTextEn": "The student repeated the experiment using $20.0\\ \\text{cm}^3$ (instead of $40.0\\ \\text{cm}^3$) of the same $\\mathrm{MCl_{n}(aq)}$. On the graph below, sketch the expected result with a dotted line.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "根據坐標圖，計算這磷酸鹽的實驗式。",
+          "questionTextEn": "Based on the graph, calculate the empirical formula of this phosphate.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "PART I",
+      "categoryZh": "微觀世界 I",
+      "categoryEn": "Microscopic World I",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P1BQ3",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "以下問題與三氯化鋁、三氯化磷及二硫化鉬有關。\n繪出氣態 $\\mathrm{AlCl_3}$ 分子和 $\\mathrm{PCl_3}$ 分子的三維結構圖。",
+          "questionTextEn": "The following questions are related to aluminium chloride, phosphorus trichloride and molybdenum disulphide.\nDraw the three-dimensional diagrams of a gaseous $\\mathrm{AlCl_3}$ molecule and a $\\mathrm{PCl_3}$ molecule.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "於較低溫度下，氣態三氯化鋁以 $\\mathrm{Al_2Cl_6}$ 分子形式存在，分子內有配位共價鍵。解釋這種鍵怎樣形成，並繪出 $\\mathrm{Al_2Cl_6}$ 的結構，以箭嘴表示配位共價鍵。",
+          "questionTextEn": "At lower temperatures, gaseous aluminium chloride exists as $\\mathrm{Al_2Cl_6}$ molecules containing dative covalent bonds. Explain how this type of bond is formed, and draw the structure of $\\mathrm{Al_2Cl_6}$, using arrows to represent the dative covalent bonds.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "$\\mathrm{PCl_3}$ 的沸點（76 °C）遠高於 $\\mathrm{PF_3}$ 的沸點（−101 °C）。解釋這現象。",
+          "questionTextEn": "The boiling point of $\\mathrm{PCl_3}$ (76 °C) is much higher than that of $\\mathrm{PF_3}$ (−101 °C). Explain this.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "下圖顯示二硫化鉬 $\\mathrm{MoS_2}$ 的層狀結構。二硫化鉬可用作固體潤滑劑。根據鍵合和結構，解釋這用途。",
+          "questionTextEn": "The diagram below shows the layer structure of molybdenum disulphide, $\\mathrm{MoS_2}$, which can be used as a solid lubricant. In terms of bonding and structure, explain this use.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "PART I",
+      "categoryZh": "酸和鹽基",
+      "categoryEn": "Acids and Bases",
+      "difficultyGrade": "M",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "生石灰樣本含氧化鈣及不與酸反應的沙粒。為測定氧化鈣的含量，把 0.500 g 樣本加進 $50.00\\ \\text{cm}^3$ $0.300\\ \\text{M}$ 氫氯酸（過量）中。反應完成後，以 $0.100\\ \\text{M}$ 氫氧化鈉溶液滴定錐形瓶內的混合物，需用 $18.60\\ \\text{cm}^3$ 氫氧化鈉溶液達至終點。\n解釋為什麼不直接以氫氯酸滴定生石灰樣本。",
+          "questionTextEn": "A sample of quicklime contains calcium oxide and sand, which does not react with acid. To determine the calcium oxide content, 0.500 g of the sample is added to $50.00\\ \\text{cm}^3$ of $0.300\\ \\text{M}$ hydrochloric acid (in excess). After the reaction, the mixture in the conical flask is titrated with $0.100\\ \\text{M}$ sodium hydroxide solution. $18.60\\ \\text{cm}^3$ of sodium hydroxide solution is needed to reach the end point.\nExplain why the quicklime sample is not titrated directly with hydrochloric acid.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "寫出這滴定適用的一種指示劑的名稱。",
+          "questionTextEn": "Name a suitable indicator for this titration.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "寫出用來準確量取 $50.00\\ \\text{cm}^3$ 氫氯酸的儀器名稱。",
+          "questionTextEn": "Name the apparatus used to measure $50.00\\ \\text{cm}^3$ of hydrochloric acid accurately.",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "滴定前，錐形瓶內的混合物再以蒸餾水稀釋。這會令計得的氧化鈣質量百分率較真實值高、低，還是不變？解釋你的答案。",
+          "questionTextEn": "Before the titration, the mixture in the conical flask is further diluted with distilled water. Would the calculated percentage by mass of calcium oxide be higher than, lower than or the same as the true value? Explain your answer.",
+          "totalMarks": 1
+        },
+        {
+          "label": "e",
+          "questionTextZh": "計算樣本中氧化鈣的質量百分率。（相對原子質量：O = 16.0，Ca = 40.1）",
+          "questionTextEn": "Calculate the percentage by mass of calcium oxide in the sample. (Relative atomic masses: O = 16.0, Ca = 40.1)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "PART I",
+      "categoryZh": "酸和鹽基",
+      "categoryEn": "Acids and Bases",
+      "difficultyGrade": "H",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "丙二酸是一種二元酸，分子式為 $\\mathrm{C_3H_4O_4}$。\n繪出丙二酸的結構。",
+          "questionTextEn": "Propanedioic acid is a dibasic acid with the molecular formula $\\mathrm{C_3H_4O_4}$.\nDraw the structure of propanedioic acid.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "丙二酸分子有四個氫原子。解釋為什麼它的鹽基度是 2。",
+          "questionTextEn": "A propanedioic acid molecule has four hydrogen atoms. Explain why its basicity is 2.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "把 $25.0\\ \\text{cm}^3$ $1.00\\ \\text{M}$ 丙二酸溶液與 $50.0\\ \\text{cm}^3$ $1.00\\ \\text{M}$ 氫氧化鈉溶液在發泡膠杯內混合，溫度上升了 8.30 °C。假設混合物的密度為 $1.00\\ \\text{g cm}^{-3}$，比熱容為 $4.20\\ \\text{J g}^{-1}\\ \\text{K}^{-1}$，而杯的熱容可被略去。計算這反應的中和焓變（以每生成 1 mol 水計，以 $\\text{kJ mol}^{-1}$ 為單位）。",
+          "questionTextEn": "$25.0\\ \\text{cm}^3$ of $1.00\\ \\text{M}$ propanedioic acid solution and $50.0\\ \\text{cm}^3$ of $1.00\\ \\text{M}$ sodium hydroxide solution are mixed in a polystyrene cup. The temperature rises by 8.30 °C. Assume that the density of the mixture is $1.00\\ \\text{g cm}^{-3}$, its specific heat capacity is $4.20\\ \\text{J g}^{-1}\\ \\text{K}^{-1}$, and the heat capacity of the cup is negligible. Calculate the enthalpy change of neutralisation for this reaction, in $\\text{kJ mol}^{-1}$ per mole of water formed.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "氫氯酸與氫氧化鈉溶液的中和焓變為 $-57.1\\ \\text{kJ mol}^{-1}$。解釋 (b)(ii) 的結果為何較不放熱。",
+          "questionTextEn": "The enthalpy change of neutralisation of hydrochloric acid and sodium hydroxide solution is $-57.1\\ \\text{kJ mol}^{-1}$. Explain why the result in (b)(ii) is less exothermic.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "PART I",
+      "categoryZh": "氧化還原反應、化學電池和電解",
+      "categoryEn": "Redox Reactions, Chemical Cells and Electrolysis",
+      "difficultyGrade": "M",
+      "figureSpecId": "C1-P1BQ6-a",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某學生參考暖包的成分，用鐵粉、浸過鹽水的紙和活性炭粉製成一個簡易化學電池，如下圖所示。電壓表顯示讀數。在這電池中，鐵是負極，空氣中的氧氣在活性炭表面被還原。\n解釋為什麼使用浸過鹽水的紙，而非乾紙。",
+          "questionTextEn": "Based on the ingredients of a hand warmer, a student made a simple chemical cell using iron powder, paper soaked in brine and activated charcoal powder, as shown below. The voltmeter shows a reading. In this cell, iron is the negative electrode and oxygen in the air is reduced on the surface of the activated charcoal.\nExplain why paper soaked in brine, rather than dry paper, is used.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "分別寫出鐵粉和活性炭上的半反應式。",
+          "questionTextEn": "Write the half equations at the iron powder and at the activated charcoal respectively.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "下面的坐標圖顯示這電池的電壓隨時間的變化。若以鋅粉代替鐵粉，在同一坐標圖上，用虛線草繪預期的結果，並寫出原因。",
+          "questionTextEn": "The graph below shows the variation in the voltage of this cell with time. If the iron powder is replaced by zinc powder, sketch the expected result on the same graph with a dotted line and give the reason.",
+          "totalMarks": 1
+        },
+        {
+          "label": "d(i)",
+          "questionTextZh": "寫出這紅褐色固體的名稱。",
+          "questionTextEn": "Name this reddish brown solid.",
+          "totalMarks": 1
+        },
+        {
+          "label": "d(ii)",
+          "questionTextZh": "舉出一個原因，解釋為什麼電壓逐漸下降。",
+          "questionTextEn": "Suggest one reason why the voltage gradually falls.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "PART I",
+      "categoryZh": "化學反應和能量",
+      "categoryEn": "Chemical Reactions and Energy",
+      "difficultyGrade": "H",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "把十水合碳酸鈉晶體與硝酸銨固體混合，會發生以下吸熱反應：\n$\\mathrm{Na_2CO_3\\cdot 10H_2O(s) + 2NH_4NO_3(s) \\rightarrow 2NaNO_3(s) + 2NH_3(g) + CO_2(g) + 11H_2O(l)}$\n描述如何在學校實驗室顯示這反應是吸熱的。",
+          "questionTextEn": "When hydrated sodium carbonate crystals are mixed with solid ammonium nitrate, the following endothermic reaction occurs:\n$\\mathrm{Na_2CO_3\\cdot 10H_2O(s) + 2NH_4NO_3(s) \\rightarrow 2NaNO_3(s) + 2NH_3(g) + CO_2(g) + 11H_2O(l)}$\nDescribe how to show in a school laboratory that this reaction is endothermic.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "從實驗室安全方面而言，提出一個進行這實驗時須採取的防護措施，並寫出原因。",
+          "questionTextEn": "In view of laboratory safety, suggest one precaution for this experiment and give the reason.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "寫出表示 $\\mathrm{NH_4NO_3(s)}$ 標準生成焓變的熱化學方程式。",
+          "questionTextEn": "Write the thermochemical equation representing the standard enthalpy change of formation of $\\mathrm{NH_4NO_3(s)}$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "計算以上反應的標準焓變（以 $\\text{kJ mol}^{-1}$ 為單位）。",
+          "questionTextEn": "Calculate the standard enthalpy change of the above reaction, in $\\text{kJ mol}^{-1}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(iii)",
+          "questionTextZh": "若以發泡膠杯量度溫度變化求得此反應的焓變，提出一個原因解釋為什麼所得數值的吸熱程度較 (c)(ii) 小。",
+          "questionTextEn": "If the enthalpy change of this reaction is found by measuring the temperature change in a polystyrene cup, suggest one reason why the value obtained is less endothermic than that in (c)(ii).",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "PART I",
+      "categoryZh": "化石燃料和碳化合物",
+      "categoryEn": "Fossil Fuels and Carbon Compounds",
+      "difficultyGrade": "M",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "聚丙烯是一種常見的塑膠。\n＊概述如何由原油製取聚丙烯。答案應包括所涉及的過程及反應條件，以及適當的化學方程式。",
+          "questionTextEn": "Poly(propene) is a common plastic.\n*Outline how poly(propene) can be made from crude oil. Your answer should include the processes and reaction conditions involved, and suitable chemical equation(s).",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "PART II",
+      "categoryZh": "化學平衡",
+      "categoryEn": "Chemical Equilibrium",
+      "difficultyGrade": "H",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在 25 °C 下，把 $30.0\\ \\text{cm}^3$ $0.20\\ \\text{M}$ 硝酸銀溶液與 $20.0\\ \\text{cm}^3$ $0.20\\ \\text{M}$ 硝酸鐵(II)溶液混合，得以下平衡體系：\n$\\mathrm{Ag^+(aq) + Fe^{2+}(aq) \\rightleftharpoons Ag(s) + Fe^{3+}(aq)}$\n平衡時，$\\mathrm{Fe^{3+}(aq)}$ 的濃度為 $0.020\\ \\text{M}$。\n計算這反應在 25 °C 下的平衡常數 $K_c$。",
+          "questionTextEn": "At 25 °C, $30.0\\ \\text{cm}^3$ of $0.20\\ \\text{M}$ silver nitrate solution is mixed with $20.0\\ \\text{cm}^3$ of $0.20\\ \\text{M}$ iron(II) nitrate solution to give the following equilibrium system:\n$\\mathrm{Ag^+(aq) + Fe^{2+}(aq) \\rightleftharpoons Ag(s) + Fe^{3+}(aq)}$\nAt equilibrium, the concentration of $\\mathrm{Fe^{3+}(aq)}$ is $0.020\\ \\text{M}$.\nCalculate the equilibrium constant $K_c$ of this reaction at 25 °C.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "在 35 °C 下，這反應的 $K_c$ 為 $2.53\\ \\text{mol}^{-1}\\ \\text{dm}^3$。推定正向反應是放熱還是吸熱。解釋你的答案。",
+          "questionTextEn": "At 35 °C, $K_c$ of this reaction is $2.53\\ \\text{mol}^{-1}\\ \\text{dm}^3$. Deduce whether the forward reaction is exothermic or endothermic. Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "PART II",
+      "categoryZh": "碳化合物的化學",
+      "categoryEn": "Chemistry of Carbon Compounds",
+      "difficultyGrade": "M",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "丙-2-醇可由 2-溴丙烷或乙酸丙-2-酯製得。\n寫出這反應的類別。",
+          "questionTextEn": "Propan-2-ol can be made from 2-bromopropane or from propan-2-yl ethanoate.\nState the type of this reaction.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "寫出這反應的化學方程式。",
+          "questionTextEn": "Write the chemical equation for this reaction.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "寫出這反應的化學方程式。",
+          "questionTextEn": "Write the chemical equation for this reaction.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "繪畫一個標示圖，顯示回流加熱的實驗裝置。",
+          "questionTextEn": "Draw a labelled diagram of the set-up for heating under reflux.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "腈綸由丙烯腈 $\\mathrm{CH_2{=}CHCN}$ 加成聚合而成。繪出聚丙烯腈的重複單位。",
+          "questionTextEn": "Acrylic fibre is made by the addition polymerisation of acrylonitrile, $\\mathrm{CH_2{=}CHCN}$. Draw the repeating unit of polyacrylonitrile.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "PART II",
+      "categoryZh": "碳化合物的化學",
+      "categoryEn": "Chemistry of Carbon Compounds",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P1BQ11",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下圖顯示化合物 E、G、J 和 L 的結構。\nE 中的羥基屬於一級、二級還是三級醇？",
+          "questionTextEn": "The diagram below shows the structures of compounds E, G, J and L.\nIs the hydroxyl group in E that of a primary, secondary or tertiary alcohol?",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "一個 G 分子有多少個手性中心？",
+          "questionTextEn": "How many chiral centres are there in a molecule of G?",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "把 J 和 L 分別與酸化高錳酸鉀溶液一同溫熱。寫出可辨別兩者的預期觀察。",
+          "questionTextEn": "J and L are separately warmed with acidified potassium permanganate solution. State the expected observation that distinguishes them.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "把鎂帶分別加進 E 和 L 的水溶液中。寫出可辨別兩者的預期觀察。",
+          "questionTextEn": "Magnesium ribbon is added separately to aqueous solutions of E and L. State the expected observation that distinguishes them.",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "概述一條不多於三個步驟的合成路線，把 E 轉化為 $\\mathrm{CH_3CH{=}CHCOOH}$。寫出每一步驟的試劑（一個或多個）、反應條件（如適用）及有機生成物的結構。",
+          "questionTextEn": "Outline a synthetic route, with NO MORE THAN THREE STEPS, to convert E to $\\mathrm{CH_3CH{=}CHCOOH}$. For each step, give the reagent(s), reaction conditions (as appropriate) and structure of the organic product.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "PART II",
+      "categoryZh": "化學世界中的規律",
+      "categoryEn": "Patterns in the Chemical World",
+      "difficultyGrade": "H",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "過二硫酸根離子與碘離子的反應很慢：\n$\\mathrm{S_2O_8^{2-}(aq) + 2I^-(aq) \\rightarrow 2SO_4^{2-}(aq) + I_2(aq)}$\n加入少量 $\\mathrm{Fe^{2+}(aq)}$ 後，反應明顯加快。\n根據過渡金屬的特性，解釋 $\\mathrm{Fe^{2+}(aq)}$ 怎樣令反應加快，並判斷 $\\mathrm{Zn^{2+}(aq)}$ 能否起相同的作用。",
+          "questionTextEn": "The reaction between peroxodisulphate ions and iodide ions is very slow:\n$\\mathrm{S_2O_8^{2-}(aq) + 2I^-(aq) \\rightarrow 2SO_4^{2-}(aq) + I_2(aq)}$\nThe reaction becomes much faster after a small amount of $\\mathrm{Fe^{2+}(aq)}$ is added.\nIn terms of the characteristics of transition metals, explain how $\\mathrm{Fe^{2+}(aq)}$ speeds up the reaction, and judge whether $\\mathrm{Zn^{2+}(aq)}$ could have the same effect.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "PART II",
+      "categoryZh": "反應速率",
+      "categoryEn": "Rate of Reaction",
+      "difficultyGrade": "H",
+      "figureSpecId": "C1-P1BQ13-a",
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "你獲提供以下材料及資料：\n• 鎂帶（過量）\n• $0.20\\ \\text{M}$ 和 $0.10\\ \\text{M}$ 硫酸\n• 下圖所示的裝置，及秒錶\n（在室內條件下，氣體的摩爾體積 = $24.0\\ \\text{dm}^3$）\n＊描述如何利用以上提供的物品，探究硫酸濃度對這反應速率的影響。每次實驗用 $20.0\\ \\text{cm}^3$ 硫酸。在下面的坐標圖上，草繪預期所得的兩條曲線，標示它們的最終體積，並從分子層面解釋這兩條曲線的差異。",
+          "questionTextEn": "You are provided with the following materials and information:\n• magnesium ribbon (in excess)\n• $0.20\\ \\text{M}$ and $0.10\\ \\text{M}$ sulphuric acid\n• the set-up shown below, and a stopwatch\n(Molar volume of gas at room conditions = $24.0\\ \\text{dm}^3$)\n*Describe how to use the items provided to investigate the effect of the concentration of sulphuric acid on the rate of this reaction, using $20.0\\ \\text{cm}^3$ of sulphuric acid in each experiment. On the graph below, sketch the two curves expected, labelling their final volumes, and at the molecular level, explain the differences between the two curves.",
+          "totalMarks": 6
+        }
+      ]
+    }
+  ]
+}
