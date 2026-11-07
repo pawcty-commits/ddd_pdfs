@@ -1,0 +1,55 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 乙部 應用生態學",
+  "paperTitle": "Biology Mock — Paper 2 Section B Applied Ecology",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 2,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P2BQ2",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "描述兩種魚的汞含量與體長的關係。（2 分）",
+          "questionTextEn": "Describe the relationship between mercury content and body length for the two species. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "研究人員認為物種 Q 在長大的過程中食性改變。參考圖中數據，推論這改變，並解釋為什麼體型大的物種 Q 汞含量最高。（4 分）",
+          "questionTextEn": "The researchers think that the diet of species Q changes as it grows. With reference to the data, deduce this change and explain why large individuals of species Q have the highest mercury content. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "某衞生機構建議孕婦「每星期可吃 2–3 份魚，但應選擇體型較小、不捕食其他魚類的魚」。參考圖中數據，評價這建議。（4 分）",
+          "questionTextEn": "A health authority advises pregnant women to \"eat 2–3 servings of fish per week, but choose smaller fish that do not prey on other fish\". With reference to the data, evaluate this advice. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "為什麼研究人員要同時收集對照地點的數據？（2 分）",
+          "questionTextEn": "Why did the researchers also collect data from the control site? (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考表中數據，解釋蠔礁如何令海灣的水質和底棲生物的物種數目改變。（4 分）",
+          "questionTextEn": "With reference to the data in the table, explain how the oyster reef changed the water quality and the number of benthic species in the bay. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "有人認為：「建造蠔礁可以取代污水處理廠。」評價這說法。（4 分）",
+          "questionTextEn": "Someone claimed: \"Building oyster reefs can replace sewage treatment works.\" Evaluate this claim. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    }
+  ]
+}

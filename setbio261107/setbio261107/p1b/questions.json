@@ -1,0 +1,345 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷一乙部",
+  "paperTitle": "Biology Mock — Paper 1 Section B",
+  "durationMinutes": 150,
+  "totalMarks": 84,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "E",
+      "figureSpecId": "B1-P1BQ1",
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下表顯示人體三項反應的資料。\n在答題紙上按反應 P、Q 和 R 的次序列表作答：就每項反應寫出它主要由神經協調還是激素協調，並以表中的一項數據支持你的答案。（3 分）",
+          "questionTextEn": "The table below shows information about three responses in the human body.\nUsing a table in the order of responses P, Q and R, state whether each response is mainly brought about by nervous coordination or hormonal coordination, and support each answer with one piece of data from the table. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P1BQ2",
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "鹹魚等醃製食物含亞硝胺。亞硝胺可令 DNA 複製時出錯，使某些 G–C 鹼基對變成 A–T 鹼基對。香港過往鼻咽癌的發病率偏高，被認為與經常進食鹹魚有關。下圖顯示某基因的正常等位基因及兩個突變等位基因所轉錄的 mRNA 的部分序列。這兩個突變在一名病人鼻咽的上皮細胞中被發現。\n按鹼基序列的改變，寫出這兩個突變屬於哪一類基因突變。（1 分）",
+          "questionTextEn": "Preserved foods such as salted fish contain nitrosamines. Nitrosamines can cause errors in DNA replication, changing some G–C base pairs into A–T base pairs. The rate of nasopharyngeal cancer in Hong Kong used to be high, and this has been linked to frequent consumption of salted fish. The diagram below shows part of the mRNA sequences transcribed from the normal allele and two mutant alleles of a gene. The two mutations were found in the epithelial cells of the nasopharynx of a patient.\nBased on the change in the base sequence, state the type of gene mutation shown by both mutants. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋為什麼這病人的子女不會遺傳這兩個突變。（1 分）",
+          "questionTextEn": "Explain why the children of this patient will not inherit these two mutations. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "這基因的蛋白質產物能在 DNA 受損時令細胞停止分裂。試提出突變 1 如何可能引致腫瘤的形成。（1 分）",
+          "questionTextEn": "The protein product of this gene stops cell division when DNA is damaged. Suggest how mutant 1 may lead to the formation of a tumour. (1 mark)",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "H",
+      "figureSpecId": "B1-P1BQ3",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下圖顯示兩個線粒體的電子顯微照片示意圖。線粒體 P 取自心肌細胞，線粒體 Q 取自脂肪細胞。\n寫出構造 W 的名稱。（1 分）",
+          "questionTextEn": "The diagram below is drawn from electron micrographs of two mitochondria. Mitochondrion P was taken from a heart muscle cell and mitochondrion Q from a fat cell.\nName structure W. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考 P 和 Q 中構造 W 的差異，解釋這差異如何與兩種細胞的功能有關。（2 分）",
+          "questionTextEn": "With reference to the difference in structure W between P and Q, explain how this difference is related to the functions of the two cells. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "以葡萄糖作呼吸受質時，這病人細胞內葡萄糖的分解只能進行到呼吸作用的哪個階段？（1 分）",
+          "questionTextEn": "When glucose is the respiratory substrate, up to which stage of respiration can glucose be broken down in the patient's cells? (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "根據你在 (c)(i) 的答案，解釋為什麼這病人血液中的乳酸濃度偏高。（3 分）",
+          "questionTextEn": "Based on your answer in (c)(i), explain why the concentration of lactic acid in the patient's blood is high. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P1BQ4",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下表顯示一名健康人士進入及離開器官 Y 的血液中某些物質的含量。\n寫出器官 Y 最可能是甚麼，並以表中兩項證據支持你的答案。（2 分）",
+          "questionTextEn": "The table below shows the levels of some substances in the blood entering and leaving organ Y of a healthy person.\nState what organ Y is most likely to be and support your answer with two pieces of evidence from the table. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考下圖的數據，解釋組織液如何在微血管的小動脈端形成，以及如何在小靜脈端回流入微血管。（3 分）",
+          "questionTextEn": "With reference to the data in the diagram below, explain how tissue fluid is formed at the arterial end of a capillary and how it returns to the capillary at the venous end. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "淋巴絲蟲病由寄生蟲阻塞腿部的淋巴管引起。解釋為什麼患者的腿部會腫脹。（3 分）",
+          "questionTextEn": "Lymphatic filariasis is caused by parasitic worms blocking the lymph vessels in the legs. Explain why the legs of the patient swell. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "H",
+      "figureSpecId": "B1-P1BQ5",
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "紅血細胞膜上有一種蛋白質 U。少數人天生缺少蛋白質 U，但大多沒有明顯的健康問題。\n\n研究人員把正常的人和缺少蛋白質 U 的人的紅血細胞放入 2 mol dm⁻³ 尿素溶液中，量度溶血的紅血細胞所佔的百分率（圖 I）；又把兩組紅血細胞放入蒸餾水中，量度溶血的百分率隨時間的變化（圖 II）。兩個實驗都使用同一批志願者的血液樣本。\n描述圖 I 中兩組紅血細胞的溶血情況有何不同。（3 分）",
+          "questionTextEn": "Protein U is found in the cell membrane of red blood cells. A small number of people are born without protein U, but most of them have no obvious health problems.\n\nRed blood cells from normal people and from people lacking protein U were placed in 2 mol dm⁻³ urea solution, and the percentage of haemolysed red blood cells was measured (Graph I). The two groups of red blood cells were also placed in distilled water, and the percentage of haemolysis was measured over time (Graph II). Blood samples from the same volunteers were used in both experiments.\nDescribe the differences in haemolysis between the two groups of red blood cells in Graph I. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "解釋為什麼正常的紅血細胞放入 2 mol dm⁻³ 尿素溶液後會溶血。（2 分）",
+          "questionTextEn": "Explain why normal red blood cells are haemolysed in 2 mol dm⁻³ urea solution. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考圖 I 和圖 II，推論蛋白質 U 的功能，並以兩圖的證據支持你的答案。（3 分）",
+          "questionTextEn": "With reference to Graphs I and II, deduce the function of protein U and support your answer with evidence from both graphs. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "一名學生說：「這些結果證明了蛋白質 U 是尿素的轉運蛋白。」指出這說法的一項問題。（1 分）",
+          "questionTextEn": "A student said: \"These results prove that protein U is a transport protein for urea.\" State one problem with this statement. (1 mark)",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P1BQ6",
+      "totalMarks": 11,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "白飯等富含澱粉的食物在消化道中先被消化成麥芽糖，再由麥芽糖酶消化成葡萄糖。有人聲稱桑葉提取物能抑制麥芽糖酶。\n\n學生從豬小腸內壁製備酶提取液，進行以下實驗：在各試管中加入 2 cm³ 2% 麥芽糖溶液、1 cm³ 不同濃度的桑葉提取物和 1 cm³ 酶提取液，在 37°C 下放置 20 分鐘，然後量度葡萄糖濃度。結果如表 1 所示。\n解釋為什麼抑制麥芽糖酶可減少進食白飯後血液葡萄糖水平的上升。（3 分）",
+          "questionTextEn": "Starch-rich foods such as rice are first digested into maltose in the alimentary canal. Maltose is then digested into glucose by maltase. It is claimed that mulberry leaf extract can inhibit maltase.\n\nA student prepared an enzyme extract from the inner lining of a pig small intestine and carried out the following experiment: 2 cm³ of 2% maltose solution, 1 cm³ of mulberry leaf extract of different concentrations and 1 cm³ of enzyme extract were added to each test tube. The tubes were kept at 37°C for 20 minutes and the glucose concentration was then measured. The results are shown in Table 1.\nExplain why inhibiting maltase can reduce the rise in blood glucose level after eating rice. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "解釋為什麼學生用小腸內壁的提取液，而不用胰液作為酶的來源。（2 分）",
+          "questionTextEn": "Explain why the student used an extract of the inner lining of the small intestine, instead of pancreatic juice, as the source of enzyme. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "桑葉提取物本身可能含有少量葡萄糖。試提出如何修改這實驗，以排除這因素對結果的影響。（2 分）",
+          "questionTextEn": "The mulberry leaf extract itself may contain a small amount of glucose. Suggest how the experiment could be modified to rule out the effect of this factor on the results. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "研究人員讓 10 名志願者在兩天分別進食同一份量的白飯，其中一天在進食前服用 1 g 桑葉提取物。表 2 顯示他們的平均血液葡萄糖水平。在方格圖上繪畫服用提取物後的血液葡萄糖水平曲線。（1 分）",
+          "questionTextEn": "Ten volunteers ate the same amount of rice on two days. On one of the days, they took 1 g of mulberry leaf extract before the meal. Table 2 shows their mean blood glucose levels. On the grid, plot the curve of blood glucose level with the extract. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d(i)",
+          "questionTextZh": "根據表 1，1.0% 提取物令葡萄糖的產量減少約 61%；但根據表 2，服用提取物只令血液葡萄糖水平的最大升幅減少約 47%。試提出一項原因。（1 分）",
+          "questionTextEn": "According to Table 1, 1.0% extract reduced glucose production by about 61%. However, according to Table 2, taking the extract reduced the maximum rise in blood glucose level by only about 47%. Suggest one reason. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d(ii)",
+          "questionTextZh": "表 2 中，進食後 90 分鐘及以後，兩組的血液葡萄糖水平幾乎相同。解釋這現象。（2 分）",
+          "questionTextEn": "In Table 2, the blood glucose levels of the two groups are almost the same from 90 minutes after the meal onwards. Explain this observation. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "H",
+      "figureSpecId": "B1-P1BQ7",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "學生到汀角紅樹林考察兩種螺 S 和 L 的分布。他們由近海處至近陸地處拉一條 100 m 的樣線，在樣線上設置六個站（下圖）。圖 I 顯示兩種螺在各站的密度。\n寫出這取樣方法的名稱。（1 分）",
+          "questionTextEn": "Students studied the distribution of two snail species S and L in the mangrove at Ting Kok. They laid a 100 m transect line from the seaward side to the landward side and set up six stations along it (diagram below). Graph I shows the density of the two species at each station.\nState the name of this sampling method. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "描述如何估算物種 L 在站 4 的密度。（2 分）",
+          "questionTextEn": "Describe how the density of species L at station 4 can be estimated. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "學生推測物種 L 在退潮時暴露於空氣中，仍能進行需氧呼吸。設計一個實驗，比較物種 L 在空氣中和浸在海水中的氧消耗速率。（3 分）",
+          "questionTextEn": "The students hypothesised that species L can still carry out aerobic respiration when exposed to air at low tide. Design an experiment to compare the rate of oxygen consumption of species L in air and when submerged in seawater. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "提出一項結果，若出現便能支持學生的推測。（1 分）",
+          "questionTextEn": "Suggest a result which, if obtained, would support the students' hypothesis. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "圖 II 顯示實驗結果。一名學生認為：「物種 L 比物種 S 更能適應暴露於空氣中，這解釋了圖 I 中兩物種的分布。」參考圖 I、圖 II 和你在 (c) 的答案，評價這說法。（3 分）",
+          "questionTextEn": "Graph II shows the results. A student claimed: \"Species L is better adapted than species S to being exposed to air, and this explains the distribution of the two species in Graph I.\" With reference to Graphs I and II and your answer in (c), evaluate this claim. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P1BQ8",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "麻疹是由病毒引起、經空氣傳播的傳染病。香港兒童在 1 歲及小一時各接種一劑含麻疹疫苗。某年香港出現一次麻疹爆發，共 77 宗個案，其中 9 宗曾接種兩劑疫苗。圖 I 顯示個案的年齡分布；圖 II 顯示同年人口抽樣調查中，各年齡組別體內有足夠保護性抗體的人所佔的百分率，圖中虛線表示阻止麻疹在人群中持續傳播所需的保護比例（95%）。\n描述圖 I 中個案的年齡分布。（1 分）",
+          "questionTextEn": "Measles is an infectious disease caused by a virus and transmitted through the air. Children in Hong Kong receive one dose of measles-containing vaccine at the age of 1 and another in Primary 1. In one year, there was a measles outbreak in Hong Kong with 77 cases, 9 of whom had received two doses of vaccine. Graph I shows the age distribution of the cases. Graph II shows the percentage of people with a protective level of antibodies in each age group in a population survey in the same year. The dashed line shows the proportion of protected people needed to stop measles from spreading in the population (95%).\nDescribe the age distribution of the cases in Graph I. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋 (i) 接種疫苗如何令人獲得長期保護；以及 (ii) 為什麼當人口中有足夠比例的人具保護性抗體時，未能接種疫苗的嬰兒亦會受到保護。（4 分）",
+          "questionTextEn": "Explain (i) how vaccination gives a person long-term protection, and (ii) why infants who cannot be vaccinated are also protected when a sufficient proportion of the population has protective antibodies. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "參考圖 I、圖 II 和你在 (a) 及 (b) 的答案，提出為什麼這次爆發主要影響 20–49 歲的成年人。（1 分）",
+          "questionTextEn": "With reference to Graphs I and II and your answers in (a) and (b), suggest why the outbreak mainly affected adults aged 20–49. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "有人認為：「既然有接種疫苗的人仍會感染麻疹，麻疹疫苗並不有效。」根據題目資料，評價這說法。（2 分）",
+          "questionTextEn": "Someone claimed: \"Since vaccinated people can still be infected with measles, the measles vaccine is not effective.\" Based on the information given, evaluate this claim. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P1BQ9",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "真菌 F 會分泌一種毒素，令葉片的保衞細胞保持膨脹。研究人員把健康的植物 H 和受真菌 F 感染的植物 I 同時停止淋水，觀察它們的下表皮，並量度葉片的含水量。結果如下所示。\n參考植物 I 的下表皮，提出毒素令氣孔保持張開對真菌 F 有甚麼好處。（2 分）",
+          "questionTextEn": "Fungus F secretes a toxin that keeps the guard cells of leaves turgid. A healthy plant H and a plant I infected by fungus F were both left unwatered. Their lower epidermis was observed and the water content of their leaves was measured. The results are shown below.\nWith reference to the lower epidermis of plant I, suggest how keeping the stomata open benefits fungus F. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考表中數據，解釋為什麼植物 I 在停止淋水數天後出現萎蔫。（3 分）",
+          "questionTextEn": "With reference to the data in the table, explain why plant I wilted a few days after watering stopped. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "H",
+      "figureSpecId": "B1-P1BQ10",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "稻米有一個基因控制澱粉的類型。顯性等位基因 W 令細胞製造遇碘液呈藍黑色的澱粉；隱性等位基因 w 令細胞製造遇碘液呈紅棕色的澱粉。花粉粒會按其本身帶有的等位基因製造澱粉。\n\n研究人員把一株稻米植物的花粉以碘液處理，在顯微鏡下數算，得藍黑色花粉 151 粒、紅棕色花粉 149 粒。下圖顯示其中一部分視野。\n根據花粉的結果，以遺傳圖解推斷這植物的基因型，並顯示它自花傳粉後後代植物的基因型和表現型及其比例。（植物的表現型以其製造的澱粉遇碘液的顏色表示）（4 分）",
+          "questionTextEn": "A gene in rice controls the type of starch. The dominant allele W causes cells to make starch that stains blue-black with iodine solution, while the recessive allele w causes cells to make starch that stains red-brown. Each pollen grain makes starch according to the allele it carries.\n\nPollen from a rice plant was treated with iodine solution and counted under a microscope: 151 pollen grains were blue-black and 149 were red-brown. The diagram below shows part of the field of view.\nBased on the pollen results, use a genetic diagram to deduce the genotype of this plant and show the genotypes and phenotypes of the offspring plants, with their ratios, after self-pollination. (The phenotype of a plant is shown by the colour of its starch with iodine solution.) (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "研究人員以碘液檢驗每株藍黑色後代植物的花粉。在藍黑色後代植物之中，花粉全部是藍黑色的植物佔多少？解釋你的答案。（3 分）",
+          "questionTextEn": "The pollen of each blue-black offspring plant was tested with iodine solution. Among the blue-black offspring plants, what proportion produce only blue-black pollen? Explain your answer. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "根據你在 (a) 的答案，寫出全部後代植物之中，花粉藍黑色與紅棕色比例約為 1:1 的植物所佔的比例。（1 分）",
+          "questionTextEn": "Based on your answer in (a), state the proportion of all the offspring plants that produce blue-black and red-brown pollen in a ratio of about 1:1. (1 mark)",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "H",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "考生須以短文形式回答以下題目。評分準則包括內容切題，鋪排合乎邏輯，以及表達清晰。\n\n近年多個地區的蜜蜂等傳粉昆蟲數目下降，而人類食用的水果、蔬菜和果仁大多來自蟲媒作物。討論傳粉昆蟲數目下降可能帶來的影響。\n（12 分）",
+          "questionTextEn": "You are required to present your answer to the following question in essay form. Criteria for marking will include relevant content, logical presentation and clarity of expression.\n\nIn recent years, the numbers of pollinating insects such as bees have declined in many regions, while most of the fruits, vegetables and nuts eaten by humans come from insect-pollinated crops. Discuss the possible effects of the decline in pollinating insects.\n(12 marks)",
+          "totalMarks": 12
+        }
+      ]
+    }
+  ]
+}

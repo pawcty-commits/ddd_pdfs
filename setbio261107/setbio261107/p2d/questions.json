@@ -1,0 +1,61 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 丁部 生物工程",
+  "paperTitle": "Biology Mock — Paper 2 Section D Biotechnology",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 4,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P2DQ4",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "描述如何製造能與 HCG 結合的單克隆抗體。（3 分）",
+          "questionTextEn": "Describe how monoclonal antibodies that bind to HCG are produced. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "T 線只在尿液含 HCG 時才出現紅色。根據題目資料，推斷 T 線上固定的抗體的特性，並解釋 T 線變紅的過程。（3 分）",
+          "questionTextEn": "Line T turns red only when the urine contains HCG. Based on the information given, deduce the property of the antibody fixed at line T and explain how line T turns red. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "下圖顯示四條試紙的結果。解讀每條試紙的結果。（2 分）",
+          "questionTextEn": "The diagram below shows the results of four strips. Interpret the result of each strip. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iv)",
+          "questionTextZh": "下圖顯示受精後尿液中 HCG 濃度的變化，以及試紙的最低檢測值。參考圖中數據，解釋為什麼太早驗孕可能得出假陰性結果，並建議最早何時驗孕才較可靠。（2 分）",
+          "questionTextEn": "The graph below shows the change in HCG concentration in urine after fertilisation, together with the minimum detectable level of the strip. With reference to the data, explain why testing too early may give a false negative result, and suggest the earliest time at which testing becomes reliable. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "一名兒童每月需要 18 mg 人長激素。計算以垂體提取的方法，治療這名兒童一年需要多少個垂體，並以此說明舊方法的一項不足。（3 分）",
+          "questionTextEn": "A child needs 18 mg of human growth hormone per month. Calculate how many pituitary glands are needed to treat this child for one year by the extraction method, and use this to state one limitation of the old method. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考上表，解釋以基因改造細菌生產人長激素的優點。（3 分）",
+          "questionTextEn": "With reference to the table, explain the advantages of producing human growth hormone using genetically modified bacteria. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "有人提議為身體健康、人長激素正常但身材矮小的兒童注射人長激素。研究顯示，這些兒童每日注射、持續五年，成年後平均只增高約 4 cm。評價這提議。（4 分）",
+          "questionTextEn": "It has been proposed that human growth hormone be given to healthy children who have normal levels of the hormone but are short. Studies show that with daily injections for five years, these children grow on average only about 4 cm taller as adults. Evaluate this proposal. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    }
+  ]
+}

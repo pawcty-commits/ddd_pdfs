@@ -1,0 +1,55 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 甲部 人體生理學：調節與控制",
+  "paperTitle": "Biology Mock — Paper 2 Section A Human Physiology: Regulation and Control",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P2AQ1",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "描述這女士由 44 歲至 56 歲期間促卵泡激素和雌激素水平的變化。（2 分）",
+          "questionTextEn": "Describe the changes in the levels of FSH and oestrogen of this woman from the age of 44 to 56. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋為什麼雌激素水平下降時，促卵泡激素水平會大幅上升。（4 分）",
+          "questionTextEn": "Explain why the FSH level rises greatly as the oestrogen level falls. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "激素補充療法是給更年期女士服用雌激素（及孕酮）。一名醫生說：「所有更年期女士都應接受激素補充療法。」參考表二，評價這說法。（4 分）",
+          "questionTextEn": "Hormone replacement therapy (HRT) gives oestrogen (and progesterone) to women at menopause. A doctor said: \"All women at menopause should receive HRT.\" With reference to Table 2, evaluate this statement. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "在首 5 分鐘內，胸部皮膚溫度由 33°C 降至約 14°C，但體心溫度只改變約 0.1°C。解釋皮膚血管的反應如何令體心溫度得以維持。（4 分）",
+          "questionTextEn": "In the first 5 minutes, chest skin temperature fell from 33°C to about 14°C, but core body temperature changed by only about 0.1°C. Explain how the response of the skin blood vessels maintains the core body temperature. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "描述並解釋這人在浸入海水首 5 分鐘內代謝率的變化。（3 分）",
+          "questionTextEn": "Describe and explain the change in metabolic rate of this person in the first 5 minutes in the seawater. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "離開海水後首 10 分鐘，這人的體心溫度仍然繼續下降。試提出解釋。（3 分）",
+          "questionTextEn": "In the first 10 minutes after leaving the water, the core body temperature of this person continued to fall. Suggest an explanation. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 丙部 微生物與人類",
+  "paperTitle": "Biology Mock — Paper 2 Section C Microorganisms and Humans",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 3,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "M",
+      "figureSpecId": "B1-P2CQ3",
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "計算在 25°C 萌發 3 日後，沙門氏菌數目增加的倍數。（2 分）",
+          "questionTextEn": "Calculate the number of times the *Salmonella* population increased after 3 days of germination at 25°C. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋為什麼芽菜是引致食物中毒的高危食物。（4 分）",
+          "questionTextEn": "Explain why sprouts are a high-risk food for food poisoning. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "研究人員以兩個實驗比較兩種處理種子的方法，結果如下表所示。參考數據，評價哪種方法較適合供應商使用，並提出消費者可採取的一項措施。（4 分）",
+          "questionTextEn": "Two methods of treating seeds were compared in two experiments. The results are shown below. With reference to the data, evaluate which method is more suitable for suppliers, and suggest one measure that consumers can take. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "描述首 4 日內 pH 和乳酸菌數目的變化。（2 分）",
+          "questionTextEn": "Describe the changes in pH and the number of lactic acid bacteria in the first 4 days. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋為什麼其他細菌的數目在第 1 日後下降。（4 分）",
+          "questionTextEn": "Explain why the number of other bacteria falls after day 1. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "有人建議：(1) 在新一批泡菜中加入少量上一批泡菜的汁液；(2) 把鹽的份量減半，令泡菜較健康。參考圖中數據，評價這兩項建議對泡菜安全的影響。（4 分）",
+          "questionTextEn": "Someone suggested: (1) adding a little juice from a previous batch to a new batch; (2) halving the amount of salt to make the pickles healthier. With reference to the graphs, evaluate the effects of these two suggestions on the safety of the pickles. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "研究人員以培養的人體上皮細胞探究三種物質 X、Y 和 Z 進入細胞的速率。化學物 M 能與細胞膜上所有蛋白質結合，令它們失去功能。結果如下圖所示。\n\n以下哪個組合正確辨認物質 X、Y 和 Z？\nThe rates of entry of three substances X, Y and Z into cultured human epithelial cells were investigated. Chemical M binds to all proteins in the cell membrane and makes them non-functional. The results are shown below.\n\nWhich of the following combinations correctly identifies substances X, Y and Z?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "X：氯離子；Y：葡萄糖；Z：二氧化碳\nX: chloride ions; Y: glucose; Z: carbon dioxide",
+      "B": "X：二氧化碳；Y：氯離子；Z：葡萄糖\nX: carbon dioxide; Y: chloride ions; Z: glucose",
+      "C": "X：二氧化碳；Y：葡萄糖；Z：氯離子\nX: carbon dioxide; Y: glucose; Z: chloride ions",
+      "D": "X：葡萄糖；Y：二氧化碳；Z：氯離子\nX: glucose; Y: carbon dioxide; Z: chloride ions"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "分子遺傳學/Molecular genetics",
+    "questionText": "下表顯示某雙鏈 DNA 分子其中一條鏈（鏈 1）的鹼基組成。\n\n以下哪些推論是正確的？\n(1) 在鏈 1 的互補鏈中，C 佔 30%。\n(2) 在整個 DNA 分子中，A 佔 26%。\n(3) 在整個 DNA 分子中，G 和 C 合共佔 50%。\nThe table below shows the base composition of one strand (strand 1) of a double-stranded DNA molecule.\n\nWhich of the following deductions are correct?\n(1) In the strand complementary to strand 1, C makes up 30%.\n(2) In the whole DNA molecule, A makes up 26%.\n(3) In the whole DNA molecule, G and C together make up 50%.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "某動物的基因型為 AaBb，兩對基因位於不同對的同源染色體上。假設沒有發生互換，這動物產生 AB、Ab、aB 和 ab 四種配子，比例相等。\n\n以下哪個組合正確顯示令四種配子比例相等的過程 (X)，以及等位基因 A 與 a 分離的時期 (Y)？\nAn animal has the genotype AaBb. The two pairs of genes are on different pairs of homologous chromosomes. Assuming no crossing over, the animal produces four types of gametes, AB, Ab, aB and ab, in equal proportions.\n\nWhich of the following combinations correctly shows the process that gives the four types of gametes in equal proportions (X), and the stage at which alleles A and a separate (Y)?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "X：第二次減數細胞分裂時染色單體分離；Y：第二次減數細胞分裂後期\nX: separation of chromatids in the second meiotic cell division; Y: anaphase of the second meiotic cell division",
+      "B": "X：第一次減數細胞分裂中期，各對同源染色體在赤道上隨機排列；Y：第一次減數細胞分裂後期\nX: random arrangement of each pair of homologous chromosomes at the equator at metaphase of the first meiotic cell division; Y: anaphase of the first meiotic cell division",
+      "C": "X：受精時配子隨機結合；Y：第一次減數細胞分裂後期\nX: random fusion of gametes at fertilisation; Y: anaphase of the first meiotic cell division",
+      "D": "X：第一次減數細胞分裂中期，各對同源染色體在赤道上隨機排列；Y：第二次減數細胞分裂後期\nX: random arrangement of each pair of homologous chromosomes at the equator at metaphase of the first meiotic cell division; Y: anaphase of the second meiotic cell division"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "指示：參考下圖，解答第 4 和 5 題。下圖顯示某動物的一個細胞正進行減數細胞分裂。\n\n這動物的體細胞內染色體數目是多少？\nDirections: Questions 4 and 5 refer to the diagram below, which shows a cell of an animal undergoing meiotic cell division.\n\nWhat is the chromosome number in a body cell of this animal?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "12",
+      "D": "24"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "指示：參考下圖，解答第 4 和 5 題。下圖顯示某動物的一個細胞正進行減數細胞分裂。\n\n以下哪圖正確顯示同一動物的一個細胞處於第一次減數細胞分裂中期？\nDirections: Questions 4 and 5 refer to the diagram below, which shows a cell of an animal undergoing meiotic cell division.\n\nWhich of the following diagrams correctly shows a cell of the same animal at metaphase of the first meiotic cell division?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "研究人員把同一株植物的枝條扦插，培育成一組植株；又把同一株植物的種子播種，培育成另一組植株。兩組植株在同一塊田內生長，研究人員量度四項特徵 W、X、Y 和 Z 在組內個體之間的變異，結果如下圖所示。\n\n哪項特徵最受環境因素影響？\nOne group of plants was grown from cuttings of a single plant, and another group was grown from seeds of the same plant. Both groups were grown in the same field. The variation among individuals within each group was measured for four traits W, X, Y and Z. The results are shown below.\n\nWhich trait is most affected by environmental factors?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "W",
+      "B": "X",
+      "C": "Y",
+      "D": "Z"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "生物多樣性和進化/Biodiversity and evolution",
+    "questionText": "下表顯示四個物種 K、L、M 和 N 的蛋白質 E 的氨基酸序列之間的差異數目。\n\n根據以上資料，可以得出以下哪項推論？\nThe table below shows the number of differences in the amino acid sequence of protein E among four species K, L, M and N.\n\nWith reference to the information above, which of the following can be deduced?",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "N 是四個物種中最古老、最原始的物種。\nN is the oldest and most primitive of the four species.",
+      "B": "M 由 K 進化而來。\nM evolved from K.",
+      "C": "L 的蛋白質 E 進化得最快。\nProtein E of L evolved at the fastest rate.",
+      "D": "在四個物種中，K 和 L 的同一祖先出現得最遲。\nAmong the four species, K and L share the most recent common ancestor."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "生態系/Ecosystems",
+    "questionText": "某火山島上的熔岩冷卻後，地衣首先在岩石上生長。研究人員收集已死的地衣碎片，全部消毒後分成兩份，混入已消毒的岩石碎屑：一份再加入土壤細菌，另一份不加。兩份都撒上苔蘚孢子。數月後，只有加入土壤細菌的一組有苔蘚生長。\n\n在演替初期，分解者幫助苔蘚生長，主要是因為它們\nAfter lava cooled on a volcanic island, lichens were the first organisms to grow on the rocks. Dead lichen fragments were collected, sterilised and mixed with sterilised rock particles in two portions. Soil bacteria were added to one portion but not the other. Moss spores were added to both. After a few months, mosses grew only in the portion with soil bacteria.\n\nIn the early stage of succession, decomposers help the growth of mosses mainly because they",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "把已死的地衣分解成二氧化碳，供苔蘚進行光合作用。\nbreak down dead lichens into carbon dioxide for photosynthesis of mosses.",
+      "B": "把大氣中的氮轉化為硝酸鹽，供苔蘚吸收。\nconvert nitrogen in the atmosphere into nitrates for absorption by mosses.",
+      "C": "分解已死的有機物，釋出礦物質，並與岩石碎屑形成土壤。\nbreak down dead organic matter to release minerals, forming soil with the rock particles.",
+      "D": "移除已死的地衣，騰出空間讓苔蘚生長。\nremove dead lichens to make space for mosses to grow."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 9,
+    "section": "A",
+    "category": "生態系/Ecosystems",
+    "questionText": "下圖顯示三種螞蟻 P、Q 和 R 在同一草地上覓食的活躍程度。三種螞蟻都以同類小型昆蟲為食。\n\n由以上資料，可以得出以下哪些推論？\n(1) 三個物種佔有不同的生態位。\n(2) 物種 Q 與 R 之間的種間競爭，可能較 P 與 Q 之間的弱。\n(3) 這些螞蟻的食物只在牠們活躍的時段才出現。\nThe diagram below shows the foraging activity of three ant species P, Q and R on the same grassland. All three species feed on the same kinds of small insects.\n\nWhich of the following can be deduced from the above information?\n(1) The three species occupy different ecological niches.\n(2) Interspecific competition between species Q and R is likely to be weaker than that between P and Q.\n(3) The food of these ants is available only during the periods when they are active.",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2) 和 (3)\n(2) and (3) only",
+      "C": "只有 (1) 和 (2)\n(1) and (2) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 10,
+    "section": "A",
+    "category": "生態系/Ecosystems",
+    "questionText": "研究人員在相同條件下，把真菌 K 和細菌 L 分別單獨培養，以及把兩者一同培養，結果如下圖所示。\n\nK 和 L 之間最可能是哪種關係？\nFungus K and bacterium L were grown alone and together under the same conditions. The results are shown below.\n\nWhat is the most likely relationship between K and L?",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "競爭\ncompetition",
+      "B": "互利共生\nmutualism",
+      "C": "寄生（K 是寄生物）\nparasitism (K is the parasite)",
+      "D": "偏利共生\ncommensalism"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 11,
+    "section": "A",
+    "category": "呼吸作用/Respiration",
+    "questionText": "指示：參考以下實驗，解答第 11 和 12 題。學生以下圖的裝置 P 和 Q 研究蒼蠅幼蟲的呼吸作用。兩個裝置置於 25°C 的水浴中，裝置 Q 的玻璃珠令兩個裝置內的空氣體積相同。\n\n假設蒼蠅幼蟲只以葡萄糖作呼吸受質，並只進行需氧呼吸。10 分鐘後，裝置 P 和 Q 內的顏色液會有什麼變化？\nDirections: Questions 11 and 12 refer to an experiment in which a student used set-ups P and Q below to study respiration of blowfly larvae. Both set-ups were placed in a water bath at 25°C. The glass beads in set-up Q made the volume of air in both set-ups the same.\n\nAssume that the blowfly larvae use only glucose as the respiratory substrate and carry out aerobic respiration only. What will happen to the coloured liquid in set-ups P and Q after 10 minutes?",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "P：向試管的方向移動；Q：沒有變化\nP: moves towards the tube; Q: stays still",
+      "B": "P：向試管的方向移動；Q：向試管的方向移動\nP: moves towards the tube; Q: moves towards the tube",
+      "C": "P：遠離試管的方向移動；Q：沒有變化\nP: moves away from the tube; Q: stays still",
+      "D": "P：沒有變化；Q：遠離試管的方向移動\nP: stays still; Q: moves away from the tube"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 12,
+    "section": "A",
+    "category": "呼吸作用/Respiration",
+    "questionText": "指示：參考以下實驗，解答第 11 和 12 題。學生以下圖的裝置 P 和 Q 研究蒼蠅幼蟲的呼吸作用。兩個裝置置於 25°C 的水浴中，裝置 Q 的玻璃珠令兩個裝置內的空氣體積相同。\n\n實際進行實驗時，學生發現裝置 Q 的顏色液在 10 分鐘內緩慢向試管的方向移動了 3 mm。已知以不同受質進行需氧呼吸時，每消耗 1 體積氧所釋出的二氧化碳體積如下：碳水化合物 1.0；脂肪 0.7。\n\n以下哪項最能解釋這結果？\nDirections: Questions 11 and 12 refer to an experiment in which a student used set-ups P and Q below to study respiration of blowfly larvae. Both set-ups were placed in a water bath at 25°C. The glass beads in set-up Q made the volume of air in both set-ups the same.\n\nWhen the experiment was actually carried out, the student found that the coloured liquid in set-up Q moved slowly towards the tube by 3 mm in 10 minutes. In aerobic respiration, the volume of carbon dioxide released per volume of oxygen used is 1.0 for carbohydrate and 0.7 for fat.\n\nWhich of the following best explains this result?",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "蒼蠅幼蟲同時進行缺氧呼吸。\nThe blowfly larvae also carried out anaerobic respiration.",
+      "B": "實驗期間水浴的溫度上升。\nThe temperature of the water bath rose during the experiment.",
+      "C": "玻璃珠吸收了蒼蠅幼蟲釋出的二氧化碳。\nThe glass beads absorbed the carbon dioxide released by the larvae.",
+      "D": "蒼蠅幼蟲同時以脂肪作呼吸受質，吸收的氧多於釋出的二氧化碳。\nThe blowfly larvae also used fat as a respiratory substrate, taking in more oxygen than the carbon dioxide released."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 13,
+    "section": "A",
+    "category": "呼吸作用/Respiration",
+    "questionText": "指示：參考下表，解答第 13 和 14 題。學生把四個品系的酵母分別加入等量相同的葡萄糖溶液，在缺氧條件下量度 30 分鐘內釋出的二氧化碳體積，結果如下表所示。\n\n學生認為品系 M 的缺氧呼吸速率最高。以下哪項改變最能確保四個品系之間的比較是公平的？\nDirections: Questions 13 and 14 refer to the table below. A student added four strains of yeast separately to equal volumes of the same glucose solution and measured the volume of carbon dioxide released in 30 minutes under anaerobic conditions. The results are shown below.\n\nThe student concluded that strain M has the highest rate of anaerobic respiration. Which of the following changes would best ensure that the comparison among the four strains is a fair test?",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "每個品系重複實驗三次，計算平均值。\nRepeat the experiment three times for each strain and calculate the mean.",
+      "B": "每個品系使用相同數目的活酵母細胞。\nUse the same number of living yeast cells for each strain.",
+      "C": "以柱形圖表達結果。\nPresent the results as a bar chart.",
+      "D": "把量度時間延長至 60 分鐘。\nExtend the measuring time to 60 minutes."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 14,
+    "section": "A",
+    "category": "呼吸作用/Respiration",
+    "questionText": "指示：參考下表，解答第 13 和 14 題。學生把四個品系的酵母分別加入等量相同的葡萄糖溶液，在缺氧條件下量度 30 分鐘內釋出的二氧化碳體積，結果如下表所示。\n\n在這個探究中，酵母細胞內的乙醇是怎樣形成的？\nDirections: Questions 13 and 14 refer to the table below. A student added four strains of yeast separately to equal volumes of the same glucose solution and measured the volume of carbon dioxide released in 30 minutes under anaerobic conditions. The results are shown below.\n\nIn this investigation, how is ethanol formed in the yeast cells?",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "在線粒體內由丙酮酸鹽轉化而成\nconverted from pyruvate in the mitochondria",
+      "B": "在細胞質內由葡萄糖直接分解而成\nformed directly from the breakdown of glucose in the cytoplasm",
+      "C": "在線粒體內由乳酸轉化而成\nconverted from lactic acid in the mitochondria",
+      "D": "在細胞質內由丙酮酸鹽轉化而成\nconverted from pyruvate in the cytoplasm"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 15,
+    "section": "A",
+    "category": "氣體交換/Gas exchange",
+    "questionText": "下圖顯示人肺內一組氣囊，以及其中一個放大了的氣囊和環繞它的微血管。\n\n哪個標示的位置有最高的二氧化碳濃度？\nThe diagram below shows a group of alveoli in a human lung, and one enlarged alveolus with the blood capillary around it.\n\nWhich labelled part has the highest concentration of carbon dioxide?",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 16,
+    "section": "A",
+    "category": "氣體交換/Gas exchange",
+    "questionText": "肺氣腫患者的氣囊壁受破壞，相鄰的氣囊合併；肺組織的彈性亦下降。下圖顯示正常肺組織和肺氣腫患者的肺組織。\n\n以下哪些是肺氣腫患者可能出現的情況？\n(1) 肺內進行氣體交換的總表面面積減少。\n(2) 氣囊內空氣與血液之間的擴散距離縮短。\n(3) 每次呼氣後留在肺內的空氣較多，令氣囊與血液之間的氧濃度梯度變小。\nIn people with emphysema, the walls of the alveoli are damaged and neighbouring alveoli merge. The lung tissue also loses elasticity. The diagram below shows normal lung tissue and lung tissue with emphysema.\n\nWhich of the following are likely to occur in a person with emphysema?\n(1) The total surface area for gas exchange in the lungs decreases.\n(2) The diffusion distance between the air in the alveoli and the blood is shortened.\n(3) More air remains in the lungs after each exhalation, so the oxygen concentration gradient between the alveoli and the blood becomes smaller.",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 17,
+    "section": "A",
+    "category": "氣體交換/Gas exchange",
+    "questionText": "指示：參考下圖，解答第 17 和 18 題。研究人員以超聲波量度一名男子靜坐時橫膈膜的位置，下圖顯示他的橫膈膜由靜止位置向下移動的距離。\n\n在以下哪一刻，該男子肺內的氣壓等於大氣壓力？\nDirections: Questions 17 and 18 refer to the graph below. The position of the diaphragm of a man sitting at rest was measured using ultrasound. The graph shows the downward movement of his diaphragm from its resting position.\n\nAt which of the following moments was the air pressure inside the lungs of the man equal to the atmospheric pressure?",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "1 s",
+      "B": "3 s",
+      "C": "5 s",
+      "D": "10 s"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "section": "A",
+    "category": "氣體交換/Gas exchange",
+    "questionText": "指示：參考下圖，解答第 17 和 18 題。研究人員以超聲波量度一名男子靜坐時橫膈膜的位置，下圖顯示他的橫膈膜由靜止位置向下移動的距離。\n\n以下哪些有關時段 S 的描述是正確的？\n(1) 橫膈膜的肌肉收縮。\n(2) 肺內的氣壓低於大氣壓力。\n(3) 胸腔的體積減小。\nDirections: Questions 17 and 18 refer to the graph below. The position of the diaphragm of a man sitting at rest was measured using ultrasound. The graph shows the downward movement of his diaphragm from its resting position.\n\nWhich of the following descriptions about period S are correct?\n(1) The muscles of the diaphragm contract.\n(2) The air pressure inside the lungs is lower than the atmospheric pressure.\n(3) The volume of the thoracic cavity decreases.",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2) 和 (3)\n(2) and (3) only",
+      "C": "只有 (1) 和 (2)\n(1) and (2) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 19,
+    "section": "A",
+    "category": "物質轉運/Transport in humans",
+    "questionText": "下圖是心臟在某一刻的示意圖，粗黑線表示瓣膜在這一刻的狀態。\n\n在這一刻之後，心室開始舒張。以下哪項會最先發生？\nThe diagram below shows the heart at a particular moment. The thick black lines show the state of the valves at that moment.\n\nAfter this moment, the ventricles begin to relax. Which of the following will happen first?",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "半月瓣關閉\nThe semilunar valves close.",
+      "B": "房室瓣開啟\nThe atrioventricular valves open.",
+      "C": "心房開始收縮\nThe atria begin to contract.",
+      "D": "血液由心房流入心室\nBlood flows from the atria into the ventricles."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 20,
+    "section": "A",
+    "category": "物質轉運/Transport in humans",
+    "questionText": "一名病人的二尖瓣（左心房與左心室之間的房室瓣）不能完全關閉。以下哪項最可能是這缺陷的後果？\nThe bicuspid valve (the atrioventricular valve between the left atrium and the left ventricle) of a patient cannot close completely. Which of the following is most likely to be a consequence of this defect?",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "心室舒張時，血液不能由左心房流入左心室。\nWhen the ventricles relax, blood cannot flow from the left atrium into the left ventricle.",
+      "B": "左心室收縮時，部分血液倒流入左心房，令泵入大動脈的血量減少。\nWhen the left ventricle contracts, some blood flows back into the left atrium, so less blood is pumped into the aorta.",
+      "C": "左心室收縮時，血液經二尖瓣流入右心房。\nWhen the left ventricle contracts, blood flows through the bicuspid valve into the right atrium.",
+      "D": "心室舒張時，血液由大動脈倒流入左心室。\nWhen the ventricles relax, blood flows back from the aorta into the left ventricle."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 21,
+    "section": "A",
+    "category": "物質轉運/Transport in humans",
+    "questionText": "指示：參考下圖，解答第 21 和 22 題。下圖顯示人體循環系統的一部分，J、K 和 L 代表血管。\n\n一名健康人士進食高蛋白質膳食後一小時，哪條血管內的氨基酸濃度最高，以及哪條血管內的尿素濃度最高？\nDirections: Questions 21 and 22 refer to the diagram below, which shows part of the human circulatory system. J, K and L represent blood vessels.\n\nOne hour after a healthy person has taken a protein-rich meal, in which blood vessel is the concentration of amino acids highest, and in which blood vessel is the concentration of urea highest?",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "氨基酸：J；尿素：K\namino acids: J; urea: K",
+      "B": "氨基酸：K；尿素：K\namino acids: K; urea: K",
+      "C": "氨基酸：L；尿素：K\namino acids: L; urea: K",
+      "D": "氨基酸：K；尿素：L\namino acids: K; urea: L"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 22,
+    "section": "A",
+    "category": "物質轉運/Transport in humans",
+    "questionText": "指示：參考下圖，解答第 21 和 22 題。下圖顯示人體循環系統的一部分，J、K 和 L 代表血管。\n\n以下哪些有關肝所產生的尿素的描述是正確的？\n(1) 肝產生的尿素經 J 運往腎。\n(2) 肝產生的尿素經 L 和大靜脈回到右心房。\n(3) L 內的尿素要先經肺循環，才可到達腎。\nDirections: Questions 21 and 22 refer to the diagram below, which shows part of the human circulatory system. J, K and L represent blood vessels.\n\nWhich of the following descriptions about the urea produced by the liver are correct?\n(1) Urea produced by the liver is carried to the kidneys in J.\n(2) Urea produced by the liver returns to the right atrium through L and the vena cava.\n(3) Urea in L must pass through the pulmonary circulation before it can reach the kidneys.",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 23,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "以下哪些構造有助減少可動關節內骨與骨之間的摩擦？\n(1) 軟骨\n(2) 滑液\n(3) 韌帶\nWhich of the following structures help reduce friction between bones in a movable joint?\n(1) cartilage\n(2) synovial fluid\n(3) ligament",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "只有 (1) 和 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 24,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "一名患者凝視中央的「＋」，研究人員在不同位置顯示細小光點，以測試他右眼的視野，結果如下圖所示。\n\n以下哪項最可能解釋中央的黑色區域？\nA patient looked at the \"+\" at the centre while small spots of light were shown at different positions to test the visual field of his right eye. The result is shown below.\n\nWhich of the following best explains the black area at the centre?",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "患者的盲點擴大了。\nThe patient's blind spot has enlarged.",
+      "B": "患者的晶體變得混濁。\nThe patient's lens has become cloudy.",
+      "C": "患者黃點的感光細胞受損。\nThe light-sensitive cells at the yellow spot of the patient are damaged.",
+      "D": "患者視網膜周邊的視桿細胞受損。\nThe rod cells at the edge of the retina of the patient are damaged."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 25,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "研究人員以三組燕麥胚芽鞘進行實驗，兩天後的結果如下圖所示。\n\n由這實驗可以得出以下哪項/些推論？\n(1) 胚芽鞘要受單向光照射才會彎曲生長。\n(2) 胚芽鞘的尖端是感受光的部位。\n(3) 在 Q 中，胚芽鞘背光一側的生長素濃度較高。\nAn experiment was carried out using three groups of oat coleoptiles. The results after two days are shown below.\n\nWhich of the following can be deduced from this experiment?\n(1) Coleoptiles bend only when they receive unilateral light.\n(2) The tip of the coleoptile is the region that detects light.\n(3) In Q, the concentration of auxin is higher on the shaded side of the coleoptile.",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 和 (2)\n(1) and (2) only",
+      "D": "只有 (2) 和 (3)\n(2) and (3) only"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 26,
+    "section": "A",
+    "category": "光合作用/Photosynthesis",
+    "questionText": "指示：參考以下實驗，解答第 26 和 27 題。研究人員把菠菜葉圓片浸在溶液中，在恆定光強度下量度兩種卡爾文循環化合物 J 和 K 的相對濃度。在第 300 秒，通入溶液的空氣中二氧化碳濃度由 0.03% 增至 1%。結果如下圖所示。J 和 K 分別是 3碳化合物和 5碳化合物之一。\n\n以下哪個組合正確顯示化合物 J 及其濃度變化的解釋？\nDirections: Questions 26 and 27 refer to an experiment in which spinach leaf discs were placed in a solution under constant light intensity, and the relative concentrations of two compounds J and K in the Calvin cycle were measured. At 300 s, the carbon dioxide concentration of the air bubbled into the solution was raised from 0.03% to 1%. The results are shown below. J and K are the 3-C compound and the 5-C compound, in no particular order.\n\nWhich of the following combinations correctly shows compound J and the explanation for the change in its concentration?",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "J：5碳化合物；解釋：更多 3碳化合物被還原，再生成 5碳化合物\nJ: 5-C compound; explanation: more 3-C compound is reduced to regenerate 5-C compound",
+      "B": "J：3碳化合物；解釋：更多 5碳化合物與二氧化碳結合，形成 3碳化合物\nJ: 3-C compound; explanation: more 5-C compound combines with carbon dioxide to form 3-C compound",
+      "C": "J：3碳化合物；解釋：光化反應產生更多 ATP 和 NADPH\nJ: 3-C compound; explanation: more ATP and NADPH are produced in the photochemical reactions",
+      "D": "J：5碳化合物；解釋：二氧化碳受體的再生速率增加\nJ: 5-C compound; explanation: the rate of regeneration of carbon dioxide acceptor increases"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 27,
+    "section": "A",
+    "category": "光合作用/Photosynthesis",
+    "questionText": "指示：參考以下實驗，解答第 26 和 27 題。研究人員把菠菜葉圓片浸在溶液中，在恆定光強度下量度兩種卡爾文循環化合物 J 和 K 的相對濃度。在第 300 秒，通入溶液的空氣中二氧化碳濃度由 0.03% 增至 1%。結果如下圖所示。J 和 K 分別是 3碳化合物和 5碳化合物之一。\n\n由這實驗的結果，可以得出以下哪些結論？\n(1) 在 0.03% 二氧化碳下，二氧化碳濃度是碳固定速率的限制因素。\n(2) 在首 300 秒，J 和 K 的濃度保持穩定，表示兩者的生成速率等於消耗速率。\n(3) 提高二氧化碳濃度令光化反應的速率上升。\nDirections: Questions 26 and 27 refer to an experiment in which spinach leaf discs were placed in a solution under constant light intensity, and the relative concentrations of two compounds J and K in the Calvin cycle were measured. At 300 s, the carbon dioxide concentration of the air bubbled into the solution was raised from 0.03% to 1%. The results are shown below. J and K are the 3-C compound and the 5-C compound, in no particular order.\n\nWhich of the following conclusions can be drawn from the results of this experiment?\n(1) At 0.03% carbon dioxide, carbon dioxide concentration is a limiting factor of the rate of carbon fixation.\n(2) In the first 300 s, the concentrations of J and K remain steady, showing that the rate of formation of each equals its rate of use.\n(3) Raising the carbon dioxide concentration increases the rate of the photochemical reactions.",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 28,
+    "section": "A",
+    "category": "植物/Plants",
+    "questionText": "指示：參考下圖，解答第 28 和 29 題。下圖顯示一種生長在乾旱、陽光猛烈地區的植物的葉片切面（示意圖）。\n\nW 在葉片上表面較在下表面厚得多。以下哪項最能解釋這特徵？\nDirections: Questions 28 and 29 refer to the diagram below, which shows a section of a leaf of a plant growing in a dry and sunny area.\n\nW is much thicker on the upper surface than on the lower surface of the leaf. Which of the following best explains this feature?",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "上表面有較多氣孔，W 防止水分經氣孔流失。\nThere are more stomata on the upper surface, and W prevents water loss through the stomata.",
+      "B": "上表面受較強陽光照射，溫度較高，W 減少水分從上表面蒸發流失。\nThe upper surface receives stronger sunlight and is at a higher temperature, and W reduces water loss by evaporation from the upper surface.",
+      "C": "W 由死細胞組成，可支持葉片。\nW consists of dead cells which support the leaf.",
+      "D": "W 可儲存水分，在乾旱時供葉片使用。\nW stores water for use by the leaf during drought."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 29,
+    "section": "A",
+    "category": "植物/Plants",
+    "questionText": "指示：參考下圖，解答第 28 和 29 題。下圖顯示一種生長在乾旱、陽光猛烈地區的植物的葉片切面（示意圖）。\n\n在光強度很低（低於補償點）時，氧和二氧化碳在細胞 V 與葉內氣隙之間的淨移動方向是怎樣？\nDirections: Questions 28 and 29 refer to the diagram below, which shows a section of a leaf of a plant growing in a dry and sunny area.\n\nAt a very low light intensity (below the compensation point), what is the direction of the net movement of oxygen and carbon dioxide between cell V and the air spaces in the leaf?",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "氧：由 V 進入氣隙；二氧化碳：由氣隙進入 V\noxygen: from V into the air spaces; carbon dioxide: from the air spaces into V",
+      "B": "氧：由 V 進入氣隙；二氧化碳：由 V 進入氣隙\noxygen: from V into the air spaces; carbon dioxide: from V into the air spaces",
+      "C": "氧：由氣隙進入 V；二氧化碳：由 V 進入氣隙\noxygen: from the air spaces into V; carbon dioxide: from V into the air spaces",
+      "D": "氧：沒有淨移動；二氧化碳：沒有淨移動\noxygen: no net movement; carbon dioxide: no net movement"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 30,
+    "section": "A",
+    "category": "植物/Plants",
+    "questionText": "指示：參考下圖，解答第 30 和 31 題。學生用蒸騰計量度一條帶葉枝條的吸水情況，並記錄氣泡在刻度上的位置。實驗開始時，溫度為 30°C，空氣靜止；第 12 分鐘開動風扇；第 24 分鐘把溫度降至 20°C（風扇繼續開動）；第 36 分鐘關掉風扇；第 48 分鐘再開動風扇。結果如下圖所示。假設吸水速率等於蒸騰速率。\n\n在哪個時段，枝條的蒸騰速率最高？\nDirections: Questions 30 and 31 refer to the graph below. A student used a potometer to measure the water uptake of a leafy shoot and recorded the position of the air bubble on the scale. At the start, the temperature was 30°C and the air was still. At 12 min a fan was switched on; at 24 min the temperature was lowered to 20°C (fan still on); at 36 min the fan was switched off; at 48 min the fan was switched on again. The results are shown below. Assume that the rate of water uptake equals the rate of transpiration.\n\nDuring which period is the rate of transpiration of the shoot highest?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "0–12 分鐘\n0–12 min",
+      "B": "12–24 分鐘\n12–24 min",
+      "C": "24–36 分鐘\n24–36 min",
+      "D": "48–60 分鐘\n48–60 min"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 31,
+    "section": "A",
+    "category": "植物/Plants",
+    "questionText": "指示：參考下圖，解答第 30 和 31 題。學生用蒸騰計量度一條帶葉枝條的吸水情況，並記錄氣泡在刻度上的位置。實驗開始時，溫度為 30°C，空氣靜止；第 12 分鐘開動風扇；第 24 分鐘把溫度降至 20°C（風扇繼續開動）；第 36 分鐘關掉風扇；第 48 分鐘再開動風扇。結果如下圖所示。假設吸水速率等於蒸騰速率。\n\n在哪一次改變條件後，蒸騰速率的降幅最大？\nDirections: Questions 30 and 31 refer to the graph below. A student used a potometer to measure the water uptake of a leafy shoot and recorded the position of the air bubble on the scale. At the start, the temperature was 30°C and the air was still. At 12 min a fan was switched on; at 24 min the temperature was lowered to 20°C (fan still on); at 36 min the fan was switched off; at 48 min the fan was switched on again. The results are shown below. Assume that the rate of water uptake equals the rate of transpiration.\n\nAfter which change in conditions does the rate of transpiration fall the most?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "第 12 分鐘\nat 12 min",
+      "B": "第 24 分鐘\nat 24 min",
+      "C": "第 36 分鐘\nat 36 min",
+      "D": "第 48 分鐘\nat 48 min"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 32,
+    "section": "A",
+    "category": "生殖、生長和發育/Reproduction, growth and development",
+    "questionText": "指示：參考下圖，解答第 32 至 34 題。下圖顯示一個剖開的豌豆豆莢，以及其中一粒種子的切面。結出這豆莢的豌豆植物基因型為 Aa，它的花接受了一株基因型為 aa 的植物的花粉。\n\n以下哪個構造是由合子發育而成的？\nDirections: Questions 32 to 34 refer to the diagram below, which shows an opened pea pod and a section of one of its seeds. The pea plant bearing this pod has the genotype Aa, and its flower received pollen from a plant of genotype aa.\n\nWhich of the following structures developed from the zygote?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 33,
+    "section": "A",
+    "category": "生殖、生長和發育/Reproduction, growth and development",
+    "questionText": "指示：參考下圖，解答第 32 至 34 題。下圖顯示一個剖開的豌豆豆莢，以及其中一粒種子的切面。結出這豆莢的豌豆植物基因型為 Aa，它的花接受了一株基因型為 aa 的植物的花粉。\n\n以下哪些有關構造 P、Q 和 R 基因型的描述是正確的？\n(1) P 的基因型必定是 Aa。\n(2) Q 的基因型可能是 aa。\n(3) R 的基因型可能是 aa。\nDirections: Questions 32 to 34 refer to the diagram below, which shows an opened pea pod and a section of one of its seeds. The pea plant bearing this pod has the genotype Aa, and its flower received pollen from a plant of genotype aa.\n\nWhich of the following descriptions about the genotypes of structures P, Q and R are correct?\n(1) The genotype of P must be Aa.\n(2) The genotype of Q may be aa.\n(3) The genotype of R may be aa.",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "只有 (1) 和 (3)\n(1) and (3) only",
+      "B": "只有 (1) 和 (2)\n(1) and (2) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 34,
+    "section": "A",
+    "category": "生殖、生長和發育/Reproduction, growth and development",
+    "questionText": "指示：參考下圖，解答第 32 至 34 題。下圖顯示一個剖開的豌豆豆莢，以及其中一粒種子的切面。結出這豆莢的豌豆植物基因型為 Aa，它的花接受了一株基因型為 aa 的植物的花粉。\n\n豌豆成熟時，P 會變乾、扭曲並裂開，把種子彈出。與由動物進食果實而散播的種子比較，這種散播方法有什麼不利之處？\nDirections: Questions 32 to 34 refer to the diagram below, which shows an opened pea pod and a section of one of its seeds. The pea plant bearing this pod has the genotype Aa, and its flower received pollen from a plant of genotype aa.\n\nWhen the pea matures, P dries, twists and splits open, throwing out the seeds. Compared with seeds dispersed by animals that eat fruits, what is a disadvantage of this method of dispersal?",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "種子只能散播到離親代植物不遠的地方。\nThe seeds can only be dispersed to places not far from the parent plant.",
+      "B": "種子必須經過動物的消化道才能萌發。\nThe seeds must pass through the alimentary canal of an animal before they can germinate.",
+      "C": "種子沒有種皮保護，容易失水而死。\nThe seeds have no testa for protection and easily die from water loss.",
+      "D": "種子缺乏儲存養料，萌發後生長較慢。\nThe seeds lack stored food and grow slowly after germination."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 35,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "指示：參考下圖，解答第 35 和 36 題。學生從同一根紅蘿蔔切出長度相同但直徑不同的圓柱 X 和 Y，在 20°C 下浸在 0.8 M 蔗糖溶液中，定時量度它們的質量。\n\n以下哪圖最能顯示 X 和 Y 質量的百分率變化？\nDirections: Questions 35 and 36 refer to the diagram below. A student cut cylinders X and Y of the same length but different diameters from the same carrot. They were placed in 0.8 M sucrose solution at 20°C and their masses were measured at intervals.\n\nWhich of the following graphs best shows the percentage change in mass of X and Y?",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 36,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "指示：參考下圖，解答第 35 和 36 題。學生從同一根紅蘿蔔切出長度相同但直徑不同的圓柱 X 和 Y，在 20°C 下浸在 0.8 M 蔗糖溶液中，定時量度它們的質量。\n\n若以相同的裝置重複實驗，但把溫度提高至 35°C，以下哪圖最能顯示圓柱 Y 在 20°C 和 35°C 下質量的百分率變化？\nDirections: Questions 35 and 36 refer to the diagram below. A student cut cylinders X and Y of the same length but different diameters from the same carrot. They were placed in 0.8 M sucrose solution at 20°C and their masses were measured at intervals.\n\nIf the experiment is repeated with the same set-up except that the temperature is raised to 35°C, which of the following graphs best shows the percentage change in mass of cylinder Y at 20°C and 35°C?",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correctAnswer": "A"
+  }
+]
