@@ -1,0 +1,374 @@
+{
+  "paperTitleZh": "數學延伸部分 單元一（微積分與統計）全新模擬卷",
+  "paperTitle": "Mathematics Extended Part Module 1 (Calculus and Statistics) Mock",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "A",
+      "categoryZh": "離散隨機變量",
+      "categoryEn": "Discrete random variables",
+      "difficultyGrade": "易",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $X$ 為一離散隨機變量，其概率函數為 $P(X=x)=k(c-x)$，其中 $x=1,2,3,4,5$，而 $k$ 及 $c$ 均為常數。已知 $E(X)=\\frac{7}{3}$。\n求 $k$ 及 $c$。",
+          "questionTextEn": "Let $X$ be a discrete random variable with probability function $P(X=x)=k(c-x)$, where $x=1,2,3,4,5$, and $k$ and $c$ are constants. It is given that $E(X)=\\frac{7}{3}$.\nFind $k$ and $c$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 $\\bar{X}$ 為 56 個 $X$ 的獨立隨機觀察的平均值。求 $\\operatorname{Var}(\\bar{X})$ 及 $P(\\bar{X}>2.5)$。",
+          "questionTextEn": "Let $\\bar{X}$ be the mean of 56 independent random observations of $X$. Find $\\operatorname{Var}(\\bar{X})$ and $P(\\bar{X}>2.5)$.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "A",
+      "categoryZh": "二項分佈",
+      "categoryEn": "Binomial distribution",
+      "difficultyGrade": "易",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $Y$ 依循一試驗次數為 6 及每次試驗成功的概率為 $p$ 的二項分佈，其中 $0<p<1$。已知 $P(Y=5)=2P(Y=6)$。\n求 $p$。",
+          "questionTextEn": "Let $Y$ follow a binomial distribution with 6 trials and probability of success $p$ in each trial, where $0<p<1$. It is given that $P(Y=5)=2P(Y=6)$.\nFind $p$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $P(Y>E(Y))$。",
+          "questionTextEn": "Find $P(Y>E(Y))$.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "A",
+      "categoryZh": "置信區間",
+      "categoryEn": "Confidence intervals",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某牌子電動滑板車充滿電後可行駛的距離依循一平均值為 $\\mu$ km 的概率分佈。從大批該牌子電動滑板車中隨機選取一個 64 部的樣本，將它們可行駛的距離記為 $x_1,x_2,\\ldots,x_{64}$（以 km 為單位）。已知 $\\sum_{i=1}^{64}x_i=1632$ 及 $\\sum_{i=1}^{64}x_i^2=41978.88$。樣本標準差為 $\\sqrt{\\frac{1}{n-1}\\left(\\sum_{i=1}^{n}x_i^2-n\\bar{x}^2\\right)}$，其中 $n$ 為樣本大小及 $\\bar{x}$ 為樣本平均值。\n求樣本平均值及樣本標準差。",
+          "questionTextEn": "The distance that a brand of electric scooter can travel on a full charge follows a probability distribution with mean $\\mu$ km. A sample of 64 scooters is randomly selected from a large batch of scooters of this brand, and their distances are denoted by $x_1,x_2,\\ldots,x_{64}$ (in km). It is given that $\\sum_{i=1}^{64}x_i=1632$ and $\\sum_{i=1}^{64}x_i^2=41978.88$. The sample standard deviation is $\\sqrt{\\frac{1}{n-1}\\left(\\sum_{i=1}^{n}x_i^2-n\\bar{x}^2\\right)}$, where $n$ is the sample size and $\\bar{x}$ is the sample mean.\nFind the sample mean and the sample standard deviation.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "某人宣稱以該樣本平均值及樣本標準差構作 $\\mu$ 的 95% 置信區間不包含 25。你是否同意？解釋你的答案。",
+          "questionTextEn": "Someone claims that the 95% confidence interval for $\\mu$ constructed using this sample mean and sample standard deviation does not contain 25. Do you agree? Explain your answer.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "從大批該牌子電動滑板車中隨機選取另一個 $m$ 部的樣本，其樣本平均值及樣本標準差與 (a) 的相同。若以該樣本構作 $\\mu$ 的 95% 置信區間不包含 25，求 $m$ 的最小值。",
+          "questionTextEn": "Another sample of $m$ scooters is randomly selected from the large batch, and its sample mean and sample standard deviation are the same as those in (a). If the 95% confidence interval for $\\mu$ constructed using this sample does not contain 25, find the least value of $m$.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "A",
+      "categoryZh": "概率",
+      "categoryEn": "Probability",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $A$ 及 $B$ 為兩事件。已知 $P(A\\mid B)=0.3$、$P(A\\cap B)=0.12$ 及 $P(A'\\cap B')=0.4$。\n求 $P(B)$ 及 $P(A)$。",
+          "questionTextEn": "Let $A$ and $B$ be two events. It is given that $P(A\\mid B)=0.3$, $P(A\\cap B)=0.12$ and $P(A'\\cap B')=0.4$.\nFind $P(B)$ and $P(A)$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "$A$ 與 $B$ 是否獨立？解釋你的答案。",
+          "questionTextEn": "Are $A$ and $B$ independent? Explain your answer.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "設 $C$ 為一事件使得 $A$ 與 $C$ 獨立且 $P(A\\cup C)=0.66$。求 $P(C)$。",
+          "questionTextEn": "Let $C$ be an event such that $A$ and $C$ are independent and $P(A\\cup C)=0.66$. Find $P(C)$.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "A",
+      "categoryZh": "求導法則",
+      "categoryEn": "Differentiation",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "對所有 $x\\in\\mathbf{R}$，定義 $f(x)=e^{2x}-6e^{x}+4x$。\n證明 $f'(x)=2(e^x-1)(e^x-2)$。",
+          "questionTextEn": "For all $x\\in\\mathbf{R}$, define $f(x)=e^{2x}-6e^{x}+4x$.\nProve that $f'(x)=2(e^x-1)(e^x-2)$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "某人宣稱對所有 $x>0$，$f(x)$ 隨 $x$ 增加而增加。你是否同意？解釋你的答案。",
+          "questionTextEn": "Someone claims that $f(x)$ increases as $x$ increases for all $x>0$. Do you agree? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "A",
+      "categoryZh": "二項式展開",
+      "categoryEn": "Binomial expansion",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $k$ 為一正常數。依 $x$ 的升冪次序展開 $k^x$ 至含 $x^2$ 的項為止，答案以 $\\ln k$ 表達。",
+          "questionTextEn": "Let $k$ be a positive constant. Expand $k^x$ in ascending powers of $x$ as far as the term in $x^2$, giving the answer in terms of $\\ln k$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求 $k$ 的真確值。",
+          "questionTextEn": "Find the exact value of $k$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "利用 $(1+x)^5k^x=(1+x)\\left[(1+x)^4k^x\\right]$，求在 $(1+x)^5k^x$ 的展開式中 $x^2$ 的係數。",
+          "questionTextEn": "Using $(1+x)^5k^x=(1+x)\\left[(1+x)^4k^x\\right]$, find the coefficient of $x^2$ in the expansion of $(1+x)^5k^x$.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "A",
+      "categoryZh": "定積分及面積",
+      "categoryEn": "Definite integrals and areas",
+      "difficultyGrade": "中",
+      "figureSpecId": "X1-1-Q7",
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮曲線 $C$：$y=x^3e^{-x^2}$（見圖）。\n藉考慮 $\\frac{d}{dx}\\left[(x^2+1)e^{-x^2}\\right]$，求 $\\int x^3e^{-x^2}\\,dx$。",
+          "questionTextEn": "Consider the curve $C$: $y=x^3e^{-x^2}$ (see the figure).\nBy considering $\\frac{d}{dx}\\left[(x^2+1)e^{-x^2}\\right]$, find $\\int x^3e^{-x^2}\\,dx$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $C$、$x$ 軸、直線 $x=-1$ 與直線 $x=1$ 圍成的區域的總面積。",
+          "questionTextEn": "Find the total area of the regions bounded by $C$, the $x$-axis, the line $x=-1$ and the line $x=1$.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "A",
+      "categoryZh": "導數的應用",
+      "categoryEn": "Applications of differentiation",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮曲線 $\\Gamma$：$y=ax+b+\\frac{8}{(x+1)^2}$，其中 $x>-1$，而 $a$ 及 $b$ 均為常數。已知 $\\Gamma$ 於 $x=1$ 處有一轉向點，且 $\\Gamma$ 通過點 $(1,5)$。\n求 $a$ 及 $b$。",
+          "questionTextEn": "Consider the curve $\\Gamma$: $y=ax+b+\\frac{8}{(x+1)^2}$, where $x>-1$, and $a$ and $b$ are constants. It is given that $\\Gamma$ has a turning point at $x=1$ and $\\Gamma$ passes through the point $(1,5)$.\nFind $a$ and $b$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "$\\Gamma$ 是否有極大點？解釋你的答案。",
+          "questionTextEn": "Does $\\Gamma$ have a maximum point? Explain your answer.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求 $\\Gamma$ 在 $x=3$ 處的切線的方程。",
+          "questionTextEn": "Find the equation of the tangent to $\\Gamma$ at $x=3$.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "B",
+      "categoryZh": "泊松分佈",
+      "categoryEn": "Poisson distribution",
+      "difficultyGrade": "難",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某觀星營地在晴朗的晚上每小時可觀察到的流星數目依循平均值為 $\\lambda$ 的泊松分佈。已知在某一小時內恰好觀察到 2 顆流星的概率是恰好觀察到 1 顆流星的概率的 1.2 倍。\n求 $\\lambda$。",
+          "questionTextEn": "The number of meteors that can be observed per hour on a clear night at a stargazing campsite follows a Poisson distribution with mean $\\lambda$. It is given that the probability of observing exactly 2 meteors in a certain hour is 1.2 times the probability of observing exactly 1 meteor in that hour.\nFind $\\lambda$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求在某 20 分鐘內觀察到至少 2 顆流星的概率。",
+          "questionTextEn": "Find the probability that at least 2 meteors are observed in a certain 20-minute period.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "求該觀星者在某晚的該 3 小時內共觀察到 4 顆流星的概率。",
+          "questionTextEn": "Find the probability that the stargazer observes a total of 4 meteors in the 3 hours of a certain night.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "已知該觀星者在某晚的該 3 小時內共觀察到 4 顆流星，求當晚為*豐收*的概率。",
+          "questionTextEn": "Given that the stargazer observes a total of 4 meteors in the 3 hours of a certain night, find the probability that the night is *fruitful*.",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(iii)",
+          "questionTextZh": "設 $P_n$ 為在 $n$ 個晴朗的晚上中恰好有 $(n-1)$ 晚為*豐收*的概率，其中 $n$ 為一正整數。某人宣稱 $P_n$ 在 $n=4$ 時最大。你是否同意？解釋你的答案。",
+          "questionTextEn": "Let $P_n$ be the probability that exactly $(n-1)$ of $n$ clear nights are *fruitful*, where $n$ is a positive integer. Someone claims that $P_n$ is greatest when $n=4$. Do you agree? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "B",
+      "categoryZh": "正態分佈",
+      "categoryEn": "Normal distribution",
+      "difficultyGrade": "難",
+      "figureSpecId": null,
+      "totalMarks": 14,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某牌子手機由充滿電至自動關機的使用時間 $T$ 小時依循平均值為 $\\mu$ 小時及標準差為 $\\sigma$ 小時的正態分佈。已知 11.51% 該牌子手機的 $T$ 大於 26，而 2.28% 該牌子手機的 $T$ 小於 18。若某手機的 $T>25$，則稱該手機為*耐用*；若某手機的 $T<20$，則稱該手機為*不合格*。\n求 $\\mu$ 及 $\\sigma$。",
+          "questionTextEn": "The usage time $T$ hours of a brand of mobile phone, from fully charged to automatic shutdown, follows a normal distribution with mean $\\mu$ hours and standard deviation $\\sigma$ hours. It is given that 11.51% of the phones of this brand have $T$ greater than 26 and 2.28% of the phones have $T$ less than 18. A phone is called *durable* if $T>25$, and is called *defective* if $T<20$.\nFind $\\mu$ and $\\sigma$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "已知某部該牌子手機不是*不合格*，求它是*耐用*的概率。",
+          "questionTextEn": "Given that a phone of this brand is not *defective*, find the probability that it is *durable*.",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "求第一部被檢查的手機是*不合格*的概率。",
+          "questionTextEn": "Find the probability that the first phone inspected is *defective*.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "求該檢查員檢查了 8 部手機的概率。",
+          "questionTextEn": "Find the probability that the inspector inspects 8 phones.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(iii1)",
+          "questionTextZh": "已知該檢查員檢查了 8 部手機。被檢查的 8 部手機中*耐用*手機數目的期望值是否超過 1.8？解釋你的答案。",
+          "questionTextEn": "Given that the inspector inspects 8 phones, does the expected number of *durable* phones among the 8 phones inspected exceed 1.8? Explain your answer.",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(iii2)",
+          "questionTextZh": "已知該檢查員檢查了 8 部手機，求在被檢查的 8 部手機中恰好有 2 部是*耐用*的概率。",
+          "questionTextEn": "Given that the inspector inspects 8 phones, find the probability that exactly 2 of the 8 phones inspected are *durable*.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "B",
+      "categoryZh": "梯形法則",
+      "categoryEn": "Trapezoidal rule",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 13,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某滑雪場在晚上以造雪機造雪。設 $t$（$0\\le t\\le 4$）為自當晚下午 6 時起計所經過的時數。在該段時間內，造雪的速率為 $8te^{\\frac{t^2}{16}}$ m³ 每小時，而積雪融化的速率為 $10\\sqrt{1+e^{\\frac{t}{2}}}$ m³ 每小時。\n利用梯形法則將區間分成 4 個子區間，估計 $\\int_0^4\\sqrt{1+e^{\\frac{t}{2}}}\\,dt$。",
+          "questionTextEn": "A ski resort makes snow with snow machines in the evening. Let $t$ ($0\\le t\\le 4$) be the number of hours elapsed since 6 p.m. During this period, snow is produced at a rate of $8te^{\\frac{t^2}{16}}$ m³ per hour, and snow melts at a rate of $10\\sqrt{1+e^{\\frac{t}{2}}}$ m³ per hour.\nUse the trapezoidal rule with 4 sub-intervals to estimate $\\int_0^4\\sqrt{1+e^{\\frac{t}{2}}}\\,dt$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "利用代換積分法，計算 $\\int_0^4 8te^{\\frac{t^2}{16}}\\,dt$。",
+          "questionTextEn": "Using integration by substitution, evaluate $\\int_0^4 8te^{\\frac{t^2}{16}}\\,dt$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "利用 (a) 及 (b)，估計由 $t=0$ 至 $t=4$ 該滑雪場積雪量的改變。",
+          "questionTextEn": "Using (a) and (b), estimate the change in the amount of snow at the ski resort from $t=0$ to $t=4$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "由 $t=0$ 至 $t=4$，該滑雪場的積雪量是否增加多於 29 m³？解釋你的答案。",
+          "questionTextEn": "From $t=0$ to $t=4$, does the amount of snow at the ski resort increase by more than 29 m³? Explain your answer.",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "B",
+      "categoryZh": "導數的應用",
+      "categoryEn": "Applications of differentiation",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 11,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某漁場在一魚塘內飼養魚。設 $t$（$t\\ge 0$）為自投放魚苗起計所經過的月數。已知該魚塘內魚的數目為 $5000e^{-\\frac{t}{10}}$，而魚的平均質量為 $3\\left(1-e^{-\\frac{t}{5}}\\right)$ kg。設 $W$（以千 kg 為單位）為該魚塘內魚的總質量。\n求 $\\frac{dW}{dt}$。",
+          "questionTextEn": "A fish farm raises fish in a pond. Let $t$ ($t\\ge 0$) be the number of months elapsed since the fry were released. It is given that the number of fish in the pond is $5000e^{-\\frac{t}{10}}$ and the average mass of the fish is $3\\left(1-e^{-\\frac{t}{5}}\\right)$ kg. Let $W$ (in thousand kg) be the total mass of the fish in the pond.\nFind $\\frac{dW}{dt}$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $t$ 的真確值使 $W$ 達至其最大值。",
+          "questionTextEn": "Find the exact value of $t$ such that $W$ attains its greatest value.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "求 $W$ 的最大值。",
+          "questionTextEn": "Find the greatest value of $W$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "某人宣稱在首 13 個月內，$W$ 高於其最大值的一半的時間多於 11 個月。你是否同意？解釋你的答案。",
+          "questionTextEn": "Someone claims that in the first 13 months, $W$ is greater than half of its greatest value for more than 11 months. Do you agree? Explain your answer.",
+          "totalMarks": 4
+        }
+      ]
+    }
+  ]
+}
