@@ -1,0 +1,632 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "",
+    "category": "基本經濟概念/Basic economic concepts",
+    "questionText": "某非牟利機構把一幅空地劃分成多塊小型耕地，以抽籤方式分配予居民，為期一年。中籤居民在該年內可獨自使用所獲的耕地，並可把種出的蔬菜自用或出售。與把整幅空地開放予所有居民自由耕種比較，下列哪些是這項安排最可能帶來的結果？\n(1) 中籤居民較有誘因為所獲的耕地施肥及保養。\n(2) 耕地被過度使用的情況會減少。\n(3) 該幅空地不再屬於稀少資源。\nA non-profit organisation divides a piece of vacant land into small farming plots and allocates them to residents by lot for one year. During the year, a successful resident has sole use of the plot and may consume or sell the vegetables grown. Compared with opening the whole piece of land for all residents to farm freely, which of the following is/are the most likely result(s) of this arrangement?\n(1) Successful residents have a greater incentive to fertilise and maintain their plots.\n(2) Overuse of the farmland will be reduced.\n(3) The piece of land is no longer a scarce resource.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)、(2)\n(1) and (2) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 2,
+    "section": "",
+    "category": "基本經濟概念/Basic economic concepts",
+    "questionText": "下列哪些例子與「生產甚麼？」這個基本經濟問題有關？\n(1) 某農場以採摘機取代人手採摘士多啤梨。\n(2) 中秋節過後，某餅店停止製造月餅，改為多造蛋撻。\n(3) 政府把一個露天停車場改建為公園。\nWhich of the following examples is/are related to the basic economic problem \"What to produce?\"\n(1) A farm replaces manual picking of strawberries with picking machines.\n(2) After the Mid-Autumn Festival, a bakery stops making mooncakes and makes more egg tarts.\n(3) The government converts an open-air car park into a park.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有(2)\n(2) only",
+      "B": "只有(3)\n(3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "section": "",
+    "category": "基本經濟概念/Basic economic concepts",
+    "questionText": "嘉欣星期六有以下三個選擇，但只可選其一：\n• 到咖啡店兼職，工資 $420；\n• 替學生補習，收入 $450，但須自付來回交通費 $60；\n• 出席一整天的攝影課程。\n她早前已為攝影課程繳付了不可退還的訂金 $100；若出席，當日須再繳付 $200。最後她選擇出席攝影課程。她出席課程的機會成本是多少？\nKa Yan has the following three options on Saturday but can choose only one:\n• work part-time at a café for a wage of $420;\n• tutor a student for $450, but she has to pay $60 for her return transport;\n• attend a one-day photography course.\nShe has already paid a non-refundable deposit of $100 for the course. If she attends, she has to pay another $200 on the day. She finally chooses to attend the course. What is the opportunity cost of attending the course?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$420",
+      "B": "$620",
+      "C": "$650",
+      "D": "$720"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 4,
+    "section": "",
+    "category": "競爭與市場結構/Competition and market structure",
+    "questionText": "某受價廠商一直在利潤極大化的產量生產。若工人的工資率上升，而其產品的市價維持不變，假設該廠商繼續生產，其產量會 ____，而其所生產最後一單位產品的邊際成本會 ____。\nA price-taking firm has been producing at its profit-maximising output. Suppose the wage rate of its workers rises while the market price of its product stays unchanged. If the firm continues to produce, its output will ____ and the marginal cost of the last unit it produces will ____.",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "減少 …… 維持不變\ndecrease ...... remain unchanged",
+      "B": "減少 …… 上升\ndecrease ...... increase",
+      "C": "維持不變 …… 上升\nremain unchanged ...... increase",
+      "D": "減少 …… 下降\ndecrease ...... decrease"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 5,
+    "section": "",
+    "category": "廠商與生產/Firms and production",
+    "questionText": "下表顯示某廠商在使用 3 部機器的情況下，僱用不同數目工人的總產量。\n根據上表，下列哪項是正確的？\nThe table below shows the total output of a firm when it employs different numbers of workers with 3 machines.\nAccording to the table, which of the following is correct?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "由第二名工人開始出現邊際回報遞減。\nDiminishing marginal returns set in with the second worker.",
+      "B": "僱用第三名工人時，勞力平均產量開始下降。\nThe average product of labour starts to fall when the third worker is employed.",
+      "C": "僱用第五名工人時，該廠商出現規模負經濟。\nThe firm experiences diseconomies of scale when the fifth worker is employed.",
+      "D": "由第三名工人開始出現邊際回報遞減。\nDiminishing marginal returns set in with the third worker."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 6,
+    "section": "",
+    "category": "廠商與生產/Firms and production",
+    "questionText": "下列哪項措施最可能提高勞力的地域流動性？\nWhich of the following measures would most likely increase the geographical mobility of labour?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "政府資助失業人士修讀物流業的再培訓課程。\nThe government subsidises unemployed persons to take retraining courses in the logistics industry.",
+      "B": "大型僱主把員工的退休年齡由 60 歲延至 65 歲。\nLarge employers raise the retirement age of their staff from 60 to 65.",
+      "C": "政府為往新發展區工作的僱員提供一年租金津貼。\nThe government provides a one-year rent allowance to employees who move to work in a new development area.",
+      "D": "政府提高法定最低工資水平。\nThe government raises the statutory minimum wage."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "section": "",
+    "category": "廠商與生產/Firms and production",
+    "questionText": "某上市電動渡輪製造商因連年虧損而清盤，其資產不足以償還所有債務。下列哪些陳述是正確的？\n(1) 該公司的債券持有人較普通股股東優先獲得償還。\n(2) 股東須以個人財產償還該公司未清還的債務。\n(3) 股東的損失最多為其購入股票所付的款項。\nA listed electric-ferry manufacturer is wound up after years of losses, and its assets are insufficient to repay all its debts. Which of the following statements is/are correct?\n(1) The company's bondholders are repaid before its ordinary shareholders.\n(2) Shareholders have to repay the company's outstanding debts with their personal assets.\n(3) A shareholder's loss is at most the amount paid for his shares.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 8,
+    "section": "",
+    "category": "廠商與生產/Firms and production",
+    "questionText": "下列哪些屬於第三級生產？\n(1) 某航拍公司為婚禮提供空中拍攝服務。\n(2) 某工廠裝嵌無人機。\n(3) 某店舖維修損壞的無人機。\nWhich of the following belong(s) to tertiary production?\n(1) An aerial photography company provides aerial filming services for weddings.\n(2) A factory assembles drones.\n(3) A shop repairs damaged drones.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "section": "",
+    "category": "廠商與生產/Firms and production",
+    "questionText": "某連鎖茶葉專門店收購另一間規模相若的連鎖茶葉專門店。這項收購最可能的動機是\nA chain of tea shops takes over another chain of tea shops of similar size. The most likely motive for this takeover is",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "確保茶葉原料的供應穩定。\nto secure a stable supply of tea leaves as raw materials.",
+      "B": "確保茶園出產的茶葉有銷售渠道。\nto secure sales outlets for the tea leaves produced by tea plantations.",
+      "C": "經營互不相關的業務以分散風險。\nto spread risks by running unrelated businesses.",
+      "D": "大量採購茶葉以享有規模經濟。\nto enjoy economies of scale through bulk purchase of tea leaves."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 10,
+    "section": "",
+    "category": "競爭與市場結構/Competition and market structure",
+    "questionText": "下表顯示某受價廠商的總成本。若市價為每單位 $13，該廠商在短期內會\nThe table below shows the total cost of a price-taking firm. If the market price is $13 per unit, in the short run the firm will",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "生產 3 單位，虧損 $6。\nproduce 3 units and incur a loss of $6.",
+      "B": "停止生產，虧損 $15。\nshut down and incur a loss of $15.",
+      "C": "生產 4 單位，虧損 $7。\nproduce 4 units and incur a loss of $7.",
+      "D": "生產 3 單位，賺取利潤 $9。\nproduce 3 units and earn a profit of $9."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 11,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "新生產技術令 LED 燈泡的生產成本下降。假設傳統燈泡是 LED 燈泡的代替品，LED 燈泡市場的交易量及傳統燈泡市場的均衡價格會如何改變？\nNew production technology lowers the cost of producing LED bulbs. Suppose traditional light bulbs are substitutes for LED bulbs. How will the quantity transacted in the market for LED bulbs and the equilibrium price in the market for traditional light bulbs change?",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "LED 燈泡交易量：上升；傳統燈泡均衡價格：下降\nLED bulbs – quantity transacted: increase; traditional bulbs – equilibrium price: decrease",
+      "B": "LED 燈泡交易量：上升；傳統燈泡均衡價格：上升\nLED bulbs – quantity transacted: increase; traditional bulbs – equilibrium price: increase",
+      "C": "LED 燈泡交易量：下降；傳統燈泡均衡價格：下降\nLED bulbs – quantity transacted: decrease; traditional bulbs – equilibrium price: decrease",
+      "D": "LED 燈泡交易量：上升；傳統燈泡均衡價格：不能確定\nLED bulbs – quantity transacted: increase; traditional bulbs – equilibrium price: uncertain"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 12,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "下表顯示美玲和志強購買每盒曲奇的邊際利益。曲奇的市價為每盒 $40，假設二人只會購買整盒曲奇。下列哪些陳述是正確的？\n(1) 美玲購買曲奇的盒數多於志強。\n(2) 美玲的消費者盈餘大於志強的消費者盈餘。\n(3) 若市價升至每盒 $50，志強的消費者盈餘的減幅大於美玲的減幅。\nThe table below shows May's and Keung's marginal benefits from buying boxes of cookies. The market price of cookies is $40 per box. Assume they buy whole boxes only. Which of the following statements is/are correct?\n(1) May buys more boxes of cookies than Keung.\n(2) May's consumer surplus is greater than Keung's.\n(3) If the market price rises to $50 per box, the decrease in Keung's consumer surplus is greater than that in May's.",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "只有(1)、(2)\n(1) and (2) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 13,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "參考下圖。珍珠奶茶市場原本在 E0 點達致均衡。假設：\n• 木薯歉收令珍珠（主要原料）價格上升；\n• 水果茶（珍珠奶茶的代替品）的價格上升。\n新的均衡點會是\nRefer to the diagram below. The market for bubble tea is initially in equilibrium at E0. Suppose:\n• a poor cassava harvest raises the price of tapioca pearls (a major input);\n• the price of fruit tea (a substitute for bubble tea) rises.\nThe new equilibrium point will be",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "W。\nW.",
+      "B": "X。\nX.",
+      "C": "Y。\nY.",
+      "D": "Z。\nZ."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 14,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "下表顯示濾水器市場的需求表及供應表。政府向生產者提供每部 $12 的從量補貼。下列哪些陳述是正確的？\n(1) 補貼後，濾水器的交易量增加 60 部。\n(2) 補貼後，最後一部濾水器的邊際成本高於其邊際利益。\n(3) 補貼後，消費者在濾水器上的總支出上升。\nThe table below shows the demand and supply schedules of water purifiers. The government provides a unit subsidy of $12 per purifier to producers. Which of the following statements is/are correct?\n(1) After the subsidy, the quantity transacted of water purifiers increases by 60 units.\n(2) After the subsidy, the marginal cost of the last purifier is higher than its marginal benefit.\n(3) After the subsidy, consumers' total expenditure on water purifiers increases.",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "只有(1)、(2)\n(1) and (2) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 15,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "越來越多超級市場安裝自助收銀機；與此同時，大批收銀員退休。收銀員勞工市場的工資率及就業人數會如何改變？\nMore and more supermarkets install self-checkout machines. At the same time, many cashiers retire. How will the wage rate and the number of cashiers employed change?",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "工資率下降，就業人數下降。\nThe wage rate falls and the number employed falls.",
+      "B": "工資率上升，就業人數不能確定。\nThe wage rate rises and the number employed is uncertain.",
+      "C": "工資率不能確定，就業人數下降。\nThe wage rate is uncertain and the number employed falls.",
+      "D": "工資率不能確定，就業人數不能確定。\nBoth the wage rate and the number employed are uncertain."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 16,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "下表顯示物品 X 的需求表及供應表。政府把物品 X 的價格上限定為 $25。在此價格上限下，買家願意為最後一單位交易量支付的最高價格是多少？\nThe table below shows the demand and supply schedules of good X. The government sets a price ceiling of $25 on good X. Under the price ceiling, what is the highest price buyers are willing to pay for the last unit of the quantity transacted?",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$25",
+      "B": "$35",
+      "C": "$40",
+      "D": "$45"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 17,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "下圖顯示新鮮榴槤的直線需求曲線。下列哪項是正確的？\nThe diagram below shows the straight-line demand curve for fresh durians. Which of the following is correct?",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "價格由 $100 降至 $60 時，消費者在榴槤上的總支出下降。\nWhen the price falls from $100 to $60, consumers' total expenditure on durians decreases.",
+      "B": "在 S 點，需求的價格彈性等於 1。\nAt point S, the price elasticity of demand is equal to 1.",
+      "C": "價格由 $60 降至 $30 時，需求屬高彈性。\nWhen the price falls from $60 to $30, the demand is price elastic.",
+      "D": "在 R 點與在 T 點，需求的價格彈性相同。\nThe price elasticity of demand is the same at point R and at point T."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 18,
+    "section": "",
+    "category": "競爭與市場結構/Competition and market structure",
+    "questionText": "下列哪些是壟斷性競爭廠商與寡頭壟斷廠商的共同特徵？\n(1) 廠商是尋價者。\n(2) 廠商在定價時須考慮競爭對手的反應。\n(3) 廠商可透過廣告增加對其產品的需求。\nWhich of the following is/are common feature(s) of a monopolistically competitive firm and an oligopolistic firm?\n(1) The firm is a price searcher.\n(2) The firm has to consider its rivals' reactions when setting its price.\n(3) The firm may increase the demand for its product through advertising.",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(3)\n(3) only",
+      "C": "只有(1)、(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 19,
+    "section": "",
+    "category": "效率、公平和政府的角色/Efficiency, equity and the role of government",
+    "questionText": "下圖顯示某國的洛倫茨曲線。最富有的 20% 住戶的收入佔總收入的比例，是最貧窮的 20% 住戶的多少倍？\nThe diagram below shows the Lorenz curve of a country. The share of total income received by the richest 20% of households is how many times that received by the poorest 20% of households?",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "3 倍\n3 times",
+      "B": "4.5 倍\n4.5 times",
+      "C": "9 倍\n9 times",
+      "D": "11 倍\n11 times"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 20,
+    "section": "",
+    "category": "效率、公平和政府的角色/Efficiency, equity and the role of government",
+    "questionText": "下列哪些政策主要旨在促進機會均等化？\n(1) 政府資助殘疾人士購買輔助器材，令他們可應徵更多類型的工作。\n(2) 政府向所有 65 歲或以上長者一次性發放 $4 000 現金。\n(3) 立法禁止僱主以年齡為理由拒絕聘用求職者。\nWhich of the following policies aim(s) mainly at equalising opportunities?\n(1) The government subsidises persons with disabilities to buy assistive devices so that they can apply for a wider range of jobs.\n(2) The government gives a one-off cash payment of $4 000 to everyone aged 65 or above.\n(3) A law prohibits employers from rejecting job applicants on the ground of age.",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(3)\n(3) only",
+      "C": "只有(1)、(2)\n(1) and (2) only",
+      "D": "只有(1)、(3)\n(1) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 21,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "參考下圖。政府為稻米設定價格下限 Pf，並承諾以 Pf 購入市場上所有賣不出的稻米。與沒有價格下限時比較，下列哪些陳述是正確的？\n(1) 消費者盈餘下降。\n(2) 生產者盈餘上升。\n(3) 消費者在稻米上的總支出必定上升。\nRefer to the diagram below. The government sets a price floor Pf for rice and promises to buy all the unsold rice in the market at Pf. Compared with the situation without the price floor, which of the following statements is/are correct?\n(1) Consumer surplus decreases.\n(2) Producer surplus increases.\n(3) Consumers' total expenditure on rice must increase.",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "只有(1)、(2)\n(1) and (2) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 22,
+    "section": "",
+    "category": "市場與價格/Market and price",
+    "questionText": "某私營露營場的營位數目固定，短期內無法增加。一條新開通的巴士路線令遊客對這些營位的需求上升。短期內，營位的均衡價格、交易量及生產者盈餘會如何改變？\nThe number of pitches at a privately run campsite is fixed and cannot be increased in the short run. A newly launched bus route increases visitors' demand for these pitches. In the short run, how will the equilibrium price, the quantity transacted and the producer surplus of the pitches change?",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "價格：上升；交易量：不變；生產者盈餘：上升\nPrice: increase; quantity transacted: unchanged; producer surplus: increase",
+      "B": "價格：上升；交易量：上升；生產者盈餘：上升\nPrice: increase; quantity transacted: increase; producer surplus: increase",
+      "C": "價格：上升；交易量：不變；生產者盈餘：不變\nPrice: increase; quantity transacted: unchanged; producer surplus: unchanged",
+      "D": "價格：上升；交易量：不變；生產者盈餘：不能確定\nPrice: increase; quantity transacted: unchanged; producer surplus: uncertain"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 23,
+    "section": "",
+    "category": "經濟表現的量度/Measurement of economic performance",
+    "questionText": "下表顯示某經濟體兩年的資料。由第 1 年至第 2 年，人均實質本地生產總值的變動百分率約為\nThe table below shows some data of an economy in two years. From Year 1 to Year 2, the percentage change in per capita real GDP is about",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "-3.0%",
+      "B": "-2.8%",
+      "C": "-1.5%",
+      "D": "+6.4%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 24,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "下表顯示某經濟體兩年的勞動人口及失業率。由第 1 年至第 2 年，就業人數的變動是\nThe table below shows the labour force and unemployment rate of an economy in two years. From Year 1 to Year 2, the change in the number of employed persons is",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "減少 28 800。\na decrease of 28 800.",
+      "B": "減少 31 200。\na decrease of 31 200.",
+      "C": "減少 50 000。\na decrease of 50 000.",
+      "D": "減少 78 800。\na decrease of 78 800."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 25,
+    "section": "",
+    "category": "經濟表現的量度/Measurement of economic performance",
+    "questionText": "某香港傢俬廠商在 2026 年於本港廠房製造 100 張梳化，年底前售出其中 70 張。下列哪項的價值會計入香港 2026 年的本地生產總值？\nIn 2026, a Hong Kong furniture maker produces 100 sofas in its local factory and sells 70 of them by the end of the year. The value of which of the following is included in Hong Kong's GDP for 2026?",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "該廠商在 2025 年製造、於 2026 年售出的梳化\nsofas made by the maker in 2025 and sold in 2026",
+      "B": "該廠商在越南廠房製造的梳化\nsofas made in the maker's factory in Vietnam",
+      "C": "本地零售商從外地進口後在港轉售的梳化的全部售價\nthe full selling price of imported sofas resold by local retailers",
+      "D": "該廠商在 2026 年製造、但年底仍未售出的 30 張梳化\nthe 30 sofas made by the maker in 2026 but still unsold at the end of the year"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 26,
+    "section": "",
+    "category": "經濟表現的量度/Measurement of economic performance",
+    "questionText": "下圖顯示香港咖啡生產鏈的交易（假設圖中以外沒有其他中間消費）。這些活動對香港本地生產總值的貢獻是多少？\nThe diagram below shows the transactions along a coffee production chain in Hong Kong (assume there is no other intermediate consumption). What is the contribution of these activities to Hong Kong's GDP?",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "$800",
+      "B": "$1 300",
+      "C": "$1 600",
+      "D": "$2 200"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 27,
+    "section": "",
+    "category": "國民收入決定及價格水平/National income determination and price level",
+    "questionText": "下列哪項會令某經濟體的總需求曲線向左移？\nWhich of the following would shift the aggregate demand curve of an economy to the left?",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "一般物價水平下降\nA fall in the general price level",
+      "B": "進口原材料的成本上升\nA rise in the cost of imported raw materials",
+      "C": "樓價大幅下跌令住戶財富減少\nA sharp fall in property prices reduces households' wealth",
+      "D": "生產技術改進\nAn improvement in production technology"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 28,
+    "section": "",
+    "category": "貨幣與銀行/Money and banking",
+    "questionText": "下表顯示某銀行體系的資產負債表。銀行沒有持有超額儲備，而公眾持有的現金為 400 百萬元。中央銀行向公眾出售 50 百萬元政府債券，公眾全數以手持現金支付。假設公眾其後不會調整其持有的現金及存款。若貨幣供應 = 公眾持有的現金 + 存款，貨幣供應會\nThe table below shows the balance sheet of a banking system. Banks hold no excess reserves, and the public holds $400 million in cash. The central bank sells $50 million of government bonds to the public, who pay entirely with the cash they hold. Assume that the public does not subsequently adjust its holdings of cash and deposits. If money supply = cash held by the public + deposits, the money supply will",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "減少 50 百萬元。\ndecrease by $50 million.",
+      "B": "減少 150 百萬元。\ndecrease by $150 million.",
+      "C": "減少 200 百萬元。\ndecrease by $200 million.",
+      "D": "減少 250 百萬元。\ndecrease by $250 million."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 29,
+    "section": "",
+    "category": "貨幣與銀行/Money and banking",
+    "questionText": "關於香港的三級銀行制度，下列哪些陳述是正確的？\n(1) 只有持牌銀行可經營往來戶口及儲蓄戶口。\n(2) 有限制牌照銀行只可接受 50 萬港元或以上的存款。\n(3) 接受存款公司可接受任何金額的儲蓄存款。\nRegarding the three-tier banking system in Hong Kong, which of the following statements is/are correct?\n(1) Only licensed banks may operate current accounts and savings accounts.\n(2) Restricted licence banks may only accept deposits of HK$500 000 or above.\n(3) Deposit-taking companies may accept savings deposits of any amount.",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(2)\n(2) only",
+      "C": "只有(1)、(2)\n(1) and (2) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 30,
+    "section": "",
+    "category": "貨幣與銀行/Money and banking",
+    "questionText": "某偏遠小島的村民以一包包白米作為交易媒介。下列哪些陳述是正確的？\n(1) 白米不能有效發揮價值的儲藏功能，因為白米可能會變壞。\n(2) 以白米作交易媒介可解決雙重需求偶合的問題。\n(3) 由於白米本身是物品，它不能作為延遲支付的標準。\nVillagers on a remote island use bags of rice as a medium of exchange. Which of the following statements is/are correct?\n(1) Rice does not serve well as a store of value because it may spoil.\n(2) Using rice as a medium of exchange can solve the problem of double coincidence of wants.\n(3) Rice cannot serve as a standard of deferred payment because it is a commodity.",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)、(2)\n(1) and (2) only",
+      "C": "只有(1)、(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 31,
+    "section": "",
+    "category": "貨幣與銀行/Money and banking",
+    "questionText": "李先生持有一張由某持牌銀行發行、面值 30 萬港元的可轉讓存款證。他在存款證到期前，把它按面值售予另一間持牌銀行，並把所得款項全數存入他在持牌銀行的往來戶口。假設其他因素不變，下列哪些陳述是正確的？\n(1) 貨幣供應定義一（M1）增加 30 萬港元。\n(2) 貨幣供應定義二（M2）不變。\n(3) 貨幣供應定義三（M3）增加 30 萬港元。\nMr Lee holds a negotiable certificate of deposit (NCD) with a face value of HK$300 000 issued by a licensed bank. Before maturity, he sells it at face value to another licensed bank and deposits all the proceeds into his current account with a licensed bank. Other things being equal, which of the following statements is/are correct?\n(1) M1 increases by HK$300 000.\n(2) M2 remains unchanged.\n(3) M3 increases by HK$300 000.",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "只有(1)、(2)\n(1) and (2) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 32,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "下列哪些陳述是正確的？\n(1) 若實質利率不變，預期通脹率上升 2 個百分點，新貸款的名義利率會上升 2 個百分點。\n(2) 名義利率必定高於實質利率。\n(3) 名義利率為正數時，實質利率仍可以是負數。\nWhich of the following statements is/are correct?\n(1) If the real interest rate is unchanged, a 2-percentage-point rise in the expected inflation rate raises the nominal interest rate on new loans by 2 percentage points.\n(2) The nominal interest rate must be higher than the real interest rate.\n(3) The real interest rate can be negative even when the nominal interest rate is positive.",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(3)\n(3) only",
+      "C": "只有(1)、(2)\n(1) and (2) only",
+      "D": "只有(1)、(3)\n(1) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 33,
+    "section": "",
+    "category": "貨幣與銀行/Money and banking",
+    "questionText": "參考下圖。貨幣市場原本在 Z 點達致均衡。若一般物價水平上升，而中央銀行同時調高貼現率，新的均衡點會是\nRefer to the diagram below. The money market is initially in equilibrium at point Z. If the general price level rises and the central bank raises the discount rate at the same time, the new equilibrium point will be",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "W。\nW.",
+      "B": "X。\nX.",
+      "C": "Y。\nY.",
+      "D": "Z。\nZ."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 34,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "某稅項對每人收入中超出免稅額 $100 000 的部分劃一徵收 10%。這是一種 ____ 稅，因為 ____ 隨收入增加而上升。\nA tax charges a flat rate of 10% on the part of each person's income above an allowance of $100 000. It is a ____ tax because its ____ rises as income increases.",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "比例 …… 稅款\nproportional ...... tax payment",
+      "B": "累進 …… 平均稅率\nprogressive ...... average tax rate",
+      "C": "累進 …… 邊際稅率\nprogressive ...... marginal tax rate",
+      "D": "累退 …… 平均稅率\nregressive ...... average tax rate"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 35,
+    "section": "",
+    "category": "貨幣與銀行/Money and banking",
+    "questionText": "下列哪些情況會令銀行體系實際創造的存款，少於按法定儲備比率計算的最大數額？\n(1) 銀行持有超額儲備。\n(2) 公眾把部分借得的款項以現金形式持有，沒有存回銀行。\n(3) 借款人把借得的款項全數存入另一間銀行，而非原本借出款項的銀行。\nWhich of the following would cause the deposits actually created by the banking system to be less than the maximum amount calculated from the required reserve ratio?\n(1) Banks hold excess reserves.\n(2) The public keeps part of the money borrowed as cash instead of depositing it back into banks.\n(3) Borrowers deposit all the money borrowed into another bank instead of the bank that lent it.",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)、(2)\n(1) and (2) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 36,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "下圖顯示某入息稅的平均稅率與收入的關係。下列哪項是正確的？\nThe diagram below shows the relationship between the average tax rate of an income tax and income. Which of the following is correct?",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "收入高於 Y1 時，稅款維持不變。\nWhen income is above Y1, the tax payment remains unchanged.",
+      "B": "收入介乎 Y0 與 Y1 時，該稅屬累退稅。\nWhen income is between Y0 and Y1, the tax is regressive.",
+      "C": "收入介乎 Y0 與 Y1 時，邊際稅率等於平均稅率。\nWhen income is between Y0 and Y1, the marginal tax rate equals the average tax rate.",
+      "D": "收入高於 Y1 時，邊際稅率等於平均稅率。\nWhen income is above Y1, the marginal tax rate equals the average tax rate."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 37,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "假設某經濟體的通脹率一直穩定在 8%，而且所有人都能準確預期。下列哪些代價仍然會出現？\n(1) 餐廳須經常重印餐牌更新價格。\n(2) 人們減少持有現金，因而要更頻繁地到銀行提款。\n(3) 定息貸款的貸方因通脹而蒙受損失，借方則得益。\nSuppose the inflation rate of an economy has been steady at 8% and it is correctly anticipated by everyone. Which of the following costs would still arise?\n(1) Restaurants have to reprint their menus frequently to update prices.\n(2) People hold less cash and hence have to go to the bank to withdraw money more often.\n(3) Lenders of fixed-rate loans lose and borrowers gain because of inflation.",
+    "imageUrl": "q37.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)、(2)\n(1) and (2) only",
+      "C": "只有(1)、(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 38,
+    "section": "",
+    "category": "國民收入決定及價格水平/National income determination and price level",
+    "questionText": "參考下圖。經濟體原本在 E0 點達致均衡。若政府削減公共工程開支，同時一場大型港口工人罷工令運輸成本大增，短期內新的均衡點會是\nRefer to the diagram below. The economy is initially in equilibrium at E0. If the government cuts its spending on public works and, at the same time, a major strike by port workers sharply raises transport costs, the new short-run equilibrium point will be",
+    "imageUrl": "q38.png",
+    "options": {
+      "A": "W。\nW.",
+      "B": "X。\nX.",
+      "C": "Y。\nY.",
+      "D": "E0。\nE0."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 39,
+    "section": "",
+    "category": "經濟表現的量度/Measurement of economic performance",
+    "questionText": "下列哪項必定正確？\nWhich of the following must be true?",
+    "imageUrl": "q39.png",
+    "options": {
+      "A": "本地居民總收入必定大於本地生產總值。\nGNI must be greater than GDP.",
+      "B": "若某年的本地生產總值內含平減物價指數高於 100，該年的名義本地生產總值必定大於實質本地生產總值。\nIf the implicit price deflator of GDP in a year is above 100, nominal GDP must be greater than real GDP in that year.",
+      "C": "若實質本地生產總值上升，人均實質本地生產總值必定上升。\nIf real GDP rises, per capita real GDP must rise.",
+      "D": "若失業率上升，就業人數必定下降。\nIf the unemployment rate rises, the number of employed persons must fall."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 40,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "K 國現時出現通縮差距。政府考慮以發行債券融資推行以下其中一個方案，兩者涉及的金額相同：\n方案甲：向低收入在職住戶發放一次性津貼。\n方案乙：增加購買本地建造服務以興建公共設施。\n假設其他因素不變，下列哪項是正確的？\nCountry K is currently experiencing a deflationary gap. The government is considering one of the following two schemes, each involving the same amount of money and financed by issuing bonds:\nScheme I: giving a one-off allowance to low-income working households.\nScheme II: buying more local construction services to build public facilities.\nOther things being equal, which of the following is correct?",
+    "imageUrl": "q40.png",
+    "options": {
+      "A": "兩個方案都會直接計入本地生產總值中的政府開支。\nBoth schemes are directly counted as government expenditure in GDP.",
+      "B": "方案甲對總需求的最終影響較方案乙大，因為津貼直接交到住戶手上，可即時用於消費。\nScheme I has a larger final impact on aggregate demand than Scheme II, because the allowance goes directly to households and can be spent at once.",
+      "C": "方案甲屬轉移支付，因此對總需求沒有影響。\nScheme I is a transfer payment and therefore has no effect on aggregate demand.",
+      "D": "方案乙對總需求的初始影響較方案甲大，因為受惠住戶會把部分所得津貼儲起。\nScheme II has a larger initial impact on aggregate demand than Scheme I, because the recipient households would save part of the allowance received."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 41,
+    "section": "",
+    "category": "宏觀經濟問題和政策/Macroeconomic problems and policies",
+    "questionText": "下表顯示某政府三個財政年度的收入及開支，以及該經濟體的名義本地生產總值。根據上表，下列哪項是正確的？\nThe table below shows a government's revenue and expenditure in three fiscal years and the economy's nominal GDP. According to the table, which of the following is correct?",
+    "imageUrl": "q41.png",
+    "options": {
+      "A": "政府開支每年都上升。\nGovernment expenditure rose every year.",
+      "B": "政府收入佔名義本地生產總值的百分比在 2024-25 年度上升。\nGovernment revenue as a percentage of nominal GDP rose in 2024-25.",
+      "C": "政府開支佔名義本地生產總值的百分比每年都下降。\nGovernment expenditure as a percentage of nominal GDP fell every year.",
+      "D": "財政赤字佔名義本地生產總值的百分比由 2023-24 年度至 2024-25 年度上升。\nThe fiscal deficit as a percentage of nominal GDP rose from 2023-24 to 2024-25."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 42,
+    "section": "",
+    "category": "國際貿易和金融/International trade and finance",
+    "questionText": "下表顯示甲國及乙國生產每單位 X 及每單位 Y 所需的工時。兩國按比較優勢進行貿易。每運送 1 單位 Y 的運輸成本相等於 0.15 單位 X，由 Y 的進口國負擔。下列哪個貿易比率對兩國都有利？\nThe table below shows the labour hours required by Country A and Country B to produce one unit of X and one unit of Y. The two countries trade according to comparative advantage. The transport cost of shipping each unit of Y is equivalent to 0.15 unit of X, borne by the importing country of Y. Which of the following terms of trade is mutually beneficial?",
+    "imageUrl": "q42.png",
+    "options": {
+      "A": "1 單位 X 換 0.30 單位 Y\n1 unit of X for 0.30 unit of Y",
+      "B": "1 單位 X 換 0.34 單位 Y\n1 unit of X for 0.34 unit of Y",
+      "C": "1 單位 X 換 0.50 單位 Y\n1 unit of X for 0.50 unit of Y",
+      "D": "1 單位 X 換 0.65 單位 Y\n1 unit of X for 0.65 unit of Y"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 43,
+    "section": "",
+    "category": "國際貿易和金融/International trade and finance",
+    "questionText": "參考下圖。某小型開放經濟體原本以國際價格 Pw 進口物品 Z。政府其後全面禁止進口物品 Z。禁運引致的效率損失是哪個面積？\nRefer to the diagram below. A small open economy initially imports good Z at the world price Pw. The government then bans all imports of good Z. Which area represents the deadweight loss caused by the embargo?",
+    "imageUrl": "q43.png",
+    "options": {
+      "A": "b",
+      "B": "c",
+      "C": "a + b + c",
+      "D": "b + c"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 44,
+    "section": "",
+    "category": "國際貿易和金融/International trade and finance",
+    "questionText": "在香港的國際收支平衡表中，下列哪些陳述是正確的？\n(1) 泰國旅客支付香港酒店住宿費用，記錄在經常賬戶。\n(2) 香港銀行貸款予越南的廠商，記錄在金融賬戶。\n(3) 香港政府捐款予海外災區救援基金，記錄在資本賬戶。\nIn Hong Kong's balance of payments account, which of the following statements is/are correct?\n(1) A Thai tourist's payment to a Hong Kong hotel for accommodation is recorded in the current account.\n(2) A loan made by a Hong Kong bank to a firm in Vietnam is recorded in the financial account.\n(3) A donation made by the Hong Kong government to an overseas disaster relief fund is recorded in the capital account.",
+    "imageUrl": "q44.png",
+    "options": {
+      "A": "只有(1)、(2)\n(1) and (2) only",
+      "B": "只有(1)、(3)\n(1) and (3) only",
+      "C": "只有(2)、(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 45,
+    "section": "",
+    "category": "國際貿易和金融/International trade and finance",
+    "questionText": "下表顯示兩日的匯率。某香港進口商以 Z 國貨幣（Z$）支付每部 Z$420 000 的機器。由第 1 日至第 2 日，以港元計算的每部機器進口成本變動百分率約為\nThe table below shows the exchange rates on two days. A Hong Kong importer pays Z$420 000 (in Country Z's currency) for each machine. From Day 1 to Day 2, the percentage change in the import cost of each machine in Hong Kong dollars is about",
+    "imageUrl": "q45.png",
+    "options": {
+      "A": "-7.14%",
+      "B": "-6.67%",
+      "C": "+6.67%",
+      "D": "+7.14%"
+    },
+    "correctAnswer": "B"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
+  "papers": [
+    {
+      "id": "setecon261109_p1",
+      "title": "今日試卷",
+      "subject": "經濟 / Economics",
+      "subjectCode": "econ",
+      "paperNo": 1,
+      "type": "mc",
+      "examDate": "2026-11-09",
+      "timedExam": true,
+      "source": "both",
+      "durationMinutes": 60,
+      "examStartTime": "08:30",
+      "examEndTime": "09:30",
+      "jsonPath": "setecon261109/p1/questions.json",
+      "imageBaseUrl": "setecon261109/p1",
+      "solutionUrl": "setecon261109/p1/markingscheme_{lang}.pdf",
+      "pdfUrl": "setecon261109/p1/paper_{lang}.pdf"
+    },
+    {
+      "id": "setecon261109_p2",
+      "title": "今日試卷",
+      "subject": "經濟 / Economics",
+      "subjectCode": "econ",
+      "paperNo": 2,
+      "type": "longQuestion",
+      "examDate": "2026-11-09",
+      "timedExam": true,
+      "source": "both",
+      "durationMinutes": 150,
+      "examStartTime": "10:15",
+      "examEndTime": "12:45",
+      "jsonPath": "setecon261109/p2/questions.json",
+      "imageBaseUrl": "setecon261109/p2",
+      "markingSchemeUrl": "setecon261109/p2/markingscheme_{lang}.pdf",
+      "pdfUrl": "setecon261109/p2/paper_{lang}.pdf"
+    }
+  ]
+}

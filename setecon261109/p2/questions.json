@@ -1,0 +1,449 @@
+{
+  "paperTitleZh": "經濟 全新模擬卷 — 卷二",
+  "paperTitle": "Economics Mock — Paper 2",
+  "durationMinutes": 150,
+  "totalMarks": 120,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "A",
+      "categoryZh": "基本經濟概念",
+      "categoryEn": "Basic economic concepts",
+      "difficultyGrade": "3",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "某議員說：「政府應興建更多單車徑，因為單車徑可減少交通意外。」\n解釋該議員的說法是實證性的陳述還是規範性的陳述。(3 分)",
+          "questionTextEn": "A legislator says, \"The government should build more cycling tracks because cycling tracks can reduce traffic accidents.\"\nExplain whether the legislator's statement is a positive statement or a normative statement. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "A",
+      "categoryZh": "廠商與生產",
+      "categoryEn": "Firms and production",
+      "difficultyGrade": "3",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "阿樂以獨資形式經營一間單車維修店。他計劃邀請朋友阿恆加入，改以合夥形式經營。\n解釋改以合夥形式經營對阿樂的一項好處。(2 分)",
+          "questionTextEn": "Ah Lok runs a bicycle repair shop as a sole proprietorship. He plans to invite his friend Ah Hang to join him and run the shop as a partnership.\nExplain ONE advantage to Ah Lok of running the shop as a partnership. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "阿樂說：「改為合夥後，若店舖出現虧損，我所須承擔的債務必然只得一半。」你同意嗎？試加解釋。(2 分)",
+          "questionTextEn": "Ah Lok says, \"After forming the partnership, if the shop makes losses, the debts I have to bear must be only half.\" Do you agree? Explain. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "合夥後，阿樂專責維修，阿恆專責售賣單車零件。寫出這種分工的兩項好處。(2 分)",
+          "questionTextEn": "After forming the partnership, Ah Lok specialises in repairs while Ah Hang specialises in selling bicycle parts. State TWO benefits of this division of labour. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "A",
+      "categoryZh": "宏觀經濟問題和政策",
+      "categoryEn": "Macroeconomic problems and policies",
+      "difficultyGrade": "3",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下列為某經濟體在某季度的勞工統計數字：\n• 勞動人口：3 840 000 人\n• 就業人數：3 700 000 人（其中 52 000 人屬就業不足）\n寫出該季度的失業人數。(1 分)",
+          "questionTextEn": "The following are the labour statistics of an economy in a quarter:\n• Labour force: 3 840 000\n• Employed persons: 3 700 000 (of whom 52 000 are underemployed)\nState the number of unemployed persons in the quarter. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "寫出兩個原因，說明為何失業率可能低估勞動人口未被充分運用的程度。(2 分)",
+          "questionTextEn": "State TWO reasons why the unemployment rate may understate the slack in the labour market. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "即使 15 歲或以上人口增加，勞動人口仍可能減少。寫出兩個可能原因。(2 分)",
+          "questionTextEn": "The labour force may decrease even when the population aged 15 or above increases. State TWO possible reasons. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "A",
+      "categoryZh": "經濟表現的量度",
+      "categoryEn": "Measurement of economic performance",
+      "difficultyGrade": "4",
+      "figureSpecId": null,
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下表顯示某經濟體兩年的資料：\n| | 第 1 年 | 第 2 年 |\n|---|---|---|\n| 名義本地生產總值（十億元） | 3 000 | 3 150 |\n| 本地生產總值內含平減物價指數 | 100 | 103 |\n計算第 2 年實質本地生產總值的增長率。(1 分)",
+          "questionTextEn": "The table below shows some data of an economy in two years:\n| | Year 1 | Year 2 |\n|---|---|---|\n| Nominal GDP ($ billion) | 3 000 | 3 150 |\n| Implicit price deflator of GDP | 100 | 103 |\nCalculate the growth rate of real GDP in Year 2. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋為何比較兩年的產出時，實質本地生產總值較名義本地生產總值更適合。(2 分)",
+          "questionTextEn": "Explain why real GDP is more suitable than nominal GDP for comparing the output of two years. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "有人說：「實質本地生產總值上升，表示市民的經濟福利必定改善。」你同意嗎？試提出兩個理由加以解釋。(4 分)",
+          "questionTextEn": "Someone says, \"A rise in real GDP means that the economic welfare of the people must have improved.\" Do you agree? Explain with TWO reasons. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "A",
+      "categoryZh": "貨幣與銀行",
+      "categoryEn": "Money and banking",
+      "difficultyGrade": "3",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "香港自 1983 年起實行聯繫匯率制度。\n解釋在貨幣發行局制度下，發鈔銀行怎樣發行港元紙幣。(2 分)",
+          "questionTextEn": "Hong Kong has adopted the linked exchange rate system since 1983.\nExplain how note-issuing banks issue Hong Kong dollar notes under the currency board system. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "某評論員說：「在聯繫匯率制度下，金管局可以自行把港元利率調低至遠低於美元利率，以刺激本地經濟。」你同意嗎？試加解釋。(4 分)",
+          "questionTextEn": "A commentator says, \"Under the linked exchange rate system, the HKMA can lower Hong Kong dollar interest rates to well below US dollar interest rates on its own to stimulate the local economy.\" Do you agree? Explain. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "A",
+      "categoryZh": "國民收入決定及價格水平",
+      "categoryEn": "National income determination and price level",
+      "difficultyGrade": "4",
+      "figureSpecId": "E1-P2Q6-blank",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "K 國經濟原本處於長期均衡。其主要出口市場的經濟強勁增長，同時國際原材料價格大幅下跌（K 國的製造業依賴進口原材料）。\n以 AS-AD 圖輔助，解釋上述事件在短期內對 K 國的物價水平及實質產出的影響。(5 分)",
+          "questionTextEn": "The economy of Country K is initially at its long-run equilibrium. The economies of its major export markets grow strongly, while world prices of raw materials fall sharply (manufacturing in Country K relies on imported raw materials).\nWith the aid of an AS-AD diagram, explain the short-run effects of the above events on the price level and real output of Country K. (5 marks)",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "A",
+      "categoryZh": "國際貿易和金融",
+      "categoryEn": "International trade and finance",
+      "difficultyGrade": "4",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下表顯示甲國及乙國各用一單位資源所能生產的可可豆或太陽能板數量（只可生產其一）：\n| | 可可豆（單位） | 太陽能板（塊） |\n|---|---|---|\n| 甲國 | 9 | 3 |\n| 乙國 | 4 | 4 |\n解釋哪個國家在生產太陽能板上具比較優勢。(3 分)",
+          "questionTextEn": "The table below shows the quantity of cocoa beans or solar panels that Country A and Country B can each produce with one unit of resources (either one only):\n| | Cocoa beans (units) | Solar panels (units) |\n|---|---|---|\n| Country A | 9 | 3 |\n| Country B | 4 | 4 |\nExplain which country has a comparative advantage in producing solar panels. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "假設兩國按比較優勢進行貿易，貿易比率為 1 塊太陽能板換 2 單位可可豆。甲國把 60 單位可可豆出口至乙國。計算甲國以太陽能板計算的貿易得益。（假設沒有運輸成本。）(3 分)",
+          "questionTextEn": "Suppose the two countries trade according to comparative advantage at the terms of trade of 1 solar panel for 2 units of cocoa beans. Country A exports 60 units of cocoa beans to Country B. Calculate Country A's gains from trade in terms of solar panels. (Assume no transport cost.) (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "A",
+      "categoryZh": "貨幣與銀行",
+      "categoryEn": "Money and banking",
+      "difficultyGrade": "4",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某銀行體系的資產負債表如下（單位：百萬元）：\n| 資產 | | 負債 | |\n|---|---|---|---|\n| 儲備 | 660 | 存款 | 3 000 |\n| 貸款 | 2 340 | | |\n法定儲備比率為 20%。公眾持有的現金為 450 百萬元。假設沒有現金流失。\n計算該銀行體系的超額儲備及貨幣基礎。(2 分)",
+          "questionTextEn": "The balance sheet of a banking system is as follows ($ million):\n| Assets | | Liabilities | |\n|---|---|---|---|\n| Reserves | 660 | Deposits | 3 000 |\n| Loans | 2 340 | | |\nThe required reserve ratio is 20%. The public holds $450 million in cash. Assume there is no cash leakage.\nCalculate the excess reserves of the banking system and the monetary base. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "計算最大銀行乘數。(1 分)",
+          "questionTextEn": "Calculate the maximum banking multiplier. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "銀行先把所有超額儲備貸出，其後中央銀行把法定儲備比率提高至 22%。計算整個過程完成後，貨幣供應（公眾持有的現金 + 存款）與原本比較的變動。(3 分)",
+          "questionTextEn": "Banks first lend out all their excess reserves. The central bank then raises the required reserve ratio to 22%. Calculate the change in money supply (cash held by the public + deposits) after the whole process, compared with the original level. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "B",
+      "categoryZh": "國民收入決定及價格水平",
+      "categoryEn": "National income determination and price level",
+      "difficultyGrade": "4",
+      "figureSpecId": "E1-P2Q9-a",
+      "totalMarks": 17,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "細閱以下資料，然後回答問題。\n\n資料 A：某城市政府計劃在填海土地上興建「智能物流樞紐」，以自動化設備處理貨物。下表為各財政年度的預算開支（十億元）。（見圖）\n\n資料 B：樞紐預計於 2032 年啟用，屆時全市的貨物處理能力可提升 35%，平均處理時間由 18 小時縮短至 7 小時。政府會以專營權形式，批出 30 年獨家經營權予一間營運商。興建期間約需 12 000 名工人，其中部分為以十個月合約輸入的外地建築工人，合約完結後須返回原居地。樞紐附近亦預計聚集大批物流、倉儲及報關公司。\n參考資料 B。指出該樞紐營運商獲得壟斷能力的原因。(1 分)",
+          "questionTextEn": "Study the following sources and answer the questions.\n\nSource A: The government of a city plans to build a \"Smart Logistics Hub\" on reclaimed land, handling cargo with automated equipment. The table shows the budgeted spending in each fiscal year ($ billion). (see figure)\n\nSource B: The hub is expected to open in 2032. The city's cargo-handling capacity will then rise by 35% and the average handling time will be cut from 18 hours to 7 hours. The government will grant a 30-year exclusive operating right to one operator by franchise. About 12 000 workers are needed during construction, some of whom are construction workers imported from overseas on ten-month contracts and must return home when the contracts end. Many logistics, warehousing and customs-clearance firms are expected to cluster near the hub.\nRefer to Source B. Identify the source of monopoly power of the hub operator. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "寫出另外兩個獲得壟斷能力的原因。(2 分)",
+          "questionTextEn": "State TWO other sources of monopoly power. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考資料 A 及 B。假設經濟原本處於長期均衡。樞紐落成後，(1) 項目開支由 2029-30 年度的高峰大幅回落，及 (2) 貨物處理效率提升。以 AS-AD 圖輔助，分析這兩項變化同時出現時，對該城市物價水平及實質產出的影響。(8 分)",
+          "questionTextEn": "Refer to Sources A and B. Assume the economy is initially at its long-run equilibrium. After the hub is completed, (1) project spending falls sharply from its peak in 2029-30, and (2) cargo-handling efficiency improves. With the aid of an AS-AD diagram, analyse the effects of these two changes occurring together on the price level and real output of the city. (8 marks)",
+          "totalMarks": 8
+        },
+        {
+          "label": "c",
+          "questionTextZh": "參考資料 B。寫出兩項樞紐附近的物流公司可能享有的外部規模經濟。(2 分)",
+          "questionTextEn": "Refer to Source B. State TWO external economies of scale that logistics firms near the hub may enjoy. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "參考資料 B。解釋以十個月合約輸入的外地建築工人的工資，會否計入該城市的 (i) 本地生產總值及 (ii) 本地居民總收入。(4 分)",
+          "questionTextEn": "Refer to Source B. Explain whether the wages of the construction workers imported on ten-month contracts are included in the city's (i) GDP and (ii) GNI. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "B",
+      "categoryZh": "國際貿易和金融",
+      "categoryEn": "International trade and finance",
+      "difficultyGrade": "4",
+      "figureSpecId": "E1-P2Q10-blank",
+      "totalMarks": 14,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "細閱以下資料，然後回答問題。\n\n資料 A：V 國的物品及服務貿易（十億美元）。（見圖）\n\n資料 B：2025 年 V 國貨幣（V 元）兌美元貶值約 9%。V 國是稻米淨出口國，其稻米出口佔全球市場份額很小。為支持農民，V 國政府宣布向每單位出口的稻米提供從量出口補貼。\n參考資料 A。比較 V 國 2024 年及 2025 年的貨物貿易差額及服務貿易差額。(2 分)",
+          "questionTextEn": "Study the following sources and answer the questions.\n\nSource A: Trade in goods and services of Country V (USD billion). (see figure)\n\nSource B: In 2025, Country V's currency (the V-dollar) depreciated by about 9% against the US dollar. Country V is a net exporter of rice, but its rice exports make up only a very small share of the world market. To support farmers, the government of V announces a per-unit subsidy on every unit of rice exported.\nRefer to Source A. Compare Country V's balance of trade in goods and balance of trade in services in 2024 and 2025. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考資料 A 及 B。V 元在 2025 年貶值，但 V 國的貨物貿易赤字卻擴大。解釋一個可能原因。(2 分)",
+          "questionTextEn": "Refer to Sources A and B. The V-dollar depreciated in 2025, yet Country V's deficit in goods trade widened. Explain ONE possible reason. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "在圖 1 中標示實施出口補貼後 V 國稻米的本地價格、本地消費量、本地生產量及出口量。(4 分)",
+          "questionTextEn": "In Figure 1, indicate the domestic price, domestic consumption, domestic production and the quantity exported of rice in Country V after the export subsidy. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "在圖 1 中標示政府在出口補貼上的總開支。(1 分)",
+          "questionTextEn": "In Figure 1, indicate the government's total expenditure on the export subsidy. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "分析出口補貼對 V 國稻米消費者的消費者盈餘、生產者的生產者盈餘及整體社會盈餘的影響。（毋須繪圖）(3 分)",
+          "questionTextEn": "Analyse the effects of the export subsidy on the consumer surplus of rice consumers, the producer surplus of rice producers and the total social surplus in Country V. (A diagram is not required.) (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "d",
+          "questionTextZh": "寫出出口補貼以外的兩種貿易障礙。(2 分)",
+          "questionTextEn": "State TWO types of trade barriers other than export subsidies. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "B",
+      "categoryZh": "效率、公平和政府的角色",
+      "categoryEn": "Efficiency, equity and the role of government",
+      "difficultyGrade": "5",
+      "figureSpecId": "E1-P2Q11-a",
+      "totalMarks": 29,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "細閱以下資料，然後回答問題。考生須以短文形式回答 (e) 部，評分準則包括運用資料及經濟理論、內容切題、鋪排合乎邏輯以及表達清晰。\n\n資料 A：H 市餐廳棄置的廚餘量及人口。（見圖）\n\n資料 B：H 市餐廳產生的廚餘現時由政府免費收集，並送往堆填區。政府正考慮兩個方案：\n方案 I：向餐廳按收集的廚餘重量收費，每公斤 $2。\n方案 II：資助餐廳安裝現場廚餘分解機，政府承擔安裝費用的 80%，三年內預計開支 12 億元，由一般收入支付。\n\n資料 C：（報章摘錄）小型餐廳擔心廚餘收費會令成本上升，可能要加價；環保團體則警告，部分餐廳或會把廚餘混入一般垃圾或非法棄置，以逃避收費。另有調查指出，低收入住戶每星期在廉價餐廳用膳的次數，較高收入住戶更多。\n參考資料 A。計算並比較 2021 年及 2025 年 H 市每人每日的餐廳棄置廚餘量。(2 分)",
+          "questionTextEn": "Study the following sources and answer the questions. For part (e), candidates are required to present their answers in an essay form. Criteria for marking will include application of the sources and economic theories, relevance of the material, logical presentation and clarity of expression.\n\nSource A: Food waste disposed by restaurants and population of City H. (see figure)\n\nSource B: Food waste generated by restaurants in City H is currently collected free of charge by the government and sent to landfills. The government is considering two proposals:\nProposal I: charge restaurants $2 per kg of food waste collected.\nProposal II: subsidise restaurants to install on-site food waste decomposers. The government pays 80% of the installation cost, with expected spending of $1.2 billion over three years, paid from general revenue.\n\nSource C: (Newspaper extract) Small restaurants worry that the food waste charge will raise their costs and they may have to raise prices. Green groups warn that some restaurants may mix food waste into general refuse or dump it illegally to avoid the charge. A survey also finds that low-income households eat at budget restaurants more often each week than high-income households.\nRefer to Source A. Calculate and compare the per capita daily food waste disposed by restaurants in City H in 2021 and 2025. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考資料 B。假設每份餐廳膳食平均產生 0.25 公斤廚餘，而每份膳食的邊際社會代價固定較邊際私人代價高 $0.8。以圖輔助，解釋方案 I 能否令餐廳膳食市場的產量達至有效率水平。(4 分)",
+          "questionTextEn": "Refer to Source B. Suppose each restaurant meal generates 0.25 kg of food waste on average, and the marginal social cost of each meal exceeds its marginal private cost by a constant $0.8. With the aid of a diagram, explain whether Proposal I can bring the output of the restaurant meals market to the efficient level. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "除了令膳食產量減少外，解釋方案 I 怎樣令 H 市的廚餘量進一步減少，並說明這對每份膳食的社會代價有何影響。(3 分)",
+          "questionTextEn": "Apart from reducing the output of meals, explain how Proposal I could further reduce the amount of food waste in City H, and state its effect on the social cost of each meal. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "有人認為廚餘收費的負擔會全部由餐廳承擔。你同意嗎？試加解釋。(2 分)",
+          "questionTextEn": "Some argue that the burden of the food waste charge will be borne entirely by restaurants. Do you agree? Explain. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "參考資料 C。解釋非法棄置廚餘的情況會怎樣影響方案 I 的成效。(2 分)",
+          "questionTextEn": "Refer to Source C. Explain how illegal dumping of food waste would affect the effectiveness of Proposal I. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "e",
+          "questionTextZh": "參考以上各項資料並就你對經濟學的認識，評價方案 I 及方案 II 對下列三方面的影響，並就每一方面比較兩個方案：\n(1) 餐廳膳食市場的經濟效率；\n(2) 消費者支付的膳食價格；\n(3) 政府的財政狀況。\n分段作答。(14 分)",
+          "questionTextEn": "With reference to the above sources and your own knowledge in Economics, evaluate the effects of Proposal I and Proposal II on the following three aspects, comparing the two proposals in each aspect:\n(1) economic efficiency in the restaurant meals market;\n(2) the price of meals paid by consumers;\n(3) the fiscal position of the government.\nAnswer in separate paragraphs. (14 marks)",
+          "totalMarks": 14
+        },
+        {
+          "label": "f",
+          "questionTextZh": "參考資料 C。解釋為何有人認為方案 I 對低收入住戶較不公平。(2 分)",
+          "questionTextEn": "Refer to Source C. Explain why some people consider Proposal I unfair to low-income households. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "C",
+      "categoryZh": "選修（一）壟斷定價",
+      "categoryEn": "Elective Part 1: Monopoly pricing",
+      "difficultyGrade": "4",
+      "figureSpecId": "E1-P2Q12-a",
+      "totalMarks": 16,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "某山頂景點只有一條纜車路線，由「山景纜車公司」以政府專營權獨家經營。圖 2 顯示每日乘搭纜車的市場需求（D）、邊際收入（MR）及邊際成本（MC），其邊際成本等於平均成本，固定為每程 $40。\n政府向公司每程徵收 $20 的從量稅。在圖 2 中標示稅後的利潤極大化價格（Pt）及乘搭次數（Qt），以及政府每日的稅收。(4 分)",
+          "questionTextEn": "There is only one cable car route to a hilltop attraction, operated exclusively by Peak View Cable Car Company under a government franchise. Figure 2 shows the market demand (D), marginal revenue (MR) and marginal cost (MC) of cable car rides per day. Marginal cost equals average cost and is constant at $40 per ride.\nThe government imposes a unit tax of $20 per ride on the company. In Figure 2, indicate the after-tax profit-maximising price (Pt), the number of rides (Qt) and the government's daily tax revenue. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "若公司要使利潤極大化，在圖 3 中標示每程價格及該會員每年的乘搭次數。(2 分)",
+          "questionTextEn": "If the company maximises profit, indicate in Figure 3 the price per ride and the number of rides per year of the member. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "在圖 3 中標示公司可收取的最高年費，計算其金額，並解釋這安排是否有效率。(3 分)",
+          "questionTextEn": "In Figure 3, indicate the maximum annual fee the company can charge, calculate its amount, and explain whether this arrangement is efficient. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "根據上述價格，解釋哪一組顧客的需求較富彈性。(2 分)",
+          "questionTextEn": "Based on the above prices, explain which group of customers has a more elastic demand. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "有人說：「與向所有乘客收取劃一價格比較，上述收費安排必然令所有乘客的消費者盈餘減少。」你同意嗎？試加解釋。(2 分)",
+          "questionTextEn": "Someone says, \"Compared with charging all passengers a uniform price, the above pricing arrangement must reduce the consumer surplus of all passengers.\" Do you agree? Explain. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "纜車公司與唯一一條往返山腳及山頂的巴士路線的營運商協議劃一調高車費。寫出《競爭條例》第一行為守則所禁止的三種行為。(3 分)",
+          "questionTextEn": "The cable car company and the operator of the only bus route between the foot and the top of the hill agree to raise their fares together. State THREE types of conduct prohibited under the First Conduct Rule of the Competition Ordinance. (3 marks)",
+          "totalMarks": 3
+        }
+      ],
+      "elective": "E1"
+    },
+    {
+      "questionNumber": 13,
+      "section": "C",
+      "categoryZh": "選修（二）貿易理論之延伸、經濟增長及發展",
+      "categoryEn": "Elective Part 2: Extension of trade theory, economic growth and development",
+      "difficultyGrade": "4",
+      "figureSpecId": "E1-P2Q13-blank",
+      "totalMarks": 16,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "R 國是一個發展中國家。圖 4 顯示 R 國生產消費品及資本品的生產可能曲線（PPF0），曲線向外凸出。\n解釋為何 R 國的生產可能曲線向外凸出。(2 分)",
+          "questionTextEn": "Country R is a developing country. Figure 4 shows Country R's production possibilities frontier (PPF0) for consumer goods and capital goods. The curve is bowed outwards.\nExplain why Country R's production possibilities frontier is bowed outwards. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "下表顯示 R 國的資料：\n| | 2020 年 | 2025 年 |\n|---|---|---|\n| 名義本地生產總值（十億 R 元） | 840 | 1 155 |\n| 本地生產總值內含平減物價指數 | 100 | 125 |\n| 人口（百萬） | 42 | 44 |\n計算 2020 年至 2025 年 R 國人均實質本地生產總值的變動百分率。列出你的計算步驟。(5 分)",
+          "questionTextEn": "The table below shows some data of Country R:\n| | 2020 | 2025 |\n|---|---|---|\n| Nominal GDP (billion R-dollars) | 840 | 1 155 |\n| Implicit price deflator of GDP | 100 | 125 |\n| Population (million) | 42 | 44 |\nCalculate the percentage change in per capita real GDP of Country R from 2020 to 2025. Show your working. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "c",
+          "questionTextZh": "外來直接投資令 R 國的資本存量大幅增加。在圖 4 中顯示其對 R 國生產可能曲線的影響。(2 分)",
+          "questionTextEn": "Foreign direct investment greatly increases Country R's capital stock. In Figure 4, show its effect on Country R's production possibilities frontier. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "解釋外來直接投資怎樣促進 R 國的經濟增長。(3 分)",
+          "questionTextEn": "Explain how foreign direct investment can promote economic growth in Country R. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "e",
+          "questionTextZh": "解釋為何人均實質本地生產總值上升，不一定代表 R 國有經濟發展。(2 分)",
+          "questionTextEn": "Explain why a rise in per capita real GDP does not necessarily mean economic development in Country R. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "f",
+          "questionTextZh": "R 國政府計劃把更多資源由生產消費品轉往生產資本品。解釋這項決定涉及的取捨。(2 分)",
+          "questionTextEn": "The government of Country R plans to shift more resources from producing consumer goods to producing capital goods. Explain the trade-off involved in this decision. (2 marks)",
+          "totalMarks": 2
+        }
+      ],
+      "elective": "E2"
+    }
+  ],
+  "subjectCode": "econ",
+  "sectionMarks": {
+    "A": 44,
+    "B": 60,
+    "C": 16
+  },
+  "answerRuleZh": "甲部和乙部試題均須回答。丙部只須選答一題。",
+  "answerRuleEn": "Answer ALL questions in Sections A and B. Attempt any ONE question in Section C."
+}
