@@ -1,0 +1,673 @@
+{
+ "version": 2,
+ "note": "AI-generated original practice topics for 開考 8:30. Not HKEAA past papers.",
+ "sets": [
+  {
+   "setId": "ENG4-002",
+   "code": "1.1",
+   "title": "Turn It Down: Is Your Music Too Loud?",
+   "partA": {
+    "sourceIntro": "This article appeared in a magazine for young people:",
+    "title": "Turn It Down: Is Your Music Too Loud?",
+    "text": "Earphones have become part of daily life for most teenagers. We wear them on the bus and even in bed. But medical experts are increasingly concerned that many young people are slowly damaging their hearing without knowing it.\n\nAccording to the World Health Organization (WHO), more than one billion young people around the world are at risk of hearing loss because they listen to loud sounds too often and for too long. The WHO says that listening at 85 decibels for eight hours, or at 100 decibels for just 15 minutes, can be harmful. Loud sound may first cause only a short ringing in the ears, but repeated exposure can make hearing loss permanent.\n\n\"The problem is that the damage happens quietly,\" explains Dr Helen Marsh, an audiologist who checks patients' hearing. \"There is no pain, so at first you might only notice a ringing in your ears after a concert, or you keep asking friends to repeat themselves in a noisy restaurant.\"\n\nSo why do people turn the volume up? Some want to block out the noise of traffic or trains, while others say loud music helps them concentrate or feel more energetic. Sixteen-year-old Leo admits he often listens at full volume. \"If I can still hear people talking around me, it isn't loud enough,\" he says.\n\nDr Marsh recommends a simple '60/60 rule': listen at no more than 60% of the maximum volume, for no more than 60 minutes at a time.\n\nHowever, not all teenagers agree. \"My grandparents can't hear well, and they never used earphones,\" says Leo. \"I'll worry about it when I'm older.\"",
+    "visual": null,
+    "scenario": "Your school's Health Club is preparing a presentation for younger students in your school about protecting their hearing. Your group has been asked to plan what the presentation will include and how to present it.",
+    "prompts": [
+     "why many young people listen to music at a high volume",
+     "what younger students should learn about the risks of loud sound",
+     "how to make the presentation interesting and easy to remember",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What do you usually use earphones for?",
+     "What kind of music do you like listening to?",
+     "What is the noisiest place you have ever been to?",
+     "Why do some people listen to music while they study?",
+     "Do you think teenagers worry enough about their health?",
+     "Why do some young people ignore advice from adults?",
+     "Is it better to listen to music with earphones or with speakers?",
+     "Is Hong Kong too noisy a city to live in?"
+    ]
+   },
+   "meta": {
+    "topic": "safe listening and earphone volume",
+    "topicArea": "Health",
+    "textType": "magazine article",
+    "taskType": "plan a presentation",
+    "hkLocal": false,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為校內低年級同學策劃一個保護聽力嘅 presentation：講點解年輕人鍾意大聲聽歌、要教初中生乜嘢風險知識，同埋點樣令 presentation 有趣、易記。",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "想蓋過巴士、港鐵、街上嘅噪音",
+       "覺得大聲啲更有感覺、更好聽、更有活力",
+       "溫書時想專心、隔絕身邊人講嘢",
+       "唔知道有危險，因為唔痛、冇即時後果",
+       "習慣咗，慢慢越調越大聲",
+       "朋友都係咁，覺得冇乜問題"
+      ],
+      "materialLinks": [
+       "block out the noise of traffic or trains",
+       "loud music helps them concentrate or feel more energetic",
+       "If I can still hear people talking around me, it isn't loud enough",
+       "There is no pain"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "聽力受損係永久，唔會好返",
+       "WHO 數字：超過十億年輕人有風險",
+       "安全界線：85 分貝 8 小時、100 分貝 15 分鐘",
+       "早期警號：耳鳴、要人講多次",
+       "60/60 規則：音量 60%、每次 60 分鐘",
+       "唔止耳筒：演唱會、KTV、打機都有風險"
+      ],
+      "materialLinks": [
+       "more than one billion young people around the world are at risk",
+       "listening at 85 decibels for eight hours, or at 100 decibels for just 15 minutes",
+       "repeated exposure can make hearing loss permanent",
+       "a ringing in your ears after a concert",
+       "'60/60 rule'"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "現場示範：播唔同音量嘅聲，問大家覺得幾大聲",
+       "短片或者真人故事開場",
+       "簡單口號，例如 60/60",
+       "互動問答、小測、送細禮物",
+       "用手機 app 量分貝，即場試",
+       "請低年級同學上台參與、角色扮演",
+       "時間唔好太長、用圖多過字"
+      ],
+      "materialLinks": [
+       "'60/60 rule'",
+       "you keep asking friends to repeat themselves in a noisy restaurant",
+       "I'll worry about it when I'm older"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "audiologist",
+      "note": "au-dee-OL-uh-jist，重音喺第三音節；聽力專家"
+     },
+     {
+      "word": "permanent",
+      "note": "PER-muh-nunt，重音喺第一音節；永久嘅"
+     },
+     {
+      "word": "decibels",
+      "note": "DES-ih-belz，重音喺第一音節；分貝（聲量單位）"
+     },
+     {
+      "word": "volume",
+      "note": "VOL-yoom，重音喺第一音節；音量"
+     },
+     {
+      "word": "concentrate",
+      "note": "KON-sun-trayt，重音喺第一音節；專心"
+     },
+     {
+      "word": "energetic",
+      "note": "en-er-JET-ik，重音喺第三音節；有活力"
+     },
+     {
+      "word": "maximum",
+      "note": "MAK-sih-mum，重音喺第一音節；最大"
+     },
+     {
+      "word": "hearing loss",
+      "note": "HEER-ing loss（重音喺 hearing）；聽力受損"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "聽歌、睇片、打機定上網課",
+       "幾時用、用幾耐",
+       "音量大概幾大"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講出歌手類型或者歌",
+       "點解鍾意",
+       "通常幾時聽"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "concert, MTR or construction site",
+       "how it felt",
+       "what you did"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "隔走噪音、幫助專心",
+       "令溫書冇咁悶",
+       "反方：歌詞會令人分心"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "唔夠：覺得自己後生冇事",
+       "例子：捱夜、食垃圾食物",
+       "有啲人好注重運動"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "覺得大人唔明自己",
+       "冇即時後果就唔理",
+       "想自己做決定"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "耳筒：私人、唔嘈到人",
+       "喇叭：對耳仔好啲",
+       "講自己揀邊樣同原因"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "係：交通、地盤、人多",
+       "唔係：郊野公園近、有靜嘅地方",
+       "噪音對健康同心情嘅影響"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係讀出 WHO 十億同分貝數字，冇講低年級同學點理解",
+     "第 1 點講到變成第 2 點，冇解釋點解年輕人鍾意大聲",
+     "第 3 點只講「做 PowerPoint」，冇講點樣吸引低年級同學",
+     "忘記觀眾係低年級同學，用太深嘅醫學字",
+     "將 60/60 規則講成「聽 60 分鐘就要停 60 分鐘」"
+    ]
+   },
+   "no": 1
+  },
+  {
+   "setId": "ENG4-002",
+   "code": "1.2",
+   "title": "Fast Forward: Young Viewers Hit the Speed Button",
+   "partA": {
+    "sourceIntro": "This article appeared in a local newspaper:",
+    "title": "Fast Forward: Young Viewers Hit the Speed Button",
+    "text": "When Form 5 student Chloe Tam sits down to watch a drama, she rarely watches it at normal speed. \"I usually choose 1.5 times, sometimes double speed,\" she explains. \"That way, I can finish a whole series in a weekend and still have time for homework.\"\n\nChloe is not alone. Most video apps now allow viewers to change the playback speed, and a survey of 600 local secondary students by the youth group Teen Screen Lab found that 58% often watch dramas or online videos faster than normal. Among these speed-watchers, the most common reasons were saving time (71%) and skipping 'boring' parts (45%). Students could give more than one reason.\n\nSupporters say speed-watching is efficient and helps busy students keep up with popular shows, so they can join conversations with their friends. Some also use it when they revise with online lessons. \"A recorded lesson that takes an hour only takes 40 minutes at 1.5 times,\" says one university student.\n\nHowever, not everyone is a fan. A local film lecturer believes viewers miss a great deal. \"Directors use silence, music and the expressions on actors' faces to tell a story. When you rush, you only follow the plot, not the emotions,\" he says. Some teachers also worry that students who speed through lessons may remember less, and that the habit is making young people less patient.\n\nChloe disagrees. \"If a show is really good, I slow down and enjoy every scene. Speed is just a tool,\" she says.\n\nSo, is pressing the speed button a smart way to use our time, or are we losing something important?",
+    "visual": null,
+    "scenario": "Your school's Campus TV team is making a programme about students' viewing habits. For the programme, your group has been asked to discuss the advantages and disadvantages of watching videos at a faster speed, both for fun and for school work.",
+    "prompts": [
+     "why many young people choose to watch videos at a faster speed",
+     "whether speed-watching spoils the enjoyment of dramas and films",
+     "whether students should watch recorded online lessons at a faster speed",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What kind of videos do you usually watch?",
+     "Have you ever watched a whole series in one day?",
+     "Do you usually watch dramas alone or with other people?",
+     "Why do some people enjoy watching the same film more than once?",
+     "Do you think young people today are less patient than before?",
+     "Should teachers record their lessons so students can watch them again?",
+     "Which is better for relaxing: watching videos or reading a book?",
+     "Do you think short videos will replace long films in the future?"
+    ]
+   },
+   "meta": {
+    "topic": "watching videos at faster playback speed",
+    "topicArea": "Entertainment & Media",
+    "textType": "newspaper article",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為校園電視節目討論用快速播放睇片嘅好處同壞處：點解受歡迎、會唔會令劇集電影冇咁好睇，再講學生應唔應該快轉睇網上錄影課堂；要同時講娛樂同讀書兩方面。",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "功課多、時間少，想慳時間",
+       "想追晒熱門劇，同朋友有話題",
+       "劇情太慢、有悶場想跳過",
+       "習慣咗短片，耐性少咗",
+       "app 一撳就得，好方便",
+       "想睇多啲唔同節目"
+      ],
+      "materialLinks": [
+       "finish a whole series in a weekend and still have time for homework",
+       "saving time (71%)",
+       "skipping 'boring' parts (45%)",
+       "keep up with popular shows, so they can join conversations"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "會：錯過配樂、沉默、演員表情",
+       "會：只知劇情唔知感受，笑位、細節都冇咗",
+       "會：越嚟越冇耐性，慢片睇唔落",
+       "唔會：悶場本身冇內容，快啲反而更投入",
+       "唔會：仲可以同朋友傾同一套劇",
+       "折衷：好睇嘅慢慢睇，悶嘅先快"
+      ],
+      "materialLinks": [
+       "Directors use silence, music and the expressions on actors' faces",
+       "you only follow the plot, not the emotions",
+       "the habit is making young people less patient",
+       "Speed is just a tool"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "應該：一小時變 40 分鐘，溫書有效率",
+       "應該：已識嘅部分可以快啲",
+       "唔應該：記得少、理解差",
+       "唔應該：英文聽力或者難嘅課要慢",
+       "視乎科目同自己程度",
+       "可以快睇一次，再慢慢重溫重點"
+      ],
+      "materialLinks": [
+       "A recorded lesson that takes an hour only takes 40 minutes at 1.5 times",
+       "students who speed through lessons may remember less"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "playback",
+      "note": "PLAY-bak，重音喺第一音節；播放"
+     },
+     {
+      "word": "survey",
+      "note": "SUR-vay，做名詞時重音喺第一音節；調查"
+     },
+     {
+      "word": "efficient",
+      "note": "ih-FISH-unt，重音喺第二音節；有效率"
+     },
+     {
+      "word": "lecturer",
+      "note": "LEK-chur-er，重音喺第一音節；大學講師"
+     },
+     {
+      "word": "expressions",
+      "note": "ik-SPRESH-unz，重音喺第二音節；表情"
+     },
+     {
+      "word": "emotions",
+      "note": "ih-MOH-shunz，重音喺第二音節；情感"
+     },
+     {
+      "word": "patient",
+      "note": "PAY-shunt，重音喺第一音節；有耐性（形容詞）"
+     },
+     {
+      "word": "series",
+      "note": "SEER-eez，單複數一樣；（電視）劇集"
+     },
+     {
+      "word": "plot",
+      "note": "PLOT，一個音節，t 要讀出；劇情"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講類型：劇、YouTube、短片",
+       "每日睇幾耐",
+       "通常用咩平台"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講一次經驗同套劇",
+       "點解停唔到",
+       "第二日有冇影響"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "自己睇：自由、可以快轉",
+       "同人睇：可以即刻傾",
+       "舉家人或朋友例子"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "鍾意嘅片睇幾次都開心",
+       "第二次會留意到新細節",
+       "同唔同人睇有唔同感受"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "係：慣咗短片同即時回覆",
+       "唔係：只係生活節奏快咗",
+       "舉自己或者身邊例子"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "好：病假或者唔明可以重溫",
+       "壞：上堂唔專心",
+       "老師要多做嘢"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "睇片：輕鬆、唔使諗",
+       "睇書：靜、可以發揮想像",
+       "講自己揀邊樣"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "會：短片越嚟越受歡迎",
+       "唔會：長片講故事更完整",
+       "兩樣會一齊存在"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講自己鍾意幾倍速，冇講好處壞處",
+     "將 speed-watching 誤解成「睇好多片」或者「網速快」",
+     "第 3 點講返劇集，冇講網上錄影課堂",
+     "淨係讀出 58%、71%、45%，冇解釋代表乜",
+     "成組人一面倒支持，冇人講壞處"
+    ]
+   },
+   "no": 2
+  },
+  {
+   "setId": "ENG4-002",
+   "code": "1.3",
+   "title": "Strangers Next Door? Four Ways to Get to Know Your Neighbours",
+   "partA": {
+    "sourceIntro": "This list of tips appeared on a website for Hong Kong families:",
+    "title": "Strangers Next Door? Four Ways to Get to Know Your Neighbours",
+    "text": "In a city where thousands of people can live in one building, many of us do not even know the names of the people next door. A recent survey by this website found that only one in four readers could name a neighbour on their floor. Yet good neighbours can help in an emergency, look after your flat when you are away, or simply make home feel friendlier. A smile and a 'good morning' in the lift is a good start, but here are four ideas that can bring the neighbours in a housing estate together.\n\n1. Start a floor group chat\nA group chat lets neighbours share news quickly, such as lift repairs or lost keys. Remember to set some rules so that it does not become too noisy, and help older residents who are not used to smartphones to join.\n\n2. Set up a swap shelf\nPut a small shelf in a shared area where people can leave books, toys or kitchen items they no longer need, and take something else in return. It saves money and reduces waste.\n\n3. Organise a festival party\nMid-Autumn Festival and Lunar New Year are perfect times to invite neighbours to share snacks, make lanterns or decorate the building together.\n\n4. Share your skills\nCan you fix computers, cook a special dish or help children with homework? A weekly 'skill swap' lets neighbours teach each other something useful for free.",
+    "visual": null,
+    "scenario": "Your school's Community Service Club wants to help people in a nearby housing estate get to know their neighbours. The club only has time to help residents start one of the four ideas, and your group has been asked to choose the most suitable one.",
+    "prompts": [
+     "why many people in Hong Kong do not know their neighbours",
+     "what each idea could offer and what problems it might have",
+     "which idea the club should help residents start and why",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "How well do you know your neighbours?",
+     "Have you ever helped a neighbour?",
+     "Do you enjoy chatting with people you don't know well?",
+     "Why do some people prefer to keep to themselves?",
+     "Do you think group chats bring people closer together?",
+     "Should young people do more volunteer work in their community?",
+     "Is it better to live in a small village or a big city?",
+     "Is Hong Kong a friendly city?"
+    ]
+   },
+   "meta": {
+    "topic": "getting to know neighbours in housing estates",
+    "topicArea": "Society",
+    "textType": "list of tips",
+    "taskType": "choose the best option",
+    "hkLocal": true,
+    "decisionRequired": true,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "社會服務學會只有時間幫附近屋邨居民開始四個方法其中一個：小組先講點解香港人唔識鄰居，再比較四個方法嘅好處同問題，最後揀一個並講原因。",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "生活忙、返工返學早出晚歸",
+       "大廈住好多人，鄰居成日轉",
+       "注重私隱、擔心安全",
+       "怕尷尬、唔知講咩",
+       "多咗用手機，少咗面對面傾偈",
+       "冇共用空間或者活動"
+      ],
+      "materialLinks": [
+       "thousands of people can live in one building",
+       "only one in four readers could name a neighbour on their floor"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "group chat：快、方便傳消息；但可能好嘈、有爭拗，長者唔識用",
+       "交換架：環保、慳錢；但可能變垃圾堆、阻通道、冇人理",
+       "節日派對：熱鬧、老少都參加；但要錢、要場地、要人手、只係一次",
+       "技能交換：實用、可以長期；但要搵人教、時間難夾",
+       "學會角度：邊個方法學生做得到、學生走咗之後仲行唔行得落去"
+      ],
+      "materialLinks": [
+       "set some rules so that it does not become too noisy",
+       "help older residents who are not used to smartphones",
+       "It saves money and reduces waste",
+       "Mid-Autumn Festival and Lunar New Year",
+       "A weekly 'skill swap'"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "揀節日派對：一次過見到好多人，學生可以負責遊戲同燈籠",
+       "揀技能交換：學生教功課、電腦，居民又可以教學生",
+       "揀 group chat：成本低、可以長期；學生教長者用",
+       "揀交換架：簡單、持續、環保",
+       "定標準：成本、學生做唔做得到、參加人數、效果長唔長久",
+       "可以講先搞派對再開 group chat，但最後要揀一個"
+      ],
+      "materialLinks": [
+       "Organise a festival party",
+       "Share your skills",
+       "Start a floor group chat",
+       "Set up a swap shelf"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "neighbours",
+      "note": "NAY-berz，重音喺第一音節，gh 唔讀；鄰居"
+     },
+     {
+      "word": "emergency",
+      "note": "ih-MER-jun-see，重音喺第二音節；緊急情況"
+     },
+     {
+      "word": "residents",
+      "note": "REZ-ih-dunts，重音喺第一音節；居民"
+     },
+     {
+      "word": "housing estate",
+      "note": "HOW-zing ih-stayt（重音喺 housing）；屋邨"
+     },
+     {
+      "word": "swap shelf",
+      "note": "SWOP SHELF；交換架（放低唔要嘅嘢，換第二樣）"
+     },
+     {
+      "word": "festival",
+      "note": "FES-tih-vul，重音喺第一音節；節日"
+     },
+     {
+      "word": "organise",
+      "note": "OR-guh-nyze，重音喺第一音節；籌辦"
+     },
+     {
+      "word": "decorate",
+      "note": "DEK-uh-rayt，重音喺第一音節；裝飾"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "識唔識、知唔知名",
+       "平時有冇打招呼、傾偈",
+       "舉一個例子"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講一次經驗：拎嘢、借嘢",
+       "對方有咩反應",
+       "冇的話講點解"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "鍾意：可以識新朋友",
+       "唔鍾意：尷尬、唔知講咩",
+       "講一個場合例子"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "重視私隱、怕麻煩",
+       "性格內向",
+       "以前有唔好經驗"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "係：方便聯絡、分享消息",
+       "唔係：見面少咗",
+       "可能有誤會同爭拗"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "應該：學到嘢、幫到人",
+       "但功課多、時間少",
+       "舉一個義工例子"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "鄉村：人情味、清靜",
+       "城市：方便、機會多",
+       "講自己揀邊樣"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "友善：樂於助人、有禮",
+       "唔友善：人人趕時間",
+       "舉街上或者交通工具例子"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "四個人各自介紹一個方法，冇比較、冇回應組員",
+     "第 3 點冇揀到一個，或者揀咗冇講原因",
+     "忘記係學校學會幫附近屋邨居民開始，講成自己屋企點做",
+     "淨係逐點讀材料四個方法",
+     "將 swap shelf 講成「賣二手嘢」"
+    ]
+   },
+   "no": 3
+  }
+ ]
+}
