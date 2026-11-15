@@ -668,6 +668,711 @@
     ]
    },
    "no": 3
+  },
+  {
+   "setId": "ENG4-003",
+   "code": "1.1",
+   "title": "Same Price, Less Inside: Shoppers Spot Shrinking Snacks",
+   "partA": {
+    "sourceIntro": "This article appeared in a local newspaper:",
+    "title": "Same Price, Less Inside: Shoppers Spot Shrinking Snacks",
+    "text": "When university student Kelvin Ho opened his favourite bag of potato chips last week, something felt wrong. \"The bag looked the same and the price was the same, but it seemed half empty,\" he said. He checked the label and found that the weight had dropped from 70 grams to 60 grams.\n\nKelvin had discovered \"shrinkflation\". This happens when a company makes a product smaller but keeps the price the same. Chocolate bars, toilet paper and cartons of juice have all been affected in different parts of the world.\n\nA survey of 800 Hong Kong shoppers by the consumer group Smart Basket found that 64% believed some products they buy regularly had become smaller in the past two years. However, only one in four said they often check the weight on a package.\n\nCompanies say they have little choice. \"The cost of ingredients, transport and rent keeps going up,\" explained a spokesperson for a snack company. \"If we raised our prices, many customers would simply stop buying.\"\n\nNot everyone accepts this. \"Customers would rather see an honest price rise than be tricked,\" said Mandy Leung of Smart Basket. Some governments now require shops to warn customers. In France, for example, large supermarkets must put up a notice next to products that have become smaller but are sold at the same or a higher price.\n\nOthers say shoppers should simply be more careful. Comparing the \"unit price\", such as the price for every 100 grams, is one way to find the best value.\n\nSo, is shrinkflation a clever business decision or an unfair trick?",
+    "visual": null,
+    "scenario": "Your school's Consumer Education Club is preparing a short video for its 'Smart Shopper Week'. Your group has been asked to share your views on shrinkflation.",
+    "prompts": [
+     "why companies make products smaller instead of raising prices",
+     "whether shrinkflation is fair to customers",
+     "what shoppers can do to make sure they get good value for money",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "How do you usually decide which snacks to buy?",
+     "Do you usually compare prices before you buy something?",
+     "Have you ever bought something that was not worth the money?",
+     "Why do some people always buy the same brands?",
+     "Why do people often buy more when things are on sale?",
+     "Do you think teenagers spend their pocket money wisely?",
+     "Which is more important when you shop: price or quality?",
+     "Do you think shopping in Hong Kong is getting too expensive?"
+    ]
+   },
+   "meta": {
+    "topic": "shrinkflation: products getting smaller at the same price",
+    "topicArea": "Consumer",
+    "textType": "newspaper article",
+    "taskType": "give opinions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為 Smart Shopper Week 短片講對「縮水式加價」（shrinkflation）嘅看法：公司點解咁做、公唔公平，再講消費者點樣確保物有所值。",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "材料、運輸、租金成本上升",
+       "加價好易俾人發現，縮細份量冇咁易察覺",
+       "怕客人轉買其他牌子",
+       "價錢唔變，貨架上睇落仲係咁平",
+       "包裝一樣，公司覺得客人唔會留意",
+       "想保住利潤"
+      ],
+      "materialLinks": [
+       "The cost of ingredients, transport and rent keeps going up",
+       "If we raised our prices, many customers would simply stop buying",
+       "from 70 grams to 60 grams"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "唔公平：好似收埋加價，呃客",
+       "唔公平：包裝一樣，客人好難發現",
+       "公平：重量有寫喺包裝上，客人自己可以睇",
+       "公平：總好過直接加價，至少仲買得起",
+       "視乎有冇清楚通知客人",
+       "長遠會失去客人信任"
+      ],
+      "materialLinks": [
+       "64% believed some products they buy regularly had become smaller",
+       "only one in four said they often check the weight",
+       "Customers would rather see an honest price rise than be tricked"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "睇包裝上嘅重量或者數量",
+       "比較每 100 克嘅單位價錢",
+       "轉買其他牌子或者超市自家牌子",
+       "喺網上或者社交媒體提醒其他人",
+       "向消費者團體投訴",
+       "支持政府或者超市好似法國咁出通告"
+      ],
+      "materialLinks": [
+       "Comparing the \"unit price\", such as the price for every 100 grams",
+       "In France, for example, large supermarkets must put up a notice"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "shrinkflation",
+      "note": "shrink-FLAY-shun，重音喺第二音節；縮水式加價：份量少咗但價錢唔變"
+     },
+     {
+      "word": "consumer",
+      "note": "kun-SOO-mer（英式 kun-SYOO-mer），重音喺第二音節；消費者"
+     },
+     {
+      "word": "ingredients",
+      "note": "in-GREE-dee-unts，重音喺第二音節；材料、成分"
+     },
+     {
+      "word": "spokesperson",
+      "note": "SPOKES-per-sun，重音喺第一音節；發言人"
+     },
+     {
+      "word": "regularly",
+      "note": "REG-yu-ler-lee，重音喺第一音節；經常、定期"
+     },
+     {
+      "word": "survey",
+      "note": "SUR-vay，做名詞時重音喺第一音節；調查"
+     },
+     {
+      "word": "cartons",
+      "note": "KAR-tunz，重音喺第一音節；紙盒（例如紙包飲品）"
+     },
+     {
+      "word": "unit price",
+      "note": "YOO-nit PRICE（price 讀重啲）；單位價錢，例如每 100 克幾錢"
+     },
+     {
+      "word": "grams",
+      "note": "GRAMZ，一個音節，尾音 z 要讀出；克"
+     },
+     {
+      "word": "tricked",
+      "note": "TRIKT，一個音節，-ed 讀 t；俾人呃"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "taste, price or packaging",
+       "friends' advice or ads",
+       "an example of a recent choice"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "會／唔會比較，點解",
+       "講一次比較價錢嘅經驗",
+       "用 app 或者行幾間舖"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "講買咗咩、幾錢",
+       "點解唔值",
+       "之後學到乜"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "信得過、慣咗",
+       "唔想花時間揀",
+       "廣告或者家人影響"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "覺得慳到錢",
+       "怕之後冇平買",
+       "其實買咗唔需要嘅嘢"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "識：會比較、會儲錢",
+       "唔識：衝動買嘢、跟潮流",
+       "舉自己或者朋友例子"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "價錢：學生錢唔多",
+       "質素：耐用反而慳錢",
+       "視乎買咩嘢"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "係：食物、日用品越嚟越貴",
+       "影響學生同家庭",
+       "可以點應付"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "將 shrinkflation 講成「通脹」或者「減價」，冇講份量縮細",
+     "淨係讀出 70 克、60 克、64%，冇解釋代表乜",
+     "第 2 點只答 yes 或者 no，冇講點解公平或者唔公平",
+     "成組人一面倒鬧公司，冇人講公司嘅理由",
+     "第 3 點變成講網購或者講廣告，離開咗題目"
+    ]
+   },
+   "no": 4,
+   "pdf": "speaking/ENG4-003_1.1.pdf"
+  },
+  {
+   "setId": "ENG4-003",
+   "code": "1.2",
+   "title": "Students Teaching Students: Why Peer Tutoring Works",
+   "partA": {
+    "sourceIntro": "This article appeared on an education website:",
+    "title": "Students Teaching Students: Why Peer Tutoring Works",
+    "text": "Ask any experienced teacher and they will probably tell you that the best way to learn something is to teach it to someone else. That is the idea behind peer tutoring, a system in which older students help younger ones with their schoolwork.\n\nAt one secondary school in Tsuen Wan, around 60 Form 5 students volunteer two lunchtimes a week to help Form 1 and Form 2 students with Mathematics and English. The scheme started three years ago with only eight tutors, but it has grown quickly because of positive feedback from both groups.\n\nForm 2 student Jason Ip admits that he was nervous at first. \"I didn't want to ask my teacher 'silly' questions in front of the whole class,\" he says. \"With my tutor, I don't feel embarrassed, because she still remembers how difficult Form 1 was.\"\n\nThe tutors benefit as well. \"When I explain a topic, I discover which parts I don't really understand myself,\" says Form 5 tutor Natalie Kwok. \"I've also become more patient and more confident.\"\n\nHowever, running a scheme like this is not always easy. Tutors have their own examinations to prepare for, and some lose interest after a few weeks. Teachers also need to check that tutors are explaining things correctly. A few parents worry that a schoolmate cannot take the place of a trained teacher.\n\nTo keep tutors motivated, the school gives them certificates and organises a thank-you lunch at the end of the year.\n\nCould a similar scheme work at your school?",
+    "visual": null,
+    "scenario": "Your school's Student Union is planning to start a peer tutoring scheme in which senior form students help junior form students with their studies. Your group has been asked to plan the scheme.",
+    "prompts": [
+     "why junior form students might prefer getting help from older schoolmates",
+     "how the scheme should be organised",
+     "how to encourage senior form students to become tutors and keep them interested",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Which subject do you find the most difficult?",
+     "Who do you usually ask for help with your homework?",
+     "Have you ever taught someone how to do something?",
+     "Why are some students afraid to ask questions in class?",
+     "Do you think senior students should help junior students?",
+     "Should students get rewards for helping others?",
+     "Which is better for learning: studying alone or studying with friends?",
+     "Do you think private tutoring is too popular in Hong Kong?"
+    ]
+   },
+   "meta": {
+    "topic": "peer tutoring scheme: senior students helping junior students",
+    "topicArea": "Education & School",
+    "textType": "online article",
+    "taskType": "plan an event or campaign",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為學生會策劃一個朋輩補習計劃：先講低年級同學點解可能鍾意搵師兄師姐幫手，再計劃點樣安排，同埋點樣吸引高年級同學做導師兼保持佢哋投入。",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "問問題唔怕尷尬，唔驚俾全班睇住",
+       "師兄師姐啱啱讀過，明白邊度難",
+       "年紀接近，講嘢易明、易溝通",
+       "可以一對一，老師冇時間逐個教",
+       "順便問埋學校生活、揀科嘅意見",
+       "唔使出錢補習"
+      ],
+      "materialLinks": [
+       "I didn't want to ask my teacher 'silly' questions in front of the whole class",
+       "she still remembers how difficult Form 1 was"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "時間：午飯、放學或者網上",
+       "地點：圖書館、課室、自修室",
+       "科目：中英數，或者按同學需要",
+       "配對：按科目、時間表、性格",
+       "一對一定小組",
+       "老師先培訓導師，再定期跟進",
+       "設意見表，睇吓計劃有冇用"
+      ],
+      "materialLinks": [
+       "two lunchtimes a week",
+       "Tutors have their own examinations to prepare for",
+       "Teachers also need to check that tutors are explaining things correctly"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "證書、獎狀，可以放入學習紀錄",
+       "謝師宴或者小禮物",
+       "話俾佢哋知教人可以幫自己溫書",
+       "時間有彈性，考試前可以暫停",
+       "請以前做過嘅導師分享經驗",
+       "喺早會或者學校網頁表揚導師"
+      ],
+      "materialLinks": [
+       "When I explain a topic, I discover which parts I don't really understand myself",
+       "some lose interest after a few weeks",
+       "the school gives them certificates and organises a thank-you lunch"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "peer tutoring",
+      "note": "PEER TOO-ter-ing（重音喺 peer 同 TOO）；朋輩補習：同學教同學"
+     },
+     {
+      "word": "scheme",
+      "note": "SKEEM，sch 讀 sk；計劃"
+     },
+     {
+      "word": "tutors",
+      "note": "TOO-terz 或 TYOO-terz，重音喺第一音節；導師"
+     },
+     {
+      "word": "experienced",
+      "note": "ik-SPEER-ee-unst，重音喺第二音節；有經驗嘅"
+     },
+     {
+      "word": "embarrassed",
+      "note": "im-BA-rust，重音喺第二音節；尷尬"
+     },
+     {
+      "word": "motivated",
+      "note": "MOH-tih-vay-tid，重音喺第一音節；有動力"
+     },
+     {
+      "word": "certificates",
+      "note": "ser-TIF-ih-kuts，重音喺第二音節；證書"
+     },
+     {
+      "word": "volunteer",
+      "note": "vol-un-TEER，重音喺最後音節；自願做"
+     },
+     {
+      "word": "feedback",
+      "note": "FEED-bak，重音喺第一音節；意見、回饋"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講一科",
+       "點解難：例子",
+       "你點樣應付"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "同學、老師、家人定網上",
+       "點解揀佢",
+       "講一次例子"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "教咗邊個、教乜",
+       "過程難唔難",
+       "自己學到乜"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "怕俾人笑",
+       "怕問錯或者阻住堂",
+       "性格怕醜"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "應該：經驗有用",
+       "唔一定：高年級好忙",
+       "可以自願參加"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "應該：鼓勵多啲人幫手",
+       "唔應該：幫人唔係為獎",
+       "細細個獎勵就夠"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "自己溫：專心、自己控制進度",
+       "同朋友：互相問、唔悶",
+       "講自己點揀"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "係：好多學生都去補習社",
+       "家長怕子女輸蝕",
+       "學校教得夠唔夠"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講自己補習嘅經驗，冇策劃計劃",
+     "第 2 點只講「午飯時間」一樣，冇講地點、科目、配對、培訓",
+     "將 peer tutoring 講成去補習社或者請私人補習",
+     "重複材料嘅證書同謝師宴，冇諗自己學校新嘅方法",
+     "冇人講導師功課忙、半途而廢嘅問題"
+    ]
+   },
+   "no": 5,
+   "pdf": "speaking/ENG4-003_1.2.pdf"
+  },
+  {
+   "setId": "ENG4-003",
+   "code": "1.3",
+   "title": "Lunchtime Leftovers: What Our Survey Found",
+   "partA": {
+    "sourceIntro": "These survey results appeared in a school newsletter:",
+    "title": "Lunchtime Leftovers: What Our Survey Found",
+    "text": "Every school day, many lunch boxes are returned to our lunch supplier with rice, vegetables and meat that nobody has eaten. To find out why, our Green Club surveyed 520 students from Form 1 to Form 6 about their lunch habits last month.\n\nAlmost half of the students (47%) said they leave at least a quarter of their lunch on most days. Junior form students left the most food. We then asked these students why, and they could choose more than one reason. The table shows their main answers.\n\nMany students also shared ideas. \"I'd eat everything if I could choose a smaller portion,\" wrote one Form 3 student. Another suggested a class competition to see who wastes the least. However, some students felt the problem was not their fault. \"If the food tasted better, we wouldn't throw it away,\" said a Form 5 student.\n\nAt the moment, the supplier throws all the leftovers into general rubbish, so none of the food is recycled and it all ends up in landfills. This is a serious environmental problem: in Hong Kong, food waste is the largest type of everyday rubbish buried in landfills, making up nearly 30% of the total. Our lunch supplier says it can offer different portion sizes and a more flexible menu, but only if the school asks for this. The Green Club will send its ideas to the principal next month.",
+    "visual": {
+     "type": "table",
+     "caption": "Main reasons for not finishing lunch (students who often leave food)",
+     "columns": [
+      "Reason",
+      "Students"
+     ],
+     "rows": [
+      [
+       "The portion is too big",
+       "58%"
+      ],
+      [
+       "I don't like the taste",
+       "51%"
+      ],
+      [
+       "There isn't enough time to eat",
+       "37%"
+      ],
+      [
+       "I ate snacks before lunch",
+       "29%"
+      ],
+      [
+       "The food is cold",
+       "18%"
+      ]
+     ]
+    },
+    "scenario": "As members of your school's Green Club, you have looked at the results of the club's survey about food waste at lunchtime. Your group has been asked to make recommendations to the principal on how to reduce the amount of lunch that is wasted.",
+    "prompts": [
+     "why many students do not finish their lunch",
+     "what the school and the lunch supplier could do to reduce food waste",
+     "how students can be encouraged to waste less food",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What do you usually have for lunch on school days?",
+     "Do you usually finish all the food on your plate?",
+     "What does your family usually do with leftover food?",
+     "Why do some people order more food than they can eat?",
+     "Do you think school lunches in Hong Kong are healthy enough?",
+     "Should restaurants charge customers who leave a lot of food?",
+     "Which is better: bringing lunch from home or buying lunch at school?",
+     "Do you think people in Hong Kong waste too much food?"
+    ]
+   },
+   "meta": {
+    "topic": "food waste from school lunches",
+    "topicArea": "Environment",
+    "textType": "survey results",
+    "taskType": "make recommendations",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組（Green Club 成員）要根據 Green Club 嘅午餐調查，向校長建議點樣減少午餐浪費：先講同學點解食唔晒，再建議學校同飯盒供應商可以做乜，同埋點樣鼓勵同學少啲浪費。",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "份量太多（58%）",
+       "唔啱口味，例如唔鍾意菜（51%）",
+       "食飯時間唔夠（37%）",
+       "之前食咗零食（29%）",
+       "飯菜凍咗（18%）",
+       "初中同學食量細、唔慣學校飯",
+       "傾偈或者玩手機，冇心機食"
+      ],
+      "materialLinks": [
+       "Almost half of the students (47%) said they leave at least a quarter of their lunch",
+       "Junior form students left the most food",
+       "The table shows their main answers"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "提供大、中、細份量揀",
+       "多啲同學鍾意嘅菜式，做問卷改餐單",
+       "延長午飯時間或者錯開時間",
+       "保溫飯盒或者即場分飯",
+       "安排廚餘回收，唔好掉落堆填區",
+       "小息唔賣太多零食"
+      ],
+      "materialLinks": [
+       "it can offer different portion sizes and a more flexible menu, but only if the school asks",
+       "none of the food is recycled and it all ends up in landfills",
+       "food waste is the largest type of everyday rubbish buried in landfills"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "班際「清碟」比賽，有小獎品",
+       "早會或者班主任課講浪費食物嘅影響",
+       "張貼每星期廚餘數字",
+       "請同學自己揀份量，食唔晒就唔好要多",
+       "Green Club 大使午飯時提醒",
+       "吸引同學參加試食，揀新菜式"
+      ],
+      "materialLinks": [
+       "I'd eat everything if I could choose a smaller portion",
+       "Another suggested a class competition to see who wastes the least",
+       "If the food tasted better, we wouldn't throw it away"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "leftovers",
+      "note": "LEFT-oh-verz，重音喺第一音節；食剩嘅嘢"
+     },
+     {
+      "word": "portion",
+      "note": "POR-shun，重音喺第一音節；一份（食物份量）"
+     },
+     {
+      "word": "supplier",
+      "note": "suh-PLY-er，重音喺第二音節；供應商"
+     },
+     {
+      "word": "landfills",
+      "note": "LAND-filz，重音喺第一音節；堆填區"
+     },
+     {
+      "word": "surveyed",
+      "note": "ser-VAYD，做動詞時重音喺第二音節；做咗調查"
+     },
+     {
+      "word": "environmental",
+      "note": "in-vy-run-MEN-tul，重音喺第四音節；環境嘅"
+     },
+     {
+      "word": "recycled",
+      "note": "ree-SY-kuld，重音喺第二音節；回收再用"
+     },
+     {
+      "word": "principal",
+      "note": "PRIN-sih-pul，重音喺第一音節；校長"
+     },
+     {
+      "word": "flexible",
+      "note": "FLEK-sih-bul，重音喺第一音節；有彈性、可以改"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "飯盒、飯堂定出街食",
+       "講一兩樣常食嘅",
+       "鍾唔鍾意"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "通常食唔食得晒",
+       "食唔晒嘅原因",
+       "會唔會打包"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "翻熱第二餐食",
+       "放雪櫃或者掉咗",
+       "屋企人有咩習慣"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "餓嗰陣叫多咗",
+       "想試多幾樣",
+       "怕唔夠、要面子"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "夠：有菜有肉",
+       "唔夠：油、鹹、多肉",
+       "可以點改善"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "應該：令人唔亂叫",
+       "唔應該：客人俾咗錢",
+       "或者用獎勵代替罰款"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "屋企：健康、啱口味",
+       "學校：方便、唔使準備",
+       "講自己揀邊樣"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "係：自助餐、節日食物浪費",
+       "唔係：好多人已經有意識",
+       "可以點改善"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "逐行讀表入面嘅百分比，冇講背後原因",
+     "第 2 點同第 3 點講埋一齊，分唔清學校同同學要做乜",
+     "淨係講「唔好浪費」，冇具體建議俾校長",
+     "將 portion 讀成 position，或者 landfills 讀錯重音",
+     "成組人怪飯盒唔好食，冇講同學自己嘅責任"
+    ]
+   },
+   "no": 6,
+   "pdf": "speaking/ENG4-003_1.3.pdf"
   }
  ]
 }
