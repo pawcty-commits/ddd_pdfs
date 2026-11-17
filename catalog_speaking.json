@@ -29,6 +29,26 @@
      "Why do some young people ignore advice from adults?",
      "Is it better to listen to music with earphones or with speakers?",
      "Is Hong Kong too noisy a city to live in?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-002_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-002_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-002_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-002_1.1_q8_f.mp3"
     ]
    },
    "meta": {
@@ -53,6 +73,7 @@
    },
    "guide": {
     "taskFocus": "小組要為校內低年級同學策劃一個保護聽力嘅 presentation：講點解年輕人鍾意大聲聽歌、要教初中生乜嘢風險知識，同埋點樣令 presentation 有趣、易記。",
+    "taskFocusEn": "Your group is planning a hearing-protection presentation for junior students at your school. Discuss why young people like listening to loud music, what junior students should learn about the risks, and how to make the presentation interesting and memorable.",
     "promptGuide": [
      {
       "prompt": 1,
@@ -69,6 +90,14 @@
        "loud music helps them concentrate or feel more energetic",
        "If I can still hear people talking around me, it isn't loud enough",
        "There is no pain"
+      ],
+      "ideasEn": [
+       "To block out noise from buses, the MTR and the street",
+       "Music sounds better and more exciting when it is loud",
+       "To concentrate when studying and shut out people talking nearby",
+       "They don't know it is dangerous because there is no pain and no immediate effect",
+       "They get used to it and slowly turn the volume up",
+       "Their friends do the same, so it seems fine"
       ]
      },
      {
@@ -87,6 +116,14 @@
        "repeated exposure can make hearing loss permanent",
        "a ringing in your ears after a concert",
        "'60/60 rule'"
+      ],
+      "ideasEn": [
+       "Hearing loss is permanent; it does not recover",
+       "WHO figure: over one billion young people are at risk",
+       "Safe limits: 85 decibels for 8 hours, 100 decibels for only 15 minutes",
+       "Early warning signs: ringing in the ears, asking people to repeat themselves",
+       "The 60/60 rule: 60% volume, 60 minutes at a time",
+       "Not just earphones: concerts, karaoke and gaming are risky too"
       ]
      },
      {
@@ -104,41 +141,58 @@
        "'60/60 rule'",
        "you keep asking friends to repeat themselves in a noisy restaurant",
        "I'll worry about it when I'm older"
+      ],
+      "ideasEn": [
+       "A live demonstration: play sounds at different volumes and ask how loud they seem",
+       "Start with a short video or a real person's story",
+       "A simple slogan such as 60/60",
+       "Interactive Q&A, a quiz and small prizes",
+       "Measure decibels with a phone app on the spot",
+       "Invite junior students on stage to take part or role-play",
+       "Keep it short and use more pictures than words"
       ]
      }
     ],
     "topicVocab": [
      {
       "word": "audiologist",
-      "note": "au-dee-OL-uh-jist，重音喺第三音節；聽力專家"
+      "note": "au-dee-OL-uh-jist，重音喺第三音節；聽力專家",
+      "noteEn": "au-dee-OL-uh-jist, stress on the 3rd syllable; a hearing specialist"
      },
      {
       "word": "permanent",
-      "note": "PER-muh-nunt，重音喺第一音節；永久嘅"
+      "note": "PER-muh-nunt，重音喺第一音節；永久嘅",
+      "noteEn": "PER-muh-nunt, stress on the 1st syllable; lasting forever"
      },
      {
       "word": "decibels",
-      "note": "DES-ih-belz，重音喺第一音節；分貝（聲量單位）"
+      "note": "DES-ih-belz，重音喺第一音節；分貝（聲量單位）",
+      "noteEn": "DES-ih-belz, stress on the 1st syllable; units for measuring loudness"
      },
      {
       "word": "volume",
-      "note": "VOL-yoom，重音喺第一音節；音量"
+      "note": "VOL-yoom，重音喺第一音節；音量",
+      "noteEn": "VOL-yoom, stress on the 1st syllable; how loud a sound is"
      },
      {
       "word": "concentrate",
-      "note": "KON-sun-trayt，重音喺第一音節；專心"
+      "note": "KON-sun-trayt，重音喺第一音節；專心",
+      "noteEn": "KON-sun-trayt, stress on the 1st syllable; to focus"
      },
      {
       "word": "energetic",
-      "note": "en-er-JET-ik，重音喺第三音節；有活力"
+      "note": "en-er-JET-ik，重音喺第三音節；有活力",
+      "noteEn": "en-er-JET-ik, stress on the 3rd syllable; full of energy"
      },
      {
       "word": "maximum",
-      "note": "MAK-sih-mum，重音喺第一音節；最大"
+      "note": "MAK-sih-mum，重音喺第一音節；最大",
+      "noteEn": "MAK-sih-mum, stress on the 1st syllable; the highest amount"
      },
      {
       "word": "hearing loss",
-      "note": "HEER-ing loss（重音喺 hearing）；聽力受損"
+      "note": "HEER-ing loss（重音喺 hearing）；聽力受損",
+      "noteEn": "HEER-ing loss, stress on 'hearing'; damage to your hearing"
      }
     ],
     "irGuide": [
@@ -149,6 +203,11 @@
        "聽歌、睇片、打機定上網課",
        "幾時用、用幾耐",
        "音量大概幾大"
+      ],
+      "pointsEn": [
+       "Music, videos, games or online lessons",
+       "When and for how long",
+       "Roughly how loud"
       ]
      },
      {
@@ -158,12 +217,22 @@
        "講出歌手類型或者歌",
        "點解鍾意",
        "通常幾時聽"
+      ],
+      "pointsEn": [
+       "Name a type of singer or a song",
+       "Why you like it",
+       "When you usually listen"
       ]
      },
      {
       "q": 3,
       "type": "personal",
       "points": [
+       "concert, MTR or construction site",
+       "how it felt",
+       "what you did"
+      ],
+      "pointsEn": [
        "concert, MTR or construction site",
        "how it felt",
        "what you did"
@@ -176,6 +245,11 @@
        "隔走噪音、幫助專心",
        "令溫書冇咁悶",
        "反方：歌詞會令人分心"
+      ],
+      "pointsEn": [
+       "Blocks out noise and helps you concentrate",
+       "Makes studying less boring",
+       "Other side: lyrics can be distracting"
       ]
      },
      {
@@ -185,6 +259,11 @@
        "唔夠：覺得自己後生冇事",
        "例子：捱夜、食垃圾食物",
        "有啲人好注重運動"
+      ],
+      "pointsEn": [
+       "Not enough: they think they are young and fine",
+       "Examples: staying up late, eating junk food",
+       "Some people care a lot about exercise"
       ]
      },
      {
@@ -194,6 +273,11 @@
        "覺得大人唔明自己",
        "冇即時後果就唔理",
        "想自己做決定"
+      ],
+      "pointsEn": [
+       "They feel adults don't understand them",
+       "No immediate consequences, so they ignore it",
+       "They want to make their own decisions"
       ]
      },
      {
@@ -203,6 +287,11 @@
        "耳筒：私人、唔嘈到人",
        "喇叭：對耳仔好啲",
        "講自己揀邊樣同原因"
+      ],
+      "pointsEn": [
+       "Earphones: private, don't disturb others",
+       "Speakers: better for your ears",
+       "Say which you prefer and why"
       ]
      },
      {
@@ -212,6 +301,11 @@
        "係：交通、地盤、人多",
        "唔係：郊野公園近、有靜嘅地方",
        "噪音對健康同心情嘅影響"
+      ],
+      "pointsEn": [
+       "Yes: traffic, construction sites, crowds",
+       "No: country parks are close, there are quiet places",
+       "How noise affects health and mood"
       ]
      }
     ],
@@ -221,9 +315,18 @@
      "第 3 點只講「做 PowerPoint」，冇講點樣吸引低年級同學",
      "忘記觀眾係低年級同學，用太深嘅醫學字",
      "將 60/60 規則講成「聽 60 分鐘就要停 60 分鐘」"
+    ],
+    "pitfallsEn": [
+     "Only reading out the WHO and decibel figures without saying how junior students would understand them",
+     "Point 1 drifts into point 2 and never explains why young people like loud music",
+     "Point 3 only says 'make a PowerPoint' without saying how to attract junior students",
+     "Forgetting the audience is junior students and using difficult medical words",
+     "Saying the 60/60 rule means 'stop for 60 minutes after listening for 60 minutes'"
     ]
    },
-   "no": 1
+   "no": 1,
+   "pdf": "speaking/ENG4-002_1.1.pdf",
+   "pdfVer": 2
   },
   {
    "setId": "ENG4-002",
@@ -252,6 +355,26 @@
      "Should teachers record their lessons so students can watch them again?",
      "Which is better for relaxing: watching videos or reading a book?",
      "Do you think short videos will replace long films in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-002_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-002_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-002_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-002_1.2_q8_f.mp3"
     ]
    },
    "meta": {
@@ -276,6 +399,7 @@
    },
    "guide": {
     "taskFocus": "小組要為校園電視節目討論用快速播放睇片嘅好處同壞處：點解受歡迎、會唔會令劇集電影冇咁好睇，再講學生應唔應該快轉睇網上錄影課堂；要同時講娛樂同讀書兩方面。",
+    "taskFocusEn": "For a campus TV programme, your group discusses the good and bad sides of watching videos at a faster speed: why it is popular, whether it makes series and films less enjoyable, and whether students should speed up recorded online lessons. Cover both entertainment and studying.",
     "promptGuide": [
      {
       "prompt": 1,
@@ -292,6 +416,14 @@
        "saving time (71%)",
        "skipping 'boring' parts (45%)",
        "keep up with popular shows, so they can join conversations"
+      ],
+      "ideasEn": [
+       "Lots of homework and little time, so they want to save time",
+       "They want to finish popular series and have things to talk about with friends",
+       "Some parts are too slow or boring and they want to skip them",
+       "They are used to short videos and have less patience",
+       "The app makes it one tap away, so it is convenient",
+       "They want to watch more different shows"
       ]
      },
      {
@@ -309,6 +441,14 @@
        "you only follow the plot, not the emotions",
        "the habit is making young people less patient",
        "Speed is just a tool"
+      ],
+      "ideasEn": [
+       "Yes: you miss the music, the silences and the actors' expressions",
+       "Yes: you know the plot but not the feelings; jokes and details are lost",
+       "Yes: you become less patient and can't sit through slow films",
+       "No: boring parts have no content, so speeding up keeps you more involved",
+       "No: you can still chat with friends about the same series",
+       "Middle way: watch good parts slowly and speed up boring parts"
       ]
      },
      {
@@ -324,45 +464,62 @@
       "materialLinks": [
        "A recorded lesson that takes an hour only takes 40 minutes at 1.5 times",
        "students who speed through lessons may remember less"
+      ],
+      "ideasEn": [
+       "Should: a one-hour lesson becomes 40 minutes, so revision is more efficient",
+       "Should: you can speed through parts you already know",
+       "Should not: you remember less and understand less",
+       "Should not: English listening or difficult lessons need to be slow",
+       "It depends on the subject and your own level",
+       "Watch it fast once, then go back slowly over the key points"
       ]
      }
     ],
     "topicVocab": [
      {
       "word": "playback",
-      "note": "PLAY-bak，重音喺第一音節；播放"
+      "note": "PLAY-bak，重音喺第一音節；播放",
+      "noteEn": "PLAY-bak, stress on the 1st syllable; playing a recording"
      },
      {
       "word": "survey",
-      "note": "SUR-vay，做名詞時重音喺第一音節；調查"
+      "note": "SUR-vay，做名詞時重音喺第一音節；調查",
+      "noteEn": "SUR-vay, stress on the 1st syllable as a noun; a set of questions asked to many people"
      },
      {
       "word": "efficient",
-      "note": "ih-FISH-unt，重音喺第二音節；有效率"
+      "note": "ih-FISH-unt，重音喺第二音節；有效率",
+      "noteEn": "ih-FISH-unt, stress on the 2nd syllable; working well without wasting time"
      },
      {
       "word": "lecturer",
-      "note": "LEK-chur-er，重音喺第一音節；大學講師"
+      "note": "LEK-chur-er，重音喺第一音節；大學講師",
+      "noteEn": "LEK-chur-er, stress on the 1st syllable; a university teacher"
      },
      {
       "word": "expressions",
-      "note": "ik-SPRESH-unz，重音喺第二音節；表情"
+      "note": "ik-SPRESH-unz，重音喺第二音節；表情",
+      "noteEn": "ik-SPRESH-unz, stress on the 2nd syllable; looks on people's faces"
      },
      {
       "word": "emotions",
-      "note": "ih-MOH-shunz，重音喺第二音節；情感"
+      "note": "ih-MOH-shunz，重音喺第二音節；情感",
+      "noteEn": "ih-MOH-shunz, stress on the 2nd syllable; feelings"
      },
      {
       "word": "patient",
-      "note": "PAY-shunt，重音喺第一音節；有耐性（形容詞）"
+      "note": "PAY-shunt，重音喺第一音節；有耐性（形容詞）",
+      "noteEn": "PAY-shunt, stress on the 1st syllable; able to wait calmly (adjective)"
      },
      {
       "word": "series",
-      "note": "SEER-eez，單複數一樣；（電視）劇集"
+      "note": "SEER-eez，單複數一樣；（電視）劇集",
+      "noteEn": "SEER-eez, same form for singular and plural; a TV drama series"
      },
      {
       "word": "plot",
-      "note": "PLOT，一個音節，t 要讀出；劇情"
+      "note": "PLOT，一個音節，t 要讀出；劇情",
+      "noteEn": "PLOT, one syllable, pronounce the t; the story of a film or series"
      }
     ],
     "irGuide": [
@@ -373,6 +530,11 @@
        "講類型：劇、YouTube、短片",
        "每日睇幾耐",
        "通常用咩平台"
+      ],
+      "pointsEn": [
+       "Types: dramas, YouTube, short videos",
+       "How long each day",
+       "Which platform you usually use"
       ]
      },
      {
@@ -382,6 +544,11 @@
        "講一次經驗同套劇",
        "點解停唔到",
        "第二日有冇影響"
+      ],
+      "pointsEn": [
+       "Describe one time and the series",
+       "Why you couldn't stop",
+       "Whether it affected the next day"
       ]
      },
      {
@@ -391,6 +558,11 @@
        "自己睇：自由、可以快轉",
        "同人睇：可以即刻傾",
        "舉家人或朋友例子"
+      ],
+      "pointsEn": [
+       "Alone: freedom, can fast-forward",
+       "With others: can chat straight away",
+       "Give an example with family or friends"
       ]
      },
      {
@@ -400,6 +572,11 @@
        "鍾意嘅片睇幾次都開心",
        "第二次會留意到新細節",
        "同唔同人睇有唔同感受"
+      ],
+      "pointsEn": [
+       "A favourite video is fun every time",
+       "You notice new details the second time",
+       "Watching with different people feels different"
       ]
      },
      {
@@ -409,6 +586,11 @@
        "係：慣咗短片同即時回覆",
        "唔係：只係生活節奏快咗",
        "舉自己或者身邊例子"
+      ],
+      "pointsEn": [
+       "Yes: used to short videos and instant replies",
+       "No: life is just faster now",
+       "Give an example from yourself or people around you"
       ]
      },
      {
@@ -418,6 +600,11 @@
        "好：病假或者唔明可以重溫",
        "壞：上堂唔專心",
        "老師要多做嘢"
+      ],
+      "pointsEn": [
+       "Good: review when sick or when you don't understand",
+       "Bad: students may not pay attention in class",
+       "More work for teachers"
       ]
      },
      {
@@ -427,6 +614,11 @@
        "睇片：輕鬆、唔使諗",
        "睇書：靜、可以發揮想像",
        "講自己揀邊樣"
+      ],
+      "pointsEn": [
+       "Videos: relaxing, no need to think",
+       "Books: quiet, use your imagination",
+       "Say which you prefer"
       ]
      },
      {
@@ -436,6 +628,11 @@
        "會：短片越嚟越受歡迎",
        "唔會：長片講故事更完整",
        "兩樣會一齊存在"
+      ],
+      "pointsEn": [
+       "Yes: short videos are more and more popular",
+       "No: long videos tell stories more fully",
+       "Both will exist together"
       ]
      }
     ],
@@ -445,9 +642,18 @@
      "第 3 點講返劇集，冇講網上錄影課堂",
      "淨係讀出 58%、71%、45%，冇解釋代表乜",
      "成組人一面倒支持，冇人講壞處"
+    ],
+    "pitfallsEn": [
+     "Only saying which speed you like without discussing advantages and disadvantages",
+     "Misunderstanding speed-watching as 'watching many videos' or 'fast internet'",
+     "Point 3 goes back to series and never talks about recorded online lessons",
+     "Only reading out 58%, 71% and 45% without explaining what they mean",
+     "The whole group agrees and nobody mentions any disadvantages"
     ]
    },
-   "no": 2
+   "no": 2,
+   "pdf": "speaking/ENG4-002_1.2.pdf",
+   "pdfVer": 2
   },
   {
    "setId": "ENG4-002",
@@ -476,6 +682,26 @@
      "Should young people do more volunteer work in their community?",
      "Is it better to live in a small village or a big city?",
      "Is Hong Kong a friendly city?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-002_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-002_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-002_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-002_1.3_q8_f.mp3"
     ]
    },
    "meta": {
@@ -500,6 +726,7 @@
    },
    "guide": {
     "taskFocus": "社會服務學會只有時間幫附近屋邨居民開始四個方法其中一個：小組先講點解香港人唔識鄰居，再比較四個方法嘅好處同問題，最後揀一個並講原因。",
+    "taskFocusEn": "The social service club only has time to help residents of a nearby housing estate start one of four ideas. Your group first discusses why Hong Kong people don't know their neighbours, then compares the strengths and problems of the four ideas, and finally chooses one and explains why.",
     "promptGuide": [
      {
       "prompt": 1,
@@ -514,6 +741,14 @@
       "materialLinks": [
        "thousands of people can live in one building",
        "only one in four readers could name a neighbour on their floor"
+      ],
+      "ideasEn": [
+       "Busy lives: people leave early and come home late for work or school",
+       "Buildings have many residents and neighbours change often",
+       "People value privacy and worry about safety",
+       "They feel awkward and don't know what to say",
+       "More time on phones, less face-to-face chatting",
+       "No shared spaces or activities"
       ]
      },
      {
@@ -531,6 +766,13 @@
        "It saves money and reduces waste",
        "Mid-Autumn Festival and Lunar New Year",
        "A weekly 'skill swap'"
+      ],
+      "ideasEn": [
+       "Group chat: fast and convenient for sharing news, but it can get noisy and lead to arguments, and some elderly people can't use it",
+       "Swap shelf: eco-friendly and saves money, but it may become a rubbish pile, block the corridor, or nobody looks after it",
+       "Festival party: lively, young and old can join, but it needs money, a venue and helpers, and it only happens once",
+       "Skill swap: practical and can last long, but it is hard to find teachers and to match people's time",
+       "The club's view: which idea students can actually run, and whether it can continue after the students leave"
       ]
      },
      {
@@ -548,41 +790,57 @@
        "Share your skills",
        "Start a floor group chat",
        "Set up a swap shelf"
+      ],
+      "ideasEn": [
+       "Choose the festival party: meet many people at once; students can run the games and lanterns",
+       "Choose the skill swap: students teach homework and computers, and residents can teach students too",
+       "Choose the group chat: low cost and long-lasting; students teach elderly residents to use it",
+       "Choose the swap shelf: simple, ongoing and eco-friendly",
+       "Set criteria: cost, whether students can do it, how many people join, how long the effect lasts",
+       "You can suggest a party first and then a group chat, but in the end you must choose one"
       ]
      }
     ],
     "topicVocab": [
      {
       "word": "neighbours",
-      "note": "NAY-berz，重音喺第一音節，gh 唔讀；鄰居"
+      "note": "NAY-berz，重音喺第一音節，gh 唔讀；鄰居",
+      "noteEn": "NAY-berz, stress on the 1st syllable, 'gh' is silent; people living next to you"
      },
      {
       "word": "emergency",
-      "note": "ih-MER-jun-see，重音喺第二音節；緊急情況"
+      "note": "ih-MER-jun-see，重音喺第二音節；緊急情況",
+      "noteEn": "ih-MER-jun-see, stress on the 2nd syllable; a sudden dangerous situation"
      },
      {
       "word": "residents",
-      "note": "REZ-ih-dunts，重音喺第一音節；居民"
+      "note": "REZ-ih-dunts，重音喺第一音節；居民",
+      "noteEn": "REZ-ih-dunts, stress on the 1st syllable; people who live in a place"
      },
      {
       "word": "housing estate",
-      "note": "HOW-zing ih-stayt（重音喺 housing）；屋邨"
+      "note": "HOW-zing ih-stayt（重音喺 housing）；屋邨",
+      "noteEn": "HOW-zing ih-stayt, stress on 'housing'; a group of public or private residential blocks"
      },
      {
       "word": "swap shelf",
-      "note": "SWOP SHELF；交換架（放低唔要嘅嘢，換第二樣）"
+      "note": "SWOP SHELF；交換架（放低唔要嘅嘢，換第二樣）",
+      "noteEn": "SWOP SHELF; a shelf where people leave things they don't need and take something else"
      },
      {
       "word": "festival",
-      "note": "FES-tih-vul，重音喺第一音節；節日"
+      "note": "FES-tih-vul，重音喺第一音節；節日",
+      "noteEn": "FES-tih-vul, stress on the 1st syllable; a special day of celebration"
      },
      {
       "word": "organise",
-      "note": "OR-guh-nyze，重音喺第一音節；籌辦"
+      "note": "OR-guh-nyze，重音喺第一音節；籌辦",
+      "noteEn": "OR-guh-nyze, stress on the 1st syllable; to plan and arrange an event"
      },
      {
       "word": "decorate",
-      "note": "DEK-uh-rayt，重音喺第一音節；裝飾"
+      "note": "DEK-uh-rayt，重音喺第一音節；裝飾",
+      "noteEn": "DEK-uh-rayt, stress on the 1st syllable; to make a place look nice"
      }
     ],
     "irGuide": [
@@ -593,6 +851,11 @@
        "識唔識、知唔知名",
        "平時有冇打招呼、傾偈",
        "舉一個例子"
+      ],
+      "pointsEn": [
+       "Whether you know them or their names",
+       "Whether you usually say hello or chat",
+       "Give one example"
       ]
      },
      {
@@ -602,6 +865,11 @@
        "講一次經驗：拎嘢、借嘢",
        "對方有咩反應",
        "冇的話講點解"
+      ],
+      "pointsEn": [
+       "Describe one time: taking or borrowing something",
+       "How the neighbour reacted",
+       "If never, say why"
       ]
      },
      {
@@ -611,6 +879,11 @@
        "鍾意：可以識新朋友",
        "唔鍾意：尷尬、唔知講咩",
        "講一個場合例子"
+      ],
+      "pointsEn": [
+       "Like: you can make new friends",
+       "Dislike: awkward, don't know what to say",
+       "Give an example of an occasion"
       ]
      },
      {
@@ -620,6 +893,11 @@
        "重視私隱、怕麻煩",
        "性格內向",
        "以前有唔好經驗"
+      ],
+      "pointsEn": [
+       "They value privacy and don't want trouble",
+       "They are shy",
+       "They had a bad experience before"
       ]
      },
      {
@@ -629,6 +907,11 @@
        "係：方便聯絡、分享消息",
        "唔係：見面少咗",
        "可能有誤會同爭拗"
+      ],
+      "pointsEn": [
+       "Yes: easy to contact and share news",
+       "No: people meet less in person",
+       "There may be misunderstandings and arguments"
       ]
      },
      {
@@ -638,6 +921,11 @@
        "應該：學到嘢、幫到人",
        "但功課多、時間少",
        "舉一個義工例子"
+      ],
+      "pointsEn": [
+       "Should: they learn and help others",
+       "But lots of homework and little time",
+       "Give an example of volunteering"
       ]
      },
      {
@@ -647,6 +935,11 @@
        "鄉村：人情味、清靜",
        "城市：方便、機會多",
        "講自己揀邊樣"
+      ],
+      "pointsEn": [
+       "Countryside: friendly people, peaceful",
+       "City: convenient, more opportunities",
+       "Say which you prefer"
       ]
      },
      {
@@ -656,6 +949,11 @@
        "友善：樂於助人、有禮",
        "唔友善：人人趕時間",
        "舉街上或者交通工具例子"
+      ],
+      "pointsEn": [
+       "Friendly: helpful and polite",
+       "Unfriendly: everyone is in a hurry",
+       "Give an example from the street or public transport"
       ]
      }
     ],
@@ -665,9 +963,18 @@
      "忘記係學校學會幫附近屋邨居民開始，講成自己屋企點做",
      "淨係逐點讀材料四個方法",
      "將 swap shelf 講成「賣二手嘢」"
+    ],
+    "pitfallsEn": [
+     "Four members each introduce one idea without comparing or responding to each other",
+     "Point 3 doesn't choose one idea, or chooses one without giving reasons",
+     "Forgetting it is a school club helping residents of a nearby estate, and talking about your own home instead",
+     "Only reading the four ideas from the material one by one",
+     "Describing the swap shelf as 'selling second-hand things'"
     ]
    },
-   "no": 3
+   "no": 3,
+   "pdf": "speaking/ENG4-002_1.3.pdf",
+   "pdfVer": 2
   },
   {
    "setId": "ENG4-003",
@@ -696,6 +1003,26 @@
      "Do you think teenagers spend their pocket money wisely?",
      "Which is more important when you shop: price or quality?",
      "Do you think shopping in Hong Kong is getting too expensive?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-003_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-003_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-003_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-003_1.1_q8_f.mp3"
     ]
    },
    "meta": {
@@ -720,6 +1047,7 @@
    },
    "guide": {
     "taskFocus": "小組要為 Smart Shopper Week 短片講對「縮水式加價」（shrinkflation）嘅看法：公司點解咁做、公唔公平，再講消費者點樣確保物有所值。",
+    "taskFocusEn": "For a Smart Shopper Week video, your group gives its views on shrinkflation: why companies do it and whether it is fair, then discusses how consumers can make sure they get value for money.",
     "promptGuide": [
      {
       "prompt": 1,
@@ -735,6 +1063,14 @@
        "The cost of ingredients, transport and rent keeps going up",
        "If we raised our prices, many customers would simply stop buying",
        "from 70 grams to 60 grams"
+      ],
+      "ideasEn": [
+       "Costs of ingredients, transport and rent are rising",
+       "Raising prices is easy to notice, but smaller packs are not",
+       "They are afraid customers will switch to other brands",
+       "The price stays the same, so it still looks cheap on the shelf",
+       "The packaging looks the same, so companies think customers won't notice",
+       "They want to keep their profits"
       ]
      },
      {
@@ -751,6 +1087,14 @@
        "64% believed some products they buy regularly had become smaller",
        "only one in four said they often check the weight",
        "Customers would rather see an honest price rise than be tricked"
+      ],
+      "ideasEn": [
+       "Unfair: it is a hidden price rise that cheats customers",
+       "Unfair: the packaging looks the same, so it is hard to notice",
+       "Fair: the weight is printed on the pack, so customers can check",
+       "Fair: it is better than a direct price rise; at least people can still afford it",
+       "It depends on whether customers are clearly told",
+       "In the long run, companies will lose customers' trust"
       ]
      },
      {
@@ -766,49 +1110,67 @@
       "materialLinks": [
        "Comparing the \"unit price\", such as the price for every 100 grams",
        "In France, for example, large supermarkets must put up a notice"
+      ],
+      "ideasEn": [
+       "Check the weight or number of items on the pack",
+       "Compare the unit price per 100 grams",
+       "Switch to other brands or the supermarket's own brand",
+       "Warn others online or on social media",
+       "Complain to a consumer group",
+       "Support the government or supermarkets putting up notices like in France"
       ]
      }
     ],
     "topicVocab": [
      {
       "word": "shrinkflation",
-      "note": "shrink-FLAY-shun，重音喺第二音節；縮水式加價：份量少咗但價錢唔變"
+      "note": "shrink-FLAY-shun，重音喺第二音節；縮水式加價：份量少咗但價錢唔變",
+      "noteEn": "shrink-FLAY-shun, stress on the 2nd syllable; less product for the same price"
      },
      {
       "word": "consumer",
-      "note": "kun-SOO-mer（英式 kun-SYOO-mer），重音喺第二音節；消費者"
+      "note": "kun-SOO-mer（英式 kun-SYOO-mer），重音喺第二音節；消費者",
+      "noteEn": "kun-SOO-mer (British: kun-SYOO-mer), stress on the 2nd syllable; a person who buys things"
      },
      {
       "word": "ingredients",
-      "note": "in-GREE-dee-unts，重音喺第二音節；材料、成分"
+      "note": "in-GREE-dee-unts，重音喺第二音節；材料、成分",
+      "noteEn": "in-GREE-dee-unts, stress on the 2nd syllable; the things a product is made from"
      },
      {
       "word": "spokesperson",
-      "note": "SPOKES-per-sun，重音喺第一音節；發言人"
+      "note": "SPOKES-per-sun，重音喺第一音節；發言人",
+      "noteEn": "SPOKES-per-sun, stress on the 1st syllable; a person who speaks for a company"
      },
      {
       "word": "regularly",
-      "note": "REG-yu-ler-lee，重音喺第一音節；經常、定期"
+      "note": "REG-yu-ler-lee，重音喺第一音節；經常、定期",
+      "noteEn": "REG-yu-ler-lee, stress on the 1st syllable; often, at fixed times"
      },
      {
       "word": "survey",
-      "note": "SUR-vay，做名詞時重音喺第一音節；調查"
+      "note": "SUR-vay，做名詞時重音喺第一音節；調查",
+      "noteEn": "SUR-vay, stress on the 1st syllable as a noun; a set of questions asked to many people"
      },
      {
       "word": "cartons",
-      "note": "KAR-tunz，重音喺第一音節；紙盒（例如紙包飲品）"
+      "note": "KAR-tunz，重音喺第一音節；紙盒（例如紙包飲品）",
+      "noteEn": "KAR-tunz, stress on the 1st syllable; paper boxes, e.g. drink cartons"
      },
      {
       "word": "unit price",
-      "note": "YOO-nit PRICE（price 讀重啲）；單位價錢，例如每 100 克幾錢"
+      "note": "YOO-nit PRICE（price 讀重啲）；單位價錢，例如每 100 克幾錢",
+      "noteEn": "YOO-nit PRICE, stress on 'price'; the price per amount, e.g. per 100 g"
      },
      {
       "word": "grams",
-      "note": "GRAMZ，一個音節，尾音 z 要讀出；克"
+      "note": "GRAMZ，一個音節，尾音 z 要讀出；克",
+      "noteEn": "GRAMZ, one syllable, say the final z; a unit of weight"
      },
      {
       "word": "tricked",
-      "note": "TRIKT，一個音節，-ed 讀 t；俾人呃"
+      "note": "TRIKT，一個音節，-ed 讀 t；俾人呃",
+      "noteEn": "TRIKT, one syllable, -ed sounds like t; cheated"
      }
     ],
     "irGuide": [
@@ -816,6 +1178,11 @@
       "q": 1,
       "type": "personal",
       "points": [
+       "taste, price or packaging",
+       "friends' advice or ads",
+       "an example of a recent choice"
+      ],
+      "pointsEn": [
        "taste, price or packaging",
        "friends' advice or ads",
        "an example of a recent choice"
@@ -828,6 +1195,11 @@
        "會／唔會比較，點解",
        "講一次比較價錢嘅經驗",
        "用 app 或者行幾間舖"
+      ],
+      "pointsEn": [
+       "Whether you compare and why",
+       "Describe a time you compared prices",
+       "Use an app or visit a few shops"
       ]
      },
      {
@@ -837,6 +1209,11 @@
        "講買咗咩、幾錢",
        "點解唔值",
        "之後學到乜"
+      ],
+      "pointsEn": [
+       "Say what you bought and how much it cost",
+       "Why it wasn't worth it",
+       "What you learnt"
       ]
      },
      {
@@ -846,6 +1223,11 @@
        "信得過、慣咗",
        "唔想花時間揀",
        "廣告或者家人影響"
+      ],
+      "pointsEn": [
+       "Trust and habit",
+       "Don't want to spend time choosing",
+       "Influence of ads or family"
       ]
      },
      {
@@ -855,6 +1237,11 @@
        "覺得慳到錢",
        "怕之後冇平買",
        "其實買咗唔需要嘅嘢"
+      ],
+      "pointsEn": [
+       "They feel they are saving money",
+       "They fear missing a cheap deal",
+       "They actually buy things they don't need"
       ]
      },
      {
@@ -864,6 +1251,11 @@
        "識：會比較、會儲錢",
        "唔識：衝動買嘢、跟潮流",
        "舉自己或者朋友例子"
+      ],
+      "pointsEn": [
+       "Yes: they compare prices and save money",
+       "No: they buy on impulse and follow trends",
+       "Give an example of yourself or a friend"
       ]
      },
      {
@@ -873,6 +1265,11 @@
        "價錢：學生錢唔多",
        "質素：耐用反而慳錢",
        "視乎買咩嘢"
+      ],
+      "pointsEn": [
+       "Price: students don't have much money",
+       "Quality: lasting things save money",
+       "It depends on what you buy"
       ]
      },
      {
@@ -882,6 +1279,11 @@
        "係：食物、日用品越嚟越貴",
        "影響學生同家庭",
        "可以點應付"
+      ],
+      "pointsEn": [
+       "Yes: food and daily items are getting more expensive",
+       "It affects students and families",
+       "How people can cope"
       ]
      }
     ],
@@ -891,10 +1293,18 @@
      "第 2 點只答 yes 或者 no，冇講點解公平或者唔公平",
      "成組人一面倒鬧公司，冇人講公司嘅理由",
      "第 3 點變成講網購或者講廣告，離開咗題目"
+    ],
+    "pitfallsEn": [
+     "Describing shrinkflation as 'inflation' or 'a discount' without mentioning smaller amounts",
+     "Only reading out 70 g, 60 g and 64% without explaining what they mean",
+     "Point 2 only answers yes or no without saying why it is fair or unfair",
+     "The whole group blames the companies and nobody gives the companies' reasons",
+     "Point 3 turns into online shopping or advertising and goes off topic"
     ]
    },
+   "pdf": "speaking/ENG4-003_1.1.pdf",
    "no": 4,
-   "pdf": "speaking/ENG4-003_1.1.pdf"
+   "pdfVer": 2
   },
   {
    "setId": "ENG4-003",
@@ -923,6 +1333,26 @@
      "Should students get rewards for helping others?",
      "Which is better for learning: studying alone or studying with friends?",
      "Do you think private tutoring is too popular in Hong Kong?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-003_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-003_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-003_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-003_1.2_q8_f.mp3"
     ]
    },
    "meta": {
@@ -947,6 +1377,7 @@
    },
    "guide": {
     "taskFocus": "小組要為學生會策劃一個朋輩補習計劃：先講低年級同學點解可能鍾意搵師兄師姐幫手，再計劃點樣安排，同埋點樣吸引高年級同學做導師兼保持佢哋投入。",
+    "taskFocusEn": "Your group is planning a peer tutoring scheme for the Student Union. First discuss why junior students may like getting help from senior students, then plan how to organise it, and how to attract senior students to be tutors and keep them committed.",
     "promptGuide": [
      {
       "prompt": 1,
@@ -961,6 +1392,14 @@
       "materialLinks": [
        "I didn't want to ask my teacher 'silly' questions in front of the whole class",
        "she still remembers how difficult Form 1 was"
+      ],
+      "ideasEn": [
+       "They can ask questions without feeling embarrassed in front of the whole class",
+       "Senior students have just studied it and know which parts are hard",
+       "They are close in age, so explanations are easier to understand",
+       "It can be one-to-one; teachers don't have time to teach each student",
+       "They can also ask about school life and choosing subjects",
+       "It is free, unlike private tutoring"
       ]
      },
      {
@@ -978,6 +1417,15 @@
        "two lunchtimes a week",
        "Tutors have their own examinations to prepare for",
        "Teachers also need to check that tutors are explaining things correctly"
+      ],
+      "ideasEn": [
+       "Time: lunch, after school or online",
+       "Place: library, classrooms or study room",
+       "Subjects: Chinese, English and Maths, or what students need",
+       "Matching: by subject, timetable and personality",
+       "One-to-one or small groups",
+       "Teachers train tutors first and follow up regularly",
+       "Use feedback forms to see if the scheme works"
       ]
      },
      {
@@ -994,45 +1442,62 @@
        "When I explain a topic, I discover which parts I don't really understand myself",
        "some lose interest after a few weeks",
        "the school gives them certificates and organises a thank-you lunch"
+      ],
+      "ideasEn": [
+       "Certificates and awards for their learning records",
+       "A thank-you party or small gifts",
+       "Tell them that teaching others helps their own revision",
+       "Flexible time; they can pause before exams",
+       "Invite former tutors to share their experience",
+       "Praise tutors at assembly or on the school website"
       ]
      }
     ],
     "topicVocab": [
      {
       "word": "peer tutoring",
-      "note": "PEER TOO-ter-ing（重音喺 peer 同 TOO）；朋輩補習：同學教同學"
+      "note": "PEER TOO-ter-ing（重音喺 peer 同 TOO）；朋輩補習：同學教同學",
+      "noteEn": "PEER TOO-ter-ing, stress on 'peer' and 'TOO'; students teaching students"
      },
      {
       "word": "scheme",
-      "note": "SKEEM，sch 讀 sk；計劃"
+      "note": "SKEEM，sch 讀 sk；計劃",
+      "noteEn": "SKEEM, 'sch' sounds like sk; a plan"
      },
      {
       "word": "tutors",
-      "note": "TOO-terz 或 TYOO-terz，重音喺第一音節；導師"
+      "note": "TOO-terz 或 TYOO-terz，重音喺第一音節；導師",
+      "noteEn": "TOO-terz or TYOO-terz, stress on the 1st syllable; people who teach"
      },
      {
       "word": "experienced",
-      "note": "ik-SPEER-ee-unst，重音喺第二音節；有經驗嘅"
+      "note": "ik-SPEER-ee-unst，重音喺第二音節；有經驗嘅",
+      "noteEn": "ik-SPEER-ee-unst, stress on the 2nd syllable; having done something many times"
      },
      {
       "word": "embarrassed",
-      "note": "im-BA-rust，重音喺第二音節；尷尬"
+      "note": "im-BA-rust，重音喺第二音節；尷尬",
+      "noteEn": "im-BA-rust, stress on the 2nd syllable; feeling shy or ashamed"
      },
      {
       "word": "motivated",
-      "note": "MOH-tih-vay-tid，重音喺第一音節；有動力"
+      "note": "MOH-tih-vay-tid，重音喺第一音節；有動力",
+      "noteEn": "MOH-tih-vay-tid, stress on the 1st syllable; keen to do something"
      },
      {
       "word": "certificates",
-      "note": "ser-TIF-ih-kuts，重音喺第二音節；證書"
+      "note": "ser-TIF-ih-kuts，重音喺第二音節；證書",
+      "noteEn": "ser-TIF-ih-kuts, stress on the 2nd syllable; official papers showing you did something"
      },
      {
       "word": "volunteer",
-      "note": "vol-un-TEER，重音喺最後音節；自願做"
+      "note": "vol-un-TEER，重音喺最後音節；自願做",
+      "noteEn": "vol-un-TEER, stress on the last syllable; to offer to do something freely"
      },
      {
       "word": "feedback",
-      "note": "FEED-bak，重音喺第一音節；意見、回饋"
+      "note": "FEED-bak，重音喺第一音節；意見、回饋",
+      "noteEn": "FEED-bak, stress on the 1st syllable; comments on how well something went"
      }
     ],
     "irGuide": [
@@ -1043,6 +1508,11 @@
        "講一科",
        "點解難：例子",
        "你點樣應付"
+      ],
+      "pointsEn": [
+       "Name one subject",
+       "Why it is hard: an example",
+       "How you deal with it"
       ]
      },
      {
@@ -1052,6 +1522,11 @@
        "同學、老師、家人定網上",
        "點解揀佢",
        "講一次例子"
+      ],
+      "pointsEn": [
+       "Classmates, teachers, family or online",
+       "Why you choose them",
+       "Give an example"
       ]
      },
      {
@@ -1061,6 +1536,11 @@
        "教咗邊個、教乜",
        "過程難唔難",
        "自己學到乜"
+      ],
+      "pointsEn": [
+       "Who you taught and what",
+       "Whether it was difficult",
+       "What you learnt yourself"
       ]
      },
      {
@@ -1070,6 +1550,11 @@
        "怕俾人笑",
        "怕問錯或者阻住堂",
        "性格怕醜"
+      ],
+      "pointsEn": [
+       "Afraid of being laughed at",
+       "Afraid of asking wrong questions or interrupting the lesson",
+       "Shy personality"
       ]
      },
      {
@@ -1079,6 +1564,11 @@
        "應該：經驗有用",
        "唔一定：高年級好忙",
        "可以自願參加"
+      ],
+      "pointsEn": [
+       "Should: their experience is useful",
+       "Not necessarily: seniors are busy",
+       "It could be voluntary"
       ]
      },
      {
@@ -1088,6 +1578,11 @@
        "應該：鼓勵多啲人幫手",
        "唔應該：幫人唔係為獎",
        "細細個獎勵就夠"
+      ],
+      "pointsEn": [
+       "Should: it encourages more people to help",
+       "Should not: helping isn't about prizes",
+       "Small rewards are enough"
       ]
      },
      {
@@ -1097,6 +1592,11 @@
        "自己溫：專心、自己控制進度",
        "同朋友：互相問、唔悶",
        "講自己點揀"
+      ],
+      "pointsEn": [
+       "Alone: focused, control your own pace",
+       "With friends: ask each other, less boring",
+       "Say how you choose"
       ]
      },
      {
@@ -1106,6 +1606,11 @@
        "係：好多學生都去補習社",
        "家長怕子女輸蝕",
        "學校教得夠唔夠"
+      ],
+      "pointsEn": [
+       "Yes: many students go to tutorial centres",
+       "Parents fear their children will fall behind",
+       "Whether schools teach enough"
       ]
      }
     ],
@@ -1115,10 +1620,18 @@
      "將 peer tutoring 講成去補習社或者請私人補習",
      "重複材料嘅證書同謝師宴，冇諗自己學校新嘅方法",
      "冇人講導師功課忙、半途而廢嘅問題"
+    ],
+    "pitfallsEn": [
+     "Only talking about your own tutoring experience without planning the scheme",
+     "Point 2 only mentions 'lunchtime' and leaves out place, subjects, matching and training",
+     "Describing peer tutoring as going to a tutorial centre or hiring a private tutor",
+     "Repeating the certificates and thank-you party from the material without new ideas for your school",
+     "Nobody mentions tutors being busy with homework or giving up halfway"
     ]
    },
+   "pdf": "speaking/ENG4-003_1.2.pdf",
    "no": 5,
-   "pdf": "speaking/ENG4-003_1.2.pdf"
+   "pdfVer": 2
   },
   {
    "setId": "ENG4-003",
@@ -1176,6 +1689,26 @@
      "Should restaurants charge customers who leave a lot of food?",
      "Which is better: bringing lunch from home or buying lunch at school?",
      "Do you think people in Hong Kong waste too much food?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-003_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-003_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-003_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-003_1.3_q8_f.mp3"
     ]
    },
    "meta": {
@@ -1200,6 +1733,7 @@
    },
    "guide": {
     "taskFocus": "小組（Green Club 成員）要根據 Green Club 嘅午餐調查，向校長建議點樣減少午餐浪費：先講同學點解食唔晒，再建議學校同飯盒供應商可以做乜，同埋點樣鼓勵同學少啲浪費。",
+    "taskFocusEn": "As Green Club members, your group uses the club's lunch survey to suggest to the principal how to reduce lunch waste. First discuss why students don't finish their lunch, then suggest what the school and the lunch box supplier can do, and how to encourage students to waste less.",
     "promptGuide": [
      {
       "prompt": 1,
@@ -1216,6 +1750,15 @@
        "Almost half of the students (47%) said they leave at least a quarter of their lunch",
        "Junior form students left the most food",
        "The table shows their main answers"
+      ],
+      "ideasEn": [
+       "Portions are too big (58%)",
+       "They don't like the taste, e.g. vegetables (51%)",
+       "Not enough time to eat (37%)",
+       "They ate snacks earlier (29%)",
+       "The food is cold (18%)",
+       "Junior students eat less and aren't used to school lunches",
+       "They chat or play on their phones and don't focus on eating"
       ]
      },
      {
@@ -1232,6 +1775,14 @@
        "it can offer different portion sizes and a more flexible menu, but only if the school asks",
        "none of the food is recycled and it all ends up in landfills",
        "food waste is the largest type of everyday rubbish buried in landfills"
+      ],
+      "ideasEn": [
+       "Offer large, medium and small portions",
+       "More dishes students like; use a survey to change the menu",
+       "A longer or staggered lunch break",
+       "Insulated lunch boxes or serving food on the spot",
+       "Arrange food waste recycling instead of sending it to landfills",
+       "Sell fewer snacks at recess"
       ]
      },
      {
@@ -1248,45 +1799,62 @@
        "I'd eat everything if I could choose a smaller portion",
        "Another suggested a class competition to see who wastes the least",
        "If the food tasted better, we wouldn't throw it away"
+      ],
+      "ideasEn": [
+       "An inter-class 'clean plate' competition with small prizes",
+       "Talk about the impact of food waste at assembly or in class teacher periods",
+       "Post the weekly food waste figures",
+       "Let students choose their portion and not take more than they can finish",
+       "Green Club ambassadors remind students at lunch",
+       "Invite students to taste and choose new dishes"
       ]
      }
     ],
     "topicVocab": [
      {
       "word": "leftovers",
-      "note": "LEFT-oh-verz，重音喺第一音節；食剩嘅嘢"
+      "note": "LEFT-oh-verz，重音喺第一音節；食剩嘅嘢",
+      "noteEn": "LEFT-oh-verz, stress on the 1st syllable; food that is not eaten"
      },
      {
       "word": "portion",
-      "note": "POR-shun，重音喺第一音節；一份（食物份量）"
+      "note": "POR-shun，重音喺第一音節；一份（食物份量）",
+      "noteEn": "POR-shun, stress on the 1st syllable; an amount of food for one person"
      },
      {
       "word": "supplier",
-      "note": "suh-PLY-er，重音喺第二音節；供應商"
+      "note": "suh-PLY-er，重音喺第二音節；供應商",
+      "noteEn": "suh-PLY-er, stress on the 2nd syllable; a company that provides goods"
      },
      {
       "word": "landfills",
-      "note": "LAND-filz，重音喺第一音節；堆填區"
+      "note": "LAND-filz，重音喺第一音節；堆填區",
+      "noteEn": "LAND-filz, stress on the 1st syllable; places where rubbish is buried"
      },
      {
       "word": "surveyed",
-      "note": "ser-VAYD，做動詞時重音喺第二音節；做咗調查"
+      "note": "ser-VAYD，做動詞時重音喺第二音節；做咗調查",
+      "noteEn": "ser-VAYD, stress on the 2nd syllable as a verb; asked many people questions"
      },
      {
       "word": "environmental",
-      "note": "in-vy-run-MEN-tul，重音喺第四音節；環境嘅"
+      "note": "in-vy-run-MEN-tul，重音喺第四音節；環境嘅",
+      "noteEn": "in-vy-run-MEN-tul, stress on the 4th syllable; about nature and the world around us"
      },
      {
       "word": "recycled",
-      "note": "ree-SY-kuld，重音喺第二音節；回收再用"
+      "note": "ree-SY-kuld，重音喺第二音節；回收再用",
+      "noteEn": "ree-SY-kuld, stress on the 2nd syllable; used again after processing"
      },
      {
       "word": "principal",
-      "note": "PRIN-sih-pul，重音喺第一音節；校長"
+      "note": "PRIN-sih-pul，重音喺第一音節；校長",
+      "noteEn": "PRIN-sih-pul, stress on the 1st syllable; the head of a school"
      },
      {
       "word": "flexible",
-      "note": "FLEK-sih-bul，重音喺第一音節；有彈性、可以改"
+      "note": "FLEK-sih-bul，重音喺第一音節；有彈性、可以改",
+      "noteEn": "FLEK-sih-bul, stress on the 1st syllable; able to change easily"
      }
     ],
     "irGuide": [
@@ -1297,6 +1865,11 @@
        "飯盒、飯堂定出街食",
        "講一兩樣常食嘅",
        "鍾唔鍾意"
+      ],
+      "pointsEn": [
+       "Lunch box, canteen or eating out",
+       "Name one or two things you often eat",
+       "Whether you like it"
       ]
      },
      {
@@ -1306,6 +1879,11 @@
        "通常食唔食得晒",
        "食唔晒嘅原因",
        "會唔會打包"
+      ],
+      "pointsEn": [
+       "Whether you usually finish it",
+       "Why you don't finish it",
+       "Whether you take leftovers away"
       ]
      },
      {
@@ -1315,6 +1893,11 @@
        "翻熱第二餐食",
        "放雪櫃或者掉咗",
        "屋企人有咩習慣"
+      ],
+      "pointsEn": [
+       "Reheat them for another meal",
+       "Keep them in the fridge or throw them away",
+       "Your family's habits"
       ]
      },
      {
@@ -1324,6 +1907,11 @@
        "餓嗰陣叫多咗",
        "想試多幾樣",
        "怕唔夠、要面子"
+      ],
+      "pointsEn": [
+       "They order more when hungry",
+       "They want to try more dishes",
+       "Afraid of not having enough, or of losing face"
       ]
      },
      {
@@ -1333,6 +1921,11 @@
        "夠：有菜有肉",
        "唔夠：油、鹹、多肉",
        "可以點改善"
+      ],
+      "pointsEn": [
+       "Enough: there are vegetables and meat",
+       "Not enough: oily, salty, too much meat",
+       "How it could be improved"
       ]
      },
      {
@@ -1342,6 +1935,11 @@
        "應該：令人唔亂叫",
        "唔應該：客人俾咗錢",
        "或者用獎勵代替罰款"
+      ],
+      "pointsEn": [
+       "Should: it stops people over-ordering",
+       "Should not: customers have paid",
+       "Or use rewards instead of fines"
       ]
      },
      {
@@ -1351,6 +1949,11 @@
        "屋企：健康、啱口味",
        "學校：方便、唔使準備",
        "講自己揀邊樣"
+      ],
+      "pointsEn": [
+       "Home: healthy, suits your taste",
+       "School: convenient, no preparation",
+       "Say which you prefer"
       ]
      },
      {
@@ -1360,6 +1963,11 @@
        "係：自助餐、節日食物浪費",
        "唔係：好多人已經有意識",
        "可以點改善"
+      ],
+      "pointsEn": [
+       "Yes: buffets and festival food are wasted",
+       "No: many people are already aware",
+       "How it could be improved"
       ]
      }
     ],
@@ -1369,10 +1977,3889 @@
      "淨係講「唔好浪費」，冇具體建議俾校長",
      "將 portion 讀成 position，或者 landfills 讀錯重音",
      "成組人怪飯盒唔好食，冇講同學自己嘅責任"
+    ],
+    "pitfallsEn": [
+     "Reading the percentages in the table line by line without explaining the reasons",
+     "Mixing points 2 and 3, so it is unclear what the school and students should each do",
+     "Only saying 'don't waste food' without concrete suggestions for the principal",
+     "Saying 'position' instead of 'portion', or stressing 'landfills' wrongly",
+     "The whole group blames the lunch boxes and nobody mentions students' own responsibility"
     ]
    },
+   "pdf": "speaking/ENG4-003_1.3.pdf",
    "no": 6,
-   "pdf": "speaking/ENG4-003_1.3.pdf"
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-004",
+   "code": "1.1",
+   "title": "Strike a Pose! Inside the Self-Photo Studio Craze",
+   "partA": {
+    "sourceIntro": "This page appeared on a website for young people in Hong Kong:",
+    "title": "Strike a Pose! Inside the Self-Photo Studio Craze",
+    "text": "What is a self-photo studio?\nKorean-style self-photo studios have become a hit with young people, and over the past few years many have opened in Hong Kong, in areas such as Mong Kok and Kwai Chung. There is no photographer. You and your friends go into a small room, choose a background, pick up a remote control and take your own photos. Most studios also have hats, glasses, wigs and other props that you can borrow for free.\n\nWhy do teens love them?\nAt one studio in Mong Kok, run by 24-year-old Kelly Ng, a basic session costs HK$128 for two people. \"Most of our customers are secondary school students,\" says Kelly. \"They come after exams, on birthdays or just because it's Friday. Some groups stay for over an hour trying on different props.\" Within minutes, you get a printed strip of four photos and a digital copy to share on social media. Many teens collect their strips in special albums or stick them on their phone cases.\n\nWhat our readers say\n\"It's the best way to remember a day with friends. Photos on my phone just get lost in my gallery.\" – Mandy, 16\n\n\"It's fun, but I spent almost HK$500 last month. Some of my friends feel they have to go every weekend.\" – Jason, 17\n\n\"I prefer taking photos outdoors. It's free, and the views are real!\" – Ivan, 15\n\nHave you tried a self-photo studio yet? Tell us what you think in the comments below!",
+    "visual": null,
+    "scenario": "Your school's English Society is writing a feature for the school magazine about a popular trend among students. Your group has been asked to give your opinions on the self-photo studio trend.",
+    "prompts": [
+     "why self-photo studios are so popular with teenagers",
+     "whether going to these studios is a good way for teenagers to spend their money and time",
+     "what other ways young people can keep memories of good times with friends",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What do you usually do with your friends at the weekend?",
+     "What kind of photos do you like taking most?",
+     "Do you like looking at old photos?",
+     "Why do some young people feel they must try every new trend?",
+     "Do you think teenagers spend too much money on weekend activities?",
+     "Do you think photos help people remember things better?",
+     "Which do you prefer: photos taken by other people or selfies?",
+     "Will printed photos still be popular in ten years?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-004_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-004_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-004_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-004_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "self-photo studios as a teenage weekend trend",
+    "topicArea": "Youth & Lifestyle",
+    "textType": "website",
+    "taskType": "give opinions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為校刊一個學生潮流專題，講出對韓式自拍館熱潮嘅意見：點解青少年咁鍾意、值唔值得花錢花時間，再諗其他同朋友留低回憶嘅方法。",
+    "taskFocusEn": "For a student trends feature in the school magazine, your group gives its views on the Korean-style self-photo studio craze: why teenagers love it and whether it is worth the money and time, then thinks of other ways to make memories with friends.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "冇攝影師，自己影唔尷尬、自由",
+       "有道具同背景，好玩、有新鮮感",
+       "即刻有實體相，可以收藏或貼手機殼",
+       "有電子檔方便放上社交媒體",
+       "考完試、生日、放假慶祝嘅節目",
+       "朋友都去，跟潮流"
+      ],
+      "materialLinks": [
+       "There is no photographer.",
+       "hats, glasses, wigs and other props that you can borrow for free",
+       "Within minutes, you get a printed strip of four photos and a digital copy to share on social media",
+       "They come after exams, on birthdays or just because it's Friday."
+      ],
+      "ideasEn": [
+       "No photographer, so it is free and not embarrassing",
+       "Props and backgrounds make it fun and new",
+       "You get printed photos straight away to keep or put in your phone case",
+       "Digital copies are easy to post on social media",
+       "A way to celebrate after exams, on birthdays or in holidays",
+       "All their friends go, so they follow the trend"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "值得：HK$128 兩個人，夾錢唔算貴",
+       "值得：同朋友一齊做嘢，建立回憶",
+       "唔值得：去得密，一個月可以使幾百蚊",
+       "唔值得：一去成個鐘，加埋車程，少咗溫書或運動時間",
+       "唔值得：朋友壓力，覺得一定要去",
+       "可以訂預算同次數，例如考完試先去"
+      ],
+      "materialLinks": [
+       "a basic session costs HK$128 for two people",
+       "I spent almost HK$500 last month",
+       "Some of my friends feel they have to go every weekend.",
+       "Some groups stay for over an hour trying on different props."
+      ],
+      "ideasEn": [
+       "Worth it: HK$128 for two people is not expensive when shared",
+       "Worth it: doing things together with friends builds memories",
+       "Not worth it: going often can cost hundreds of dollars a month",
+       "Not worth it: an hour each time plus travel means less time for study or exercise",
+       "Not worth it: peer pressure makes people feel they must go",
+       "Set a budget and a limit, e.g. only go after exams"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "戶外影相：免費、風景真實",
+       "寫日記、做手帳或者相簿",
+       "一齊煮飯、行山等活動本身就係回憶",
+       "交換禮物、寫卡",
+       "拍短片或者 vlog",
+       "將手機相片定期整理同沖曬"
+      ],
+      "materialLinks": [
+       "I prefer taking photos outdoors. It's free, and the views are real!",
+       "Photos on my phone just get lost in my gallery."
+      ],
+      "ideasEn": [
+       "Take photos outdoors: free, with real scenery",
+       "Keep a diary, a journal or a photo album",
+       "Activities like cooking or hiking together are memories in themselves",
+       "Exchange gifts or write cards",
+       "Make short videos or a vlog",
+       "Sort and print phone photos regularly"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "studio",
+      "note": "STOO-dee-oh，重音喺第一音節；影樓、工作室",
+      "noteEn": "STOO-dee-oh, stress on the 1st syllable; a room for taking photos or making things"
+     },
+     {
+      "word": "photographer",
+      "note": "fuh-TOG-ruh-fer，重音喺第二音節（唔係 PHO-to-）；攝影師",
+      "noteEn": "fuh-TOG-ruh-fer, stress on the 2nd syllable (not PHO-to-); a person who takes photos"
+     },
+     {
+      "word": "props",
+      "note": "PROPS，一個音節，尾音 s 要讀；道具",
+      "noteEn": "PROPS, one syllable, say the final s; objects used in photos or plays"
+     },
+     {
+      "word": "remote control",
+      "note": "ri-moht kun-TROHL（主重音喺 control）；遙控器",
+      "noteEn": "ri-moht kun-TROHL, main stress on 'control'; a device to operate something from a distance"
+     },
+     {
+      "word": "session",
+      "note": "SESH-un，重音喺第一音節；一節、一次",
+      "noteEn": "SESH-un, stress on the 1st syllable; one period of an activity"
+     },
+     {
+      "word": "digital",
+      "note": "DIJ-i-tul，重音喺第一音節；數碼",
+      "noteEn": "DIJ-i-tul, stress on the 1st syllable; stored on a computer or phone"
+     },
+     {
+      "word": "gallery",
+      "note": "GAL-uh-ree，重音喺第一音節；（手機）相簿",
+      "noteEn": "GAL-uh-ree, stress on the 1st syllable; the photo collection on a phone"
+     },
+     {
+      "word": "albums",
+      "note": "AL-bumz，重音喺第一音節；相簿、相冊",
+      "noteEn": "AL-bumz, stress on the 1st syllable; books for keeping photos"
+     },
+     {
+      "word": "wigs",
+      "note": "WIGZ，一個音節；假髮",
+      "noteEn": "WIGZ, one syllable; false hair"
+     },
+     {
+      "word": "strip",
+      "note": "STRIP，一個音節；（一條）相片條",
+      "noteEn": "STRIP, one syllable; a long, narrow row of photos"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講一兩樣常做活動",
+       "同邊個、去邊度",
+       "點解鍾意"
+      ],
+      "pointsEn": [
+       "Name one or two activities you often do",
+       "Who with and where",
+       "Why you like them"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "風景、食物、朋友或者自拍",
+       "點解鍾意",
+       "舉一張相做例子"
+      ],
+      "pointsEn": [
+       "Scenery, food, friends or selfies",
+       "Why you like it",
+       "Give one photo as an example"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "鍾意：諗返開心回憶",
+       "唔鍾意：覺得以前樣衰、尷尬",
+       "講一張舊相例子"
+      ],
+      "pointsEn": [
+       "Like: it brings back happy memories",
+       "Dislike: you looked silly or it feels embarrassing",
+       "Give an example of an old photo"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "怕同朋友冇話題",
+       "社交媒體影響",
+       "好奇、想試新嘢"
+      ],
+      "pointsEn": [
+       "Afraid of having nothing to talk about with friends",
+       "Influence of social media",
+       "Curious and want to try new things"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "係：食飯、睇戲、影相加埋好貴",
+       "唔係：有好多免費活動",
+       "講自己每月開支例子"
+      ],
+      "pointsEn": [
+       "Yes: meals, films and photos add up",
+       "No: there are many free activities",
+       "Give an example of your monthly spending"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "會：睇相諗返當時感受",
+       "唔一定：相太多冇人睇",
+       "舉舊相例子"
+      ],
+      "pointsEn": [
+       "Yes: photos bring back how you felt",
+       "Not necessarily: there are too many photos to look at",
+       "Give an example of an old photo"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "別人影：角度好、可以影全身",
+       "自拍：自然、隨時影得",
+       "講自己揀邊樣"
+      ],
+      "pointsEn": [
+       "Taken by others: better angles, full-body shots",
+       "Selfies: natural, can take any time",
+       "Say which you prefer"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "會：懷舊、實物有價值",
+       "唔會：數碼更方便",
+       "可能變成特別場合先沖"
+      ],
+      "pointsEn": [
+       "Yes: nostalgia, physical things have value",
+       "No: digital is more convenient",
+       "Prints may be kept for special occasions"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係介紹自拍館價錢同玩法，冇講自己意見",
+     "將 self-photo studio 講成「用手機 selfie」",
+     "第 2 點只講錢，冇講時間或者朋友壓力",
+     "成組人一面倒話好，冇人用 Jason 或 Ivan 嘅講法反對",
+     "第 3 點又講返自拍館"
+    ],
+    "pitfallsEn": [
+     "Only describing the studio's prices and how it works without giving your own opinion",
+     "Describing a self-photo studio as 'taking a selfie with your phone'",
+     "Point 2 only talks about money and leaves out time or peer pressure",
+     "The whole group says it is great and nobody uses Jason's or Ivan's arguments against it",
+     "Point 3 goes back to self-photo studios"
+    ]
+   },
+   "no": 7,
+   "pdf": "speaking/ENG4-004_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-004",
+   "code": "1.2",
+   "title": "Why I Pay My Kids to Do the Dishes",
+   "partA": {
+    "sourceIntro": "This blog post appeared on a parenting website in Hong Kong:",
+    "title": "Why I Pay My Kids to Do the Dishes",
+    "text": "Last summer, after months of asking my two teenagers, Ethan (15) and Sophie (13), to help around the flat, I decided to try an experiment: I started paying them for their chores.\n\nHere's how our new routine works. A price list is stuck on our fridge. Washing the dishes earns HK$10, cleaning the bathroom earns HK$30 and folding the family's laundry earns HK$15. Some jobs, such as making their own beds, remain unpaid, because I believe they are simply part of being a responsible member of the family.\n\nThe results have surprised me. Ethan now has a budget: he saves his chore money for new football boots and checks his savings every week. Sophie has discovered how much effort it actually takes to keep a bathroom clean, and she even reminds me to put my dirty clothes in the basket!\n\nNot everyone supports my idea, though. My mother believes that children should help because they care about their family, not because they want to be paid. \"What will happen when you stop paying them?\" she asked. A colleague worries that money could change the relationship between parents and children, and that her own children would refuse to help without payment. And last month, Sophie asked whether she could pay her brother to do her chores for her!\n\nSix months on, our home is tidier and the kids seem more grateful and understand the value of money better. But am I teaching them independence and hard work, or simply teaching them to expect a reward? I'd love to hear your opinions.\n\nGrace Lau, mother of two",
+    "visual": null,
+    "scenario": "Your school is organising a talk for parents about teenagers and money. Your group has been asked to discuss the advantages and disadvantages of paying teenagers to do chores at home, so that you can share a student's point of view at the talk.",
+    "prompts": [
+     "why it is often difficult to get teenagers to help at home",
+     "what good and bad effects paying for chores might have on teenagers and their families",
+     "which chores teenagers should be paid for and which they should do for free",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Who does most of the housework in your family?",
+     "Which chore do you dislike the most?",
+     "What is the most useful thing your parents have taught you?",
+     "How can teenagers learn to manage their money well?",
+     "Why do some people only work hard when there is a reward?",
+     "Should secondary students have a part-time job?",
+     "Which is more important in a job: high pay or enjoying the work?",
+     "Do you think young people today understand the value of money?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-004_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-004_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-004_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-004_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "paying teenagers for doing household chores",
+    "topicArea": "Work & Money",
+    "textType": "blog post",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要喺家長講座用學生角度，討論「家長俾錢仔女做家務」嘅好處同壞處：先講點解青少年唔鍾意幫手做家務，再講俾錢對青少年同家庭嘅好壞影響，最後分清邊啲家務應該收錢、邊啲應該免費做。",
+    "taskFocusEn": "At a parents' talk, your group gives a student view on parents paying children to do chores. First discuss why teenagers don't like helping with chores, then the good and bad effects of payment on teenagers and families, and finally which chores should be paid and which should be done for free.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "功課多、補習多，冇時間",
+       "覺得係父母或者家傭嘅責任",
+       "攰、懶，寧願玩手機",
+       "覺得悶、冇回報",
+       "唔識做，怕做錯被罵",
+       "父母叫得太多，反而唔想做"
+      ],
+      "materialLinks": [
+       "after months of asking my two teenagers, Ethan (15) and Sophie (13), to help around the flat"
+      ],
+      "ideasEn": [
+       "Too much homework and tutoring, no time",
+       "They think it is the job of parents or a domestic helper",
+       "Tired or lazy; they would rather play on their phones",
+       "Boring and no reward",
+       "They don't know how and are afraid of being scolded for mistakes",
+       "Parents nag too much, so they want to do it even less"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "好：學識錢嘅價值、學訂預算同儲錢",
+       "好：明白家務辛苦，更體諒父母",
+       "好：屋企整潔、少啲嗌交",
+       "壞：只係為錢先做，冇錢就唔做",
+       "壞：親子關係變成買賣",
+       "壞：可能出錢叫兄弟姊妹代做"
+      ],
+      "materialLinks": [
+       "Ethan now has a budget",
+       "how much effort it actually takes to keep a bathroom clean",
+       "What will happen when you stop paying them?",
+       "money could change the relationship between parents and children",
+       "Sophie asked whether she could pay her brother to do her chores for her"
+      ],
+      "ideasEn": [
+       "Good: they learn the value of money, budgeting and saving",
+       "Good: they see how hard chores are and appreciate their parents more",
+       "Good: a tidier home and fewer arguments",
+       "Bad: they only do chores for money and stop when there is none",
+       "Bad: the parent-child relationship becomes a business deal",
+       "Bad: they may pay brothers or sisters to do the chores instead"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "自己嘅嘢（執床、執房）應該免費",
+       "幫全家做嘅（洗碗、洗廁所、摺衫）可以收錢",
+       "辛苦或者額外嘅工作（洗車、大掃除）先收",
+       "日常小事一律免費，係家庭責任",
+       "全部免費，用其他獎勵代替錢",
+       "按年齡：細個免費、大個可以收"
+      ],
+      "materialLinks": [
+       "Some jobs, such as making their own beds, remain unpaid",
+       "Washing the dishes earns HK$10, cleaning the bathroom earns HK$30 and folding the family's laundry earns HK$15"
+      ],
+      "ideasEn": [
+       "Your own things (making your bed, tidying your room) should be free",
+       "Jobs for the whole family (washing dishes, cleaning the toilet, folding clothes) can be paid",
+       "Only hard or extra jobs (washing the car, spring cleaning) are paid",
+       "Small daily tasks are always free; they are a family duty",
+       "Everything free; use other rewards instead of money",
+       "By age: free when young, paid when older"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "chores",
+      "note": "CHORZ，一個音節；家務",
+      "noteEn": "CHORZ, one syllable; regular jobs at home"
+     },
+     {
+      "word": "laundry",
+      "note": "LAWN-dree，重音喺第一音節；要洗嘅衫",
+      "noteEn": "LAWN-dree, stress on the 1st syllable; clothes that need washing"
+     },
+     {
+      "word": "experiment",
+      "note": "ik-SPER-i-ment，重音喺第二音節；試驗",
+      "noteEn": "ik-SPER-i-ment, stress on the 2nd syllable; a test of a new idea"
+     },
+     {
+      "word": "budget",
+      "note": "BUJ-it，重音喺第一音節；預算",
+      "noteEn": "BUJ-it, stress on the 1st syllable; a plan for spending money"
+     },
+     {
+      "word": "colleague",
+      "note": "KOL-eeg，重音喺第一音節，尾 -gue 唔讀 u；同事",
+      "noteEn": "KOL-eeg, stress on the 1st syllable, the final -gue has no u sound; a person you work with"
+     },
+     {
+      "word": "independence",
+      "note": "in-di-PEN-dunce，重音喺 PEN；獨立",
+      "noteEn": "in-di-PEN-dunce, stress on PEN; looking after yourself without help"
+     },
+     {
+      "word": "reward",
+      "note": "ri-WAWD，重音喺第二音節；獎勵",
+      "noteEn": "ri-WAWD, stress on the 2nd syllable; something given for doing well"
+     },
+     {
+      "word": "routine",
+      "note": "roo-TEEN，重音喺第二音節；日常安排",
+      "noteEn": "roo-TEEN, stress on the 2nd syllable; the usual way you do things each day"
+     },
+     {
+      "word": "relationship",
+      "note": "ri-LAY-shun-ship，重音喺 LAY；關係",
+      "noteEn": "ri-LAY-shun-ship, stress on LAY; how people get on with each other"
+     },
+     {
+      "word": "grateful",
+      "note": "GRAYT-ful，重音喺第一音節；感激",
+      "noteEn": "GRAYT-ful, stress on the 1st syllable; thankful"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "parents, helper or everyone",
+       "how jobs are shared",
+       "is it fair?"
+      ],
+      "pointsEn": [
+       "parents, helper or everyone",
+       "how jobs are shared",
+       "is it fair?"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講最唔鍾意嗰樣",
+       "點解：污糟、攰、花時間",
+       "有冇方法令佢易啲"
+      ],
+      "pointsEn": [
+       "Say which one you dislike most",
+       "Why: dirty, tiring, time-consuming",
+       "Ways to make it easier"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "講一樣技能或道理",
+       "父母點教",
+       "對你有咩影響"
+      ],
+      "pointsEn": [
+       "Name one skill or lesson",
+       "How your parents taught it",
+       "How it affected you"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "keep a budget or savings goal",
+       "earn some money themselves",
+       "learn from parents' examples"
+      ],
+      "pointsEn": [
+       "keep a budget or savings goal",
+       "earn some money themselves",
+       "learn from parents' examples"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "獎勵令人有動力",
+       "冇興趣先要靠獎勵",
+       "舉讀書或者運動例子"
+      ],
+      "pointsEn": [
+       "Rewards motivate people",
+       "Only needed when there is no interest",
+       "Give an example from study or sport"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "應該：學責任、賺經驗",
+       "唔應該：影響讀書同休息",
+       "可以只喺假期做"
+      ],
+      "pointsEn": [
+       "Should: they learn responsibility and gain experience",
+       "Should not: it affects study and rest",
+       "Maybe only in holidays"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "高薪：生活有保障",
+       "鍾意：做得耐、開心",
+       "講自己揀邊樣同原因"
+      ],
+      "pointsEn": [
+       "High pay: a secure life",
+       "Enjoyment: you stay longer and are happier",
+       "Say which you prefer and why"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "yes: many save and budget",
+       "no: parents pay for everything",
+       "example from friends"
+      ],
+      "pointsEn": [
+       "yes: many save and budget",
+       "no: parents pay for everything",
+       "example from friends"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講自己屋企做咩家務，冇講利弊",
+     "將 chores 誤解成「零用錢」或者「兼職」",
+     "只講好處或者只講壞處，冇用 Grace 媽媽同同事嘅反對意見",
+     "第 3 點冇分清收錢同免費嘅家務，只係重複第 2 點",
+     "淨係讀出 HK$10、HK$30、HK$15，冇講代表乜"
+    ],
+    "pitfallsEn": [
+     "Only describing the chores you do at home without discussing pros and cons",
+     "Misunderstanding chores as 'pocket money' or 'part-time jobs'",
+     "Only giving good points or only bad points, without using the objections from Grace's mother and her colleague",
+     "Point 3 doesn't separate paid and free chores and just repeats point 2",
+     "Only reading out HK$10, HK$30 and HK$15 without saying what they mean"
+    ]
+   },
+   "no": 8,
+   "pdf": "speaking/ENG4-004_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-004",
+   "code": "1.3",
+   "title": "Check! Can Chinese Chess Win Over Young Players?",
+   "partA": {
+    "sourceIntro": "This article appeared in an online magazine for students:",
+    "title": "Check! Can Chinese Chess Win Over Young Players?",
+    "text": "On a weekday afternoon in a small park in Sham Shui Po, a group of older men are crowded around a stone table, watching two players move their pieces and shouting advice at every turn. Scenes like this were once common across Hong Kong, but these days it is unusual to see a teenager joining in.\n\nChinese chess, also known as xiangqi, is a strategy game for two players. Each side controls 16 pieces, including horses, elephants and cannons, and a \"river\" runs across the middle of the board. The aim is to trap the other player's general. Although the basic rules can be learnt in an afternoon, experienced players say it takes years to play really well. It is taken seriously as a competition, too: xiangqi was even an official event at the 2010 Asian Games.\n\nSo why do so few young people play? \"My classmates think it's a game for grandpas,\" explains Form 4 student Kenny Ho, who was taught by his grandfather. \"Online games are faster and have much better graphics, so it's hard to compete with them.\"\n\nHowever, there are signs that things are changing. Kenny's school chess club has grown from six to 25 members since it began organising lunchtime matches between students and teachers. A free app that introduces the basic moves through short puzzles has also become popular with beginners.\n\n\"It's like a battle in your head,\" says Kenny. \"Once you win your first game, you'll be hooked.\"",
+    "visual": null,
+    "scenario": "Your school's Chinese Culture Club is planning a Chinese Chess Week to get more students interested in the game. Your group has been asked to plan the week.",
+    "prompts": [
+     "why fewer young people play Chinese chess today",
+     "what activities could be included in the Chinese Chess Week",
+     "how the club could promote the week to the whole school",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Do you like playing board games?",
+     "What games did you enjoy playing when you were a child?",
+     "What is the best way to learn a new game?",
+     "Do you think it is important to keep traditional games alive?",
+     "Should schools teach students traditional games?",
+     "Do you think board games are good for children?",
+     "Which do you prefer: playing games online or face to face?",
+     "Should young people learn more about traditional Hong Kong culture?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-004_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-004_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-004_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-004_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "promoting Chinese chess (xiangqi) to young people",
+    "topicArea": "Culture & Tradition",
+    "textType": "online article",
+    "taskType": "plan an event or campaign",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為中國文化學會籌劃「象棋週」：先講點解而家少年輕人玩象棋，再諗週內有咩活動，最後講點樣向全校宣傳。",
+    "taskFocusEn": "Your group is planning a Chinese Chess Week for the Chinese Culture Club. First discuss why fewer young people play Chinese chess now, then think of activities for the week, and finally how to promote it to the whole school.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "覺得係老人家玩意，唔型",
+       "網上遊戲快、畫面靚，更吸引",
+       "規則易學但要好耐先玩得好，易放棄",
+       "身邊冇人一齊玩、冇人教",
+       "功課忙，冇時間慢慢諗",
+       "學校同家庭少接觸"
+      ],
+      "materialLinks": [
+       "My classmates think it's a game for grandpas",
+       "Online games are faster and have much better graphics",
+       "it takes years to play really well"
+      ],
+      "ideasEn": [
+       "They think it is a game for old people and not cool",
+       "Online games are faster and look better, so they are more attractive",
+       "The rules are easy to learn but it takes long to play well, so people give up",
+       "Nobody around to play with or teach them",
+       "Busy with homework, no time to think slowly",
+       "Little contact with it at school or at home"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "師生對賽",
+       "班際比賽，有獎品",
+       "新手教學工作坊",
+       "請長者或者棋會嚟示範、同學生對奕",
+       "用 app 做解謎挑戰",
+       "巨型象棋，同學扮棋子"
+      ],
+      "materialLinks": [
+       "lunchtime matches between students and teachers",
+       "A free app that introduces the basic moves through short puzzles"
+      ],
+      "ideasEn": [
+       "Teacher-versus-student matches",
+       "Inter-class competition with prizes",
+       "Beginners' workshops",
+       "Invite elderly players or a chess club to demonstrate and play against students",
+       "Puzzle challenges using an app",
+       "Giant chess with students as the pieces"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "早會宣布、老師帶頭參加",
+       "海報同 IG 短片",
+       "有趣口號，例如「腦內戰爭」",
+       "預告師生對賽，吸引人睇",
+       "班代表報名、班際積分",
+       "攤位試玩、即場送小禮物"
+      ],
+      "materialLinks": [
+       "It's like a battle in your head",
+       "xiangqi was even an official event at the 2010 Asian Games",
+       "lunchtime matches between students and teachers"
+      ],
+      "ideasEn": [
+       "Announce it at assembly; teachers take part first",
+       "Posters and short Instagram videos",
+       "A fun slogan, e.g. 'a war in your brain'",
+       "Announce the teacher-student match in advance to attract an audience",
+       "Class representatives sign up; points for each class",
+       "Trial-play booths with small gifts on the spot"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "chess",
+      "note": "CHES，一個音節；棋（Chinese chess 象棋）",
+      "noteEn": "CHES, one syllable; a board game (Chinese chess is xiangqi)"
+     },
+     {
+      "word": "xiangqi",
+      "note": "SHYANG-chee，即普通話「象棋」",
+      "noteEn": "SHYANG-chee; the Putonghua name for Chinese chess"
+     },
+     {
+      "word": "strategy",
+      "note": "STRAT-uh-jee，重音喺第一音節；策略",
+      "noteEn": "STRAT-uh-jee, stress on the 1st syllable; a plan to win"
+     },
+     {
+      "word": "cannons",
+      "note": "KAN-unz，重音喺第一音節；炮",
+      "noteEn": "KAN-unz, stress on the 1st syllable; the cannon pieces"
+     },
+     {
+      "word": "graphics",
+      "note": "GRAF-iks，重音喺第一音節；畫面、圖像",
+      "noteEn": "GRAF-iks, stress on the 1st syllable; pictures on a screen"
+     },
+     {
+      "word": "puzzles",
+      "note": "PUZ-ulz，重音喺第一音節；謎題",
+      "noteEn": "PUZ-ulz, stress on the 1st syllable; problems to solve for fun"
+     },
+     {
+      "word": "hooked",
+      "note": "HOOKT，一個音節，-ed 讀 t；上癮、迷上",
+      "noteEn": "HOOKT, one syllable, -ed sounds like t; unable to stop doing something"
+     },
+     {
+      "word": "general",
+      "note": "JEN-uh-rul（或 JEN-rul），重音喺第一音節；呢度指「將／帥」",
+      "noteEn": "JEN-uh-rul (or JEN-rul), stress on the 1st syllable; here, the general piece"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講一款棋類或桌遊",
+       "同邊個玩",
+       "點解鍾意或唔鍾意"
+      ],
+      "pointsEn": [
+       "Name one board game",
+       "Who you play with",
+       "Why you like or dislike it"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講一兩款童年遊戲",
+       "喺邊度、同邊個玩",
+       "而家仲有冇玩"
+      ],
+      "pointsEn": [
+       "Name one or two childhood games",
+       "Where and with whom",
+       "Whether you still play them"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "有人教、即場示範",
+       "睇片或者用 app",
+       "邊玩邊學、唔怕輸"
+      ],
+      "pointsEn": [
+       "Someone teaches and demonstrates",
+       "Watch videos or use an app",
+       "Learn while playing; don't fear losing"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "重要：保留文化、連繫長輩",
+       "唔重要：時代改變好自然",
+       "可以用 app 保留"
+      ],
+      "pointsEn": [
+       "Important: keeps culture and connects with older people",
+       "Not important: times naturally change",
+       "Apps can keep them alive"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "應該：保留文化",
+       "唔應該：課程已經好滿",
+       "可以放課外活動"
+      ],
+      "pointsEn": [
+       "Should: preserves culture",
+       "Should not: the curriculum is already full",
+       "Could be an extra-curricular activity"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "好：學輪流、守規則",
+       "好：少啲睇螢幕、多啲同人傾",
+       "壞：輸咗可能唔開心"
+      ],
+      "pointsEn": [
+       "Good: learn to take turns and follow rules",
+       "Good: less screen time, more talking",
+       "Bad: losing can be upsetting"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "網上：隨時玩、有好多對手",
+       "面對面：有交流、睇到表情",
+       "講自己揀邊樣"
+      ],
+      "pointsEn": [
+       "Online: play any time, many opponents",
+       "Face to face: more interaction, see expressions",
+       "Say which you prefer"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "應該：保留身份同回憶",
+       "例子：廣東話、節日、傳統小食",
+       "可以用新方法學"
+      ],
+      "pointsEn": [
+       "Should: keeps identity and memories",
+       "Examples: Cantonese, festivals, traditional snacks",
+       "Learn them in new ways"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係介紹象棋規則，冇籌劃活動",
+     "第 3 點講返活動內容，冇講點樣宣傳",
+     "將 Chinese chess 講成國際象棋",
+     "活動講得太空泛（例如 have some games），冇時間、對象、細節",
+     "成組人各自報活動，冇比較或者決定"
+    ],
+    "pitfallsEn": [
+     "Only explaining the rules of Chinese chess without planning activities",
+     "Point 3 goes back to activities and doesn't say how to promote the week",
+     "Confusing Chinese chess with international chess",
+     "Activities are too vague (e.g. 'have some games'), with no time, audience or details",
+     "Each member lists activities without comparing or deciding"
+    ]
+   },
+   "no": 9,
+   "pdf": "speaking/ENG4-004_1.3.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-005",
+   "code": "1.1",
+   "title": "Who Ruined the Ending? Teens and the Spoiler Problem",
+   "partA": {
+    "sourceIntro": "This article appeared in an online entertainment magazine:",
+    "title": "Who Ruined the Ending? Teens and the Spoiler Problem",
+    "text": "When a new local film opened in cinemas last month, Chloe, 16, had planned to watch it with friends that weekend. Two days before, however, a classmate posted a photo of the final scene in their class chat group. 'I still went, but the surprise was gone,' she says. 'It felt like someone had unwrapped my birthday present before I could.'\n\nHer experience is far from unusual. In an online survey of 400 secondary students conducted by this magazine, 72% said a film, drama series or anime had been spoiled for them in the past year. Among these students, six in ten said it had happened in a group chat.\n\nNot everyone is bothered, though. 'I often read the ending first,' admits Marcus, 17, 'because when I know what happens, I can relax and notice the small details.' Researchers are also divided: one study in the United States found that many readers enjoyed some short stories more when the ending was revealed in advance, while another found that spoiled stories felt less exciting.\n\nSome apps now offer a solution. On certain chat platforms, users can hide part of a message as a 'spoiler', which others only see if they tap on it. Jason, 18, who manages an online group for anime fans, has also introduced a simple rule: nobody may discuss the ending until a week after a new episode is released.\n\nMarcus, however, believes such rules go too far. 'If a film has been showing for a month, it's your responsibility to avoid the news, not mine to stay silent.'",
+    "visual": null,
+    "scenario": "Your school's Film Club has an online chat group where members talk about films, drama series and anime. After some members complained about spoilers, your group has been asked to recommend some rules for the chat group.",
+    "prompts": [
+     "why some people are upset by spoilers while others do not mind them",
+     "what rules the chat group should have about sharing details of stories",
+     "how the club can make sure members follow the rules",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What was the last film or series that really surprised you?",
+     "Have you ever found out how a story ends before you wanted to?",
+     "Do you like knowing what happens in a film before watching it?",
+     "Why do some people enjoy telling others how a story ends?",
+     "Is it rude to talk about a film's ending when others haven't seen it?",
+     "Should online chat groups have rules about what members can post?",
+     "Which is more fun: watching one episode a week or a whole series at once?",
+     "Will it be harder to avoid spoilers in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-005_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-005_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-005_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-005_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "spoilers and rules for discussing films and series online",
+    "topicArea": "Entertainment & Media",
+    "textType": "magazine article",
+    "taskType": "make recommendations",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要幫學校 Film Club 嘅網上傾偈群組定規則：先講點解有人好嬲劇透、有人唔介意，再建議群組規則，同埋點樣令會員遵守，最後要畀出具體建議。",
+    "taskFocusEn": "Your group is setting rules for the school Film Club's online chat group. First discuss why some people get angry about spoilers while others don't mind, then suggest group rules and how to make members follow them. Give concrete suggestions.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "驚喜冇咗，期待咗好耐落空",
+       "覺得對方唔尊重人、故意整蠱",
+       "有人鍾意預先知結局，睇得放鬆、留意細節",
+       "有人睇戲係睇演員、畫面、氣氛，唔怕知結局",
+       "怕恐怖或者悲劇結局，預先知道有心理準備",
+       "視乎類型：懸疑片最怕劇透，喜劇冇乜所謂"
+      ],
+      "materialLinks": [
+       "the surprise was gone",
+       "It felt like someone had unwrapped my birthday present before I could",
+       "I often read the ending first",
+       "when I know what happens, I can relax and notice the small details",
+       "many readers enjoyed some short stories more when the ending was revealed in advance",
+       "another found that spoiled stories felt less exciting"
+      ],
+      "ideasEn": [
+       "The surprise is gone after waiting a long time",
+       "They feel the other person is disrespectful or doing it on purpose",
+       "Some like knowing the ending first so they can relax and notice details",
+       "Some watch for the actors, visuals and atmosphere, so the ending doesn't matter",
+       "With horror or sad endings, knowing first helps them prepare",
+       "It depends on the genre: spoilers hurt mysteries most, comedies less"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "上映或者播出後等一段時間（例如一星期）先講結局",
+       "講劇情前要寫 'Spoiler alert' 警告",
+       "用 app 嘅 spoiler 隱藏功能",
+       "開「已睇」「未睇」分區或者分開討論串",
+       "唔准貼結局截圖、相片",
+       "訊息開頭唔可以寫出關鍵情節",
+       "舊片、舊劇可以自由講"
+      ],
+      "materialLinks": [
+       "users can hide part of a message as a 'spoiler', which others only see if they tap on it",
+       "nobody may discuss the ending until a week after a new episode is released",
+       "a classmate posted a photo of the final scene in their class chat group",
+       "If a film has been showing for a month, it's your responsibility to avoid the news, not mine to stay silent"
+      ],
+      "ideasEn": [
+       "Wait some time after release (e.g. one week) before talking about the ending",
+       "Write a 'Spoiler alert' warning before discussing the plot",
+       "Use the app's spoiler-hiding feature",
+       "Separate 'watched' and 'not yet watched' sections or threads",
+       "No screenshots or photos of the ending",
+       "Don't put key plot points at the start of a message",
+       "Old films and series can be discussed freely"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "入群時要同意規則，規則置頂",
+       "管理員提醒、刪除劇透訊息",
+       "第一次警告，再犯暫停發言或者請出群組",
+       "會員互相提醒、舉報",
+       "定期問會員意見，檢討規則",
+       "未睇嘅人自己都要小心，例如暫時靜音群組"
+      ],
+      "materialLinks": [
+       "Jason, 18, who manages an online group for anime fans, has also introduced a simple rule",
+       "Some apps now offer a solution",
+       "it's your responsibility to avoid the news"
+      ],
+      "ideasEn": [
+       "Members agree to the rules when joining; pin the rules",
+       "Admins remind members and delete spoilers",
+       "First a warning; repeat offenders are muted or removed",
+       "Members remind and report each other",
+       "Ask members for feedback and review the rules regularly",
+       "People who haven't watched should also be careful, e.g. mute the group for a while"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "spoiler",
+      "note": "SPOY-ler，重音喺第一音節；劇透（預先講出結局或者重要情節）",
+      "noteEn": "SPOY-ler, stress on the 1st syllable; information that reveals the ending or key plot"
+     },
+     {
+      "word": "episode",
+      "note": "EP-i-sohd，重音喺第一音節；一集",
+      "noteEn": "EP-i-sohd, stress on the 1st syllable; one part of a series"
+     },
+     {
+      "word": "revealed",
+      "note": "ri-VEELD，重音喺第二音節；講出、揭露",
+      "noteEn": "ri-VEELD, stress on the 2nd syllable; made known"
+     },
+     {
+      "word": "responsibility",
+      "note": "ri-spon-suh-BIL-i-tee，重音喺第四音節；責任",
+      "noteEn": "ri-spon-suh-BIL-i-tee, stress on the 4th syllable; a duty to deal with something"
+     },
+     {
+      "word": "platforms",
+      "note": "PLAT-formz，重音喺第一音節；平台",
+      "noteEn": "PLAT-formz, stress on the 1st syllable; apps or websites where people share content"
+     },
+     {
+      "word": "survey",
+      "note": "SUR-vay，名詞重音喺第一音節；問卷調查",
+      "noteEn": "SUR-vay, stress on the 1st syllable as a noun; a set of questions asked to many people"
+     },
+     {
+      "word": "anime",
+      "note": "AN-i-may，重音喺第一音節；日本動畫",
+      "noteEn": "AN-i-may, stress on the 1st syllable; Japanese animation"
+     },
+     {
+      "word": "conducted",
+      "note": "kun-DUK-tid，重音喺第二音節；進行（調查）",
+      "noteEn": "kun-DUK-tid, stress on the 2nd syllable; carried out (a survey)"
+     },
+     {
+      "word": "divided",
+      "note": "di-VY-did，重音喺第二音節；意見分歧",
+      "noteEn": "di-VY-did, stress on the 2nd syllable; having different opinions"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講出片名或者劇名",
+       "邊一幕最意外",
+       "點解印象咁深"
+      ],
+      "pointsEn": [
+       "Name the film or series",
+       "Which scene surprised you most",
+       "Why it left a strong impression"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "喺邊度知道：群組、網上、朋友",
+       "當時有咩感受",
+       "之後點樣避開"
+      ],
+      "pointsEn": [
+       "Where you saw it: group chat, online, friends",
+       "How you felt",
+       "How you avoided spoilers afterwards"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "鍾意：安心、睇到細節",
+       "唔鍾意：冇咗驚喜",
+       "可以話視乎類型"
+      ],
+      "pointsEn": [
+       "Like: feel safe, notice details",
+       "Dislike: no surprise",
+       "You can say it depends on the genre"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "想做第一個講、搏注意",
+       "太興奮忍唔住",
+       "唔覺得劇透有問題"
+      ],
+      "pointsEn": [
+       "They want to be first and get attention",
+       "Too excited to hold back",
+       "They don't think spoilers are a problem"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "唔尊重未睇嘅人",
+       "睇場合同上映咗幾耐",
+       "先問一句就冇問題"
+      ],
+      "pointsEn": [
+       "It is disrespectful to people who haven't watched",
+       "It depends on the situation and how long it has been out",
+       "Asking first is fine"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "避免劇透、吵交",
+       "規則太多冇人想講嘢",
+       "規則要簡單清楚"
+      ],
+      "pointsEn": [
+       "They prevent spoilers and arguments",
+       "Too many rules and nobody wants to talk",
+       "Rules should be simple and clear"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "每星期一集：有期待、多話題",
+       "一次睇晒：唔使等、少劇透",
+       "講清楚揀邊樣"
+      ],
+      "pointsEn": [
+       "One episode a week: something to look forward to, more to talk about",
+       "All at once: no waiting, fewer spoilers",
+       "Say clearly which you prefer"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "網上消息傳得越來越快",
+       "短片同截圖容易洩露劇情",
+       "隱藏、靜音工具會更多"
+      ],
+      "pointsEn": [
+       "News spreads faster and faster online",
+       "Short videos and screenshots easily leak the plot",
+       "There will be more hiding and muting tools"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係讀材料數字（72%、six in ten），冇解釋點解有人嬲、有人唔介意",
+     "將任務講成「劇透啱唔啱」嘅辯論，冇提出具體群組規則",
+     "規則講得太空泛（例如 \"be nice\"），冇講等幾耐、點樣標示",
+     "第三點重複第二點，冇講點樣執行規則同處理犯規",
+     "淨係講一邊（全面禁止劇透），冇回應 Marcus「自己避開」嘅意見",
+     "spoiler 讀錯重音，或者用咗但冇解釋係咩意思"
+    ],
+    "pitfallsEn": [
+     "Only reading out the figures (72%, six in ten) without explaining why some people get angry and others don't mind",
+     "Turning the task into a debate on whether spoilers are right instead of suggesting group rules",
+     "Rules are too vague (e.g. 'be nice') with no waiting time or way of marking spoilers",
+     "Point 3 repeats point 2 and doesn't say how to enforce the rules or deal with rule-breakers",
+     "Only taking one side (ban all spoilers) without responding to Marcus's idea of avoiding them yourself",
+     "Stressing 'spoiler' wrongly, or using the word without explaining what it means"
+    ]
+   },
+   "no": 10,
+   "pdf": "speaking/ENG4-005_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-005",
+   "code": "1.2",
+   "title": "Letters to the Editor",
+   "partA": {
+    "sourceIntro": "These letters appeared in the readers' section of a local newspaper:",
+    "title": "Letters to the Editor",
+    "text": "Don't leave older people behind\n\nDear Editor,\n\nLast week my grandmother, who is 78, tried to make an appointment for a medical check-up, but the clinic told her she could only book through its mobile app. Although she owns a smartphone, the text is tiny, the buttons keep changing after every update, and she was terrified of pressing the wrong one. In the end she had to wait for me to help her, but I was at school all day.\n\nMore and more restaurants, banks and clinics now provide their services mainly online. For young people, this is quick and convenient. For many elderly people, however, it means feeling confused, embarrassed and shut out. Every organisation should keep a counter or a telephone line with a real person for those who need it.\n\nJoyce Lam, Tsuen Wan\n\nGoing digital helps everyone\n\nDear Editor,\n\nI understand Ms Lam's concerns, but going back to the old way is not the solution. I work as a receptionist at a clinic. Since we introduced online booking, patients no longer queue outside for hours, and our phone lines are available for urgent calls.\n\nOlder people are perfectly capable of learning. My 70-year-old father now video-calls his friends every day. What they really need is patience and regular practice. Families should spend time teaching them, and community centres could offer more free classes with large-print instructions.\n\nTechnology is part of everyday life now. Let's help everyone join in instead of slowing everyone down.\n\nRaymond Ho, Sha Tin",
+    "visual": null,
+    "scenario": "Your class is doing a project on technology in everyday life. Your group is going to look at the issues raised in the two letters and suggest some solutions.",
+    "prompts": [
+     "what difficulties older people may face when services move online",
+     "which services should still offer help from a real person and why",
+     "how banks, clinics and other organisations could make their online services easier to use",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Have you ever taught a family member how to use an app?",
+     "Which app do you use most every day?",
+     "Do you prefer paying by phone or paying with cash?",
+     "Why do some older people find new technology hard to learn?",
+     "Should banks and shops always have staff to help customers face to face?",
+     "Do you think all young people are good with technology?",
+     "Do you think you will find new technology hard to use when you are old?",
+     "Who should do more to help older people with technology: families or the community?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-005_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-005_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-005_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-005_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "older people and the move to online-only services",
+    "topicArea": "Technology",
+    "textType": "two opposing letters",
+    "taskType": "discuss problems & solutions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": true,
+    "irTypes": [
+     "personal",
+     "personal",
+     "comparison",
+     "opinion",
+     "opinion",
+     "opinion",
+     "hypothetical",
+     "comparison"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要討論兩封讀者來信提出嘅問題：長者用網上服務有咩困難、邊類服務最需要保留真人協助，同埋年輕人、家人、社區可以點樣幫長者用科技，最後提出解決方法。",
+    "taskFocusEn": "Your group discusses the issues raised in two readers' letters: the difficulties elderly people face using online services, which services most need to keep human help, and how young people, families and the community can help elderly people use technology. Suggest solutions.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "手機字細、睇唔清",
+       "app 經常更新，按鈕位置變",
+       "怕按錯、怕被騙",
+       "唔識英文或者唔識打字",
+       "冇家人喺身邊即時幫手",
+       "覺得尷尬、唔好意思問人"
+      ],
+      "materialLinks": [
+       "the text is tiny, the buttons keep changing after every update",
+       "she was terrified of pressing the wrong one",
+       "In the end she had to wait for me to help her, but I was at school all day",
+       "feeling confused, embarrassed and shut out"
+      ],
+      "ideasEn": [
+       "Small text on phones is hard to read",
+       "Apps update often and buttons move",
+       "Afraid of pressing the wrong thing or being cheated",
+       "They don't know English or how to type",
+       "No family nearby to help straight away",
+       "They feel embarrassed to ask"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "診所、醫院：關乎健康，唔可以出錯",
+       "銀行：涉及錢，長者怕被騙",
+       "政府服務、申請表格：步驟複雜",
+       "餐廳、零售：可以主要網上，但有職員應急",
+       "電話熱線比櫃位平，可以做折衷",
+       "成本問題：細店未必請得起多人"
+      ],
+      "materialLinks": [
+       "Every organisation should keep a counter or a telephone line with a real person for those who need it",
+       "More and more restaurants, banks and clinics now provide their services mainly online",
+       "patients no longer queue outside for hours, and our phone lines are available for urgent calls",
+       "going back to the old way is not the solution"
+      ],
+      "ideasEn": [
+       "Clinics and hospitals: health matters and mistakes are not allowed",
+       "Banks: money is involved and elderly people fear scams",
+       "Government services and forms: the steps are complicated",
+       "Restaurants and shops: can be mainly online, with staff for emergencies",
+       "A phone hotline costs less than a counter and is a compromise",
+       "Cost: small shops may not afford more staff"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "larger text and simple buttons in apps",
+       "a 'senior mode' with fewer steps",
+       "staff or volunteers at the door to help",
+       "free classes at community centres",
+       "keep a phone line for people who need it"
+      ],
+      "materialLinks": [
+       "What they really need is patience and regular practice",
+       "Families should spend time teaching them",
+       "community centres could offer more free classes with large-print instructions",
+       "My 70-year-old father now video-calls his friends every day"
+      ],
+      "ideasEn": [
+       "larger text and simple buttons in apps",
+       "a 'senior mode' with fewer steps",
+       "staff or volunteers at the door to help",
+       "free classes at community centres",
+       "keep a phone line for people who need it"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "elderly",
+      "note": "EL-der-lee，重音喺第一音節；長者",
+      "noteEn": "EL-der-lee, stress on the 1st syllable; old people"
+     },
+     {
+      "word": "appointment",
+      "note": "uh-POINT-ment，重音喺第二音節；預約",
+      "noteEn": "uh-POINT-ment, stress on the 2nd syllable; an arranged time to see someone"
+     },
+     {
+      "word": "organisation",
+      "note": "or-guh-nai-ZAY-shun，重音喺第四音節；機構",
+      "noteEn": "or-guh-nai-ZAY-shun, stress on the 4th syllable; a group or company"
+     },
+     {
+      "word": "receptionist",
+      "note": "ri-SEP-shun-ist，重音喺第二音節；接待員",
+      "noteEn": "ri-SEP-shun-ist, stress on the 2nd syllable; a person who greets visitors at a front desk"
+     },
+     {
+      "word": "convenient",
+      "note": "kun-VEE-nee-unt，重音喺第二音節；方便",
+      "noteEn": "kun-VEE-nee-unt, stress on the 2nd syllable; easy and useful"
+     },
+     {
+      "word": "patience",
+      "note": "PAY-shuns，重音喺第一音節；耐性",
+      "noteEn": "PAY-shuns, stress on the 1st syllable; the ability to wait calmly"
+     },
+     {
+      "word": "urgent",
+      "note": "UR-junt，重音喺第一音節；緊急",
+      "noteEn": "UR-junt, stress on the 1st syllable; needing action at once"
+     },
+     {
+      "word": "digital",
+      "note": "DIJ-i-tul，重音喺第一音節；數碼",
+      "noteEn": "DIJ-i-tul, stress on the 1st syllable; using computers or phones"
+     },
+     {
+      "word": "capable",
+      "note": "KAY-puh-bul，重音喺第一音節；有能力",
+      "noteEn": "KAY-puh-bul, stress on the 1st syllable; able to do something"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "教邊個、教咩 app",
+       "過程順唔順利",
+       "對方學唔學得識"
+      ],
+      "pointsEn": [
+       "Who you taught and which app",
+       "Whether it went smoothly",
+       "Whether they learnt it"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講出 app 用途",
+       "每日幾時用",
+       "點解咁依賴佢"
+      ],
+      "pointsEn": [
+       "Say what the app is for",
+       "When you use it each day",
+       "Why you depend on it"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "comparison",
+      "points": [
+       "手機付款快、唔使帶錢",
+       "現金易控制使費",
+       "講清楚揀邊樣"
+      ],
+      "pointsEn": [
+       "Mobile payment: fast, no need to carry cash",
+       "Cash: easier to control spending",
+       "Say clearly which you prefer"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "眼睛、記性差咗",
+       "怕按錯、怕被騙",
+       "冇人耐心教"
+      ],
+      "pointsEn": [
+       "Poorer eyesight and memory",
+       "Afraid of pressing wrongly or being cheated",
+       "Nobody teaches them patiently"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "照顧唔識科技嘅人",
+       "成本高、要請人",
+       "複雜問題要真人處理"
+      ],
+      "pointsEn": [
+       "Helps people who don't know technology",
+       "High cost of hiring staff",
+       "Complicated problems need a real person"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "唔係人人識，例如網上表格",
+       "識玩唔等於識安全使用",
+       "舉身邊例子"
+      ],
+      "pointsEn": [
+       "Not everyone knows, e.g. online forms",
+       "Using apps for fun is not the same as using them safely",
+       "Give an example from people around you"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "hypothetical",
+      "points": [
+       "科技變得好快",
+       "可能都會跟唔上",
+       "自己會點樣保持學習"
+      ],
+      "pointsEn": [
+       "Technology changes very fast",
+       "We may also fall behind",
+       "How you will keep learning"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "comparison",
+      "points": [
+       "家人最了解、最有耐性",
+       "社區有資源、有課程",
+       "可以兩者合作"
+      ],
+      "pointsEn": [
+       "Family knows them best and is most patient",
+       "The community has resources and classes",
+       "They can work together"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講「長者唔識用手機」，冇講具體困難",
+     "只係複述兩封信，冇講自己同意邊個、點解",
+     "第二點只答「要／唔要」，冇講邊類服務最需要真人、點解",
+     "解決方法太空泛（例如「teach them」），冇講邊個教、點樣教",
+     "將題目講成「長者應唔應該用手機」"
+    ],
+    "pitfallsEn": [
+     "Only saying 'elderly people can't use phones' without describing specific difficulties",
+     "Only retelling the two letters without saying who you agree with and why",
+     "Point 2 only answers 'yes' or 'no' without saying which services most need people and why",
+     "Solutions are too vague (e.g. 'teach them') without saying who teaches and how",
+     "Turning the topic into 'should elderly people use phones'"
+    ]
+   },
+   "no": 11,
+   "pdf": "speaking/ENG4-005_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-005",
+   "code": "1.3",
+   "title": "Same Slide, Same Swing: Are Our Playgrounds Too Boring?",
+   "partA": {
+    "sourceIntro": "This article appeared on a website for Hong Kong parents:",
+    "title": "Same Slide, Same Swing: Are Our Playgrounds Too Boring?",
+    "text": "Walk into many older housing estates in Hong Kong and you will probably discover the same playground: a short plastic slide, two swings, a soft rubber floor and a sign listing everything children are not allowed to do. 'No ball games.' 'No cycling.'\n\nThese playgrounds are certainly safe, but many children find them dull and predictable. 'My son is eight, and he complains that the slide is for babies,' says Mrs Cheng, a mother in Ma On Shan. In a survey of 300 parents conducted by this website, 62% said their children became bored at their local playground within 15 minutes, and almost half admitted that they sometimes travel to another district to find a more exciting one.\n\nPlayground designers believe children need a certain amount of challenge. Climbing walls, rope nets, and areas with sand and water allow children to test their abilities, build confidence and independence, and learn to judge risks for themselves. 'A small fall teaches more than a hundred warnings,' one designer explains.\n\nNot everyone agrees, though. Some parents worry about injuries and feel young children need close supervision, while elderly residents who use the same park for exercise or relaxation complain about the noise. A modern playground also needs to be suitable for children who use wheelchairs, who often find little equipment that is accessible to them in older playgrounds.\n\nGood public space should belong to everyone in the community. So what would a playground that works for all ages actually look like?",
+    "visual": null,
+    "scenario": "The management office of your housing estate is planning to rebuild the estate's old playground, and it has invited your group to share young people's ideas at a residents' meeting. Your group is now planning a short presentation for the meeting.",
+    "prompts": [
+     "what problems many playgrounds in Hong Kong have",
+     "what features the new playground should include",
+     "how to deal with the worries of parents and older residents in your presentation",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What did you enjoy doing in playgrounds when you were a child?",
+     "What do you usually do when you visit a park?",
+     "What games did you play outdoors when you were younger?",
+     "Should children be allowed to take small risks when they play?",
+     "Why do you think some parks have so many rules?",
+     "Should playgrounds be designed by children or by adults?",
+     "If you could add one thing to a park in your district, what would it be?",
+     "Who should have a say in how a public space is designed?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-005_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-005_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-005_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-005_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "redesigning boring public playgrounds for all ages",
+    "topicArea": "Society",
+    "textType": "online article",
+    "taskType": "plan a presentation",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "comparison",
+     "hypothetical",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為居民大會準備一個短 presentation：講本港遊樂場嘅問題、新遊樂場應該有咩設施，同埋點樣喺 presentation 回應家長同長者居民嘅擔心。",
+    "taskFocusEn": "Your group is preparing a short presentation for a residents' meeting about the problems with Hong Kong playgrounds, what facilities the new playground should have, and how the presentation can respond to parents' and elderly residents' concerns.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "設計千篇一律，冇挑戰性",
+       "規則太多，例如唔准玩波、唔准踩單車",
+       "只適合細路，大啲嘅小朋友覺得悶",
+       "輪椅使用者冇設施可以玩",
+       "地方細、人多",
+       "冇遮陰，夏天太熱"
+      ],
+      "materialLinks": [
+       "the same playground: a short plastic slide, two swings, a soft rubber floor",
+       "a sign listing everything children are not allowed to do",
+       "62% said their children became bored at their local playground within 15 minutes",
+       "who often find little equipment that is accessible to them in older playgrounds"
+      ],
+      "ideasEn": [
+       "Designs are all the same and not challenging",
+       "Too many rules, e.g. no ball games, no cycling",
+       "Only suitable for small children; older children find them boring",
+       "No facilities for wheelchair users",
+       "Small and crowded",
+       "No shade, too hot in summer"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "攀石牆、繩網等有挑戰嘅設施",
+       "沙池、玩水區",
+       "輪椅都用得嘅共融設施",
+       "長者健體區、座位、遮陰",
+       "分區設計，減少噪音衝突",
+       "畀大啲小朋友同青少年嘅運動空間"
+      ],
+      "materialLinks": [
+       "Climbing walls, rope nets, and areas with sand and water",
+       "build confidence and independence, and learn to judge risks for themselves",
+       "children who use wheelchairs",
+       "elderly residents who use the same park for exercise or relaxation"
+      ],
+      "ideasEn": [
+       "Challenging facilities like climbing walls and rope nets",
+       "Sandpits and water play areas",
+       "Inclusive facilities that wheelchair users can use",
+       "Exercise area, seats and shade for elderly people",
+       "Separate zones to reduce noise conflicts",
+       "Sports space for older children and teenagers"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "安全：軟地墊、按年齡分區、家長座位方便看管",
+       "噪音：遊樂場同長者休憩區分開、種樹隔音",
+       "長者都有得用：健體設施、座位、遮陰",
+       "共融：輪椅用得到嘅設施，照顧所有家庭",
+       "引用調查數字證明小朋友需要更好嘅遊樂場",
+       "用相片或草圖令居民容易想像"
+      ],
+      "materialLinks": [
+       "Some parents worry about injuries and feel young children need close supervision",
+       "elderly residents who use the same park for exercise or relaxation complain about the noise",
+       "A small fall teaches more than a hundred warnings",
+       "62% said their children became bored at their local playground within 15 minutes"
+      ],
+      "ideasEn": [
+       "Safety: soft flooring, areas by age, seats for parents to supervise",
+       "Noise: separate the playground from the elderly rest area; plant trees to block noise",
+       "Elderly people can use it too: exercise equipment, seats, shade",
+       "Inclusion: wheelchair-accessible facilities for all families",
+       "Quote survey figures to show children need better playgrounds",
+       "Use photos or sketches so residents can picture it easily"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "playground",
+      "note": "PLAY-ground，重音喺第一音節；遊樂場",
+      "noteEn": "PLAY-ground, stress on the 1st syllable; an outdoor area for children to play"
+     },
+     {
+      "word": "predictable",
+      "note": "pri-DIK-tuh-bul，重音喺第二音節；冇新意、估到",
+      "noteEn": "pri-DIK-tuh-bul, stress on the 2nd syllable; easy to guess, not new"
+     },
+     {
+      "word": "designers",
+      "note": "di-ZAI-nerz，重音喺第二音節；設計師",
+      "noteEn": "di-ZAI-nerz, stress on the 2nd syllable; people who plan how things look and work"
+     },
+     {
+      "word": "independence",
+      "note": "in-di-PEN-duns，重音喺第三音節；獨立",
+      "noteEn": "in-di-PEN-duns, stress on the 3rd syllable; doing things without help"
+     },
+     {
+      "word": "supervision",
+      "note": "soo-per-VIZH-un，重音喺第三音節；看管",
+      "noteEn": "soo-per-VIZH-un, stress on the 3rd syllable; watching to keep someone safe"
+     },
+     {
+      "word": "residents",
+      "note": "REZ-i-dunts，重音喺第一音節；居民",
+      "noteEn": "REZ-i-dunts, stress on the 1st syllable; people who live in a place"
+     },
+     {
+      "word": "wheelchairs",
+      "note": "WEEL-chairz，重音喺第一音節；輪椅",
+      "noteEn": "WEEL-chairz, stress on the 1st syllable; chairs with wheels for people who can't walk"
+     },
+     {
+      "word": "accessible",
+      "note": "uk-SES-i-bul，重音喺第二音節；方便使用（例如輪椅）",
+      "noteEn": "uk-SES-i-bul, stress on the 2nd syllable; easy to reach and use, e.g. by wheelchair"
+     },
+     {
+      "word": "conducted",
+      "note": "kun-DUK-tid，重音喺第二音節；進行（調查）",
+      "noteEn": "kun-DUK-tid, stress on the 2nd syllable; carried out (a survey)"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "滑梯、鞦韆、捉迷藏",
+       "同邊個一齊玩",
+       "一個難忘片段"
+      ],
+      "pointsEn": [
+       "Slides, swings, hide-and-seek",
+       "Who you played with",
+       "One memorable moment"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "散步、做運動、影相",
+       "同邊個去",
+       "最鍾意公園邊部分"
+      ],
+      "pointsEn": [
+       "Walking, exercising, taking photos",
+       "Who you go with",
+       "Your favourite part of the park"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "hide-and-seek, tag, ball games",
+       "where and with whom",
+       "why you liked it"
+      ],
+      "pointsEn": [
+       "hide-and-seek, tag, ball games",
+       "where and with whom",
+       "why you liked it"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "學識判斷風險、建立自信",
+       "受傷風險",
+       "要大人適當看管"
+      ],
+      "pointsEn": [
+       "They learn to judge risk and build confidence",
+       "Risk of injury",
+       "Adults should supervise properly"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "安全考慮",
+       "避免嘈到其他人",
+       "地方細、人太多"
+      ],
+      "pointsEn": [
+       "Safety reasons",
+       "To avoid disturbing others",
+       "Small spaces, too many people"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "comparison",
+      "points": [
+       "children know what is fun",
+       "adults know about safety",
+       "best: design together"
+      ],
+      "pointsEn": [
+       "children know what is fun",
+       "adults know about safety",
+       "best: design together"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "hypothetical",
+      "points": [
+       "講出一樣設施",
+       "邊個會用得著",
+       "點解重要"
+      ],
+      "pointsEn": [
+       "Name one facility",
+       "Who would use it",
+       "Why it is important"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "residents who use it daily",
+       "experts for safety",
+       "young people and elderly both"
+      ],
+      "pointsEn": [
+       "residents who use it daily",
+       "experts for safety",
+       "young people and elderly both"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "只講遊樂場問題，冇講 presentation 要點樣準備",
+     "忽略長者同輪椅使用者，只講小朋友",
+     "第三點只講 presentation 技巧（例如講大聲啲），冇回應家長同長者嘅擔心",
+     "淨係讀材料嘅設施清單，冇解釋好處",
+     "講到要政府拆晒所有遊樂場，脫離情境（一個公園）"
+    ],
+    "pitfallsEn": [
+     "Only talking about playground problems without saying how to prepare the presentation",
+     "Ignoring elderly people and wheelchair users and only talking about children",
+     "Point 3 only covers presentation skills (e.g. speak louder) without answering parents' and elderly residents' concerns",
+     "Only reading the facility list from the material without explaining the benefits",
+     "Saying the government should pull down all playgrounds, which goes beyond the situation (one park)"
+    ]
+   },
+   "no": 12,
+   "pdf": "speaking/ENG4-005_1.3.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-006",
+   "code": "1.1",
+   "title": "After School, More School: Is Your Child Over-Tutored?",
+   "partA": {
+    "sourceIntro": "This article appeared on a website for parents:",
+    "title": "After School, More School: Is Your Child Over-Tutored?",
+    "text": "It is 9:30 on a Tuesday night. Fifteen-year-old Kelly has just got home from her third tutorial class of the week, and she still has a page of maths homework to finish. \"I'm tired all the time,\" she says. \"But all my friends go, so I'm scared to stop.\"\n\nKelly is not alone. In our online survey of 850 local secondary students, 63% said they went to at least one tutorial class every week. Among these students, one in four spent more than six hours a week in classes outside school.\n\nTutoring can help. Some students need extra support in a weak subject, and a good tutor can share useful exam skills. However, too much tutoring can cause problems:\n\nLess sleep. Late classes push homework and bedtime later and later.\n\nNo time for hobbies. Sport, music and family time are often the first things to go.\n\nLess independent learning. Some students wait for a tutor to explain everything instead of working things out for themselves.\n\nHigh costs. Several parents told us that tutorial fees take up a large part of the family budget.\n\n\"Parents often add classes because they are worried, not because their child needs them,\" says one secondary school teacher. \"Before you sign up for another course, ask: is this class really helping?\"\n\nWhat do you think? Share your experience in the comments below.",
+    "visual": null,
+    "scenario": "Your school magazine's editorial board is preparing an article about students who spend a lot of time in tutorial classes. Your group is meeting to talk about the problems and suggest some solutions.",
+    "prompts": [
+     "why many students attend tutorial classes",
+     "what problems too much tutoring can cause",
+     "how students and parents can find a better balance",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Have you ever attended a tutorial class?",
+     "How many free evenings do you usually have in a school week?",
+     "Do you think Hong Kong students have too much homework?",
+     "Why do some parents send their children to many tutorial classes?",
+     "Which is more useful before an exam: extra classes or more rest?",
+     "Should schools offer free after-school help for students who are behind?",
+     "Do you think online videos can replace tutorial classes?",
+     "Do you think students today have enough free time?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-006_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-006_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-006_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-006_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "too much private tutoring for secondary students",
+    "topicArea": "Education & School",
+    "textType": "website",
+    "taskType": "discuss problems & solutions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "comparison",
+     "opinion",
+     "opinion",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為校刊文章討論：點解學生上咁多補習班、補習太多會帶嚟咩問題，再建議學生同家長點樣搵到更好嘅平衡。",
+    "taskFocusEn": "Discuss why students take many tutorial classes, what problems too much tutoring causes, and suggest ways for students and parents to find a better balance (for a school magazine article).",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "公開試前想喺弱科多啲支援",
+       "朋輩壓力：朋友都去，怕落後",
+       "家長擔心，想盡晒力",
+       "小班教學：比大班易問問題",
+       "考試貼士、試題同名師好似保證到成績",
+       "放學冇地方去／家長返工返到好夜"
+      ],
+      "materialLinks": [
+       "But all my friends go, so I'm scared to stop.",
+       "Some students need extra support in a weak subject",
+       "Parents often add classes because they are worried, not because their child needs them"
+      ],
+      "ideasEn": [
+       "extra support in a weak subject before public exams",
+       "peer pressure: friends all go, fear of falling behind",
+       "parents feel worried and want to do everything possible",
+       "small classes: easier to ask questions than in a big class",
+       "exam tips, past papers and famous tutors seem to guarantee results",
+       "nowhere to go after school / parents work late"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "攰、瞓得少，上堂學得少咗",
+       "冇時間做運動、玩音樂、陪家人，生活唔平衡",
+       "依賴補習老師，唔再自己諗",
+       "學費高，家庭預算有壓力",
+       "壓力大咗，對學習冇興趣",
+       "學校同補習社教同一樣嘢，浪費時間"
+      ],
+      "materialLinks": [
+       "Late classes push homework and bedtime later and later.",
+       "Sport, music and family time are often the first things to go.",
+       "Some students wait for a tutor to explain everything instead of working things out for themselves.",
+       "tutorial fees take up a large part of the family budget"
+      ],
+      "ideasEn": [
+       "tiredness and less sleep, so students learn less in school lessons",
+       "no time for sport, music or family, so less balanced life",
+       "students depend on tutors and stop thinking for themselves",
+       "high fees put pressure on the family budget",
+       "more stress and less interest in learning",
+       "repeating the same content in school and tutorial class wastes time"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "只係弱科先補，冇幫助嘅就停",
+       "每星期定時數上限，留一兩晚空閒",
+       "學生同家長坦白講自己感受",
+       "用學校免費支援：老師答疑時間、溫習小組、網上影片",
+       "學校為家長辦均衡學習講座",
+       "補幾個月先檢討進度，再決定加唔加"
+      ],
+      "materialLinks": [
+       "Before you sign up for another course, ask: is this class really helping?",
+       "one in four spent more than six hours a week in classes outside school"
+      ],
+      "ideasEn": [
+       "choose classes only for weak subjects; drop the ones that do not help",
+       "set a weekly limit of hours and keep one or two free evenings",
+       "students talk honestly with parents about how they feel",
+       "use free school help: teachers' consultation time, study groups, online videos",
+       "schools hold talks for parents on balanced learning",
+       "check progress after a few months before signing up for more"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "tutorial",
+      "note": "tu-TOR-i-al；補習（tutorial class = 補習班）",
+      "noteEn": "tu-TOR-i-al; extra lessons outside school (tutorial class)"
+     },
+     {
+      "word": "tutoring",
+      "note": "TU-tor-ing；補習（動詞名詞）。tutor 讀 TU-tor",
+      "noteEn": "TU-tor-ing; giving or getting extra lessons. 'tutor' is said TU-tor"
+     },
+     {
+      "word": "independent learning",
+      "note": "in-de-PEN-dent LEARN-ing；自主學習",
+      "noteEn": "in-de-PEN-dent LEARN-ing; studying by yourself without being pushed"
+     },
+     {
+      "word": "budget",
+      "note": "BUD-jit；預算",
+      "noteEn": "BUD-jit; a plan for how much money to spend"
+     },
+     {
+      "word": "fees",
+      "note": "FEES；學費、收費，尾音係 /z/",
+      "noteEn": "FEES, final sound /z/; money paid for lessons or services"
+     },
+     {
+      "word": "survey",
+      "note": "名詞讀 SUR-vey；調查",
+      "noteEn": "SUR-vey as a noun; a set of questions asked to many people"
+     },
+     {
+      "word": "secondary",
+      "note": "SEC-on-dar-y；中學的",
+      "noteEn": "SEC-on-dar-y; about secondary school"
+     },
+     {
+      "word": "experience",
+      "note": "ex-PE-ri-ence；經驗",
+      "noteEn": "ex-PE-ri-ence; something that has happened to you"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講邊科同幾密",
+       "講有冇幫助同原因"
+      ],
+      "pointsEn": [
+       "say which subject and how often",
+       "say whether it helped and why"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "有幾多晚空閒",
+       "其他晚做緊乜",
+       "夠唔夠"
+      ],
+      "pointsEn": [
+       "number of free evenings",
+       "what fills the others",
+       "enough or not?"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "清楚講係定唔係",
+       "同空閒時間或者瞓覺比較",
+       "舉一個校園生活例子"
+      ],
+      "pointsEn": [
+       "give a clear yes or no",
+       "compare with free time or sleep",
+       "give an example from school life"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "家長擔心同考試壓力",
+       "家長之間嘅朋輩壓力",
+       "家長忙，冇時間教"
+      ],
+      "pointsEn": [
+       "parents' worry and exam pressure",
+       "peer pressure among parents",
+       "parents busy, no time to help"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "comparison",
+      "points": [
+       "補習班：最後衝刺貼士",
+       "休息：頭腦清醒、記得好啲",
+       "兩樣平衡"
+      ],
+      "pointsEn": [
+       "classes: last-minute tips",
+       "rest: clear mind, better memory",
+       "balance both"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "對冇錢補習嘅家庭公平",
+       "老師可能太忙",
+       "建議邊類幫助"
+      ],
+      "pointsEn": [
+       "fair to families who cannot pay",
+       "teachers may be too busy",
+       "suggest what kind of help"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "opinion",
+      "points": [
+       "影片免費、可以重播",
+       "冇機會問問題",
+       "有啲學生要有人催"
+      ],
+      "pointsEn": [
+       "videos are free and can be replayed",
+       "no chance to ask questions",
+       "some students need someone to push them"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "功課、補習、活動",
+       "同家長嘅工作時間比較",
+       "對健康嘅影響"
+      ],
+      "pointsEn": [
+       "homework, classes, activities",
+       "compare with parents' time",
+       "effect on health"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "只講補習好唔好（變成利弊題），冇提出解決方法",
+     "四個人輪流讀材料入面四個問題，冇自己例子",
+     "第三點只講「唔好補咁多」，冇具體點樣平衡（例如每星期幾多小時、點同家長傾）",
+     "將 tutorial class 講成學校嘅導修課，冇理解係校外補習",
+     "讀錯 tutorial、budget"
+    ],
+    "pitfallsEn": [
+     "Only discussing whether tutoring is good or bad (turning it into a pros and cons task) without suggesting solutions",
+     "Four members take turns reading the four questions from the material without their own examples",
+     "Point 3 only says 'don't take so many classes' without saying how to balance (e.g. hours per week, how to talk to parents)",
+     "Describing a tutorial class as a school tutorial period instead of tutoring outside school",
+     "Mispronouncing 'tutorial' or 'budget'"
+    ]
+   },
+   "no": 13,
+   "pdf": "speaking/ENG4-006_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-006",
+   "code": "1.2",
+   "title": "Three Ways to Say Goodbye to Plastic Bottles at School",
+   "partA": {
+    "sourceIntro": "This article appeared in an online magazine for young people:",
+    "title": "Three Ways to Say Goodbye to Plastic Bottles at School",
+    "text": "Walk past the rubbish bins at any school after lunch and you will probably see the same thing: plastic drink bottles, many of them only half empty. Since April 2024, restaurants in Hong Kong have not been allowed to give out plastic straws or plastic cutlery, but on many school campuses, disposable plastic bottles are still everywhere.\n\nSo what can schools do to reduce this waste? We asked students and teachers at three secondary schools about the ideas they have tried.\n\n1. Water refill stations\nOne school in Sha Tin replaced its old water fountains with refill stations that provide cold, filtered water, so students can bring their own bottles and fill them up for free. \"It's convenient, and students no longer need to queue at the tuck shop,\" says a teacher there. However, the machines were expensive to install, and they need regular cleaning and maintenance.\n\n2. School-designed bottles\nAt a school in Tai Po, art students designed a reusable bottle, which is sold at the tuck shop for $30. \"People are proud to carry something their classmates created,\" says Form 5 student Jason. Unfortunately, some students lose their bottles within a few weeks and go back to buying drinks.\n\n3. A bottle-return machine\nA school in Kowloon City has installed a machine that collects empty plastic bottles for recycling. Each bottle earns a student one point, and 20 points can be exchanged for a snack or a pen. Fewer bottles ended up in the bins during the first month, but some students now buy extra drinks to collect more points.\n\nWhich idea do you think would work best?",
+    "visual": null,
+    "scenario": "Your school has received a small environmental grant to try one of these ideas next term, and the principal has asked the Environmental Club for its advice. Your group has been asked to discuss which idea the club should recommend.",
+    "prompts": [
+     "what each idea offers and what problems it might bring",
+     "which idea is the most suitable for your school and why",
+     "how the club could make that idea work well in your school",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What do you do with a plastic bottle after you finish your drink?",
+     "Where do you usually get your drinks during the school day?",
+     "Why do many people still buy drinks in plastic bottles?",
+     "Do you think rewards are a good way to change people's habits?",
+     "Do you think Hong Kong people recycle enough?",
+     "Is it difficult for students to live a green lifestyle?",
+     "Who should do more to reduce plastic waste: companies or customers?",
+     "Will people in Hong Kong use less plastic in ten years?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-006_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-006_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-006_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-006_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "cutting plastic drink bottles on school campuses",
+    "topicArea": "Environment",
+    "textType": "online article",
+    "taskType": "choose the best option",
+    "hkLocal": true,
+    "decisionRequired": true,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "比較學校減少即棄膠樽嘅三個方法（斟水站、學校設計嘅水樽、膠樽回收機），一齊決定環保學會下學期應該試邊個。",
+    "taskFocusEn": "Compare three ideas for cutting plastic drink bottles at school (refill stations, school-designed bottles, bottle-return machine) and agree on the one the Environmental Club should try next term.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "斟水站：免費水、少啲排隊，但成本高、要清潔",
+       "學校水樽：同學設計有自豪感，但容易唔見",
+       "回收機：有獎賞，但有人反而買多咗飲品",
+       "每個方法啱唔同類型嘅同學"
+      ],
+      "materialLinks": [
+       "the machines were expensive to install",
+       "some students lose their bottles within a few weeks",
+       "some students now buy extra drinks to collect more points"
+      ],
+      "ideasEn": [
+       "refill stations: free water, fewer queues, but costly and need cleaning",
+       "school bottles: pride in classmates' design, but easy to lose",
+       "return machine: rewards, but some buy more drinks",
+       "each idea suits different students"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "將成本同資助金額比較",
+       "諗吓實際上有幾多同學會用",
+       "長遠效果定一時新鮮感",
+       "邊個問題最容易解決"
+      ],
+      "materialLinks": [
+       "Which idea do you think would work best?"
+      ],
+      "ideasEn": [
+       "compare cost with the grant size",
+       "think about how many students will really use it",
+       "long-term effect vs short-term excitement",
+       "which problem is easiest to solve"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "學會成員輪流負責清潔",
+       "水樽貼名、設失物認領",
+       "限制每人每日嘅積分",
+       "宣傳：海報、早會講話",
+       "一個月後檢討成效"
+      ],
+      "materialLinks": [
+       "they need regular cleaning and maintenance"
+      ],
+      "ideasEn": [
+       "cleaning rota run by club members",
+       "name labels and a lost-and-found for bottles",
+       "limit points per student per day",
+       "publicity: posters, morning assembly talks",
+       "check results after one month"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "disposable",
+      "note": "dis-PO-sa-ble；即棄",
+      "noteEn": "dis-PO-sa-ble; used once and thrown away"
+     },
+     {
+      "word": "reusable",
+      "note": "re-YOO-za-ble；可以重用",
+      "noteEn": "re-YOO-za-ble; can be used again"
+     },
+     {
+      "word": "refill",
+      "note": "名詞讀 RE-fill；斟水、補充",
+      "noteEn": "RE-fill as a noun; filling something again"
+     },
+     {
+      "word": "filtered",
+      "note": "FIL-tered；過濾咗嘅",
+      "noteEn": "FIL-tered; cleaned by passing through a filter"
+     },
+     {
+      "word": "maintenance",
+      "note": "MAIN-te-nance；維修保養，唔好讀成 main-TAIN-ance",
+      "noteEn": "MAIN-te-nance, not main-TAIN-ance; keeping something in good condition"
+     },
+     {
+      "word": "recycling",
+      "note": "re-CY-cling；回收",
+      "noteEn": "re-CY-cling; turning used things into new things"
+     },
+     {
+      "word": "cutlery",
+      "note": "CUT-ler-y；刀叉匙羹",
+      "noteEn": "CUT-ler-y; knives, forks and spoons"
+     },
+     {
+      "word": "campuses",
+      "note": "CAM-pus-es；校園（複數）",
+      "noteEn": "CAM-pus-es; school or university grounds (plural)"
+     },
+     {
+      "word": "convenient",
+      "note": "con-VE-ni-ent；方便",
+      "noteEn": "con-VE-ni-ent; easy and useful"
+     },
+     {
+      "word": "tuck shop",
+      "note": "TUCK shop；學校小食部",
+      "noteEn": "TUCK shop; the school snack shop"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "回收桶定垃圾桶",
+       "喺屋企重用",
+       "點解"
+      ],
+      "pointsEn": [
+       "recycle bin or rubbish bin",
+       "reuse it at home",
+       "why"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "水、果汁定奶茶",
+       "小食部買定屋企帶",
+       "點解咁揀"
+      ],
+      "pointsEn": [
+       "water, juice or milk tea",
+       "tuck shop or from home",
+       "why that choice"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "方便，周圍都買到",
+       "習慣；唔記得帶水樽",
+       "成日拎住水樽好重"
+      ],
+      "pointsEn": [
+       "convenient and easy to buy anywhere",
+       "habit; forget to bring a bottle",
+       "heavy to carry a bottle all day"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "獎賞見效快",
+       "冇獎賞之後習慣可能停",
+       "舉一個獎賞計劃例子"
+      ],
+      "pointsEn": [
+       "rewards work quickly",
+       "habit may stop when rewards stop",
+       "give an example of a reward scheme"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "清楚講出意見",
+       "回收桶或者習慣嘅例子",
+       "建議一樣改善"
+      ],
+      "pointsEn": [
+       "give a clear view",
+       "example of recycling bins or habits",
+       "suggest one improvement"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "環保選擇可能貴啲",
+       "學校生活好忙",
+       "細細步都做得到"
+      ],
+      "pointsEn": [
+       "green choices may cost more",
+       "school life is busy",
+       "small steps are still possible"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "清楚揀一邊",
+       "公司決定包裝",
+       "顧客決定買乜"
+      ],
+      "pointsEn": [
+       "choose one side clearly",
+       "companies make the packaging",
+       "customers decide what to buy"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "新法例同習慣正在改變",
+       "貪方便嘅文化好強",
+       "清楚預測"
+      ],
+      "pointsEn": [
+       "new laws and habits are changing",
+       "convenience culture is strong",
+       "give a clear prediction"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "四個人各自介紹一個方案，冇互相比較同回應",
+     "討論完冇得出結論，冇講清楚揀邊個同點解",
+     "淨係講材料講過嘅問題，冇諗自己學校情況（例如地方、預算、同學習慣）",
+     "將塑膠飲管禁令講成係學校規定",
+     "讀錯 disposable、maintenance"
+    ],
+    "pitfallsEn": [
+     "Four members each introduce one idea without comparing or responding to each other",
+     "The discussion ends without a conclusion, so it is unclear which idea is chosen and why",
+     "Only repeating the problems in the material without thinking about your own school (e.g. space, budget, students' habits)",
+     "Describing the plastic straw ban as a school rule",
+     "Mispronouncing 'disposable' or 'maintenance'"
+    ]
+   },
+   "no": 14,
+   "pdf": "speaking/ENG4-006_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-006",
+   "code": "1.3",
+   "title": "Half an Hour Outside: Will a Daily Break Work?",
+   "partA": {
+    "sourceIntro": "This article appeared in a local newspaper:",
+    "title": "Half an Hour Outside: Will a Daily Break Work?",
+    "text": "A secondary school in Tsuen Wan wants its students to spend 30 minutes outdoors every school day. Under the plan, students would leave their classrooms after lunch and go to the playground or the basketball courts. They could play ball games, walk around or simply chat with friends.\n\nThe principal says the idea came from concerns about students' health. \"Many of our students go from home to school and back again with very little time outside,\" she says. The Department of Health recommends that students spend at least two hours outdoors each day, as this may help to prevent or delay short-sightedness. The school also hopes that a break from desks and screens will help students stay alert and focused in afternoon lessons.\n\nLast month, the school tried the plan with four Form 2 classes for two weeks. In a survey afterwards, 84 of the 140 students who took part said they felt more alert after the break. \"I got to know students from other classes for the first time,\" says Form 2 student Chloe.\n\nHowever, not everyone is excited. Thirty-one of the 140 students said they felt too hot and sweaty to concentrate afterwards. To make time for the break, lunch would be 15 minutes shorter and school would finish 15 minutes later. \"My son has music lessons straight after school, so this would change our whole family routine,\" says one parent. Teachers are also worried about how to supervise about 900 students on rainy days, when everyone would have to share one small covered playground.\n\nThe school will make a final decision after collecting more views.",
+    "visual": null,
+    "scenario": "Your school is thinking about starting a similar daily outdoor break. The Student Union has asked your group to discuss the advantages and disadvantages of the idea.",
+    "prompts": [
+     "what benefits a daily outdoor break could bring to students",
+     "what problems the plan might cause for students, parents and teachers",
+     "how the plan could be changed to work better in your school",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What do you usually do during recess?",
+     "Which part of the school day do you enjoy the most?",
+     "Why do some students find it hard to concentrate in class?",
+     "Do you think the school day in Hong Kong is too long?",
+     "Should students be asked for their views before a school changes its timetable?",
+     "Is it important for students to make friends outside their own class?",
+     "Would you rather have a longer lunch break or finish school earlier?",
+     "Will hotter summers change the way people in Hong Kong live?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-006_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-006_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-006_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-006_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "a school plan for a daily 30-minute outdoor break",
+    "topicArea": "Health",
+    "textType": "newspaper article",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "討論學校每日 30 分鐘戶外小息計劃嘅好處同壞處，再建議點樣改，令計劃喺自己學校行得更好。",
+    "taskFocusEn": "Discuss the advantages and disadvantages of a school plan for a daily 30-minute outdoor break, then suggest how to change the plan so it works better in your own school.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "戶外日光可能減低近視風險（只係其中一個原因，唔係保證）",
+       "郁吓身，唔使成日坐喺書枱",
+       "真正離開書枱同螢幕休息，下晝上堂更精神",
+       "識其他班、其他級嘅同學",
+       "減壓；有機會面對面講笑傾偈",
+       "放學從來唔出街嘅同學都有戶外時間"
+      ],
+      "materialLinks": [
+       "this may help to prevent or delay short-sightedness",
+       "a break from desks and screens will help students stay alert and focused in afternoon lessons",
+       "84 of the 140 students who took part said they felt more alert after the break",
+       "I got to know students from other classes for the first time"
+      ],
+      "ideasEn": [
+       "daylight outdoors may lower the risk of short-sightedness (only one reason, not a promise)",
+       "moving around instead of sitting at a desk all day",
+       "a real rest from desks and screens; feel fresher in afternoon lessons",
+       "make friends with students from other classes and forms",
+       "less stress; a chance to laugh and chat face to face",
+       "students who never go out after school get some outdoor time"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "天氣熱：出汗、曬傷，下一堂好攰",
+       "落雨：幾百個同學迫喺細細嘅有蓋地方",
+       "放學遲咗，撞正補課、學會活動或者返屋企時間",
+       "老師要額外時間看管；打波時嘅安全",
+       "唔鍾意運動嘅同學覺得被迫，或者坐低玩手機",
+       "午飯時間短咗，要食得好趕"
+      ],
+      "materialLinks": [
+       "Thirty-one of the 140 students said they felt too hot and sweaty to concentrate afterwards",
+       "lunch would be 15 minutes shorter and school would finish 15 minutes later",
+       "My son has music lessons straight after school, so this would change our whole family routine",
+       "how to supervise about 900 students on rainy days, when everyone would have to share one small covered playground"
+      ],
+      "ideasEn": [
+       "hot weather: sweating, sunburn, feeling tired in the next lesson",
+       "rainy days: hundreds of students crowded into a small covered area",
+       "school finishes later, which clashes with lessons, clubs or travel home",
+       "teachers need extra time to look after students; safety during ball games",
+       "students who dislike sport may feel forced or just sit and use phones",
+       "a shorter lunch: students have to eat in a rush"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "分成兩段短啲嘅小息，例如用埋小息時間，準時放學",
+       "改喺朝早，比較涼",
+       "各級輪流唔同日子出去，避免迫",
+       "畀選擇：打波、散步、陰涼嘅靜角落",
+       "熱天或者落雨就喺禮堂做伸展或者遊戲",
+       "試一個學期，再問學生同家長意見"
+      ],
+      "materialLinks": [
+       "They could play ball games, walk around or simply chat with friends.",
+       "The school will make a final decision after collecting more views."
+      ],
+      "ideasEn": [
+       "split it into two shorter breaks, e.g. use recess time, so school ends on time",
+       "move the break to the morning when it is cooler",
+       "let forms take turns on different days to avoid crowding",
+       "give choices: ball games, walking, a quiet shady corner",
+       "indoor stretching or games in the hall on hot or rainy days",
+       "try it for one term and ask students and parents again"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "outdoors",
+      "note": "out-DOORS；喺戶外",
+      "noteEn": "out-DOORS; outside, not in a building"
+     },
+     {
+      "word": "principal",
+      "note": "PRIN-ci-pal；校長（同 principle 同音，但意思唔同）",
+      "noteEn": "PRIN-ci-pal; the head of a school (sounds the same as 'principle' but means something different)"
+     },
+     {
+      "word": "short-sightedness",
+      "note": "short-SIGHT-ed-ness，主重音喺 SIGHT，gh 唔發音；近視",
+      "noteEn": "short-SIGHT-ed-ness, main stress on SIGHT, 'gh' is silent; not being able to see far things clearly"
+     },
+     {
+      "word": "recommends",
+      "note": "rec-om-MENDS；建議",
+      "noteEn": "rec-om-MENDS; suggests"
+     },
+     {
+      "word": "Department of Health",
+      "note": "de-PART-ment of HEALTH；衞生署",
+      "noteEn": "de-PART-ment of HEALTH; the government department for public health"
+     },
+     {
+      "word": "concentrate",
+      "note": "CON-cen-trate；集中精神",
+      "noteEn": "CON-cen-trate; to focus your attention"
+     },
+     {
+      "word": "sweaty",
+      "note": "SWET-ty，ea 讀短音 e；出晒汗",
+      "noteEn": "SWET-ty, 'ea' is a short e; covered in sweat"
+     },
+     {
+      "word": "covered playground",
+      "note": "CUV-ered PLAY-ground；有蓋操場",
+      "noteEn": "CUV-ered PLAY-ground; a playground with a roof"
+     },
+     {
+      "word": "supervise",
+      "note": "SOO-per-vise；看管、監督",
+      "noteEn": "SOO-per-vise; to watch over people to keep them safe"
+     },
+     {
+      "word": "alert",
+      "note": "a-LERT；精神、醒神",
+      "noteEn": "a-LERT; awake and paying attention"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講做乜同喺邊度",
+       "講同邊個一齊"
+      ],
+      "pointsEn": [
+       "describe what you do and where",
+       "say who you spend it with"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講一部分，例如一堂或者小息",
+       "講原因同例子"
+      ],
+      "pointsEn": [
+       "name one part, e.g. a lesson or recess",
+       "give a reason with an example"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "夜瞓或者日子長而攰",
+       "堂悶或者手機喺身邊",
+       "建議一個幫到嘅方法"
+      ],
+      "pointsEn": [
+       "tired from late nights or long days",
+       "boring lessons or phones nearby",
+       "suggest one way to help"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "清楚講係定唔係",
+       "講放學後功課同活動",
+       "同空閒時間或者休息比較"
+      ],
+      "pointsEn": [
+       "give a clear yes or no",
+       "mention homework and activities after school",
+       "compare with free time or rest"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "學生受影響最大",
+       "學生未必睇到全局",
+       "建議點樣收集意見"
+      ],
+      "pointsEn": [
+       "students are affected most",
+       "students may not see the whole picture",
+       "suggest how to collect views"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "多啲朋友、團隊合作能力",
+       "學會同運動令唔同班走埋一齊",
+       "舉個人例子"
+      ],
+      "pointsEn": [
+       "more friends, more teamwork skills",
+       "clubs and sports bring classes together",
+       "give a personal example"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "清楚揀一邊",
+       "午飯長啲：休息、傾偈",
+       "早啲放學：放學後多啲時間"
+      ],
+      "pointsEn": [
+       "choose one side clearly",
+       "longer lunch: rest and chat",
+       "finish earlier: more free time after school"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "多咗時間留喺有冷氣嘅室內",
+       "戶外活動或者工作時間會改",
+       "清楚預測並講原因"
+      ],
+      "pointsEn": [
+       "more time indoors with air-conditioning",
+       "changes to outdoor events or work hours",
+       "give a clear prediction with a reason"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "只講好處或者只講壞處，冇兩邊都講",
+     "成組淨係講近視，冇講郁動、精神、交朋友等其他好處",
+     "將衞生署「每日最少兩小時」講成學校計劃要學生出去兩小時（計劃係 30 分鐘）",
+     "講到戶外時間「一定」可以防近視，講得太絕對",
+     "第三點淨係話「取消計劃」，冇講點樣改",
+     "讀錯 short-sightedness、concentrate"
+    ],
+    "pitfallsEn": [
+     "Only giving advantages or only disadvantages, not both",
+     "The whole group only talks about short-sightedness and leaves out other benefits like exercise, alertness and making friends",
+     "Saying the school plan makes students go out for two hours, mixing it up with the Department of Health's 'at least two hours a day' (the plan is 30 minutes)",
+     "Saying outdoor time will definitely prevent short-sightedness, which is too absolute",
+     "Point 3 only says 'cancel the plan' without saying how to change it",
+     "Mispronouncing 'short-sightedness' or 'concentrate'"
+    ]
+   },
+   "no": 15,
+   "pdf": "speaking/ENG4-006_1.3.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-007",
+   "code": "1.1",
+   "title": "Should You Share Your Live Location with Friends?",
+   "partA": {
+    "sourceIntro": "These posts appeared on an online forum for Hong Kong teenagers:",
+    "title": "Should You Share Your Live Location with Friends?",
+    "text": "skyblue_07 wrote:\nMy friends have started a chat group where everyone shares their live location all the time, so right now I can see that Jas is at the public library in Tsuen Wan and Ken is still stuck on the bus. It looks like fun, but my older brother says it's a terrible idea. Should I join?\n\nmangotart wrote:\nI've been doing it for a year and I find it really convenient. When we arrange to meet, nobody has to send \"Where are you?\" twenty times. My parents also feel more relaxed on hiking days, because they know my friends could find me if I got lost.\n\nK_Lau wrote:\nIt sounds useful, but it caused a serious argument in my group. One girl noticed that three of us were at a café without her, and she felt left out for weeks. Now I feel I have to explain every single place I go.\n\npingpong_queen wrote:\nRemember to think about safety and privacy as well. Anyone who can see your location knows exactly where you live and which way you walk home every evening. If you decide to join, only share with close friends, and switch it off whenever you need some personal space. It drains your battery quickly, too!\n\nbubbletea_boy wrote:\nHonestly, if you trust your friends, why would you need to check on them all day?\n\nForum poll (230 votes): Do you share your live location with friends?\nYes, all the time: 21%\nOnly when we are meeting up: 46%\nNever: 33%",
+    "visual": null,
+    "scenario": "Your class is discussing how teenagers use their phones to keep in touch with friends. Your group has been asked to discuss the advantages and disadvantages of sharing your live location with friends, and to suggest some rules for doing it.",
+    "prompts": [
+     "why some teenagers share their live location with friends",
+     "what problems location sharing can cause in friendships",
+     "what rules friends should agree on before sharing their location",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Do you usually tell your friends where you are when you go out?",
+     "How do you normally keep in touch with your friends after school?",
+     "Do you feel upset if a friend does not reply to your message quickly?",
+     "Do you think it is OK to check where a friend is without asking them first?",
+     "Why do some teenagers turn off their phones on purpose?",
+     "Do you think it is harder to keep secrets nowadays?",
+     "Which is more important in a friendship: trust or spending time together?",
+     "Will people care less about privacy in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-007_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-007_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-007_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-007_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "sharing live location with friends on phones",
+    "topicArea": "Youth & Lifestyle",
+    "textType": "online forum posts",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": true,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要討論同朋友分享手機實時位置嘅好處同壞處。要兩面都講：方便約人、安全感，對比私隱、安全風險、令朋友之間有壓力或者妒忌；最後講分享之前應該同朋友講好啲咩規則。",
+    "taskFocusEn": "Your group is discussing the advantages and disadvantages of sharing your live location with friends. Cover both sides: convenience and feeling safe, but also privacy, safety risks and pressure or jealousy among friends. Finish with rules friends should agree on before sharing.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "約見面唔使不停問「你喺邊」，慳時間",
+       "去行山或者夜晚返屋企時，朋友知道你喺邊會安心啲",
+       "父母知道朋友搵得到自己，會比較放心",
+       "覺得同朋友更親近、好似一齊生活咁，幾好玩",
+       "見到朋友喺附近可以臨時約出嚟"
+      ],
+      "ideasEn": [
+       "You don't need to keep asking \"Where are you?\" when you meet",
+       "Friends know where you are when you hike or go home late",
+       "Parents feel more relaxed if friends can find you",
+       "It feels fun and makes friends feel closer",
+       "You can meet up when you see a friend nearby"
+      ],
+      "materialLinks": [
+       "nobody has to send \"Where are you?\" twenty times",
+       "they know my friends could find me if I got lost"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "朋友見到自己冇被約，會覺得被排擠、妒忌",
+       "覺得要解釋自己去咗邊，冇晒私人空間",
+       "陌生人或者唔熟嘅人知道你住邊、行邊條路返屋企，好危險",
+       "好似互相監視，反映朋友之間唔夠信任",
+       "手機好快冇電",
+       "分享嘅人自己都可能無意中將朋友位置講畀外人知，好似第一個帖咁"
+      ],
+      "ideasEn": [
+       "A friend may feel left out or jealous",
+       "You feel you must explain where you go and lose personal space",
+       "People can learn where you live and your way home",
+       "It feels like checking on each other, which shows a lack of trust",
+       "It drains your phone battery quickly",
+       "You may tell others where friends are without thinking, like the first post"
+      ],
+      "materialLinks": [
+       "she felt left out for weeks",
+       "Now I feel I have to explain every single place I go",
+       "knows exactly where you live and which way you walk home",
+       "if you trust your friends, why would you need to check on them all day?",
+       "right now I can see that Jas is at the public library in Tsuen Wan"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "只同好熟、信得過嘅朋友分享",
+       "淨係約見面嗰陣先開，平時熄咗佢",
+       "大家講好唔好用位置嚟質問人或者揶揄人",
+       "要私人時間可以隨時熄，唔使解釋",
+       "唔好將截圖轉發畀其他人"
+      ],
+      "ideasEn": [
+       "Only share with close friends you trust",
+       "Turn it on only when you are meeting up",
+       "Agree not to use locations to question or tease people",
+       "Anyone can switch it off without explaining",
+       "Never send screenshots of someone's location to others"
+      ],
+      "materialLinks": [
+       "only share with close friends, and switch it off whenever you need some personal space",
+       "Only when we are meeting up: 46%"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "location",
+      "note": "重音：lo-CAY-shun；位置",
+      "noteEn": "lo-CAY-shun; the place where someone is"
+     },
+     {
+      "word": "privacy",
+      "note": "重音：PRIV-uh-see（英式）；私隱",
+      "noteEn": "PRIV-uh-see (British); keeping your personal life to yourself"
+     },
+     {
+      "word": "convenient",
+      "note": "重音：con-VEE-nee-ent；方便",
+      "noteEn": "con-VEE-nee-ent; easy and useful"
+     },
+     {
+      "word": "argument",
+      "note": "重音：AR-gyu-ment；爭拗、吵交",
+      "noteEn": "AR-gyu-ment; an angry disagreement"
+     },
+     {
+      "word": "battery",
+      "note": "重音：BAT-uh-ree；電池",
+      "noteEn": "BAT-uh-ree; the part that powers your phone"
+     },
+     {
+      "word": "café",
+      "note": "重音：CAF-ay（英式）；咖啡室",
+      "noteEn": "CAF-ay (British); a small coffee shop"
+     },
+     {
+      "word": "forum",
+      "note": "重音：FOR-um；網上討論區",
+      "noteEn": "FOR-um; a website where people post and reply"
+     },
+     {
+      "word": "poll",
+      "note": "讀 POLE（同 pole 一樣）；投票、民意調查",
+      "noteEn": "POLE (sounds like pole); a quick vote to see what people think"
+     },
+     {
+      "word": "drains",
+      "note": "讀 DRAYNZ；（電）耗得好快",
+      "noteEn": "DRAYNZ; uses up power quickly"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "會唔會主動講、點講（訊息、相）",
+       "講或者唔講嘅原因"
+      ],
+      "pointsEn": [
+       "Whether and how you tell them",
+       "Why you do or do not"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "通訊 app、打電話、打機時傾",
+       "一日聯絡幾多次、傾咩"
+      ],
+      "pointsEn": [
+       "Messaging apps, calls or online games",
+       "How often and what you talk about"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "會唔會諗多咗",
+       "可能原因：忙、冇電、唔想覆"
+      ],
+      "pointsEn": [
+       "Whether you worry about it",
+       "Possible reasons: busy, no battery, needs space"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "關心朋友 vs 唔尊重私隱",
+       "應該先問，對方同意先睇"
+      ],
+      "pointsEn": [
+       "Caring about a friend versus respecting privacy",
+       "Ask first, and check only if they agree"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "想專心溫書或者休息",
+       "唔想即刻覆人，減少壓力"
+      ],
+      "pointsEn": [
+       "To focus on studying or to rest",
+       "To avoid replying at once and feel less stressed"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "社交媒體、相片、定位令資料好易傳開",
+       "但人仍然可以揀分享啲咩"
+      ],
+      "pointsEn": [
+       "Posts, photos and locations spread easily",
+       "People can still choose what to share"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "揀一樣，講清楚原因",
+       "舉一個朋友之間嘅例子"
+      ],
+      "pointsEn": [
+       "Choose one and explain clearly",
+       "Give an example from a friendship"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "年輕一代慣咗分享，可能唔太在意",
+       "資料外洩多咗，可能更加小心"
+      ],
+      "pointsEn": [
+       "Young people are used to sharing online",
+       "More data leaks may make people careful"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講好處或者淨係講壞處，冇兩面比較",
+     "逐個讀論壇帖，冇加自己意見或者例子",
+     "將題目講成「父母監察子女」，偏離咗朋友之間分享",
+     "第三點只講「要小心」，冇講具體規則"
+    ],
+    "pitfallsEn": [
+     "Only talking about advantages or only disadvantages",
+     "Reading out the forum posts one by one without own ideas or examples",
+     "Turning the topic into parents watching their children instead of sharing among friends",
+     "Saying only \"be careful\" for the last point without giving real rules"
+    ]
+   },
+   "no": 16,
+   "pdf": "speaking/ENG4-007_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-007",
+   "code": "1.2",
+   "title": "The Gift Swap That Went Wrong",
+   "partA": {
+    "sourceIntro": "This blog post appeared on a website for secondary school students:",
+    "title": "The Gift Swap That Went Wrong",
+    "text": "Every December, my class holds a gift swap at our Christmas party. Everyone pulls a classmate's name out of a box and buys that person a present. It sounds harmless, doesn't it? Last year, it turned into a small disaster.\n\nBecause there was no budget, the presents were completely different in value. One lucky boy received wireless earphones worth about HK$700, while the girl whose name I drew got a HK$15 keyring from me. I saw the disappointment on her face and felt embarrassed, but it was honestly all I could afford that week.\n\nGift-giving had turned into a contest. Several classmates spent whole afternoons in shopping malls searching for something \"good enough\", and a few even borrowed money from their parents. By the end of the party, the bin was overflowing with wrapping paper, and at least six unwanted gifts were left behind on desks.\n\nThis year, our class teacher has asked us to design a fairer system. Here are some suggestions so far:\n- a maximum price of HK$80\n- a wish list of three ideas from every student\n- handmade or second-hand gifts only\n- as well as the swap, an old toy or book from everyone for a charity\n\nNot everyone is convinced. My friend Derek believes a budget takes the fun out of the swap. \"With only HK$80, everyone will buy the same boring snacks and stationery,\" he argues. Maybe he has a point, but a gift should be a kind act, not a race to spend more. I would rather have a fair swap than an expensive one.",
+    "visual": null,
+    "scenario": "Your class is also holding a gift swap at its Christmas party this year. Your group has been asked to plan how the gift swap should work.",
+    "prompts": [
+     "why gift swaps can cause problems for students",
+     "what rules your class's gift swap should have",
+     "how to make the gift swap fun and meaningful for everyone",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Do you enjoy choosing presents for other people?",
+     "What is the best present you have ever received?",
+     "Have you ever made a gift for someone?",
+     "Why do some people spend a lot of money on gifts?",
+     "Do you think it is rude to give money as a gift?",
+     "Should students give presents to their teachers?",
+     "Which is better: a surprise gift or a gift from a wish list?",
+     "Do you think people give too many gifts nowadays?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-007_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-007_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-007_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-007_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "planning a fair class gift swap and spending on presents",
+    "topicArea": "Consumer",
+    "textType": "blog post",
+    "taskType": "plan an event or campaign",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要為班上聖誕派對嘅交換禮物定計劃：先講點解交換禮物會出問題（價錢差太遠、壓力、浪費），再定規則（價錢上限、願望清單、手作或二手、交換之外另外捐舊玩具或書），最後諗點樣令活動好玩又有意義，照顧唔同經濟能力嘅同學。",
+    "taskFocusEn": "Your group is planning how your class's Christmas gift swap should work. Explain why gift swaps cause problems (very different prices, pressure, waste), decide on rules (price limit, wish lists, handmade or second-hand gifts, an extra old toy or book for charity), and suggest ways to make it fun and meaningful for every student.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "禮物價錢差太遠，收平嘢嘅人會失望，送嘅人會尷尬",
+       "有啲同學負擔唔起，甚至要問屋企人借錢",
+       "變咗比較、鬥貴，壓力大",
+       "花好多時間行街揀禮物",
+       "收到唔啱用嘅嘢，最後浪費、包裝紙又多"
+      ],
+      "ideasEn": [
+       "Gifts are so different in price that people feel disappointed or embarrassed",
+       "Some students can't afford it and borrow money",
+       "It becomes a competition, which brings pressure",
+       "It takes a lot of time to find a gift",
+       "Unwanted gifts and wrapping paper are wasted"
+      ],
+      "materialLinks": [
+       "One lucky boy received wireless earphones worth about HK$700",
+       "a few even borrowed money from their parents",
+       "Gift-giving had turned into a contest",
+       "the bin was overflowing with wrapping paper"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "定價錢上限，例如 HK$80，人人公平",
+       "唔止定上限，定一個價錢範圍，照顧負擔唔起嘅同學（好似作者咁）",
+       "每人寫三個願望，送禮嘅人喺入面揀，免得送錯嘢",
+       "容許或者規定送手作或二手禮物",
+       "交換之外，每人另外帶一件舊玩具或者書捐畀慈善機構",
+       "唔好用包裝紙，或者用舊報紙、可重用袋"
+      ],
+      "ideasEn": [
+       "Set a price limit such as HK$80 so it is fair",
+       "Set a price range, not just a maximum, so students who can't afford much are not left out",
+       "Everyone lists three ideas for the giver to choose from",
+       "Allow or require handmade or second-hand gifts",
+       "As well as the swap, everyone gives an old toy or book to charity",
+       "Use less wrapping paper or reusable bags"
+      ],
+      "materialLinks": [
+       "a maximum price of HK$80",
+       "a wish list of three ideas from every student",
+       "handmade or second-hand gifts only",
+       "as well as the swap, an old toy or book from everyone for a charity",
+       "it was honestly all I could afford that week"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "保持神秘感：唔講邊個送畀邊個，派對先揭曉",
+       "加主題，例如「一樣令你笑嘅嘢」，考創意唔考錢，唔會人人都買同一款零食",
+       "每份禮物附一張親筆心意卡",
+       "玩遊戲形式交換，例如抽號碼、可以「搶」禮物",
+       "捐贈嘅舊玩具同書全班一齊去送，令大家覺得有意義"
+      ],
+      "ideasEn": [
+       "Keep it secret until the party to keep the surprise",
+       "Add a theme like \"something that makes you smile\" so gifts are not all snacks",
+       "Add a handwritten card to every gift",
+       "Swap gifts with a game, like drawing numbers",
+       "Deliver the old toys and books to the charity together"
+      ],
+      "materialLinks": [
+       "everyone will buy the same boring snacks and stationery",
+       "a gift should be a kind act, not a race to spend more"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "budget",
+      "note": "重音：BUJ-it；預算",
+      "noteEn": "BUJ-it; the amount of money you can spend"
+     },
+     {
+      "word": "disaster",
+      "note": "重音：di-ZAH-ster；災難、搞砸咗嘅事",
+      "noteEn": "di-ZAH-ster; something that goes very badly"
+     },
+     {
+      "word": "disappointment",
+      "note": "重音：dis-uh-POINT-ment；失望",
+      "noteEn": "dis-uh-POINT-ment; sadness when something is not as good as hoped"
+     },
+     {
+      "word": "embarrassed",
+      "note": "重音：im-BA-rust；尷尬",
+      "noteEn": "im-BA-rust; feeling shy or uncomfortable"
+     },
+     {
+      "word": "wireless",
+      "note": "重音：WIRE-less；無線",
+      "noteEn": "WIRE-less; with no wires"
+     },
+     {
+      "word": "second-hand",
+      "note": "重音：sek-und-HAND（主重音喺 HAND；放喺名詞前，例如 second-hand gifts，多數讀 SEK-und-hand）；二手",
+      "noteEn": "sek-und-HAND (main stress on HAND; before a noun, as in second-hand gifts, often SEK-und-hand); used before by someone else"
+     },
+     {
+      "word": "charity",
+      "note": "重音：CHA-ri-tee；慈善機構",
+      "noteEn": "CHA-ri-tee; a group that helps people in need"
+     },
+     {
+      "word": "stationery",
+      "note": "重音：STAY-shun-ree；文具",
+      "noteEn": "STAY-shun-ree; pens, notebooks and other things for writing"
+     },
+     {
+      "word": "convinced",
+      "note": "重音：con-VINST；信服、認同",
+      "noteEn": "con-VINST; sure that something is right"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "鍾唔鍾意、點解（花心機 vs 頭痛）",
+       "通常點揀：問人、睇對方興趣"
+      ],
+      "pointsEn": [
+       "Whether you like it and why",
+       "How you choose: ask, think about hobbies"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "係咩禮物、邊個送",
+       "點解特別：有心思、實用、回憶"
+      ],
+      "pointsEn": [
+       "What it was and who gave it",
+       "Why it was special: thoughtful, useful, memories"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "做過咩：卡、手繩、曲奇",
+       "對方反應；冇做過就講想做咩"
+      ],
+      "pointsEn": [
+       "What you made: cards, bracelets, cookies",
+       "Their reaction, or what you would make"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "想表達重視、想留好印象",
+       "面子、怕被比較"
+      ],
+      "pointsEn": [
+       "To show they care or impress others",
+       "Pride or fear of looking cheap"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "實用、對方自己揀",
+       "似冇花心機；但利是係香港傳統"
+      ],
+      "pointsEn": [
+       "Useful and the person can choose",
+       "Seems less thoughtful, but red packets are a tradition"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "表達謝意 vs 對其他同學唔公平",
+       "可以改寫心意卡",
+       "學校可能有收禮規定"
+      ],
+      "pointsEn": [
+       "Saying thank you versus fairness to others",
+       "A card may be better than a gift",
+       "Schools may have rules on gifts"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "驚喜：有新鮮感、拆嗰下開心",
+       "願望清單：實用、唔會浪費，但冇驚喜"
+      ],
+      "pointsEn": [
+       "Surprise: exciting and fun to open",
+       "Wish list: useful and no waste, but less exciting"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "節日、商場推廣多，買多咗",
+       "浪費同壓力；但送禮可以維繫關係"
+      ],
+      "pointsEn": [
+       "Festivals and shop promotions push people to buy",
+       "Waste and pressure, but gifts keep friendships"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "將題目講成「應唔應該交換禮物」嘅辯論，冇真係定規則",
+     "照讀 blog 嘅四個建議，冇講揀邊個、點解",
+     "第三點只重複第二點嘅規則，冇講點樣令活動好玩",
+     "講到批評收平禮物嘅同學，語氣唔尊重",
+     "將捐舊玩具嘅建議講成取消交換禮物"
+    ],
+    "pitfallsEn": [
+     "Debating whether to have a gift swap at all instead of planning the rules",
+     "Reading out the four suggestions without choosing or explaining",
+     "Repeating the rules for the last point instead of ways to make it fun",
+     "Speaking unkindly about students who gave cheap gifts",
+     "Treating the charity idea as cancelling the gift swap"
+    ]
+   },
+   "no": 17,
+   "pdf": "speaking/ENG4-007_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-007",
+   "code": "1.3",
+   "title": "Sharing the Ride: Good Habits on Buses and Trains",
+   "partA": {
+    "sourceIntro": "This list of tips appeared in an online magazine for teenagers:",
+    "title": "Sharing the Ride: Good Habits on Buses and Trains",
+    "text": "Every morning, thousands of students squeeze onto Hong Kong's buses and trains. We asked 380 readers which habit annoyed them most: 41% chose loud phone calls and 27% chose people blocking the doors. Here are our tips.\n\n1. Let people off first\nStand beside the doors and wait for passengers to get off before you get on.\n\n2. Take off your backpack\nOn a packed train, a big school bag can hit the people behind you. Hold it or put it down by your feet.\n\n3. Keep your voice down\nUse earphones for music and videos, and keep phone calls short. As one reader put it, \"Nobody needs to hear about your dinner plans.\"\n\n4. Think about the priority seats\nThese seats are for people in need, such as older people, pregnant women, people with disabilities and passengers with babies. Even in an ordinary seat, offer it to someone who needs it more. Not everyone agrees, though. \"After eight lessons and football practice, I'm exhausted too,\" says Owen, a Form 5 student. \"Why should students always stand?\"\n\n5. Save your snacks for later\nEating and drinking are not allowed inside the paid areas of MTR stations, and that includes the trains. Nobody enjoys the smell of curry fish balls in a crowded carriage.\n\n6. Stand right, walk left?\nMany people in Hong Kong stand on the right of escalators so that people in a hurry can walk on the left. However, for safety reasons, the MTR asks passengers to hold the handrail, stand on both sides and not walk at all. \"But then I'll miss my train!\" one reader complained.",
+    "visual": null,
+    "scenario": "The magazine has invited secondary school students to send in their views on these tips for its next issue. Your group has been asked to discuss the tips and prepare a reply.",
+    "prompts": [
+     "why some passengers do not follow these tips",
+     "which tips you agree with and which ones you would change",
+     "what other advice young passengers need",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "How do you usually get to school?",
+     "Have you ever given up your seat to someone on a bus or train?",
+     "Has another passenger ever annoyed you?",
+     "Do you think teenagers should always give up their seats to older people?",
+     "Why do some people talk loudly on the phone in public places?",
+     "Is it OK to ask a stranger to keep their voice down?",
+     "Which is better on an escalator: standing still or walking?",
+     "Should people follow a habit just because everyone else does?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-007_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-007_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-007_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-007_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "good habits and manners on Hong Kong's buses and trains",
+    "topicArea": "Culture & Tradition",
+    "textType": "list of tips",
+    "taskType": "give opinions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "網上雜誌邀請中學生就六個搭車禮儀貼士投稿講意見。小組要講點解有啲乘客唔跟，邊啲貼士同意、邊啲會改（例如讓座、扶手電梯企右行左），再補充年輕乘客仲需要嘅其他建議。",
+    "taskFocusEn": "A magazine has asked secondary students to send in their views on its six tips for public transport. Discuss why some passengers do not follow them, which tips you agree with and which you would change (for example giving up seats and walking on escalators), and what other advice young passengers need.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "趕時間、驚趕唔切車，所以喺扶手電梯行、擠喺門口",
+       "返學放學好攰，想坐低",
+       "習慣咗，例如人人都企右行左，自己跟住做",
+       "唔覺得自己阻到人，例如背囊撞到後面嘅人都唔知",
+       "專心睇手機、戴住耳機，冇留意身邊嘅人",
+       "唔知道有規定，例如唔知車站付費區同車廂唔准飲食"
+      ],
+      "ideasEn": [
+       "They are in a hurry and afraid of missing the train",
+       "They are tired after school and want to sit down",
+       "It is a habit, like standing right and walking left",
+       "They don't notice their bags are hitting people",
+       "They are busy with phones and earphones",
+       "They don't know the rules, like no eating on trains"
+      ],
+      "materialLinks": [
+       "so that people in a hurry can walk on the left",
+       "I'm exhausted too",
+       "\"But then I'll miss my train!\" one reader complained",
+       "a big school bag can hit the people behind you"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "先落後上好合理，唔讓人落車，大家都上唔到",
+       "除背囊、細聲講電話好容易做到，唔使改",
+       "讓座要睇情況：學生都會攰，但長者、孕婦更有需要",
+       "「連普通座位都要讓」可以改做「見到有需要就讓」，唔好要求太高",
+       "扶手電梯唔行比較安全，但趕時間嘅人未必同意",
+       "唔准飲食係港鐵規定，一定要跟；但連飲水都唔得，有人覺得太嚴"
+      ],
+      "ideasEn": [
+       "Letting people off first is fair, or nobody can get on",
+       "Taking off backpacks and talking quietly are easy, so keep them",
+       "Giving up seats depends: students get tired, but older people need seats more",
+       "Change \"ordinary seats too\" to \"offer a seat when someone clearly needs it\"",
+       "Not walking on escalators is safer, but people in a hurry may disagree",
+       "The eating ban is a rule, but some think banning water is too strict"
+      ],
+      "materialLinks": [
+       "wait for passengers to get off before you get on",
+       "Even in an ordinary seat, offer it to someone who needs it more",
+       "Why should students always stand?",
+       "the MTR asks passengers to hold the handrail, stand on both sides and not walk at all",
+       "Eating and drinking are not allowed inside the paid areas of MTR stations"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "喺巴士站、月台排隊，唔好打尖",
+       "唔好將袋放喺空位，霸住個位",
+       "入到車廂行入啲，唔好企喺門口",
+       "上車前準備好八達通，唔好阻住後面",
+       "見到有人唔舒服或者迷路，可以問佢要唔要幫手",
+       "落車時唔好望住手機行，小心身邊嘅人"
+      ],
+      "ideasEn": [
+       "Queue at bus stops and on platforms",
+       "Don't put your bag on an empty seat",
+       "Move inside the carriage instead of standing by the doors",
+       "Have your Octopus card ready before you get on",
+       "Ask if someone who looks unwell or lost needs help",
+       "Don't look at your phone while getting off"
+      ],
+      "materialLinks": [
+       "27% chose people blocking the doors",
+       "Hold it or put it down by your feet"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "priority",
+      "note": "重音：pry-OR-uh-tee（重音喺第二音節）；優先",
+      "noteEn": "pry-OR-uh-tee, stress on the 2nd syllable; being first or more important"
+     },
+     {
+      "word": "pregnant",
+      "note": "重音：PREG-nunt；懷孕",
+      "noteEn": "PREG-nunt; going to have a baby"
+     },
+     {
+      "word": "disabilities",
+      "note": "重音：dis-uh-BIL-uh-teez；殘疾、身體有障礙",
+      "noteEn": "dis-uh-BIL-uh-teez; conditions that make some things hard to do"
+     },
+     {
+      "word": "ordinary",
+      "note": "重音：OR-din-ree（英式）；普通",
+      "noteEn": "OR-din-ree (British); normal, not special"
+     },
+     {
+      "word": "exhausted",
+      "note": "讀 ig-ZAW-stid（h 唔發音）；好攰",
+      "noteEn": "ig-ZAW-stid (silent h); very tired"
+     },
+     {
+      "word": "escalator",
+      "note": "重音：ES-kuh-lay-ter（重音喺第一音節）；扶手電梯",
+      "noteEn": "ES-kuh-lay-ter, stress on the 1st syllable; moving stairs"
+     },
+     {
+      "word": "handrail",
+      "note": "重音：HAND-rayl；扶手",
+      "noteEn": "HAND-rayl; the bar you hold on stairs or escalators"
+     },
+     {
+      "word": "carriage",
+      "note": "讀 KA-rij（兩個音節，唔係 car-ri-age）；車廂",
+      "noteEn": "KA-rij (two syllables, not car-ri-age); one part of a train"
+     },
+     {
+      "word": "passengers",
+      "note": "重音：PAS-in-jerz；乘客",
+      "noteEn": "PAS-in-jerz; people travelling on a bus or train"
+     },
+     {
+      "word": "annoyed",
+      "note": "讀 uh-NOYD（重音喺第二音節）；煩、激氣",
+      "noteEn": "uh-NOYD, stress on the 2nd syllable; a bit angry"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "步行、巴士、港鐵定小巴",
+       "要幾耐、路上做咩"
+      ],
+      "pointsEn": [
+       "Walking, bus, MTR or minibus",
+       "How long it takes and what you do"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "讓過畀邊個、當時咩情況",
+       "冇試過就講原因：冇座位、冇留意"
+      ],
+      "pointsEn": [
+       "Who you offered it to and when",
+       "If not, why: no seat or didn't notice"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "邊個、做咗咩：大聲講電話、擠喺門口",
+       "你當時點做：出聲定忍住"
+      ],
+      "pointsEn": [
+       "Who and what: loud calls, blocking doors",
+       "What you did: spoke up or kept quiet"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "長者較需要、表示尊重",
+       "但學生都會攰，要睇情況"
+      ],
+      "pointsEn": [
+       "Older people need seats more; it shows respect",
+       "But students get tired too; it depends"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "周圍嘈、聽唔清楚",
+       "冇意識到、習慣咗",
+       "有急事"
+      ],
+      "pointsEn": [
+       "It is noisy, so they can't hear well",
+       "They don't notice, or it is a habit",
+       "They have something urgent"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "可以，有禮貌咁講就得",
+       "驚對方嬲、起衝突，寧願走開"
+      ],
+      "pointsEn": [
+       "Yes, if you ask politely",
+       "Some fear an argument and just move away"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "企定：安全啲、唔易跌",
+       "行：快啲，趕時間有用"
+      ],
+      "pointsEn": [
+       "Standing: safer, fewer falls",
+       "Walking: faster when you are in a hurry"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "跟大家做可以減少混亂、衝突",
+       "但有啲習慣未必安全或者公平"
+      ],
+      "pointsEn": [
+       "Following others avoids confusion and conflict",
+       "But some habits are not safe or fair"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "逐條讀六個貼士，冇講自己同唔同意、點解",
+     "第二點淨係話「全部都啱」，冇講唔同意或者有保留嘅地方",
+     "將題目講成「應唔應該罰款」或者「港鐵應該點改」，偏離咗俾意見同補充建議",
+     "第三點重複材料六個貼士，冇講新建議",
+     "將 priority 重音讀喺第一音節、將 carriage 讀成三個音節"
+    ],
+    "pitfallsEn": [
+     "Reading out the six tips one by one without saying whether you agree and why",
+     "Saying all the tips are good for the second point, with nothing you disagree with",
+     "Turning the topic into fines or how the MTR should change, instead of giving views and extra advice",
+     "Repeating the six tips for the last point instead of giving new advice",
+     "Stressing priority on the first syllable or saying carriage with three syllables"
+    ]
+   },
+   "no": 18,
+   "pdf": "speaking/ENG4-007_1.3.pdf",
+   "pdfVer": 2
   }
  ]
 }
