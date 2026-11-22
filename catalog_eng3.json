@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": "ENG3-001",
+      "title": "Film and animation",
+      "theme": "Film and animation: a small Hong Kong stop-motion studio celebrates its tenth anniversary",
+      "examDate": "2026-11-22",
+      "examStartTime": "09:15",
+      "examEndTime": "12:10",
+      "pdfOpenHours": 14,
+      "dir": "eng3/ENG3-001",
+      "pdfs": {
+        "partA": "partA_qab.pdf",
+        "b1df": "partB1_datafile.pdf",
+        "b1qab": "partB1_qab.pdf",
+        "b2df": "partB2_datafile.pdf",
+        "b2qab": "partB2_qab.pdf",
+        "msA": "partA_markingscheme.pdf",
+        "msB": "partB_markingscheme.pdf",
+        "script": "tapescript.pdf"
+      },
+      "audio": "audio.mp3"
+    },
+    {
+      "id": "ENG3-002",
+      "title": "Photography",
+      "theme": "Photography: three friends at a Hong Kong photography festival (the Tidemark Photo Festival)",
+      "examDate": "2026-11-23",
+      "examStartTime": "09:15",
+      "examEndTime": "12:10",
+      "pdfOpenHours": 14,
+      "dir": "eng3/ENG3-002",
+      "pdfs": {
+        "partA": "partA_qab.pdf",
+        "b1df": "partB1_datafile.pdf",
+        "b1qab": "partB1_qab.pdf",
+        "b2df": "partB2_datafile.pdf",
+        "b2qab": "partB2_qab.pdf",
+        "msA": "partA_markingscheme.pdf",
+        "msB": "partB_markingscheme.pdf",
+        "script": "tapescript.pdf"
+      },
+      "audio": "audio.mp3"
+    }
+  ]
+}
