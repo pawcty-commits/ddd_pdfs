@@ -1,0 +1,67 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 丁部 生物工程",
+  "paperTitle": "Biology Mock — Paper 2 Section D Biotechnology",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 4,
+      "section": "P2D",
+      "categoryZh": "生物工程",
+      "categoryEn": "Biotechnology",
+      "difficultyGrade": 3,
+      "figureSpecId": null,
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "解釋為什麼要先以 PCR 擴增鱗片的 DNA。（2 分）",
+          "questionTextEn": "Explain why the DNA from the scales has to be amplified by PCR first. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考圖 1，解釋為什麼在樣本 S2 中，代表 11 個重複單位的帶比代表 14 個重複單位的帶離加樣孔較遠。（2 分）",
+          "questionTextEn": "With reference to Figure 1, explain why, in sample S2, the band representing 11 repeat units is further from the well than the band representing 14 repeat units. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "參考表 1，推論這 6 塊鱗片最少來自多少隻穿山甲，並解釋你的答案。（3 分）",
+          "questionTextEn": "With reference to Table 1, deduce the minimum number of pangolins from which these 6 scales came, and explain your answer. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iv)",
+          "questionTextZh": "有人認為只分析一個 STR 位點便足以判斷鱗片是否來自同一隻穿山甲。參考表 1 評論這說法。（3 分）",
+          "questionTextEn": "Someone claimed that analysing only one STR locus is enough to determine whether scales came from the same pangolin. Comment on this claim with reference to Table 1. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "以重組卵的數目計算，克隆的整體成功率（存活超過一年的個體）是多少？以百分率表示。（2 分）",
+          "questionTextEn": "Based on the number of reconstructed eggs, what is the overall success rate of cloning (individuals surviving for more than one year)? Express your answer as a percentage. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋為什麼必須先除去家牛卵的細胞核。（2 分）",
+          "questionTextEn": "Explain why the nucleus of the domestic cow egg must be removed first. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "克隆出來的野牛並非與捐出細胞核的野牛 E 完全一樣。提出兩個原因。（2 分）",
+          "questionTextEn": "The cloned ox is not completely identical to the wild ox E that donated the nucleus. Suggest two reasons. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "評價以體細胞核移植技術保育野牛 E。（4 分）",
+          "questionTextEn": "Evaluate the use of somatic cell nuclear transfer in conserving wild ox E. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    }
+  ]
+}

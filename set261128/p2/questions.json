@@ -1,0 +1,632 @@
+[
+ {
+  "questionNumber": 1,
+  "section": "sectionA",
+  "category": "立方和的因式分解/Factorizing a Sum of Two Cubes",
+  "questionText": "因式分解 $8x^{3}+27$ ，答案須為完全因式分解的形式。\nFactorize $8x^{3}+27$ , giving the answer in fully factorized form.",
+  "imageUrl": "q1.png",
+  "options": {
+   "A": "$(2x+3)\\left(4x^{2}+6x+9\\right)$",
+   "B": "$(2x+3)\\left(4x^{2}-6x+9\\right)$",
+   "C": "$(2x+3)^{3}$",
+   "D": "$(2x-3)\\left(4x^{2}+6x+9\\right)$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 2,
+  "section": "sectionA",
+  "category": "把球的體積公式中的半徑變為公式的主項/Making the Radius the Subject of the Volume Formula of a Sphere",
+  "questionText": "已知球的體積為 $V=\\dfrac{4}{3}\\pi r^{3}$ 。把 $r$ 變為這條公式的主項。\nThe volume of a sphere is $V=\\dfrac{4}{3}\\pi r^{3}$ . Make $r$ the subject of the formula.",
+  "imageUrl": "q2.png",
+  "options": {
+   "A": "$r=\\sqrt[3]{\\dfrac{4V}{3\\pi}}$",
+   "B": "$r=\\sqrt[3]{\\dfrac{3V}{4\\pi}}$",
+   "C": "$r=\\dfrac{3V}{4\\pi}$",
+   "D": "$r=\\sqrt[3]{\\dfrac{3V}{\\pi}}$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 3,
+  "section": "sectionA",
+  "category": "由量度值及準確度求相對誤差的百分率/The Relative Error as a Percentage from a Measurement and Its Accuracy",
+  "questionText": "一支鉛筆的長量得為 $12$ cm，準確至 $0.5$ cm。求相對誤差。\nThe length of a pencil is measured as $12$ cm, correct to the nearest $0.5$ cm. Find the relative error.",
+  "imageUrl": "q3.png",
+  "options": {
+   "A": "$2.08\\%$",
+   "B": "$4.17\\%$",
+   "C": "$4.50\\%$",
+   "D": "$8.33\\%$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 4,
+  "section": "sectionA",
+  "category": "與自變數的立方成正變並由一組數值求另一組/Direct Variation as a Cube: Finding a Value from a Given Pair",
+  "questionText": "已知 $y$ 與 $x^{3}$ 成正變。當 $x=2$ 時 $y=40$ 。求當 $x=3$ 時 $y$ 的值。\nIt is given that $y$ varies directly as $x^{3}$ . When $x=2$ , $y=40$ . Find the value of $y$ when $x=3$ .",
+  "imageUrl": "q4.png",
+  "options": {
+   "A": "$135$",
+   "B": "$180$",
+   "C": "$270$",
+   "D": "$360$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 5,
+  "section": "sectionA",
+  "category": "八進制數化成二進制數/Converting an Octal Number into a Binary Number",
+  "questionText": "把八進制數 $(365)_{8}$ 化成二進制數，答案須刪去最前面的零。\nConvert the octal number $(365)_{8}$ into a binary number, with the leading zeros removed.",
+  "imageUrl": "q5.png",
+  "options": {
+   "A": "$(11100101)_{2}$",
+   "B": "$(11110101)_{2}$",
+   "C": "$(11111001)_{2}$",
+   "D": "$(101110101)_{2}$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 6,
+  "section": "sectionA",
+  "category": "由兩種濃度的溶液混合成指定濃度求其中一種的體積/Mixing Two Solutions to a Given Concentration",
+  "questionText": "把濃度 $20\\%$ 及 $50\\%$ 的酒精溶液混合成 $600$ mL 濃度 $30\\%$ 的溶液。求所用 $20\\%$ 溶液的體積。\nSolutions of alcohol of concentrations $20\\%$ and $50\\%$ are mixed to form $600$ mL of a solution of concentration $30\\%$ . Find the volume of the $20\\%$ solution used.",
+  "imageUrl": "q6.png",
+  "options": {
+   "A": "$200$ mL",
+   "B": "$300$ mL",
+   "C": "$400$ mL",
+   "D": "$420$ mL"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 7,
+  "section": "sectionA",
+  "category": "由三角形的一個內角求另外兩個內角的平分線的交角/The Angle between Two Interior Angle Bisectors of a Triangle",
+  "questionText": "圖中，$BI$ 及 $CI$ 分別平分 $\\angle ABC$ 及 $\\angle ACB$ ，而它們相交於 $I$ 。已知 $\\angle BAC=64^{\\circ}$ 。在不求出另外兩個內角的情況下，求 $\\angle BIC$ 。\nIn the figure, $BI$ and $CI$ bisect $\\angle ABC$ and $\\angle ACB$ respectively and they intersect at $I$ . It is given that $\\angle BAC=64^{\\circ}$ . Find $\\angle BIC$ .",
+  "imageUrl": "q7.png",
+  "options": {
+   "A": "$58^{\\circ}$",
+   "B": "$96^{\\circ}$",
+   "C": "$116^{\\circ}$",
+   "D": "$122^{\\circ}$"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 8,
+  "section": "sectionA",
+  "category": "由兩個同心圓之間的環形的面積及外半徑反求內半徑/The Inner Radius of an Annulus from Its Area and Outer Radius",
+  "questionText": "圖中的環形花槽由兩個同心圓圍成，外半徑為 $7$ m 而花槽的面積為 $33\\pi$ $\\text{m}^{2}$。求內半徑。\nIn the figure, the annular planter is bounded by two concentric circles. The outer radius is $7$ m and the area of the planter is $33\\pi$ $\\text{m}^{2}$. Find the inner radius.",
+  "imageUrl": "q8.png",
+  "options": {
+   "A": "$3.5$ m",
+   "B": "$4$ m",
+   "C": "$4.5$ m",
+   "D": "$5$ m"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 9,
+  "section": "sectionA",
+  "category": "分數指數冪的求值/Evaluating a Power with a Fractional Index",
+  "questionText": "在不使用計算器的情況下，求 $16^{\\frac{3}{4}}$ 的值。\nWithout using a calculator, find the value of $16^{\\frac{3}{4}}$ .",
+  "imageUrl": "q9.png",
+  "options": {
+   "A": "$8$",
+   "B": "$12$",
+   "C": "$48$",
+   "D": "$64$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 10,
+  "section": "sectionA",
+  "category": "由一條二次方程的兩根求以兩根的倒數為根的方程/The Equation Whose Roots Are the Reciprocals of Given Roots",
+  "questionText": "設 $\\alpha$ 及 $\\beta$ 是方程 $x^{2}-5x+3=0$ 的兩個根。在不解該方程的情況下，求以 $\\dfrac{1}{\\alpha}$ 及 $\\dfrac{1}{\\beta}$ 為根的二次方程。\nLet $\\alpha$ and $\\beta$ be the roots of $x^{2}-5x+3=0$ . Find the quadratic equation whose roots are $\\dfrac{1}{\\alpha}$ and $\\dfrac{1}{\\beta}$ .",
+  "imageUrl": "q10.png",
+  "options": {
+   "A": "$3x^{2}-5x+1=0$",
+   "B": "$3x^{2}+5x+1=0$",
+   "C": "$x^{2}-3x+5=0$",
+   "D": "$5x^{2}-3x+1=0$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 11,
+  "section": "sectionA",
+  "category": "由連續兩次加價的總加幅反求第二次的加價百分率/Finding the Second Percentage Increase from the Overall Increase",
+  "questionText": "某貨品的售價先上調 $20\\%$ ，其後再上調 $p\\%$ ，結果售價比原價高出 $38\\%$ 。求 $p$ 的值。\nThe price of an article is first increased by $20\\%$ and then increased by $p\\%$ , so that the price is $38\\%$ higher than the original price. Find the value of $p$ .",
+  "imageUrl": "q11.png",
+  "options": {
+   "A": "$14$",
+   "B": "$15$",
+   "C": "$18$",
+   "D": "$20$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 12,
+  "section": "sectionA",
+  "category": "由半徑及切線長求半徑與圓心至圓外一點的連線所成的角/The Angle between a Radius and the Line Joining the Centre to an External Point",
+  "questionText": "圖中，$PT$ 是圓 $O$ 的切線而 $T$ 是切點。已知圓 $O$ 的半徑為 $6$ cm 及 $PT=6\\sqrt{3}$ cm。求 $\\angle TOP$ 。\nIn the figure, $PT$ is a tangent to the circle $O$ at the point of contact $T$ . It is given that the radius of the circle $O$ is $6$ cm and $PT=6\\sqrt{3}$ cm. Find $\\angle TOP$ .",
+  "imageUrl": "q12.png",
+  "options": {
+   "A": "$45^{\\circ}$",
+   "B": "$54^{\\circ}$",
+   "C": "$60^{\\circ}$",
+   "D": "$66^{\\circ}$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 13,
+  "section": "sectionA",
+  "category": "由等比級數的前三項之和及公比求首項/The First Term from the Sum of the First Three Terms and the Common Ratio",
+  "questionText": "某等比級數的公比為 $2$ ，而它的前 $3$ 項之和為 $42$ 。求這個級數的首項。\nThe common ratio of a geometric series is $2$ and the sum of its first $3$ terms is $42$ . Find the first term of the series.",
+  "imageUrl": "q13.png",
+  "options": {
+   "A": "$2$",
+   "B": "$3$",
+   "C": "$4$",
+   "D": "$6$"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 14,
+  "section": "sectionA",
+  "category": "含餘角關係與正切的三角式的化簡/Simplifying an Expression Involving a Complementary Angle and the Tangent",
+  "questionText": "化簡 $\\sin\\left(90^{\\circ}-\\theta\\right)\\tan\\theta$ ，答案只可以一個三角比表示，其中 $\\theta$ 為一個銳角。\nSimplify $\\sin\\left(90^{\\circ}-\\theta\\right)\\tan\\theta$ , expressing the answer as a single trigonometric ratio, where $\\theta$ is an acute angle.",
+  "imageUrl": "q14.png",
+  "options": {
+   "A": "$\\sin\\theta$",
+   "B": "$\\cos\\theta$",
+   "C": "$\\tan\\theta$",
+   "D": "$\\dfrac{1}{\\cos\\theta}$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 15,
+  "section": "sectionA",
+  "category": "由兩車相向而行的速率及兩地距離求相遇所需的時間/The Time for Two Cars Travelling towards Each Other to Meet",
+  "questionText": "兩地相距 $420$ km。甲車及乙車同時由兩地相向出發，速率分別為每小時 $75$ km 及 $65$ km。求相遇所需的時間。\nTwo places are $420$ km apart. Car A and car B start from the two places at the same time and travel towards each other at $75$ km/h and $65$ km/h respectively. Find the time taken for the two cars to meet.",
+  "imageUrl": "q15.png",
+  "options": {
+   "A": "$3$ 小時",
+   "B": "$3.2$ 小時",
+   "C": "$5.6$ 小時",
+   "D": "$6.5$ 小時"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 16,
+  "section": "sectionA",
+  "category": "由線段的兩個端點求它的垂直平分線的方程/The Equation of the Perpendicular Bisector of a Segment",
+  "questionText": "圖中，$A(-1,3)$ 及 $B(5,7)$ 是坐標平面上的兩點。求與 $A$ 及 $B$ 等距的所有點所成的直線的方程，答案以一般式表示。\nIn the figure, $A(-1,3)$ and $B(5,7)$ are two points in the rectangular coordinate plane. Find the equation of the straight line consisting of all the points equidistant from $A$ and $B$ , giving the answer in general form.",
+  "imageUrl": "q16.png",
+  "options": {
+   "A": "$2x-3y+11=0$",
+   "B": "$3x+2y-10=0$",
+   "C": "$3x+2y-16=0$",
+   "D": "$3x-2y+4=0$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 17,
+  "section": "sectionA",
+  "category": "由等差數列中連續七項之和求中間的一項/The Middle Term from the Sum of Seven Consecutive Terms",
+  "questionText": "某等差數列中連續 $7$ 項之和為 $140$ 。在不求出公差的情況下，求這 $7$ 項之中位於中間的一項。\nThe sum of $7$ consecutive terms of an arithmetic sequence is $140$ . Without finding the common difference, find the middle term of these $7$ terms.",
+  "imageUrl": "q17.png",
+  "options": {
+   "A": "$17.5$",
+   "B": "$20$",
+   "C": "$24$",
+   "D": "$28$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 18,
+  "section": "sectionA",
+  "category": "可化為二次方程的指數方程的較大解/The Larger Root of an Exponential Equation Reducible to a Quadratic",
+  "questionText": "已知 $4^{x}-5\\left(2^{x}\\right)+4=0$ ，其中 $x$ 為實數。設 $2^{x}$ 為一個新的變數，求 $x$ 的較大的值。\nIt is given that $4^{x}-5\\left(2^{x}\\right)+4=0$ , where $x$ is a real number. Find the larger value of $x$ .",
+  "imageUrl": "q18.png",
+  "options": {
+   "A": "$-2$",
+   "B": "$0$",
+   "C": "$1$",
+   "D": "$2$"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 19,
+  "section": "sectionA",
+  "category": "由圓錐的體積及高求底半徑並由此求斜高/The Slant Height of a Cone from Its Volume and Height",
+  "questionText": "圖中的圓錐形紙帽的高為 $12$ cm，而它所圍成的體積為 $100\\pi$ $\\text{cm}^{3}$。求這個圓錐的斜高，即由頂點沿曲面至底圓上一點的最短距離。\nThe height of the conical paper hat in the figure is $12$ cm and the volume enclosed by it is $100\\pi$ $\\text{cm}^{3}$. Find the slant height of the cone.",
+  "imageUrl": "q19.png",
+  "options": {
+   "A": "$13$ cm",
+   "B": "$15$ cm",
+   "C": "$17$ cm",
+   "D": "$25$ cm"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 20,
+  "section": "sectionA",
+  "category": "由移除兩個數據後的平均數反求被移除的兩個數據之和/The Sum of Two Removed Data from the New Mean",
+  "questionText": "某 $10$ 個數據的平均數為 $24$ 。移除其中兩個後，餘下 $8$ 個的平均數為 $25$ 。求被移除的兩個數據之和。\nThe mean of $10$ data is $24$ . After two of the data are removed, the mean of the remaining $8$ data is $25$ . Find the sum of the two data removed.",
+  "imageUrl": "q20.png",
+  "options": {
+   "A": "$8$",
+   "B": "$20$",
+   "C": "$40$",
+   "D": "$48$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 21,
+  "section": "sectionA",
+  "category": "由兩個袋各抽一個球求兩球同色的概率/The Probability of Drawing Two Balls of the Same Colour from Two Bags",
+  "questionText": "甲袋中有 $3$ 個紅球及 $2$ 個白球，而乙袋中有 $2$ 個紅球及 $4$ 個白球。現從每個袋中各隨機抽出一個球。求抽得的兩個球同色的概率。\nBag A contains $3$ red balls and $2$ white balls while bag B contains $2$ red balls and $4$ white balls. One ball is randomly drawn from each bag. Find the probability that the two balls drawn are of the same colour.",
+  "imageUrl": "q21.png",
+  "options": {
+   "A": "$\\dfrac{2}{15}$",
+   "B": "$\\dfrac{4}{15}$",
+   "C": "$\\dfrac{7}{15}$",
+   "D": "$\\dfrac{8}{15}$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 22,
+  "section": "sectionA",
+  "category": "沿直線 y=x 反射後像的坐標/The Image after a Reflection in the Line y = x",
+  "questionText": "在坐標平面上，點 $A(-6,2)$ 沿直線 $y=x$ 反射至 $A'$ 。求 $A'$ 的坐標。\nIn the rectangular coordinate plane, the point $A(-6,2)$ is reflected in the straight line $y=x$ to $A'$ . Find the coordinates of $A'$ .",
+  "imageUrl": "q22.png",
+  "options": {
+   "A": "$(-2,6)$",
+   "B": "$(2,-6)$",
+   "C": "$(6,-2)$",
+   "D": "$(-6,-2)$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 23,
+  "section": "sectionA",
+  "category": "由一個複數的平方為純虛數求它的實部與虛部的平方之比/A Ratio of Squares Given That the Square of a Complex Number Is Purely Imaginary",
+  "questionText": "已知 $a$ 及 $b$ 皆為非零的實數，而 $(a+bi)^{2}$ 是一個純虛數，即它的實部為零而虛部不為零，其中 $i$ 為虛數單位而 $i^{2}=-1$ 。求 $\\dfrac{a^{2}}{b^{2}}$ 的值。\nIt is given that $a$ and $b$ are non-zero real numbers and $(a+bi)^{2}$ is a purely imaginary number, where $i$ is the imaginary unit. Find the value of $\\dfrac{a^{2}}{b^{2}}$ .",
+  "imageUrl": "q23.png",
+  "options": {
+   "A": "$0$",
+   "B": "$0.5$",
+   "C": "$1$",
+   "D": "$2$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 24,
+  "section": "sectionA",
+  "category": "由餘式定理判斷三個除式的餘式的三項陳述/Three Statements on Remainders by the Remainder Theorem",
+  "questionText": "設 $f(x)=2x^{3}+x^{2}-8x+5$ ，其中 $x$ 為任何實數。在不用長除法的情況下，考慮以下三項陳述：\n　I． $f(x)$ 除以 $x-1$ 的餘式是 $0$ 。\n　II． $f(x)$ 除以 $x+2$ 的餘式是 $-9$ 。\n　III． $2x-1$ 是 $f(x)$ 的因式。\n下列哪一項／哪些項正確？\nLet $f(x)=2x^{3}+x^{2}-8x+5$ , where $x$ is any real number. Without using long division, consider the following three statements:\n　I． The remainder when $f(x)$ is divided by $x-1$ is $0$ .\n　II． The remainder when $f(x)$ is divided by $x+2$ is $-9$ .\n　III． $2x-1$ is a factor of $f(x)$ .\nWhich of the above is/are correct?",
+  "imageUrl": "q24.png",
+  "options": {
+   "A": "只有 I",
+   "B": "只有 II",
+   "C": "只有 III",
+   "D": "只有 I 及 II"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 25,
+  "section": "sectionA",
+  "category": "半圓內減去兩個以半徑為直徑的小半圓後的陰影面積/The Shaded Area of a Semi-circle with Two Smaller Semi-circles Removed",
+  "questionText": "圖中的陰影部分由一個直徑 $12$ cm 的半圓減去兩個小半圓而成，兩個小半圓的直徑把大直徑平分。求陰影部分的面積（以 $\\pi$ 表示）。\nIn the figure, the shaded region is formed by removing two smaller semi-circles from a semi-circle of diameter $12$ cm, where the diameters of the two smaller semi-circles divide the diameter of the larger semi-circle into two equal parts. Find the area of the shaded region in terms of $\\pi$ .",
+  "imageUrl": "q25.png",
+  "options": {
+   "A": "$6\\pi$ cm$^{2}$",
+   "B": "$7.5\\pi$ cm$^{2}$",
+   "C": "$9\\pi$ cm$^{2}$",
+   "D": "$13.5\\pi$ cm$^{2}$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 26,
+  "section": "sectionA",
+  "category": "關於三條指數定律的真偽的三項陳述/Three Statements on the Laws of Indices",
+  "questionText": "設 $a$ 為一個大於 $1$ 的實數，而 $m$ 及 $n$ 為任意的正整數。在不代入任何數值的情況下，考慮以下三項關於指數定律的陳述：\n　I． $a^{m}\\times a^{n}=a^{mn}$\n　II． $\\left(a^{m}\\right)^{n}=a^{mn}$\n　III． $a^{-m}=-a^{m}$\n下列哪一項／哪些項正確？\nLet $a$ be a real number greater than $1$ , and let $m$ and $n$ be any positive integers. Consider the following three statements:\n　I． $a^{m}\\times a^{n}=a^{mn}$\n　II． $\\left(a^{m}\\right)^{n}=a^{mn}$\n　III． $a^{-m}=-a^{m}$\nWhich of the above is/are correct?",
+  "imageUrl": "q26.png",
+  "options": {
+   "A": "只有 I",
+   "B": "只有 II",
+   "C": "只有 III",
+   "D": "只有 I 及 II"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 27,
+  "section": "sectionA",
+  "category": "把一點的直角坐標化成極坐標/Converting Rectangular Coordinates into Polar Coordinates",
+  "questionText": "圖中，$O$ 為極點而極軸沿 $x$ 軸的正方向。已知 $P$ 的直角坐標為 $\\left(-3,3\\sqrt{3}\\right)$ 。求 $P$ 的極坐標。\nIn the figure, $O$ is the pole and the polar axis is along the positive $x$-axis. The rectangular coordinates of $P$ are $\\left(-3,3\\sqrt{3}\\right)$ . Find the polar coordinates of $P$ .",
+  "imageUrl": "q27.png",
+  "options": {
+   "A": "$\\left(6,60^{\\circ}\\right)$",
+   "B": "$\\left(6,150^{\\circ}\\right)$",
+   "C": "$\\left(12,120^{\\circ}\\right)$",
+   "D": "$\\left(6,120^{\\circ}\\right)$"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 28,
+  "section": "sectionA",
+  "category": "由直角三角形的兩條直角邊判斷斜邊、一個銳角及面積的三項陳述/Three Statements on a Right-angled Triangle Given Its Two Legs",
+  "questionText": "在 $\\triangle ABC$ 中，$\\angle ABC=90^{\\circ}$ 、 $AB=9$ cm 及 $BC=12$ cm。在不畫圖的情況下，考慮以下三項陳述：\n　I． $AC=21$ cm。\n　II． $\\angle BAC=36.9^{\\circ}$ （準確至最接近的 $0.1$ 度）。\n　III． $\\triangle ABC$ 的面積是 $54$ $\\text{cm}^{2}$ 。\n下列哪一項／哪些項正確？\nIn $\\triangle ABC$ , $\\angle ABC=90^{\\circ}$ , $AB=9$ cm and $BC=12$ cm. Without drawing the figure, consider the following three statements:\n　I． $AC=21$ cm.\n　II． $\\angle BAC=36.9^{\\circ}$ (correct to the nearest $0.1$ degree).\n　III． The area of $\\triangle ABC$ is $54$ $\\text{cm}^{2}$ .\nWhich of the above is/are correct?",
+  "imageUrl": "q28.png",
+  "options": {
+   "A": "只有 II",
+   "B": "只有 III",
+   "C": "只有 I 及 II",
+   "D": "只有 I 及 III"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 29,
+  "section": "sectionA",
+  "category": "與一條定直線相距定值且與該直線上一個定點相距定值的點的數目/The Number of Points at Given Distances from a Line and from a Point on It",
+  "questionText": "圖中，$L$ 是一塊大木板上的一條筆直的界線，而 $A$ 是 $L$ 上的一點。求木板上同時與 $L$ 相距 $3$ cm 及與 $A$ 相距 $5$ cm 的點的數目。\nIn the figure, $L$ is a straight line on a board and $A$ is a point on $L$ . Find the number of points on the board which are at a distance of $3$ cm from $L$ and at a distance of $5$ cm from $A$ .",
+  "imageUrl": "q29.png",
+  "options": {
+   "A": "$2$",
+   "B": "$4$",
+   "C": "$5$",
+   "D": "$6$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 30,
+  "section": "sectionA",
+  "category": "由加入一個新數據後平均數、中位數及眾數的變化的三項陳述/Three Statements on the Change of Mean, Median and Mode after Adding a Datum",
+  "questionText": "已知五個數據為 $5$ 、 $11$ 、 $11$ 、 $13$ 及 $20$ 。現加入一個新數據 $24$ 。考慮以下三項陳述：\n　I． 平均數增加了 $2$ 。\n　II． 中位數增加了 $1$ 。\n　III． 眾數增加了 $12$ 。\n下列哪一項／哪些項正確？\nThe five data $5$ , $11$ , $11$ , $13$ and $20$ are given. A new datum $24$ is now added. Consider the following three statements:\n　I． The mean is increased by $2$ .\n　II． The median is increased by $1$ .\n　III． The mode is increased by $12$ .\nWhich of the above is/are correct?",
+  "imageUrl": "q30.png",
+  "options": {
+   "A": "只有 I",
+   "B": "只有 II",
+   "C": "只有 III",
+   "D": "只有 I 及 II"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 31,
+  "section": "sectionB",
+  "category": "合併兩個同底對數後解方程並捨去不合的根/Solving a Logarithmic Equation after Combining Two Logarithms",
+  "questionText": "已知 $\\log_{3}x+\\log_{3}(x-6)=3$ ，其中 $x$ 為實數。先把左邊合併成單一個對數，再把方程化成一條二次方程，然後求 $x$ 的值，並捨去不合的根。\nIt is given that $\\log_{3}x+\\log_{3}(x-6)=3$ , where $x$ is a real number. After reducing the equation to a quadratic equation, find the value of $x$ .",
+  "imageUrl": "q31.png",
+  "options": {
+   "A": "$9$",
+   "B": "$12$",
+   "C": "$27$",
+   "D": "$33$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 32,
+  "section": "sectionB",
+  "category": "由圓的一般式求圓上的點至一個定點的最短距離/The Shortest Distance from a Point on a Circle to a Fixed Point",
+  "questionText": "圖中，圓 $C$ 的方程為 $x^{2}+y^{2}-6x-8y=0$ ，而 $P$ 是坐標平面上的定點 $(11,10)$ ，它位於 $C$ 之外。設 $Q$ 是 $C$ 上的一個動點。求 $PQ$ 的最短長度，答案以單位長表示。\nIn the figure, the equation of the circle $C$ is $x^{2}+y^{2}-6x-8y=0$ and $P$ is the fixed point $(11,10)$ in the rectangular coordinate plane. Find the shortest distance from a moving point on $C$ to $P$ .",
+  "imageUrl": "q32.png",
+  "options": {
+   "A": "$5$",
+   "B": "$10$",
+   "C": "$15$",
+   "D": "$20$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 33,
+  "section": "sectionB",
+  "category": "含正切與正弦的平方之差的三角分式的化簡/Simplifying a Trigonometric Fraction Involving Squares of Tangent and Sine",
+  "questionText": "在不使用計算器的情況下化簡 $\\dfrac{\\tan^{2}\\theta-\\sin^{2}\\theta}{\\tan^{2}\\theta\\sin^{2}\\theta}$ ，其中 $\\theta$ 為一個銳角。答案須為一個與 $\\theta$ 無關的常數。\nSimplify $\\dfrac{\\tan^{2}\\theta-\\sin^{2}\\theta}{\\tan^{2}\\theta\\sin^{2}\\theta}$ , where $\\theta$ is an acute angle. The answer must be a constant independent of $\\theta$ .",
+  "imageUrl": "q33.png",
+  "options": {
+   "A": "$0.5$",
+   "B": "$1$",
+   "C": "$2$",
+   "D": "$3$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 34,
+  "section": "sectionB",
+  "category": "由長方體水箱中水位的上升求浸入的正方體金屬塊的棱長/The Edge of a Cube from the Rise of Water Level in a Tank",
+  "questionText": "圖中的長方體水箱的底是一個 $40$ cm $\\times$ $36$ cm 的長方形，箱內盛有一些水，而水面與箱口之間仍有一段距離。現把一個實心的正方體金屬塊緩緩放入箱中，使它完全浸沒於水中。已知水位因而上升了 $1.2$ cm，而過程中並沒有水溢出。求這個金屬塊的棱長。\nThe base of the rectangular tank in the figure is a $40$ cm $\\times$ $36$ cm rectangle and the tank contains some water. A solid metal cube is now fully immersed in the water and the water level rises by $1.2$ cm without overflowing. Find the length of an edge of the metal cube.",
+  "imageUrl": "q34.png",
+  "options": {
+   "A": "$8$ cm",
+   "B": "$10$ cm",
+   "C": "$12$ cm",
+   "D": "$14$ cm"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 35,
+  "section": "sectionB",
+  "category": "由無窮等比級數的和等於首項的指定倍數求公比/The Common Ratio When the Sum to Infinity Is a Multiple of the First Term",
+  "questionText": "某無窮等比級數的所有項之和等於它的首項的 $4$ 倍。在不求出首項的情況下，求這個級數的公比。\nThe sum of all the terms of an infinite geometric series is $4$ times its first term. Without finding the first term, find the common ratio of the series.",
+  "imageUrl": "q35.png",
+  "options": {
+   "A": "$0.2$",
+   "B": "$0.25$",
+   "C": "$0.5$",
+   "D": "$0.75$"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 36,
+  "section": "sectionB",
+  "category": "由三個獨立事件的概率求至少有兩個發生的概率/The Probability that at Least Two of Three Independent Events Occur",
+  "questionText": "甲、乙、丙三名學生獨立地解答同一道數學題，他們解答成功的概率分別為 $0.5$ 、 $0.6$ 及 $0.4$ 。求至少有兩人解答成功的概率。\nThree students A, B and C solve the same mathematics problem independently and the probabilities that they succeed are $0.5$ , $0.6$ and $0.4$ respectively. Find the probability that at least two of them succeed.",
+  "imageUrl": "q36.png",
+  "options": {
+   "A": "$0.12$",
+   "B": "$0.26$",
+   "C": "$0.38$",
+   "D": "$0.5$"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 37,
+  "section": "sectionB",
+  "category": "由兩個同心圓及一條與內圓相切的弦求該弦的長/The Chord of the Outer Circle Tangent to the Inner Circle",
+  "questionText": "圖中的兩個同心圓的半徑分別為 $13$ cm 及 $5$ cm。$AB$ 是外圓的一條弦，而它與內圓相切於 $T$ 。在不量度圖中任何角的情況下，求 $AB$ 的長。\nIn the figure, the radii of the two concentric circles are $13$ cm and $5$ cm. $AB$ is a chord of the outer circle touching the inner circle at $T$ . Find the length of $AB$ .",
+  "imageUrl": "q37.png",
+  "options": {
+   "A": "$12$ cm",
+   "B": "$18$ cm",
+   "C": "$24$ cm",
+   "D": "$26$ cm"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 38,
+  "section": "sectionB",
+  "category": "由圓的一般式判斷圓心、半徑及原點是否在圓內的三項陳述/Three Statements on a Circle Given in General Form",
+  "questionText": "在以單位長為一的坐標平面上，圓 $C$ 的方程為 $x^{2}+y^{2}+6x-4y-12=0$ ，而 $O$ 為原點。在不畫出 $C$ 的圖像亦不量度任何長度的情況下，考慮以下三項關於這個圓的陳述（如有需要，答案準確至最接近的整數）：\n　I． $C$ 的圓心是 $(-3,2)$ 。\n　II． $C$ 的半徑是 $12$ 。\n　III． 原點位於 $C$ 之內。\n下列哪一項／哪些項正確？\nIn the rectangular coordinate plane, the equation of the circle $C$ is $x^{2}+y^{2}+6x-4y-12=0$ . Without drawing the graph of $C$ , consider the following three statements (give the answers correct to the nearest integer if necessary):\n　I． The centre of $C$ is $(-3,2)$ .\n　II． The radius of $C$ is $12$ .\n　III． The origin lies inside $C$ .\nWhich of the above is/are correct?",
+  "imageUrl": "q38.png",
+  "options": {
+   "A": "只有 II",
+   "B": "只有 III",
+   "C": "只有 I 及 II",
+   "D": "只有 I 及 III"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 39,
+  "section": "sectionB",
+  "category": "由首項及負公差求等差級數的前 n 項和首次為負的項數/When the Sum of an Arithmetic Series First Becomes Negative",
+  "questionText": "某等差數列的首項為 $50$ ，而公差為 $-4$ 。在不逐項相加的情況下，求使該數列的前 $n$ 項之和首次成為負數的 $n$ 的值。\nThe first term of an arithmetic sequence is $50$ and the common difference is $-4$ . Find the value of $n$ such that the sum of the first $n$ terms first becomes negative.",
+  "imageUrl": "q39.png",
+  "options": {
+   "A": "$26$",
+   "B": "$27$",
+   "C": "$28$",
+   "D": "$50$"
+  },
+  "correctAnswer": "B"
+ },
+ {
+  "questionNumber": 40,
+  "section": "sectionB",
+  "category": "由二次函數的最大值及對稱軸反求常數項/The Constant Term from the Maximum Value and the Axis of Symmetry",
+  "questionText": "已知二次函數 $y=-x^{2}+bx+c$ 的最大值為 $11$ ，而它的圖像的對稱軸為直線 $x=3$ ，其中 $b$ 及 $c$ 皆為常數。在不畫出圖像的情況下，求 $c$ 的值。\nThe maximum value of the quadratic function $y=-x^{2}+bx+c$ is $11$ and the axis of symmetry of its graph is the straight line $x=3$ . Find the value of $c$ .",
+  "imageUrl": "q40.png",
+  "options": {
+   "A": "$-2$",
+   "B": "$0$",
+   "C": "$2$",
+   "D": "$6$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 41,
+  "section": "sectionB",
+  "category": "以正弦公式由一邊及它的對角求三角形的外接圓的半徑/The Circumradius of a Triangle by the Sine Formula",
+  "questionText": "圖中，$\\triangle ABC$ 內接於圓 $O$ ，而圓 $O$ 就是 $\\triangle ABC$ 的外接圓。已知 $BC=12$ cm 及 $\\angle BAC=40^{\\circ}$ 。在不求出其餘兩條邊的情況下，求圓 $O$ 的半徑，答案準確至三位有效數字。\nIn the figure, $\\triangle ABC$ is inscribed in the circle $O$ . It is given that $BC=12$ cm and $\\angle BAC=40^{\\circ}$ . Find the radius of the circle $O$ , correct to $3$ significant figures.",
+  "imageUrl": "q41.png",
+  "options": {
+   "A": "$4.67$ cm",
+   "B": "$6.00$ cm",
+   "C": "$7.72$ cm",
+   "D": "$9.33$ cm"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 42,
+  "section": "sectionB",
+  "category": "關於三條三角方程在一周內的解的數目的三項陳述/Three Statements on the Numbers of Solutions of Trigonometric Equations",
+  "questionText": "以下三條三角方程中的 $\\theta$ 均滿足 $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ ，而所有角均以度為單位。在不解任何一條方程亦不畫出任何三角函數的圖像的情況下，考慮以下三項關於每條方程在該範圍內的解的數目的陳述：\n　I． $\\sin\\theta=0.6$ 有 $1$ 個解。\n　II． $\\cos\\theta=-1$ 有 $1$ 個解。\n　III． $\\tan\\theta=-3$ 有 $2$ 個解。\n下列哪一項／哪些項正確？\nIn each of the following three equations, $\\theta$ satisfies $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ . Without solving any of the equations, consider the following three statements on the numbers of solutions:\n　I． $\\sin\\theta=0.6$ has $1$ solution.\n　II． $\\cos\\theta=-1$ has $1$ solution.\n　III． $\\tan\\theta=-3$ has $2$ solutions.\nWhich of the above is/are correct?",
+  "imageUrl": "q42.png",
+  "options": {
+   "A": "只有 III",
+   "B": "只有 I 及 II",
+   "C": "只有 I 及 III",
+   "D": "只有 II 及 III"
+  },
+  "correctAnswer": "D"
+ },
+ {
+  "questionNumber": 43,
+  "section": "sectionB",
+  "category": "由平行於底邊的截線所成的相似三角形的面積求梯形部分的面積/The Area of a Trapezium Cut off by a Line Parallel to the Base",
+  "questionText": "圖中，$DE$ 平行於 $BC$ ，而 $D$ 及 $E$ 分別在 $AB$ 及 $AC$ 上。已知 $AD:DB=2:3$ 而 $\\triangle ADE$ 的面積為 $16$ $\\text{cm}^{2}$。在不求出任何一條邊的長的情況下，求梯形 $DBCE$ 的面積。\nIn the figure, $DE$ is parallel to $BC$ , where $D$ and $E$ lie on $AB$ and $AC$ respectively. It is given that $AD:DB=2:3$ and the area of $\\triangle ADE$ is $16$ $\\text{cm}^{2}$. Find the area of the trapezium $DBCE$ .",
+  "imageUrl": "q43.png",
+  "options": {
+   "A": "$40$ $\\text{cm}^{2}$",
+   "B": "$64$ $\\text{cm}^{2}$",
+   "C": "$84$ $\\text{cm}^{2}$",
+   "D": "$100$ $\\text{cm}^{2}$"
+  },
+  "correctAnswer": "C"
+ },
+ {
+  "questionNumber": 44,
+  "section": "sectionB",
+  "category": "由數據的個數、平均數及平方和求標準差/The Standard Deviation from the Number of Data, the Mean and the Sum of Squares",
+  "questionText": "某 $5$ 個數據的平均數為 $6$ ，而這 $5$ 個數據的平方之和為 $190$ 。求這組數據的標準差，答案準確至三位有效數字。\nThe mean of $5$ data is $6$ and the sum of the squares of these $5$ data is $190$ . Find the standard deviation of the data, correct to $3$ significant figures.",
+  "imageUrl": "q44.png",
+  "options": {
+   "A": "$1.41$",
+   "B": "$2.00$",
+   "C": "$2.83$",
+   "D": "$6.16$"
+  },
+  "correctAnswer": "A"
+ },
+ {
+  "questionNumber": 45,
+  "section": "sectionB",
+  "category": "由一副撲克牌隨機抽一張的三項概率陳述/Three Statements on the Probabilities of Drawing One Card",
+  "questionText": "一副標準撲克牌共 $52$ 張，分為四種花色，其中兩種紅色而兩種黑色；每種花色各有 $3$ 張公仔牌。現隨機抽出一張。考慮以下三項陳述：\n　I． 抽得紅色的牌的概率是 $\\dfrac{1}{2}$ 。\n　II． 抽得公仔牌的概率是 $\\dfrac{3}{13}$ 。\n　III． 抽得紅色的牌或公仔牌的概率是 $\\dfrac{8}{13}$ 。\n下列哪一項／哪些項正確？\nA standard deck of $52$ playing cards consists of four suits, two of which are red and two of which are black, and each suit contains $3$ face cards. One card is randomly drawn from the deck. Consider the following three statements:\n　I． The probability of drawing a red card is $\\dfrac{1}{2}$ .\n　II． The probability of drawing a face card is $\\dfrac{3}{13}$ .\n　III． The probability of drawing a red card or a face card is $\\dfrac{8}{13}$ .\nWhich of the above is/are correct?",
+  "imageUrl": "q45.png",
+  "options": {
+   "A": "只有 I 及 II",
+   "B": "只有 I 及 III",
+   "C": "只有 II 及 III",
+   "D": "I、II 及 III"
+  },
+  "correctAnswer": "D"
+ }
+]

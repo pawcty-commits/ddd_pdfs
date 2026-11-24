@@ -1,0 +1,263 @@
+{
+  "paperTitleZh": "企會財 全新模擬卷 — 卷二乙（商業管理單元）",
+  "paperTitle": "BAFS Mock — Paper 2B (Business Management)",
+  "durationMinutes": 150,
+  "totalMarks": 88,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "A",
+      "categoryZh": "財務管理",
+      "categoryEn": "Financial Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「甜蜜坊」餅店為店內的焗爐及冷藏設備購買了火險。投保前一年，店舖曾因電線短路發生小型火警，但東主填寫投保申請表時沒有申報。\n何謂保險的「彌償原則」？（2 分）",
+          "questionTextEn": "Sweet Corner Bakery bought fire insurance for its ovens and refrigeration equipment. A year before taking out the policy, the shop had a small fire caused by a short circuit, but the owner did not declare it on the proposal form.\nWhat is meant by the \"principle of indemnity\" in insurance? (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "除彌償原則外，解釋兩項與「甜蜜坊」這份保單有關的保險原則。（4 分）",
+          "questionTextEn": "Apart from the principle of indemnity, explain two insurance principles relevant to Sweet Corner Bakery's policy. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "A",
+      "categoryZh": "財務管理",
+      "categoryEn": "Financial Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「花語」花店每年情人節前須大量購入鮮花，但大部分企業客戶在 60 日後才付款。東主發現每年 1 月至 2 月經常出現現金不足。\n解釋現金不足可能為「花語」帶來的兩項不利影響。（4 分）",
+          "questionTextEn": "Flower Talk, a florist, must buy large quantities of flowers before Valentine's Day every year, but most corporate customers pay only after 60 days. The owner finds that cash is often short in January and February.\nExplain two adverse effects that a cash shortage may bring to Flower Talk. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "建議並解釋兩項方法，改善「花語」在這段期間的現金狀況。（4 分）",
+          "questionTextEn": "Suggest and explain two ways to improve Flower Talk's cash position during this period. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "A",
+      "categoryZh": "人力資源管理",
+      "categoryEn": "Human Resource Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「安居物業管理有限公司」將接手管理三個新屋苑，需要招聘 40 名保安員及 6 名客戶服務主任。\n解釋公司在招聘前進行工作分析的三項用途。（6 分）",
+          "questionTextEn": "On Kui Property Management Limited will take over three new housing estates and needs to recruit 40 security guards and 6 customer service officers.\nExplain three uses of conducting job analysis before the company recruits. (6 marks)",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "A",
+      "categoryZh": "市場營銷管理",
+      "categoryEn": "Marketing Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「辣嘢工房」即將推出一款本地手工辣椒醬，主要在超級市場及網店出售。\n建議並解釋包裝可為這款辣椒醬發揮的三項功能。（6 分）",
+          "questionTextEn": "Spicy Works is about to launch a local handmade chilli sauce, sold mainly in supermarkets and online shops.\nSuggest and explain three functions that packaging can perform for this chilli sauce. (6 marks)",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "A",
+      "categoryZh": "財務管理",
+      "categoryEn": "Financial Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「恒豐製衣」向海外零售商出口成衣，客戶一般在 90 日後才付款。財務經理建議以保理（把應收貨款售予保理公司）取得資金。\n解釋保理對「恒豐製衣」的兩項好處及一項缺點。（6 分）",
+          "questionTextEn": "Hang Fung Garments exports clothing to overseas retailers, who usually pay after 90 days. The finance manager suggests debt factoring (selling trade receivables to a factoring company) to raise funds.\nExplain two advantages and one disadvantage of debt factoring to Hang Fung Garments. (6 marks)",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "A",
+      "categoryZh": "市場營銷管理",
+      "categoryEn": "Marketing Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「方塊遊戲」即將推出一款手機遊戲，遊戲免費下載，玩家可在遊戲內購買虛擬道具。\n建議並解釋兩項適合遊戲內虛擬道具的定價策略。（6 分）",
+          "questionTextEn": "Cube Games will launch a mobile game that is free to download; players can buy virtual items in the game.\nSuggest and explain two pricing strategies suitable for the virtual items in the game. (6 marks)",
+          "totalMarks": 6
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "B",
+      "categoryZh": "財務管理",
+      "categoryEn": "Financial Management",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 16,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「脆樂坊有限公司」在港九新界設有 8 間零食專門店，共聘用 120 名員工，主要售賣從日本、韓國及泰國進口的零食。近年同類零食店數目大增，競爭激烈。\n\n財務經理梁家怡（Leung Ka Yee）指出：「今年存貨積壓明顯增加，不少零食的食用期限只有數個月，我很擔心。」她提供下表資料：\n\n脆樂坊的存貨資料\n | 2025 年 $ | 2026 年 $\n期初存貨 | 1 400 000 | 1 700 000\n期末存貨 | 1 700 000 | 2 400 000\n銷貨成本 | 24 800 000 | 26 650 000\n\n人力資源經理陳詠恩（Chan Wing Yan）說：「兼職收銀員流失率高，很多人覺得無論做得多好，都不會得到認同。」\n\n市場營銷經理何俊傑（Ho Chun Kit）建議：「我們應推出『脆樂』自家品牌的果仁及薯片。」他又計劃以電子營銷向年輕顧客推廣這批自家品牌產品。\n計算 2025 年及 2026 年的存貨周轉率（以次數計），並評論梁家怡的擔心是否合理。（4 分）",
+          "questionTextEn": "Crunchy Joy Limited operates 8 snack shops across Hong Kong, Kowloon and the New Territories, with 120 employees. It mainly sells snacks imported from Japan, Korea and Thailand. The number of similar snack shops has grown rapidly in recent years and competition is keen.\n\nFinance Manager Leung Ka Yee said, \"Inventory piled up noticeably this year. Many snacks have a shelf life of only a few months, so I am worried.\" She provided the information in the table below.\n\nInventory data of Crunchy Joy Limited\n | 2025 $ | 2026 $\nOpening inventory | 1 400 000 | 1 700 000\nClosing inventory | 1 700 000 | 2 400 000\nCost of goods sold | 24 800 000 | 26 650 000\n\nHuman Resources Manager Chan Wing Yan said, \"Turnover of part-time cashiers is high. Many feel that however well they work, they will not be recognised.\"\n\nMarketing Manager Ho Chun Kit suggested, \"We should launch Crunchy Joy own-brand nuts and potato chips.\" He also plans to use e-marketing to promote these own-brand products to young customers.\nCalculate the inventory turnover (in times) for 2025 and 2026, and comment on whether Leung Ka Yee's worry is reasonable. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "試以弗魯姆的期望理論，解釋兩項提升兼職收銀員工作動機的方法。（4 分）",
+          "questionTextEn": "Applying Vroom's expectancy theory, explain two ways to raise the motivation of part-time cashiers. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "解釋推出自家品牌產品對公司的兩項好處。（4 分）",
+          "questionTextEn": "Explain two benefits to the company of launching own-brand products. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "d",
+          "questionTextZh": "建議並解釋兩項推廣自家品牌產品的電子營銷方法。（4 分）",
+          "questionTextEn": "Suggest and explain two e-marketing methods to promote the own-brand products. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "isCase": true
+    },
+    {
+      "questionNumber": 8,
+      "section": "B",
+      "categoryZh": "市場營銷管理",
+      "categoryEn": "Marketing Management",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 16,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「晴空露營車租賃有限公司」向本地遊客出租露營車，並提供營地預訂服務。近年本地露營熱潮興起，查詢大增。\n\n市場營銷經理黃樂怡（Wong Lok Yi）希望把顧客分組，針對不同類別顧客設計租賃套餐。\n\n人力資源經理周家明（Chow Ka Ming）說：「旺季將至，我們新聘了 10 名客戶服務員，但他們未熟悉露營車操作及營地規則。」\n\n財務經理劉俊賢（Lau Chun Yin）建議以 $1 800 000 購入四部新露營車，使用 4 年，資本成本為每年 10%。預計淨現金流入如下表（假設現金流入於每年年終產生）：\n\n購入四部新露營車的預計淨現金流入\n年 | $\n1 | 520 000\n2 | 640 000\n3 | 700 000\n4（已包括殘值 $200 000） | 680 000\n解釋兩項適用於這公司的市場區隔基礎。（4 分）",
+          "questionTextEn": "Clear Sky Campervan Rental Limited rents campervans to local travellers and offers campsite booking. Enquiries have risen sharply with the local camping boom.\n\nMarketing Manager Wong Lok Yi wants to group customers and design rental packages for different types of customers.\n\nHuman Resources Manager Chow Ka Ming said, \"The peak season is coming. We have hired 10 new customer service staff, but they are not yet familiar with operating campervans or campsite rules.\"\n\nFinance Manager Lau Chun Yin suggests buying four new campervans for $1 800 000, to be used for 4 years. The cost of capital is 10% per annum. The expected net cash inflows are shown in the table below (assume the inflows arise at the end of each year):\n\nExpected net cash inflows from buying four new campervans\nYear | $\n1 | 520 000\n2 | 640 000\n3 | 700 000\n4 (including residual value of $200 000) | 680 000\nExplain two bases of market segmentation suitable for this company. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋兩項適合培訓新客戶服務員的在職培訓方法。（4 分）",
+          "questionTextEn": "Explain two on-the-job training methods suitable for the new customer service staff. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "計算這項投資的歸本期（以年計，至小數點後兩位）。（2 分）",
+          "questionTextEn": "Calculate the payback period of the investment (in years, to two decimal places). (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "計算這項投資的淨現值（至整數）。（2 分）",
+          "questionTextEn": "Calculate the net present value of the investment (round to an integer). (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "根據 (c) 的結果，評估公司應否進行這項投資。（2 分）",
+          "questionTextEn": "Based on the results in (c), evaluate whether the company should make the investment. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "e",
+          "questionTextZh": "建議並解釋一項公司作此決定前應考慮的非財務因素。（2 分）",
+          "questionTextEn": "Suggest and explain one non-financial factor the company should consider before making this decision. (2 marks)",
+          "totalMarks": 2
+        }
+      ],
+      "isCase": true
+    },
+    {
+      "questionNumber": 9,
+      "section": "C",
+      "categoryZh": "財務管理",
+      "categoryEn": "Financial Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「宏科電子批發有限公司」向本地零售商批發電子配件，賒銷佔銷貨九成。公司最近擴張業務，並計劃為前線倉務員及送貨員重新設計薪酬方案。\n解釋公司在管理存貨及管理應收貨款方面，各兩項可改善營運資金管理的措施。（8 分）",
+          "questionTextEn": "Wang Fo Electronics Wholesale Limited sells electronic accessories wholesale to local retailers; credit sales make up 90% of sales. The company has recently expanded and plans to redesign the pay package for frontline warehouse and delivery staff.\nExplain two measures each in managing inventory and managing trade receivables that can improve the company's working capital management. (8 marks)",
+          "totalMarks": 8
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋公司為前線倉務員及送貨員設計薪酬方案時應考慮的四項因素。（10 分）",
+          "questionTextEn": "Explain four factors the company should consider when designing the pay package for frontline warehouse and delivery staff. (10 marks)",
+          "totalMarks": 10
+        }
+      ],
+      "hasEssay": true
+    },
+    {
+      "questionNumber": 10,
+      "section": "C",
+      "categoryZh": "市場營銷管理",
+      "categoryEn": "Marketing Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "「浪花精釀」是一間本地小型精釀啤酒廠，計劃推出一款加入本地柑橘的新口味啤酒。\n解釋影響「浪花精釀」選擇分銷途徑的四項因素。（8 分）",
+          "questionTextEn": "Wave Craft Brewery is a small local craft brewery planning to launch a new beer flavoured with local citrus.\nExplain four factors affecting Wave Craft Brewery's choice of distribution channels. (8 marks)",
+          "totalMarks": 8
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋市場推廣組合中的四個元素可如何應用於推出這款新口味啤酒。（10 分）",
+          "questionTextEn": "Explain how the four elements of the promotion mix can be applied in launching this new beer. (10 marks)",
+          "totalMarks": 10
+        }
+      ],
+      "hasEssay": true
+    }
+  ],
+  "subjectCode": "bafs",
+  "paperPart": "2B",
+  "sectionMarks": {
+    "A": 38,
+    "B": 32,
+    "C": 18
+  },
+  "answerRuleZh": "甲部及乙部各題均須作答。丙部選答一題。",
+  "answerRuleEn": "Answer ALL questions in Sections A and B. Answer ONE question in Section C."
+}

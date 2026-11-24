@@ -1,0 +1,67 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 甲部 人體生理學：調節與控制",
+  "paperTitle": "Biology Mock — Paper 2 Section A Human Physiology: Regulation and Control",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "P2A",
+      "categoryZh": "人體生理學：調節與控制",
+      "categoryEn": "Human Physiology: Regulation and Control",
+      "difficultyGrade": 4,
+      "figureSpecId": null,
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "描述及解釋首 10 分鐘內皮膚血流量的變化。（2 分）",
+          "questionTextEn": "Describe and explain the change in skin blood flow in the first 10 minutes. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋為什麼他的耗氧量在浸入冷水後上升。（3 分）",
+          "questionTextEn": "Explain why his oxygen consumption increases after he is immersed in the cold water. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "雖然耗氧量上升，他的體核溫度在第 10 分鐘後仍持續下降。提出一個解釋。（2 分）",
+          "questionTextEn": "Although his oxygen consumption increased, his core body temperature kept falling after 10 minutes. Suggest an explanation. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iv)",
+          "questionTextZh": "有人在冬泳前飲酒「暖身」。酒精會令皮膚的小動脈舒張。參考表 1 的數據，解釋為什麼這做法有危險。（3 分）",
+          "questionTextEn": "Some people drink alcohol to \"warm up\" before winter swimming. Alcohol causes the arterioles in the skin to dilate. With reference to the data in Table 1, explain why this practice is dangerous. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "在健康人士體內，神經脈衝經兩種神經由延髓傳到心臟，分別加快和減慢心搏率。寫出這兩種神經的名稱。（2 分）",
+          "questionTextEn": "In a healthy person, nerve impulses are sent from the medulla oblongata to the heart through two types of nerves, which increase and decrease the heart rate respectively. Name these two types of nerves. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考圖 1，比較 H 和 T 在運動開始後首 2 分鐘的心搏率變化，並解釋兩者的差異。（3 分）",
+          "questionTextEn": "With reference to Figure 1, compare the changes in the heart rates of H and T in the first 2 minutes after the start of exercise, and explain the difference. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "患者 T 靜止時的心搏率高於 H。提出一個解釋。（2 分）",
+          "questionTextEn": "The resting heart rate of patient T is higher than that of H. Suggest an explanation. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "運動期間，T 的心搏率上升得較慢，最高值亦較 H 低。提出這對 T 在運動時的表現有什麼影響，並加以解釋。（3 分）",
+          "questionTextEn": "During exercise, the heart rate of T rises more slowly and reaches a lower maximum than that of H. Suggest how this affects the performance of T during exercise, and explain. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}

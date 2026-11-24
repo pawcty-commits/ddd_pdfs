@@ -1,0 +1,49 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 A 天文學及航天科學（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective A (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P2ASQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "一顆系外行星以半徑 $d$ 的圓形軌道環繞一顆光度為 $L$ 的恆星。行星半徑為 $R$，反照率為 $\\alpha$（即入射輻射中被反射的比例）。假設行星表面溫度均勻，並以黑體方式輻射（圖 2.1）。\n證明行星每秒吸收的輻射能量為 $\\dfrac{(1-\\alpha)LR^2}{4d^2}$。",
+          "questionTextEn": "An exoplanet moves in a circular orbit of radius $d$ around a star of luminosity $L$. The planet has radius $R$ and albedo $\\alpha$ (the fraction of incident radiation reflected). Assume the planet has a uniform surface temperature and radiates as a black body (Figure 2.1).\nShow that the power absorbed by the planet is $\\dfrac{(1-\\alpha)LR^2}{4d^2}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "由此證明行星的平衡溫度 $T=\\left[\\dfrac{(1-\\alpha)L}{16\\pi\\sigma d^2}\\right]^{1/4}$。",
+          "questionTextEn": "Hence show that the equilibrium temperature of the planet is $T=\\left[\\dfrac{(1-\\alpha)L}{16\\pi\\sigma d^2}\\right]^{1/4}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求行星的平衡溫度。",
+          "questionTextEn": "Find the equilibrium temperature of the planet.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "有人說這行星表面可能有液態水。根據 (b)(i) 的結果評論這說法。",
+          "questionTextEn": "Someone suggests there may be liquid water on the surface of this planet. Comment on this suggestion using the result of (b)(i).",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "求這行星的公轉周期 $P$，以日表示。",
+          "questionTextEn": "Find the orbital period $P$ of the planet, in days.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

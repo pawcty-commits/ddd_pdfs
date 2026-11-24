@@ -1,0 +1,338 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "晴朗電子有限公司是一間香港出口商。某世界貿易組織成員國突然向晴朗電子出口的電子產品徵收額外關稅，晴朗電子認為做法違反該國的承諾。下列哪些描述是正確的？\n(1) 香港特區政府可代表香港把這宗貿易爭議提交世界貿易組織處理。\n(2) 晴朗電子可以公司名義直接向世界貿易組織提出申訴，要求對方撤銷關稅。\n(3) 世界貿易組織的成員之間不可以徵收任何關稅。\nSunny Bright Electronics Limited is a Hong Kong exporter. A member of the World Trade Organization suddenly imposes an additional tariff on the electronic products exported by Sunny Bright. Sunny Bright believes this breaks that member's commitments. Which of the following statements are correct?\n(1) The HKSAR Government may bring this trade dispute to the World Trade Organization on behalf of Hong Kong.\n(2) Sunny Bright may file a complaint directly with the World Trade Organization in its own name, demanding that the tariff be removed.\n(3) Members of the World Trade Organization cannot impose any tariffs on each other.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "迅程物流公司為網店提供送貨服務。下列哪些屬影響迅程物流的科技因素？\n(1) 無人機送貨技術日漸成熟\n(2) 電子貨件追蹤系統普及\n(3) 港元利率上升\nSwift Route Logistics provides delivery services for online shops. Which of the following are technological factors affecting Swift Route Logistics?\n(1) Drone delivery technology is becoming mature.\n(2) Electronic parcel tracking systems are widely used.\n(3) Hong Kong dollar interest rates rise.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "嘉朗設計有限公司是一間私人有限公司。下列哪些描述是正確的？\n(1) 公司的股東人數上限為 50 人（不計算屬僱員或前僱員的股東）。\n(2) 公司可以公開邀請公眾認購其股份。\n(3) 股東轉讓股份須受公司章程的限制。\nKa Long Design Limited is a private limited company. Which of the following statements are correct?\n(1) The number of its members is limited to 50 (not counting members who are employees or former employees).\n(2) The company may invite the public to subscribe for its shares.\n(3) The transfer of shares by members is restricted by the company's articles of association.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(2)\n(2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "麥香餅店是一間連鎖麵包店。下列哪些做法屬履行企業社會責任？\n(1) 每晚把未售出的麵包捐贈予食物銀行\n(2) 按法例為員工作強積金強制性供款\n(3) 即使成本較高，仍改用可分解的包裝\nMak Heung Bakery is a bakery chain. Which of the following practices show that it fulfils its corporate social responsibility?\n(1) Donating unsold bread to a food bank every night\n(2) Making MPF mandatory contributions for employees as required by law\n(3) Switching to biodegradable packaging even though it costs more",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(2)\n(2) only",
+      "C": "只有(1)及(2)\n(1) and (2) only",
+      "D": "只有(1)及(3)\n(1) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "下列哪項行為最可能是合法但不符合商業道德？\nWhich of the following actions is most likely legal but unethical?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "颱風襲港前夕，超級市場把蔬菜售價提高三倍\nA supermarket triples the price of vegetables just before a typhoon hits Hong Kong",
+      "B": "公司拖欠員工工資\nA company delays paying wages to its employees",
+      "C": "公司在產品標籤上虛報產地\nA company gives a false place of origin on its product labels",
+      "D": "公司向官員行賄以取得合約\nA company bribes an official to obtain a contract"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "根據香港政府的定義，下列哪間企業屬中小型企業？\nAccording to the Hong Kong Government definition, which of the following businesses is a small and medium enterprise (SME)?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "一間有 52 名員工的保險代理行\nAn insurance agency with 52 employees",
+      "B": "一間有 60 名員工的物流公司\nA logistics company with 60 employees",
+      "C": "一間有 80 名員工的製衣廠\nA garment factory with 80 employees",
+      "D": "一間有 120 名員工的零售連鎖店\nA retail chain with 120 employees"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "下列哪些是全球化可能為香港企業帶來的不利影響？\n(1) 外地網店直接向香港消費者銷售，令本地零售商面對更激烈競爭。\n(2) 海外經濟衰退較容易影響香港出口商。\n(3) 香港企業毋須理會其他地方的法規。\nWhich of the following are possible adverse effects of globalisation on Hong Kong businesses?\n(1) Overseas online shops sell directly to Hong Kong consumers, so local retailers face keener competition.\n(2) Hong Kong exporters are more easily affected by overseas economic downturns.\n(3) Hong Kong businesses need not follow the regulations of other places.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "營商環境/Business Environment",
+    "questionText": "下列哪些是香港經濟的特色？\n(1) 港元與美元掛鈎\n(2) 利得稅只有單一稅率\n(3) 香港沒有外匯管制\nWhich of the following are features of the Hong Kong economy?\n(1) The Hong Kong dollar is linked to the US dollar.\n(2) Profits tax has only one single rate.\n(3) Hong Kong has no foreign exchange control.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(3)\n(3) only",
+      "C": "只有(1)及(2)\n(1) and (2) only",
+      "D": "只有(1)及(3)\n(1) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 9,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "黃曉晴考慮參加一項儲蓄計劃：她須在 2027 年 1 月 1 日存入 $20 000，並在 2027 年 12 月 31 日再存入 $20 000，計劃會在 2029 年 12 月 31 日一筆過付她 $45 000。若貼現率為每年 4%，此計劃於 2027 年 1 月 1 日的淨現值是多少？\nWong Hiu Ching is considering a saving plan. She must deposit $20 000 on 1 January 2027 and another $20 000 on 31 December 2027. The plan will pay her a lump sum of $45 000 on 31 December 2029. If the discount rate is 4% per annum, what is the net present value of the plan on 1 January 2027?",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "$4.84",
+      "B": "$774.07",
+      "C": "$2 374.26",
+      "D": "$5 000.00"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 10,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "陳家俊動用銀行透支 $30 000，共 20 日後全數清還。透支年利率為 7.3%，利息按日計算（一年以 365 日計）。他須支付的透支利息是多少？\nChan Ka Chun used a bank overdraft of $30 000 and repaid it in full after 20 days. The overdraft interest rate is 7.3% per annum, calculated daily (365 days a year). How much overdraft interest must he pay?",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "$120.00",
+      "B": "$121.67",
+      "C": "$182.50",
+      "D": "$2 190.00"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 11,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "下列哪些行為可能令個人的信貸評級下降？\n(1) 在短期內向多間銀行申請信用卡及貸款\n(2) 擔任朋友私人貸款的擔保人，而朋友其後拖欠還款\n(3) 經常使用扣帳卡付款\nWhich of the following may lower a person's credit rating?\n(1) Applying for credit cards and loans from many banks within a short period\n(2) Acting as guarantor for a friend's personal loan, and the friend later defaults\n(3) Often paying by debit card",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(2)\n(2) only",
+      "C": "只有(1)及(2)\n(1) and (2) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 12,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "張詠珊，40 歲，是一名受僱人士，已參加強積金計劃。下列哪些描述是正確的？\n(1) 她可作可扣稅自願性供款，並在報稅時申請扣除。\n(2) 若她確診末期疾病，可申請提早提取累算權益。\n(3) 她可提早提取累算權益作為購買首個住宅物業的首期。\nCheung Wing Shan, aged 40, is an employee who has joined an MPF scheme. Which of the following statements are correct?\n(1) She may make tax-deductible voluntary contributions and claim a deduction when filing her tax return.\n(2) If she is diagnosed with a terminal illness, she may apply for early withdrawal of her accrued benefits.\n(3) She may withdraw her accrued benefits early as a down payment for her first home.",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 13,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "下列哪些有關定息債券的描述是正確的？\n(1) 市場利率上升時，已發行定息債券的市價通常會下跌。\n(2) 公司清盤時，債券持有人較普通股股東優先獲償還。\n(3) 政府發行的債券完全沒有任何投資風險。\nWhich of the following statements about fixed-rate bonds are correct?\n(1) When market interest rates rise, the market prices of issued fixed-rate bonds usually fall.\n(2) When a company is wound up, bondholders are repaid before ordinary shareholders.\n(3) Bonds issued by a government carry no investment risk at all.",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 14,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "高子軒剛大學畢業，收入穩定，沒有家庭負擔，能接受較高風險，並打算為 30 年後的退休作長線儲蓄。下列哪項投資工具最適合他？\nKo Tsz Hin has just graduated from university. He has a stable income, no family burden and can accept higher risk. He plans to save for his retirement in 30 years. Which of the following investment tools is most suitable for him?",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "儲蓄存款\nSavings deposits",
+      "B": "一個月定期存款\nOne-month time deposits",
+      "C": "追蹤恆生指數的交易所買賣基金\nAn exchange-traded fund tracking the Hang Seng Index",
+      "D": "外幣現鈔\nForeign currency banknotes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 15,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "下列哪些有關通脹與儲蓄回報的描述是正確的？\n(1) 通脹上升時，持有大量現金可保持購買力。\n(2) 若年通脹率高於存款的名義年利率，存款的實質購買力會下降。\n(3) 實質利率大約等於名義利率減通脹率。\nWhich of the following statements about inflation and returns on savings are correct?\n(1) When inflation rises, holding a large amount of cash maintains purchasing power.\n(2) If the annual inflation rate is higher than the nominal annual interest rate on deposits, the real purchasing power of the deposits falls.\n(3) The real interest rate is approximately the nominal interest rate minus the inflation rate.",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "只有(2)及(3)\n(2) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 16,
+    "section": "A",
+    "category": "個人理財/Personal Finance",
+    "questionText": "李美玲於 2026 年 1 月 1 日把 $80 000 存入一個儲蓄戶口，年利率 3%，每季計算複息。她於 2026 年 7 月 1 日從戶口提取 $20 000。到 2026 年 12 月 31 日，戶口結餘是多少？\nLee Mei Ling deposited $80 000 into a savings account on 1 January 2026. The interest rate is 3% per annum, compounded quarterly. She withdrew $20 000 from the account on 1 July 2026. What is the account balance on 31 December 2026?",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$61 820.35",
+      "B": "$62 118.00",
+      "C": "$62 126.01",
+      "D": "$62 427.14"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "康安保險公司設有「個人客戶部」、「中小企客戶部」及「大企業客戶部」，各部門分別負責不同類別客戶的銷售及服務。這公司是按甚麼劃分部門？\nHong On Insurance Company has a Personal Clients Department, an SME Clients Department and a Corporate Clients Department. Each department handles sales and services for one type of client. On what basis is the company departmentalised?",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "按功能\nBy function",
+      "B": "按產品\nBy product",
+      "C": "按顧客\nBy customer",
+      "D": "按地區\nBy geographical location"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "下列哪項有關授權的描述是正確的？\nWhich of the following statements about delegation is correct?",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "上司授權後便毋須再監察下屬的工作。\nAfter delegating, a superior no longer needs to monitor the subordinate's work.",
+      "B": "上司仍須為已授權工作的結果承擔最終責任。\nThe superior is still ultimately accountable for the results of the delegated work.",
+      "C": "授權後上司永久失去對該工作的職權。\nAfter delegating, the superior permanently loses authority over the work.",
+      "D": "只有最高管理層才可以授權。\nOnly top management can delegate."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 19,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "晴天茶飲店經理進行了以下三項工作。下表哪一組正確配對各項工作所屬的管理職能？\n(1) 訂立下季每店每日售出 400 杯飲品的目標\n(2) 安排員工分組並編排更表\n(3) 比較各店實際銷量與目標\nThe manager of Sunny Day Tea House carried out the three tasks below. Which option correctly matches each task with its management function?\n(1) Setting a target of selling 400 drinks per shop per day next quarter\n(2) Dividing staff into teams and arranging shift rosters\n(3) Comparing actual sales of each shop with the target",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "(1) 計劃　(2) 組織　(3) 控制\n(1) Planning　(2) Organising　(3) Controlling",
+      "B": "(1) 計劃　(2) 領導　(3) 組織\n(1) Planning　(2) Leading　(3) Organising",
+      "C": "(1) 組織　(2) 組織　(3) 控制\n(1) Organising　(2) Organising　(3) Controlling",
+      "D": "(1) 控制　(2) 領導　(3) 計劃\n(1) Controlling　(2) Leading　(3) Planning"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 20,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "泡泡茶連鎖店現有 5 間分店，資金只足夠在未來一年再開 5 間。東主訂下目標：「在 2027 年 12 月 31 日前，在全港開設 300 間分店。」這目標最不符合 SMART 準則的哪一項？\nBubble Tea Chain has 5 shops now, and its funds are only enough to open 5 more in the coming year. The owner sets this goal: \"Open 300 shops in Hong Kong by 31 December 2027.\" Which SMART criterion does this goal fail most?",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "具體的\nSpecific",
+      "B": "可量度的\nMeasurable",
+      "C": "可達到的\nAttainable",
+      "D": "有時限的\nTime-bound"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 21,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "客戶服務經理訂下標準：「九成來電須於 60 秒內接聽」。本月量度所得只有 82% 來電於 60 秒內接聽，經理比較後發現未達標準。控制過程的下一步是甚麼？\nThe customer service manager set a standard: \"90% of calls must be answered within 60 seconds.\" This month only 82% of calls were answered within 60 seconds. After comparing, the manager found the standard was not met. What is the next step in the controlling process?",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "重新訂立較低的標準\nSet a lower standard again",
+      "B": "再量度實際表現\nMeasure actual performance again",
+      "C": "制訂新的組織架構\nDesign a new organisation structure",
+      "D": "找出原因並採取修正行動\nFind the causes and take corrective action"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 22,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "下列哪些有關管理層級的描述是正確的？\n(1) 前線主管最需要專門技能。\n(2) 中層經理負責把高層策略轉化為部門計劃。\n(3) 最高管理層主要負責監督前線員工的日常工作。\nWhich of the following statements about levels of management are correct?\n(1) Front-line supervisors need technical skills most.\n(2) Middle managers turn top management's strategies into departmental plans.\n(3) Top management is mainly responsible for supervising the daily work of front-line staff.",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 23,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "下列哪些有關控制幅度的描述是正確的？\n(1) 工作愈標準化，控制幅度可以愈闊。\n(2) 下屬經驗不足時，控制幅度宜較窄。\n(3) 在員工人數相同下，控制幅度愈闊，組織層級通常愈少。\nWhich of the following statements about span of control are correct?\n(1) The more standardised the work, the wider the span of control can be.\n(2) When subordinates lack experience, a narrower span of control is preferred.\n(3) With the same number of staff, the wider the span of control, the fewer the levels in the organisation usually are.",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 24,
+    "section": "A",
+    "category": "基礎管理/Introduction to Management",
+    "questionText": "美味坊連鎖餐廳設有中央廚房及法律顧問。下列哪些描述是正確的？\n(1) 總廚對其屬下的廚師擁有直線職權。\n(2) 法律顧問向分店經理提供法律意見，屬幕僚職權。\n(3) 擁有幕僚職權的經理可以直接命令其他部門的員工。\nDelicious House restaurant chain has a central kitchen and a legal adviser. Which of the following statements are correct?\n(1) The head chef has line authority over the chefs under him.\n(2) The legal adviser giving legal advice to branch managers is exercising staff authority.\n(3) A manager with staff authority can directly order employees of other departments.",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  }
+]

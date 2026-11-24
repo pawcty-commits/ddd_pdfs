@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "地球和木星環繞太陽的軌道可視為同一平面上的圓形，半徑分別為 $1.0\\ \\text{AU}$ 和 $5.2\\ \\text{AU}$。以下哪個可能是某時刻地球與木星之間的距離？\nThe orbits of the Earth and Jupiter around the Sun can be taken as circles in the same plane, of radii $1.0\\ \\text{AU}$ and $5.2\\ \\text{AU}$ respectively. Which of the following could be the distance between the Earth and Jupiter at some instant?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$3.5\\ \\text{AU}$",
+      "B": "$3.9\\ \\text{AU}$",
+      "C": "$4.1\\ \\text{AU}$",
+      "D": "$5.0\\ \\text{AU}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "一個球狀星團可視為半徑 $50$ 光年的球體，內有約 $1.0\\times10^{6}$ 顆恆星，均勻分佈。估算星團內相鄰恆星之間的典型距離。\nA globular cluster can be treated as a sphere of radius $50$ light-years containing about $1.0\\times10^{6}$ stars, uniformly distributed. Estimate the typical distance between neighbouring stars in the cluster.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "$0.081$ 光年\n$0.081$ light-years",
+      "B": "$0.52$ 光年\n$0.52$ light-years",
+      "C": "$0.81$ 光年\n$0.81$ light-years",
+      "D": "$8.1$ 光年\n$8.1$ light-years"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "香港位於北緯 $22.3^{\\circ}$。下圖是香港觀測者的天球示意圖。在 12 月的冬至日正午，太陽（赤緯 $-23.4^{\\circ}$）的地平高度和方向是怎樣的？\nHong Kong is at latitude $22.3^{\\circ}$ N. The figure shows the celestial sphere for an observer in Hong Kong. At noon on the December solstice, what are the altitude and direction of the Sun (declination $-23.4^{\\circ}$)?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$67.7^{\\circ}$，正南方\n$67.7^{\\circ}$, due south",
+      "B": "$44.3^{\\circ}$，正北方\n$44.3^{\\circ}$, due north",
+      "C": "$45.7^{\\circ}$，正南方\n$45.7^{\\circ}$, due south",
+      "D": "$44.3^{\\circ}$，正南方\n$44.3^{\\circ}$, due south"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "某恆星光譜中一條在實驗室波長為 $500.00\\ \\text{nm}$ 的譜線，觀測得的波長為 $499.40\\ \\text{nm}$。這恆星沿視線方向的速度是多少？同一恆星另一條實驗室波長為 $600.00\\ \\text{nm}$ 的譜線，觀測得的波長是多少？\nA line with a laboratory wavelength of $500.00\\ \\text{nm}$ in the spectrum of a star is observed at $499.40\\ \\text{nm}$. What is the velocity of the star along the line of sight? At what wavelength is another line of the same star, with a laboratory wavelength of $600.00\\ \\text{nm}$, observed?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$360\\ \\text{km s}^{-1}$，遠離地球；$600.72\\ \\text{nm}$\n$360\\ \\text{km s}^{-1}$, away from the Earth; $600.72\\ \\text{nm}$",
+      "B": "$360\\ \\text{km s}^{-1}$，接近地球；$599.28\\ \\text{nm}$\n$360\\ \\text{km s}^{-1}$, towards the Earth; $599.28\\ \\text{nm}$",
+      "C": "$360\\ \\text{km s}^{-1}$，接近地球；$599.40\\ \\text{nm}$\n$360\\ \\text{km s}^{-1}$, towards the Earth; $599.40\\ \\text{nm}$",
+      "D": "$720\\ \\text{km s}^{-1}$，接近地球；$598.56\\ \\text{nm}$\n$720\\ \\text{km s}^{-1}$, towards the Earth; $598.56\\ \\text{nm}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "下圖（俯視，未按比例）顯示金星在環繞太陽的軌道上的四個位置 1、2、3、4。從地球上用望遠鏡觀測，金星在哪個位置會呈現細小的蛾眉月形，而且看起來最大？\nThe figure (top view, not to scale) shows four positions 1, 2, 3 and 4 of Venus in its orbit around the Sun. Observed from the Earth through a telescope, at which position does Venus appear as a thin crescent and look largest?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "位置 1\nPosition 1",
+      "B": "位置 2\nPosition 2",
+      "C": "位置 3\nPosition 3",
+      "D": "位置 4\nPosition 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "在一個沒有大氣的行星上空、離行星中心 $r$ 處，三個探測器 X、Y、Z 以相同方向（與連到行星中心的半徑垂直）分別獲得速率 $\\sqrt{\\dfrac{GM}{r}}$、$1.2\\sqrt{\\dfrac{GM}{r}}$ 和 $\\sqrt{\\dfrac{2GM}{r}}$，其中 $M$ 為行星質量。以下哪項正確描述它們其後的運動？\nAt a distance $r$ from the centre of an airless planet, three probes X, Y and Z are given speeds $\\sqrt{\\dfrac{GM}{r}}$, $1.2\\sqrt{\\dfrac{GM}{r}}$ and $\\sqrt{\\dfrac{2GM}{r}}$ respectively, all in the same direction perpendicular to the line joining them to the centre of the planet, where $M$ is the mass of the planet. Which of the following correctly describes their subsequent motion?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "X：圓形軌道；Y：起點為最近點的橢圓軌道；Z：逃離行星\nX: circular orbit; Y: elliptical orbit with the starting point nearest to the planet; Z: escapes",
+      "B": "X：圓形軌道；Y：逃離行星；Z：逃離行星\nX: circular orbit; Y: escapes; Z: escapes",
+      "C": "X：落向行星；Y：圓形軌道；Z：橢圓軌道\nX: falls towards the planet; Y: circular orbit; Z: elliptical orbit",
+      "D": "X：圓形軌道；Y：起點為最遠點的橢圓軌道；Z：逃離行星\nX: circular orbit; Y: elliptical orbit with the starting point farthest from the planet; Z: escapes"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "下圖顯示恆星 X 的輻射強度隨波長的分佈。由圖估算 X 的表面溫度。\nThe figure shows the distribution of radiation intensity with wavelength for star X. Estimate the surface temperature of X from the figure.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "$4400\\ \\text{K}$",
+      "B": "$5800\\ \\text{K}$",
+      "C": "$7600\\ \\text{K}$",
+      "D": "$11000\\ \\text{K}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "天文學及航天科學/Astronomy and Space Science",
+    "questionText": "下圖是赫羅圖（H–R 圖）的一部分，標示了兩顆恆星 P 和 Q 的位置。Q 的半徑與 P 的半徑之比 $\\dfrac{R_Q}{R_P}$ 是多少？\nThe figure is part of a Hertzsprung–Russell (H–R) diagram showing the positions of two stars P and Q. What is the ratio $\\dfrac{R_Q}{R_P}$ of the radius of Q to that of P?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$1$",
+      "B": "$10$",
+      "C": "$100$",
+      "D": "$10000$"
+    },
+    "correctAnswer": "B"
+  }
+]

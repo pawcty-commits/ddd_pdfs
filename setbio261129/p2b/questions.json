@@ -1,0 +1,67 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 乙部 應用生態學",
+  "paperTitle": "Biology Mock — Paper 2 Section B Applied Ecology",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 2,
+      "section": "P2B",
+      "categoryZh": "應用生態學",
+      "categoryEn": "Applied Ecology",
+      "difficultyGrade": 3,
+      "figureSpecId": null,
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "以「每個出海日的捕獲量」作為單位捕撈努力量漁獲，計算 1990 年和 2020 年的數值，並寫出單位。（2 分）",
+          "questionTextEn": "Using \"catch per boat-day\" as the catch per unit effort, calculate its values in 1990 and 2020, and give the unit. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考圖 1 和你在 (a)(i) 的答案，解釋為什麼 2000 年後魚 F 的捕獲量下降。（3 分）",
+          "questionTextEn": "With reference to Figure 1 and your answer in (a)(i), explain why the catch of fish F decreased after 2000. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "參考表 1，解釋為什麼規定使用網目較大的漁網，有助魚 F 種群可持續發展。（3 分）",
+          "questionTextEn": "With reference to Table 1, explain why requiring the use of nets with a larger mesh size helps the sustainable development of the fish F population. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iv)",
+          "questionTextZh": "除了規定網目大小外，提出兩項有助魚 F 種群恢復的管理措施。（2 分）",
+          "questionTextEn": "Apart from regulating mesh size, suggest two management measures that can help the population of fish F to recover. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "描述 2004 年至 2019 年海豚估算數目與每日高速客輪航次之間的關係。（2 分）",
+          "questionTextEn": "Describe the relationship between the estimated number of dolphins and the number of daily high-speed ferry trips from 2004 to 2019. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "提出三種高速客輪可能導致海豚數目下降的方式。（3 分）",
+          "questionTextEn": "Suggest three ways in which high-speed ferries may cause a decrease in the number of dolphins. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "有人認為圖 2 證明客輪航次增加是海豚數目下降的唯一原因。評論這說法。（2 分）",
+          "questionTextEn": "Some people claimed that Figure 2 proves that the increase in ferry trips is the only cause of the decrease in dolphin numbers. Comment on this claim. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "政府計劃在該水域劃設海岸公園。提出海岸公園可以如何幫助保育中華白海豚，並指出一項限制。（3 分）",
+          "questionTextEn": "The government plans to designate a marine park in the area. Suggest how the marine park can help conserve Chinese white dolphins, and state one limitation. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}

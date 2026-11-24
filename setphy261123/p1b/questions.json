@@ -1,0 +1,377 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷一乙部",
+  "paperTitle": "Physics Mock — Paper 1 Section B",
+  "durationMinutes": 150,
+  "totalMarks": 84,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一名學生用混合法量度冰的熔解比潛熱。她把 $0.040\\ \\text{kg}$ 溫度為 $0\\ ^{\\circ}\\text{C}$ 的冰塊放進發泡膠杯內 $0.200\\ \\text{kg}$ 的水中。水的初溫等於室溫 $30.0\\ ^{\\circ}\\text{C}$。冰全部熔化後，混合物的最低溫度為 $12.0\\ ^{\\circ}\\text{C}$。水的比熱容量為 $4200\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$；不計發泡膠杯吸收的熱。\n冰塊應從正在熔化的冰中取出，並在放進水前用紙巾抹乾。解釋這兩個步驟的原因。",
+          "questionTextEn": "A student uses the method of mixtures to measure the specific latent heat of fusion of ice. She puts $0.040\\ \\text{kg}$ of ice at $0\\ ^{\\circ}\\text{C}$ into $0.200\\ \\text{kg}$ of water in a polystyrene cup. The initial temperature of the water equals the room temperature, $30.0\\ ^{\\circ}\\text{C}$. After all the ice has melted, the lowest temperature of the mixture is $12.0\\ ^{\\circ}\\text{C}$. The specific heat capacity of water is $4200\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$; neglect the heat absorbed by the polystyrene cup.\nThe ice should be taken from melting ice and wiped dry with tissue before being put into the water. Explain the reasons for these two steps.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求冰的熔解比潛熱。",
+          "questionTextEn": "Find the specific latent heat of fusion of ice.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "實驗中，混合物與周圍環境之間有熱交換。判斷 (b) 的結果比真確值大還是小，並解釋。",
+          "questionTextEn": "During the experiment, heat is exchanged between the mixture and the surroundings. Determine whether the result in (b) is larger or smaller than the true value, and explain.",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "提出一個改善實驗的方法，以減少 (c) 所述的誤差，並解釋它如何有效。",
+          "questionTextEn": "Suggest one way to improve the experiment so as to reduce the error described in (c), and explain how it works.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P1BQ2",
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一個足球在室內（$27\\ ^{\\circ}\\text{C}$）充氣至球內空氣壓強為 $1.80\\times10^{5}\\ \\text{Pa}$，然後拿到室外溫度為 $2\\ ^{\\circ}\\text{C}$ 的球場。球的容積為 $5.5\\times10^{-3}\\ \\text{m}^{3}$，假設保持不變；把空氣視為理想氣體（圖 1.2）。\n用分子運動論解釋，為何體積不變時，氣體的溫度下降會令壓強減少。",
+          "questionTextEn": "A football is inflated indoors ($27\\ ^{\\circ}\\text{C}$) until the pressure of the air inside is $1.80\\times10^{5}\\ \\text{Pa}$. It is then taken out to a pitch where the temperature is $2\\ ^{\\circ}\\text{C}$. The volume of the ball is $5.5\\times10^{-3}\\ \\text{m}^{3}$ and is assumed constant; treat air as an ideal gas (Figure 1.2).\nUse the kinetic theory to explain why, at constant volume, a fall in the temperature of a gas reduces its pressure.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求球在室外時球內空氣的壓強。",
+          "questionTextEn": "Find the pressure of the air in the ball when it is outdoors.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求球內空氣的摩爾數。",
+          "questionTextEn": "Find the number of moles of air in the ball.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "求須推進球內的室外空氣在 $1.00\\times10^{5}\\ \\text{Pa}$ 下的體積。",
+          "questionTextEn": "Find the volume, at $1.00\\times10^{5}\\ \\text{Pa}$, of outdoor air that must be pushed into the ball.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "球員最少要推手泵多少次？試以計算支持你的答案。",
+          "questionTextEn": "What is the least number of strokes the player must make? Support your answer with calculation.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": "F2-P1BQ3",
+      "totalMarks": 11,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "一名籃球員在離地 $2.20\\ \\text{m}$ 處以 $7.5\\ \\text{m s}^{-1}$、與水平成 $52^{\\circ}$ 的速度把質量 $0.60\\ \\text{kg}$ 的籃球投出。籃框離地 $3.05\\ \\text{m}$（見圖 1.3）。不計空氣阻力，把籃球視為質點。\n求籃球離手時速度的水平分量和豎直分量。",
+          "questionTextEn": "A basketball player releases a ball of mass $0.60\\ \\text{kg}$ at $2.20\\ \\text{m}$ above the floor with a velocity of $7.5\\ \\text{m s}^{-1}$ at $52^{\\circ}$ above the horizontal. The hoop is $3.05\\ \\text{m}$ above the floor (see Figure 1.3). Neglect air resistance and treat the ball as a particle.\nFind the horizontal and vertical components of the velocity of the ball when released.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "求籃球在飛行中離地的最大高度。",
+          "questionTextEn": "Find the maximum height of the ball above the floor during its flight.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求籃球由離手至到達最高點所需的時間。",
+          "questionTextEn": "Find the time taken for the ball to reach its highest point after release.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求投球點與籃框中心之間的水平距離。",
+          "questionTextEn": "Find the horizontal distance between the point of release and the centre of the hoop.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "用能量守恆求籃球到達籃框時的速率。",
+          "questionTextEn": "Use conservation of energy to find the speed of the ball when it reaches the hoop.",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "籃球其後撞向地面，其速度的豎直分量在 $0.020\\ \\text{s}$ 內由 $8.8\\ \\text{m s}^{-1}$（向下）變為 $5.0\\ \\text{m s}^{-1}$（向上）。求地面對籃球的平均豎直作用力。",
+          "questionTextEn": "The ball later hits the floor. The vertical component of its velocity changes from $8.8\\ \\text{m s}^{-1}$ (downwards) to $5.0\\ \\text{m s}^{-1}$ (upwards) in $0.020\\ \\text{s}$. Find the average vertical force exerted by the floor on the ball.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P1BQ4",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "一名學生用圖 1.4 左方的裝置探究加速度與驅動力的關係。兩個質量各為 $0.050\\ \\text{kg}$ 的砝碼架以輕繩跨過一個輕滑輪懸掛；$10$ 個質量各為 $0.020\\ \\text{kg}$ 的槽碼分放在兩個砝碼架上。每次實驗只把槽碼由右架移到左架，令兩邊的質量差 $\\Delta m$ 改變。她量度系統的加速度 $a$，結果如下，並繪成圖 1.4 右方的線圖：\n$\\Delta m$ / kg：$0.040$、$0.080$、$0.120$、$0.160$\n$a$ / $\\text{m s}^{-2}$：$1.04$、$2.32$、$3.60$、$4.88$\n描述如何量度系統的加速度 $a$。你的答案須包括所量度的量、計算 $a$ 的方法及一項預防措施。",
+          "questionTextEn": "A student uses the set-up on the left of Figure 1.4 to investigate how acceleration depends on the driving force. Two hangers, each of mass $0.050\\ \\text{kg}$, hang from a light string over a light pulley; $10$ slotted masses of $0.020\\ \\text{kg}$ each are shared between the two hangers. In each trial she only moves slotted masses from the right hanger to the left hanger, changing the difference in mass $\\Delta m$ between the two sides. She measures the acceleration $a$ of the system; the results are shown below and plotted on the right of Figure 1.4:\n$\\Delta m$ / kg: $0.040$, $0.080$, $0.120$, $0.160$\n$a$ / $\\text{m s}^{-2}$: $1.04$, $2.32$, $3.60$, $4.88$\nDescribe how the acceleration $a$ of the system can be measured. Your answer should include the quantities measured, how $a$ is calculated, and one precaution.",
+          "totalMarks": 4
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋為何她把槽碼由一個架移到另一個架，而不是加入新的槽碼。",
+          "questionTextEn": "Explain why she moves slotted masses from one hanger to the other instead of adding new ones.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "理論上（不計摩擦）$a=\\dfrac{\\Delta m}{M}g$，其中 $M$ 為整個系統的總質量。由圖 1.4 的線圖求重力加速度 $g$ 的實驗值，並解釋為何直線不通過原點。",
+          "questionTextEn": "In theory (neglecting friction) $a=\\dfrac{\\Delta m}{M}g$, where $M$ is the total mass of the system. From the graph in Figure 1.4, find an experimental value of the acceleration due to gravity $g$, and explain why the line does not pass through the origin.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "用牛頓運動定律解釋為何把空氣向下推會令無人機受向上的力。",
+          "questionTextEn": "Use Newton's laws of motion to explain why pushing air downwards gives an upward force on the drone.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "求旋翼每秒須推動的空氣質量。",
+          "questionTextEn": "Find the mass of air the rotors must push per second.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "無人機提起一個 $0.60\\ \\text{kg}$ 的包裹後仍然懸停。若旋翼每秒推動的空氣質量不變，空氣被推下的速率須為多少？",
+          "questionTextEn": "The drone picks up a $0.60\\ \\text{kg}$ parcel and still hovers. If the mass of air pushed per second is unchanged, at what speed must the air be pushed down?",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "這衞星的公轉周期是多少？",
+          "questionTextEn": "What is the orbital period of this satellite?",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求衞星的軌道半徑。",
+          "questionTextEn": "Find the orbital radius of the satellite.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": "F2-P1BQ6",
+      "totalMarks": 14,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "求水的折射率。",
+          "questionTextEn": "Find the refractive index of water.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "求激光在水中的頻率和速率。",
+          "questionTextEn": "Find the frequency and speed of the laser light in water.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "一名潛水員在水中看這束激光，它的顏色會否改變？解釋你的答案。",
+          "questionTextEn": "Would a diver under water see a different colour of this laser light? Explain your answer.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "寫出所成的像的三個特性。",
+          "questionTextEn": "State three characteristics of the image formed.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "用透鏡公式求像距。",
+          "questionTextEn": "Use the lens formula to find the image distance.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "在圖 1.6 上畫出兩條光線，找出像的位置並把像畫出；由此求放大率。",
+          "questionTextEn": "On Figure 1.6, draw two rays to locate the image and draw the image; hence find the magnification.",
+          "totalMarks": 5
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "學生想看到更大的像。她應把放大鏡移近還是移離郵票（郵票仍在焦點以內）？解釋你的答案。",
+          "questionTextEn": "The student wants a larger image. Should she move the magnifying glass closer to or farther from the stamp (with the stamp still within the focal length)? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P1BQ7",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "閱讀以下短文，然後回答問題。\n\n【無線充電】\n不少手機可以放在充電座上「無線充電」。充電座內有一個扁平的發射線圈，線圈中通有頻率約 $140\\ \\text{kHz}$ 的交流電，在線圈上方產生不斷變化的磁場。手機背面也有一個扁平的接收線圈。當手機放在充電座正中時，變化的磁場穿過接收線圈，在其中感生交流電動勢，再經整流後為電池充電。\n\n無線充電比用電線充電慢，而且充電座和手機都會變暖。若手機放得偏離中心，或兩個線圈之間隔着厚手機殼，充電會更慢。某充電座從電源取用 $15\\ \\text{W}$ 的功率，而手機電池實際得到 $10.5\\ \\text{W}$（見圖 1.7）。\n解釋為何發射線圈必須通交流電，而不能通恆定的直流電。",
+          "questionTextEn": "Read the following passage and answer the questions.\n\n[Wireless charging]\nMany phones can be charged \"wirelessly\" by placing them on a charging pad. Inside the pad is a flat transmitter coil carrying an alternating current of frequency about $140\\ \\text{kHz}$, which produces a continually changing magnetic field above the coil. There is also a flat receiver coil at the back of the phone. When the phone is placed at the centre of the pad, the changing magnetic field passes through the receiver coil and induces an alternating e.m.f. in it, which is rectified to charge the battery.\n\nWireless charging is slower than charging with a cable, and both the pad and the phone become warm. Charging is even slower if the phone is placed off-centre or if a thick phone case separates the two coils. A certain pad draws $15\\ \\text{W}$ from the mains supply, while the phone battery actually receives $10.5\\ \\text{W}$ (see Figure 1.7).\nExplain why the transmitter coil must carry an alternating current rather than a steady direct current.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "若損耗的功率全部令一部質量 $0.18\\ \\text{kg}$ 的手機發熱（手機的平均比熱容量為 $900\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$），估算 $5$ 分鐘內手機溫度上升多少。（不計散熱）",
+          "questionTextEn": "If all the power lost went into heating a phone of mass $0.18\\ \\text{kg}$ (average specific heat capacity $900\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$), estimate the rise in temperature of the phone in $5$ minutes. (Neglect heat loss.)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "解釋為何手機放得偏離中心時充電會更慢。",
+          "questionTextEn": "Explain why charging is slower when the phone is placed off-centre.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "接收線圈有 $12$ 匝，面積為 $9.0\\times10^{-4}\\ \\text{m}^{2}$。在交流電的四分之一周期內，穿過它的磁場由零增至 $2.0\\ \\text{mT}$。求這段時間內線圈中的平均感生電動勢。",
+          "questionTextEn": "The receiver coil has $12$ turns and an area of $9.0\\times10^{-4}\\ \\text{m}^{2}$. In a quarter of a cycle of the alternating current, the magnetic field through it rises from zero to $2.0\\ \\text{mT}$. Find the average induced e.m.f. in the coil during this time.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "解釋為何充電座使用很高的頻率。",
+          "questionTextEn": "Explain why the pad uses a very high frequency.",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "這部手機的電池儲存的能量為 $15.4\\ \\text{Wh}$。一則廣告聲稱：「用這充電座充電，與用 $15\\ \\text{W}$ 有線充電器一樣快。」估算用這充電座把電池由全空充滿所需的時間，並評論這個聲稱。（不計電池內部的損耗）",
+          "questionTextEn": "The battery of this phone stores $15.4\\ \\text{Wh}$ of energy. An advertisement claims: \"Charging with this pad is as fast as with a $15\\ \\text{W}$ cable charger.\" Estimate the time needed to charge the battery fully from empty with this pad, and comment on the claim. (Neglect losses inside the battery.)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P1BQ8",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "圖 1.8 左方是一個溫度警報器的電路：電動勢為 $6.0\\ \\text{V}$、內阻可略去的電池，與一個固定電阻器 $R=2.2\\ \\text{k}\\Omega$ 及一個熱敏電阻器 T 串聯；理想伏特計 V 接在 T 兩端。圖 1.8 右方顯示 T 的電阻隨溫度的變化。當 V 的讀數降至 $2.0\\ \\text{V}$ 時，警報器便會響起。\n在 $20\\ ^{\\circ}\\text{C}$ 時，由圖讀出 T 的電阻，並求電路中的電流。",
+          "questionTextEn": "The left of Figure 1.8 shows the circuit of a temperature alarm: a battery of e.m.f. $6.0\\ \\text{V}$ and negligible internal resistance is connected in series with a fixed resistor $R=2.2\\ \\text{k}\\Omega$ and a thermistor T; an ideal voltmeter V is connected across T. The right of Figure 1.8 shows how the resistance of T varies with temperature. The alarm sounds when the reading of V falls to $2.0\\ \\text{V}$.\nAt $20\\ ^{\\circ}\\text{C}$, read the resistance of T from the graph and find the current in the circuit.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "求 $20\\ ^{\\circ}\\text{C}$ 時伏特計的讀數。",
+          "questionTextEn": "Find the reading of the voltmeter at $20\\ ^{\\circ}\\text{C}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "求警報器響起時 T 的電阻。",
+          "questionTextEn": "Find the resistance of T when the alarm sounds.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(iv)",
+          "questionTextZh": "由圖求警報器響起時的溫度，並判斷它是否高於 $50\\ ^{\\circ}\\text{C}$。若要警報器在 $50\\ ^{\\circ}\\text{C}$ 便響起，$R$ 應增大還是減小？求 $R$ 的新數值。",
+          "questionTextEn": "Use the graph to find the temperature at which the alarm sounds, and determine whether it is above $50\\ ^{\\circ}\\text{C}$. If the alarm is to sound at $50\\ ^{\\circ}\\text{C}$ instead, should $R$ be increased or decreased? Find the new value of $R$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "若改用電阻不是很大的伏特計，警報器響起的溫度會較高還是較低？解釋你的答案。",
+          "questionTextEn": "If a voltmeter whose resistance is not very large were used instead, would the alarm sound at a higher or a lower temperature? Explain your answer.",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "在活着的生物體內，碳原子中有 $1.2\\times10^{-12}$ 是碳-14，其餘為穩定的碳-12。碳-14 的半衰期為 $5730$ 年。（$1$ 年 $=3.16\\times10^{7}\\ \\text{s}$；碳的摩爾質量取 $0.012\\ \\text{kg mol}^{-1}$）\n甚麼是放射源的「放射強度」？",
+          "questionTextEn": "In a living organism, a fraction $1.2\\times10^{-12}$ of the carbon atoms are carbon-14; the rest are stable carbon-12. The half-life of carbon-14 is $5730$ years. ($1$ year $=3.16\\times10^{7}\\ \\text{s}$; take the molar mass of carbon as $0.012\\ \\text{kg mol}^{-1}$.)\nWhat is meant by the \"activity\" of a radioactive source?",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "求碳-14 的衰變常數，以 $\\text{s}^{-1}$ 表示。",
+          "questionTextEn": "Find the decay constant of carbon-14 in $\\text{s}^{-1}$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求體內碳的摩爾數。",
+          "questionTextEn": "Find the number of moles of carbon in the body.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "估算這個人體內碳-14 的放射強度。人體的總放射強度約為 $8\\times10^{3}\\ \\text{Bq}$，判斷碳-14 是否佔總放射強度的一半以上。",
+          "questionTextEn": "Estimate the activity of carbon-14 in this body. The total activity of a human body is about $8\\times10^{3}\\ \\text{Bq}$. Determine whether carbon-14 accounts for more than half of the total activity.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

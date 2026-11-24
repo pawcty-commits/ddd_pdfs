@@ -1,0 +1,339 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷一乙部",
+  "paperTitle": "Biology Mock — Paper 1 Section B",
+  "durationMinutes": 150,
+  "totalMarks": 84,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "健康與疾病",
+      "categoryEn": "Health and diseases",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ1",
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一名兒童首次感染某種細菌。下圖顯示他體內一種淋巴細胞 P 遇到這細菌後的變化。細胞 R 在感染痊癒後仍長期留在體內。\n寫出細胞 P 的名稱和分子 S 的名稱。（2 分）",
+          "questionTextEn": "A child was infected by a type of bacterium for the first time. The diagram below shows the changes in a type of lymphocyte P in his body after it encountered this bacterium. Cells R remain in his body for a long time after he has recovered from the infection.\nName cell P and molecule S. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "這兒童體內有大量不同的淋巴細胞，但只有細胞 P 在遇到這細菌後進行分裂。參考上圖，描述細胞 P 如何被這細菌激活，以及之後細胞 Q 和 R 如何形成。（3 分）",
+          "questionTextEn": "The child has a large number of different lymphocytes, but only cell P divided after encountering this bacterium. With reference to the diagram, describe how cell P was activated by this bacterium and how cells Q and R were then formed. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "B",
+      "categoryZh": "新陳代謝和酶",
+      "categoryEn": "Metabolism and enzymes",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ2",
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "隱形眼鏡用久了，鏡片表面會積聚來自淚水的蛋白質。某種清潔藥片含有蛋白酶，使用方法如下：把一片藥片溶於室溫的生理鹽水中，把鏡片浸在溶液中 15 分鐘，然後用生理鹽水沖洗鏡片。下圖顯示蛋白酶分子、鏡片上的蛋白質沉積物和鏡片物料（一種塑膠聚合物）的示意圖。\n一名用者把藥片溶於 80°C 的熱水中，待溶液冷卻至室溫後才把鏡片浸入 15 分鐘。結果鏡片上大部分蛋白質沉積物仍未被除去。解釋這結果。（2 分）",
+          "questionTextEn": "After a period of use, proteins from tears accumulate on the surface of contact lenses. A type of cleaning tablet contains a protease. The instructions are as follows: dissolve one tablet in saline at room temperature, soak the lenses in the solution for 15 minutes, and then rinse the lenses with saline. The diagram below shows a protease molecule, the protein deposits on a lens and the lens material (a plastic polymer).\nA user dissolved a tablet in hot water at 80°C, waited until the solution had cooled to room temperature, and then soaked the lenses in it for 15 minutes. Most of the protein deposits remained on the lenses. Explain this result. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考上圖，解釋為什麼蛋白酶能除去蛋白質沉積物，卻不會損壞鏡片。（2 分）",
+          "questionTextEn": "With reference to the diagram above, explain why the protease can remove the protein deposits but does not damage the lens. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "B",
+      "categoryZh": "細胞",
+      "categoryEn": "Cells",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ3-a",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "落地生根是香港公園和花園中常見的歸化植物。它的葉邊緣會長出許多小植株（圖 1），小植株掉到地上便能長成新植株。圖 2 是小植株生長點的一個細胞的顯微照片示意圖。\n寫出小植株的細胞是以哪種細胞分裂方式產生的。（1 分）",
+          "questionTextEn": "The life plant (Bryophyllum) is a naturalised plant commonly found in parks and gardens in Hong Kong. Many plantlets grow along the edges of its leaves (Figure 1). When the plantlets fall onto the ground, they can grow into new plants. Figure 2 is a diagram based on a photomicrograph of a cell at the growing point of a plantlet.\nState the type of cell division by which the cells of the plantlets are produced. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "寫出這細胞正處於細胞分裂的哪個階段。（1 分）",
+          "questionTextEn": "State the stage of cell division of this cell. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋為什麼這細胞分裂後所產生的兩個子細胞含相同的遺傳物質。（2 分）",
+          "questionTextEn": "Explain why the two daughter cells produced by this cell contain the same genetic material. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "把同一片葉長出的小植株種在同一個花圃內，它們開出的花顏色相同。解釋這現象。（2 分）",
+          "questionTextEn": "Plantlets grown from the same leaf were planted in the same flower bed. Their flowers were of the same colour. Explain this observation. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "一名園藝愛好者為兩株不同的落地生根進行人工傳粉，用所得種子培育幼苗，發現幼苗的花色各有不同。解釋為什麼這些幼苗出現變異。（2 分）",
+          "questionTextEn": "A gardener carried out artificial pollination between two different life plants and grew seedlings from the seeds obtained. The flower colours of the seedlings varied. Explain why variation occurs in these seedlings. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "B",
+      "categoryZh": "協調和反應",
+      "categoryEn": "Coordination and response",
+      "difficultyGrade": 4,
+      "figureSpecId": "B2-P1BQ4",
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "下圖顯示人耳內部的部分構造。構造 Q 內充滿液體；頭部轉動時，液體的流動會刺激 Q 內的感受器。\n寫出構造 P 的名稱。（1 分）",
+          "questionTextEn": "The diagram below shows some structures in the inner part of the human ear. Structure Q is filled with fluid. When the head rotates, the movement of the fluid stimulates the receptors inside Q.\nName structure P. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "小朋友原地快速轉圈後突然停下，會感到周圍仍在轉動，站立不穩。提出這現象的解釋。（2 分）",
+          "questionTextEn": "After spinning quickly on the spot and then stopping suddenly, a child feels that the surroundings are still spinning and cannot stand steadily. Suggest an explanation for this phenomenon. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "B",
+      "categoryZh": "氣體交換",
+      "categoryEn": "Gas exchange",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ5-a",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "哮喘病發時，細支氣管壁的平滑肌收縮，管壁亦分泌大量黏液。圖 1 顯示一名健康人士的細支氣管（I）和一名哮喘病發患者的細支氣管（II）的橫切面示意圖（放大倍數相同）。圖 2 顯示兩人在靜止時的一些數據。\n參考圖 1，比較細支氣管 I 和 II 的結構。（4 分）",
+          "questionTextEn": "During an asthma attack, the smooth muscle in the wall of the bronchioles contracts and a large amount of mucus is secreted by the wall. Figure 1 shows diagrams of cross-sections of a bronchiole of a healthy person (I) and that of a patient during an asthma attack (II), drawn at the same magnification. Figure 2 shows some data of the two persons at rest.\nWith reference to Figure 1, compare the structures of bronchioles I and II. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考圖 2，提出為什麼病發時患者血液的含氧百分率下降，以及為什麼他的心搏率上升。（4 分）",
+          "questionTextEn": "With reference to Figure 2, suggest why the oxygen saturation of the patient's blood decreases during an attack, and why his heart rate increases. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "B",
+      "categoryZh": "細胞",
+      "categoryEn": "Cells",
+      "difficultyGrade": 4,
+      "figureSpecId": "B2-P1BQ6-a",
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "學生把紫背萬年青葉片的下表皮撕成小片，分別浸在不同濃度的蔗糖溶液中 20 分鐘，然後在顯微鏡下觀察。學生在每片表皮的三個不同視野內各數算 100 個細胞，計算出現質壁分離的細胞的百分率。結果如圖 1 所示。\n解釋為什麼在 0.30 M 至 0.50 M 之間，出現質壁分離的細胞的百分率隨蔗糖溶液濃度上升而增加。（3 分）",
+          "questionTextEn": "A student peeled the lower epidermis of the leaves of Rhoeo (a plant with purple cell sap) into small strips and immersed them in sucrose solutions of different concentrations for 20 minutes. The strips were then observed under a microscope. The student counted 100 cells in each of three different fields of view on each strip and calculated the percentage of cells showing plasmolysis. The results are shown in Figure 1.\nExplain why the percentage of plasmolysed cells increases with the concentration of the sucrose solution between 0.30 M and 0.50 M. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "研究人員從生長在鹽分較高的土壤中的同種植物撕取下表皮，重複實驗。在圖 1 中繪畫你預期得到的曲線。（1 分）",
+          "questionTextEn": "Researchers repeated the experiment using the lower epidermis of the same species of plant grown in soil with a higher salt content. On Figure 1, draw the curve you would expect to obtain. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "解釋你在 (b) 的答案。（1 分）",
+          "questionTextEn": "Explain your answer in (b). (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "圖 2 顯示浸在 0.60 M 蔗糖溶液中的一個表皮細胞。在圖 2 中標示細胞膜，並以「X」標示被蔗糖溶液佔據的位置。（2 分）",
+          "questionTextEn": "Figure 2 shows an epidermal cell immersed in 0.60 M sucrose solution. On Figure 2, label the cell membrane, and mark with an \"X\" the region occupied by the sucrose solution. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "e",
+          "questionTextZh": "另一名學生把表皮浸在蔗糖溶液中只 5 分鐘便進行觀察，發現在 0.35 M 至 0.50 M 各濃度中，出現質壁分離的細胞的百分率都比圖 1 的低。解釋這結果。（2 分）",
+          "questionTextEn": "Another student observed the strips after immersing them in the sucrose solutions for only 5 minutes. For each concentration from 0.35 M to 0.50 M, the percentage of plasmolysed cells was lower than that in Figure 1. Explain this result. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "B",
+      "categoryZh": "生態系",
+      "categoryEn": "Ecosystems",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ7-a",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "新界一個農場進行以下實驗：把大豆幼苗種在四種不同處理的泥土中，8 星期後量度植株。泥土 P 和 Q 經高溫消毒；泥土 R 和 S 沒有消毒。Q 和 S 每星期加入硝酸鹽肥料，P 和 R 則沒有。結果見表 1。收成後，農場把大豆的根和莖葉犁入泥土，下一造種植稻米；另外兩塊田的上一造分別是稻米和休耕。稻米產量見表 2。\n解釋為什麼 P 和 Q 組的植株沒有根瘤。（2 分）",
+          "questionTextEn": "A farm in the New Territories carried out the following experiment: soybean seedlings were grown in soil given four different treatments, and the plants were measured after 8 weeks. Soils P and Q were sterilised by heating, while soils R and S were not sterilised. Nitrate fertiliser was added to Q and S every week, but not to P and R. The results are shown in Table 1. After harvest, the roots, stems and leaves of the soybean plants were ploughed into the soil, and rice was grown in the next season. In two other fields, the previous season was rice and fallow (no crop) respectively. The rice yields are shown in Table 2.\nExplain why the plants in P and Q have no root nodules. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "比較 R 與 P 的結果，並加以解釋。（3 分）",
+          "questionTextEn": "Compare the results of R with those of P, and explain. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考你在 (b)(i) 的答案和表 2，解釋為什麼在大豆之後種植的稻米產量較高。（3 分）",
+          "questionTextEn": "With reference to your answer in (b)(i) and Table 2, explain why the yield of rice grown after soybean is higher. (3 marks)",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "B",
+      "categoryZh": "生物多樣性和進化",
+      "categoryEn": "Biodiversity and evolution",
+      "difficultyGrade": 4,
+      "figureSpecId": "B2-P1BQ8-a",
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "十九世紀以前，不少人相信微生物可以由肉湯等非生命物質自然產生（「自然發生說」）。巴斯德進行了以下實驗：三個燒瓶都盛有營養豐富的肉湯，煮沸後放在室溫下，結果見圖 1。\n二十世紀中，米勒和尤里設計了模擬原始地球環境的裝置：把水加熱成水蒸氣，與氣體混合，令混合物經過放電的電極，再冷卻收集液體。七日後分析液體內的氨基酸，結果見圖 2。\n寫出巴斯德這實驗要測試的假說。（1 分）",
+          "questionTextEn": "Before the 19th century, many people believed that microorganisms could arise naturally from non-living matter such as meat broth (\"spontaneous generation\"). Pasteur carried out the following experiment: three flasks containing nutrient-rich meat broth were boiled and then left at room temperature. The results are shown in Figure 1.\nIn the mid-20th century, Miller and Urey designed an apparatus to simulate the environment of the early Earth: water was heated to form water vapour, which was mixed with gases. The mixture was passed through electrodes producing electric sparks, and then cooled to collect the liquid. After seven days, the amino acids in the liquid were analysed. The results are shown in Figure 2.\nState the hypothesis tested by Pasteur in this experiment. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "支持自然發生說的人認為，產生生命需要空氣。解釋為什麼巴斯德選用鵝頸燒瓶，而不把燒瓶完全密封。（2 分）",
+          "questionTextEn": "Supporters of spontaneous generation believed that air is needed for life to arise. Explain why Pasteur used swan-neck flasks instead of completely sealing the flasks. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "解釋燒瓶 III 的結果。（2 分）",
+          "questionTextEn": "Explain the result of flask III. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考圖 2，比較裝置 A 和 B 的結果，並寫出由此可得出的結論。（2 分）",
+          "questionTextEn": "With reference to Figure 2, compare the results of set-ups A and B, and state the conclusion that can be drawn. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "寫出放電在這實驗中模擬原始地球上的什麼。（1 分）",
+          "questionTextEn": "State what the electric sparks simulate on the early Earth in this experiment. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "後來的研究顯示，原始地球的大氣可能主要由二氧化碳和氮組成（類似裝置 C）。有人因此說：「米勒－尤里實驗已被推翻，生命不可能由無機物質產生。」參考圖 2 及科學的本質，評論這說法。（4 分）",
+          "questionTextEn": "Later studies suggested that the atmosphere of the early Earth was probably mainly composed of carbon dioxide and nitrogen (similar to set-up C). Some people therefore claimed, \"The Miller–Urey experiment has been overturned, and life could not have arisen from inorganic substances.\" With reference to Figure 2 and the nature of science, comment on this claim. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "B",
+      "categoryZh": "生態系",
+      "categoryEn": "Ecosystems",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ9-a",
+      "totalMarks": 9,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "元朗一個溫室農場種植青瓜，受一種害蟎（以葉片細胞汁液為食）侵擾。農場在溫室 X 的第 2 週放入一種只吃害蟎的捕食蟎，溫室 Y 則沒有任何處理；溫室 Z 每兩週噴灑一次殺蟲劑。圖 1 顯示溫室 X 和 Y 內兩種蟎的數目；圖 2 顯示第 12 週時三個溫室的葉片受損百分率和蜜蜂到訪次數。\n參考圖 1，描述及解釋溫室 X 內害蟎數目在第 2 至 12 週的變化。（4 分）",
+          "questionTextEn": "A greenhouse farm in Yuen Long grows cucumbers, which are infested by a pest mite (feeding on the sap of leaf cells). In greenhouse X, a predatory mite which feeds only on the pest mite was released in week 2. Greenhouse Y received no treatment, while greenhouse Z was sprayed with a pesticide once every two weeks. Figure 1 shows the numbers of the two types of mites in greenhouses X and Y. Figure 2 shows the percentage of damaged leaves and the number of bee visits in the three greenhouses in week 12.\nWith reference to Figure 1, describe and explain the changes in the number of pest mites in greenhouse X from week 2 to week 12. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考圖 2，提出以捕食蟎控制害蟎，比使用殺蟲劑優勝的三個原因。（3 分）",
+          "questionTextEn": "With reference to Figure 2, suggest three reasons why using predatory mites to control the pest mites is better than using pesticides. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "提出為什麼捕食蟎數目的高峰比害蟎數目的高峰較遲出現。（1 分）",
+          "questionTextEn": "Suggest why the peak in the number of predatory mites occurs later than that of the pest mites. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d",
+          "questionTextZh": "提出為什麼農場不希望捕食蟎把害蟎完全消滅。（1 分）",
+          "questionTextEn": "Suggest why the farm does not want the predatory mites to eliminate the pest mites completely. (1 mark)",
+          "totalMarks": 1
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "B",
+      "categoryZh": "植物",
+      "categoryEn": "Plants",
+      "difficultyGrade": 3,
+      "figureSpecId": "B2-P1BQ10-a",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "研究人員把大麥的根浸在含鉀離子的溶液中，溶液的鉀離子濃度低於根細胞內的濃度。圖 1 顯示在不同氧濃度下根部吸收鉀離子的速率。圖 2 顯示在通入空氣的溶液中根部累積吸收的鉀離子量；在第 40 分鐘，研究人員在溶液中加入一種呼吸抑制劑。\n描述圖 1 中氧濃度與鉀離子吸收速率之間的關係。（1 分）",
+          "questionTextEn": "Researchers immersed barley roots in a solution containing potassium ions. The potassium ion concentration of the solution was lower than that inside the root cells. Figure 1 shows the rate of potassium ion uptake by the roots at different oxygen concentrations. Figure 2 shows the cumulative amount of potassium ions absorbed by the roots in an aerated solution; at 40 minutes, the researchers added a respiratory inhibitor to the solution.\nDescribe the relationship between the oxygen concentration and the rate of potassium ion uptake in Figure 1. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "解釋你在 (a) 描述的關係。（2 分）",
+          "questionTextEn": "Explain the relationship you described in (a). (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "參考圖 2，解釋加入呼吸抑制劑後的結果。根據以上資料，解釋為什麼長時間水浸的農田中，作物常出現缺乏礦物質的症狀。（4 分）",
+          "questionTextEn": "With reference to Figure 2, explain the result after the respiratory inhibitor was added. Based on the above information, explain why crops in fields that are waterlogged for a long time often show symptoms of mineral deficiency. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "B",
+      "categoryZh": "基礎遺傳學",
+      "categoryEn": "Basic genetics",
+      "difficultyGrade": 4,
+      "figureSpecId": null,
+      "totalMarks": 11,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "考生須以短文形式回答以下題目。評分準則包括內容切題，鋪排合乎邏輯，以及表達清晰。\n鐮狀細胞性貧血是一種由體染色體上的隱性等位基因引起的遺傳病，患者的紅血細胞在缺氧時會變成鐮刀形。在瘧疾流行的非洲某些地區，約五分之一的人是這等位基因的帶基因者；帶基因者一般沒有明顯症狀，而且受瘧原蟲感染後較少出現嚴重病情。在沒有瘧疾的地區，這等位基因十分罕見。\n解釋這等位基因如何由基因突變產生，以及兩名沒有症狀的父母為何可能生下患病的孩子。再討論為什麼這等位基因在瘧疾流行的地區仍然常見，但在沒有瘧疾的地區卻十分罕見。（11 分）",
+          "questionTextEn": "You are required to present your answer to the following question in essay form. Criteria for marking will include relevant content, logical presentation and clarity of expression.\nSickle cell anaemia is a genetic disorder caused by a recessive allele on an autosome. The red blood cells of patients become sickle-shaped when oxygen is low. In some regions of Africa where malaria is common, about one in five people are carriers of this allele. Carriers usually show no obvious symptoms, and they are less likely to become seriously ill when infected by the malaria parasite. In regions without malaria, this allele is very rare.\nExplain how this allele arises from a gene mutation, and why two parents without symptoms may have a child with the disorder. Then discuss why this allele remains common in regions where malaria is common, but is very rare in regions without malaria. (11 marks)",
+          "totalMarks": 11
+        }
+      ]
+    }
+  ]
+}

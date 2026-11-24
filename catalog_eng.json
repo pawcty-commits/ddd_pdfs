@@ -1,0 +1,57 @@
+{
+  "papers": [
+    {
+      "id": "ENG1-002",
+      "title": "今日試卷",
+      "subject": "英國語文 / English Language",
+      "subjectCode": "eng",
+      "paperNo": 1,
+      "type": "longQuestion",
+      "examDate": "2026-11-24",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "eng/ENG1-002/paper.json",
+      "durationMinutes": 90,
+      "examStartTime": "08:30",
+      "examEndTime": "10:00",
+      "pdfUrl": "eng/ENG1-002/paper.pdf",
+      "markingSchemeUrl": "eng/ENG1-002/markingscheme.pdf"
+    },
+    {
+      "id": "ENG2-002",
+      "title": "今日試卷",
+      "subject": "英國語文 / English Language",
+      "subjectCode": "eng",
+      "paperNo": 2,
+      "type": "longQuestion",
+      "examDate": "2026-11-24",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "eng/ENG2-002/paper.json",
+      "durationMinutes": 120,
+      "examStartTime": "11:00",
+      "examEndTime": "13:00",
+      "pdfUrl": "eng/ENG2-002/paper.pdf",
+      "markingSchemeUrl": "eng/ENG2-002/marking_guidelines.pdf",
+      "solutionUrl": "eng/ENG2-002/sample_answers.pdf"
+    },
+    {
+      "id": "ENG2-003",
+      "title": "今日試卷",
+      "subject": "英國語文 / English Language",
+      "subjectCode": "eng",
+      "paperNo": 2,
+      "type": "longQuestion",
+      "examDate": "2026-11-29",
+      "timedExam": true,
+      "source": "both",
+      "jsonPath": "eng/ENG2-003/paper.json",
+      "durationMinutes": 120,
+      "examStartTime": "11:00",
+      "examEndTime": "13:00",
+      "pdfUrl": "eng/ENG2-003/paper.pdf",
+      "markingSchemeUrl": "eng/ENG2-003/marking_guidelines.pdf",
+      "solutionUrl": "eng/ENG2-003/sample_answers.pdf"
+    }
+  ]
+}

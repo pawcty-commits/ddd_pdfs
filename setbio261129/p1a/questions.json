@@ -1,0 +1,506 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "植物/Plants",
+    "questionText": "以下哪些有關草本植物支持作用的描述是正確的？\n(1) 幼嫩草本莖的支持主要依靠細胞的膨脹度。\n(2) 木質部導管壁內的木質素提供機械支持。\n(3) 植物萎蔫時，其莖部細胞必定已出現質壁分離。\nWhich of the following descriptions about support in herbaceous plants are correct?\n(1) Support of young herbaceous stems mainly depends on the turgidity of cells.\n(2) Lignin in the walls of xylem vessels provides mechanical support.\n(3) When a plant wilts, the cells of its stem must have undergone plasmolysis.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "生命分子/Molecules of life",
+    "questionText": "某蛋白質由兩條多肽鏈組成，兩條鏈合共含 230 個氨基酸，兩條鏈之間沒有以肽鍵相連。把這蛋白質完全水解成氨基酸時，需要多少個水分子？被斷開的是什麼化學鍵？\nA protein consists of two polypeptide chains containing a total of 230 amino acids. The two chains are not joined to each other by peptide bonds. When this protein is completely hydrolysed into amino acids, how many water molecules are needed and what type of bond is broken?",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "水分子數目：229；被斷開的鍵：肽鍵\nNumber of water molecules: 229; bond broken: peptide bond",
+      "B": "水分子數目：230；被斷開的鍵：肽鍵\nNumber of water molecules: 230; bond broken: peptide bond",
+      "C": "水分子數目：228；被斷開的鍵：糖苷鍵\nNumber of water molecules: 228; bond broken: glycosidic bond",
+      "D": "水分子數目：228；被斷開的鍵：肽鍵\nNumber of water molecules: 228; bond broken: peptide bond"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "研究人員製造了兩種人工小囊 I 和 II。小囊 I 的膜只由磷脂雙層組成；小囊 II 的膜由磷脂雙層和嵌入其中的蛋白質 P 組成。兩種小囊內原本只有純水。研究人員把小囊放入含有氧、葡萄糖和氯離子的溶液中，在恆溫下放置 10 分鐘，然後量度小囊內各物質的濃度，結果如下圖所示。\n根據以上結果，以下哪些推論是正確的？\n(1) 磷脂雙層讓氧通過，但不讓葡萄糖和氯離子通過。\n(2) 葡萄糖是以主動轉運進入小囊 II 的。\n(3) 蛋白質 P 並非讓所有水溶性物質通過。\nResearchers made two types of artificial vesicles, I and II. The membrane of vesicle I consists of a phospholipid bilayer only. The membrane of vesicle II consists of a phospholipid bilayer with protein P embedded in it. Both types of vesicle originally contained pure water only. The vesicles were placed in a solution containing oxygen, glucose and chloride ions at a constant temperature for 10 minutes. The concentration of each substance inside the vesicles was then measured. The results are shown in the diagram below.\nBased on the above results, which of the following deductions are correct?\n(1) The phospholipid bilayer allows oxygen to pass through but not glucose and chloride ions.\n(2) Glucose enters vesicle II by active transport.\n(3) Protein P does not allow all water-soluble substances to pass through.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "指示：參考下圖，解答第 4 至 6 題。下圖顯示某動物（2n = 6）的一個細胞正進行減數細胞分裂，圖中字母顯示各等位基因在染色單體上的位置。這動物的基因型為 AaBbDd，三對基因分別位於三對不同的同源染色體上。\n\n這細胞完成減數細胞分裂後，所產生的配子共有多少種不同的基因組合？\nDirections: Questions 4 to 6 refer to the diagram below, which shows a cell of an animal (2n = 6) undergoing meiotic cell division. The letters show the positions of the alleles on the chromatids. The genotype of this animal is AaBbDd, and the three pairs of genes are located on three different pairs of homologous chromosomes.\n\nAfter this cell has completed meiotic cell division, how many genetically different types of gametes are produced?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "8"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "細胞/Cells",
+    "questionText": "指示：參考下圖，解答第 4 至 6 題。下圖顯示某動物（2n = 6）的一個細胞正進行減數細胞分裂，圖中字母顯示各等位基因在染色單體上的位置。這動物的基因型為 AaBbDd，三對基因分別位於三對不同的同源染色體上。\n\n以下哪些有關這細胞的描述是正確的？\n(1) 這細胞含 12 條染色單體。\n(2) 在第二次減數細胞分裂時，等位基因 D 和 d 會彼此分離。\n(3) 第一次減數細胞分裂完成後，每個子細胞含 3 條染色體，每條染色體由兩條染色單體組成。\nDirections: Questions 4 to 6 refer to the diagram below, which shows a cell of an animal (2n = 6) undergoing meiotic cell division. The letters show the positions of the alleles on the chromatids. The genotype of this animal is AaBbDd, and the three pairs of genes are located on three different pairs of homologous chromosomes.\n\nWhich of the following descriptions about this cell are correct?\n(1) This cell contains 12 chromatids.\n(2) During the second meiotic cell division, alleles D and d separate from each other.\n(3) At the end of the first meiotic cell division, each daughter cell contains 3 chromosomes, each consisting of two chromatids.",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "指示：參考下圖，解答第 4 至 6 題。下圖顯示某動物（2n = 6）的一個細胞正進行減數細胞分裂，圖中字母顯示各等位基因在染色單體上的位置。這動物的基因型為 AaBbDd，三對基因分別位於三對不同的同源染色體上。\n\n把這動物與基因型為 aabbdd 的動物交配。假設三對特徵均為完全顯性，在後代之中，三種特徵都表現顯性的比例，以及只有一種特徵表現顯性的比例分別是多少？\nDirections: Questions 4 to 6 refer to the diagram below, which shows a cell of an animal (2n = 6) undergoing meiotic cell division. The letters show the positions of the alleles on the chromatids. The genotype of this animal is AaBbDd, and the three pairs of genes are located on three different pairs of homologous chromosomes.\n\nThis animal is crossed with an animal of genotype aabbdd. Assume complete dominance in all three characteristics. Among the offspring, what are the proportions showing the dominant phenotype in all three characteristics, and in only one characteristic, respectively?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "三種都顯性：1/8；只有一種顯性：1/8\nAll three dominant: 1/8; only one dominant: 1/8",
+      "B": "三種都顯性：27/64；只有一種顯性：9/64\nAll three dominant: 27/64; only one dominant: 9/64",
+      "C": "三種都顯性：1/8；只有一種顯性：3/8\nAll three dominant: 1/8; only one dominant: 3/8",
+      "D": "三種都顯性：1/4；只有一種顯性：3/8\nAll three dominant: 1/4; only one dominant: 3/8"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "光合作用/Photosynthesis",
+    "questionText": "研究人員把分離出來的完整葉綠體放在含 ADP、磷酸鹽和 $\\mathrm{NADP}$ 但不含二氧化碳的溶液中，並給予光照。短時間內，以下哪個組合正確顯示葉綠體內的變化？\nResearchers placed isolated intact chloroplasts in a solution containing ADP, phosphate and $\\mathrm{NADP}$ but no carbon dioxide, and illuminated them. Within a short period, which of the following combinations correctly shows the changes in the chloroplasts?",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "ATP：累積；NADPH：不會累積；碳水化合物：有產生\nATP: accumulates; NADPH: does not accumulate; carbohydrate: produced",
+      "B": "ATP：不會累積；NADPH：累積；碳水化合物：沒有產生\nATP: does not accumulate; NADPH: accumulates; carbohydrate: not produced",
+      "C": "ATP：不會累積；NADPH：不會累積；碳水化合物：有產生\nATP: does not accumulate; NADPH: does not accumulate; carbohydrate: produced",
+      "D": "ATP：累積；NADPH：累積；碳水化合物：沒有產生\nATP: accumulates; NADPH: accumulates; carbohydrate: not produced"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "光合作用/Photosynthesis",
+    "questionText": "指示：參考下圖，解答第 8 和 9 題。研究人員在三種條件下量度一種農作物的葉片吸收二氧化碳的速率，結果如下圖所示。曲線 X：25°C、高光強度；曲線 Y：15°C、高光強度；曲線 Z：25°C、低光強度。\n\n以下哪項正確描述限制因素？\nDirections: Questions 8 and 9 refer to the graph below. Researchers measured the rate of carbon dioxide uptake by the leaves of a crop plant under three conditions. The results are shown in the graph below. Curve X: 25°C, high light intensity; Curve Y: 15°C, high light intensity; Curve Z: 25°C, low light intensity.\n\nWhich of the following correctly describes the limiting factors?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "在二氧化碳濃度 0.01% 時，曲線 X 的限制因素是溫度。\nAt 0.01% carbon dioxide, the limiting factor of curve X is temperature.",
+      "B": "在二氧化碳濃度 0.12% 時，曲線 Y 的限制因素是溫度。\nAt 0.12% carbon dioxide, the limiting factor of curve Y is temperature.",
+      "C": "在二氧化碳濃度 0.12% 時，曲線 Z 的限制因素是二氧化碳濃度。\nAt 0.12% carbon dioxide, the limiting factor of curve Z is carbon dioxide concentration.",
+      "D": "在二氧化碳濃度 0.01% 時，曲線 Z 的限制因素是光強度。\nAt 0.01% carbon dioxide, the limiting factor of curve Z is light intensity."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "section": "A",
+    "category": "新陳代謝和酶/Metabolism and enzymes",
+    "questionText": "指示：參考下圖，解答第 8 和 9 題。研究人員在三種條件下量度一種農作物的葉片吸收二氧化碳的速率，結果如下圖所示。曲線 X：25°C、高光強度；曲線 Y：15°C、高光強度；曲線 Z：25°C、低光強度。\n\n以下哪些有關上述結果的解釋是正確的？\n(1) 在高二氧化碳濃度時，X 的速率高於 Y，是因為在 25°C 時參與碳固定的酶與受質分子碰撞較頻密，反應較快。\n(2) 在二氧化碳濃度 0.01% 時，改變溫度對速率影響很小，是因為酶的活性部位已全部被受質佔據。\n(3) 曲線 X 在高二氧化碳濃度時趨於平穩，可能是因為參與碳固定的酶的活性部位已接近全部被佔用。\nDirections: Questions 8 and 9 refer to the graph below. Researchers measured the rate of carbon dioxide uptake by the leaves of a crop plant under three conditions. The results are shown in the graph below. Curve X: 25°C, high light intensity; Curve Y: 15°C, high light intensity; Curve Z: 25°C, low light intensity.\n\nWhich of the following explanations about the above results are correct?\n(1) At high carbon dioxide concentrations, the rate of X is higher than that of Y because at 25°C the enzymes involved in carbon fixation collide more frequently with substrate molecules, so the reactions are faster.\n(2) At 0.01% carbon dioxide, changing the temperature has little effect on the rate because all active sites of the enzymes are occupied by substrate.\n(3) Curve X levels off at high carbon dioxide concentrations, possibly because the active sites of the enzymes involved in carbon fixation are almost all occupied.",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 10,
+    "section": "A",
+    "category": "呼吸作用/Respiration",
+    "questionText": "氰化物會阻止氧在線粒體內作為氫的最終受體。把一塊肌肉組織放在含氰化物的溶液中，以下哪個組合最能顯示肌肉細胞內的變化？\nCyanide prevents oxygen from acting as the final hydrogen acceptor in mitochondria. A piece of muscle tissue is placed in a solution containing cyanide. Which of the following combinations best shows the changes in the muscle cells?",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "克雷伯氏循環：停止；糖酵解：停止；乳酸產量：增加\nKrebs cycle: stops; glycolysis: stops; lactic acid production: increases",
+      "B": "克雷伯氏循環：繼續；糖酵解：繼續；乳酸產量：不變\nKrebs cycle: continues; glycolysis: continues; lactic acid production: unchanged",
+      "C": "克雷伯氏循環：停止；糖酵解：繼續；乳酸產量：增加\nKrebs cycle: stops; glycolysis: continues; lactic acid production: increases",
+      "D": "克雷伯氏循環：繼續；糖酵解：停止；乳酸產量：減少\nKrebs cycle: continues; glycolysis: stops; lactic acid production: decreases"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 11,
+    "section": "A",
+    "category": "生物多樣性和進化/Biodiversity and evolution",
+    "questionText": "某些在漆黑洞穴內生活的魚，眼睛細小甚至沒有眼睛，但牠們的祖先生活在地面河流中，眼睛正常。以下哪項解釋與達爾文的自然選擇學說一致？\nSome fish living in completely dark caves have tiny eyes or no eyes, although their ancestors lived in surface rivers and had normal eyes. Which of the following explanations is consistent with Darwin's theory of natural selection?",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "洞穴魚長期不使用眼睛，眼睛逐漸退化，而這種退化會遺傳給後代。\nAs the cave fish did not use their eyes for a long time, the eyes gradually degenerated, and this degeneration was passed on to the offspring.",
+      "B": "黑暗環境誘發洞穴魚出現令眼睛變小的突變，這些突變再遺傳給後代。\nThe dark environment induced mutations that made the eyes of the cave fish smaller, and these mutations were then passed on to the offspring.",
+      "C": "祖先種群中本有眼睛大小不同的個體；在黑暗中，眼睛較小的個體較能存活和繁殖。\nIndividuals with different eye sizes already existed in the ancestral population; in darkness, individuals with smaller eyes were more likely to survive and reproduce.",
+      "D": "洞穴魚為了適應黑暗環境，每一代都主動把較少能量用於發育眼睛。\nIn order to adapt to the dark environment, the cave fish actively put less energy into developing their eyes in each generation."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 12,
+    "section": "A",
+    "category": "生物多樣性和進化/Biodiversity and evolution",
+    "questionText": "指示：參考下圖，解答第 12 和 13 題。下圖顯示根據 DNA 序列建立的某屬甲蟲五個物種 P、Q、R、S 和 T 的系統發生樹。\n\n研究人員在一層約 10 百萬年前形成的岩層中，發現屬於這甲蟲屬的化石物種 F。根據上圖，以下哪項有關 F 的推論是正確的？\nDirections: Questions 12 and 13 refer to the diagram below, which shows a phylogenetic tree of five species of a genus of beetle, P, Q, R, S and T, constructed from DNA sequences.\n\nResearchers found fossil species F of this beetle genus in a rock layer formed about 10 million years ago. Based on the diagram above, which of the following deductions about F is correct?",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "F 可能是 P、Q 和 R 三者的共同祖先。\nF may be the common ancestor of P, Q and R.",
+      "B": "F 可能是 R 和 S 兩者的共同祖先。\nF may be the common ancestor of R and S.",
+      "C": "F 已經絕種，所以不可能是任何現存物種的祖先。\nF is extinct, so it cannot be the ancestor of any living species.",
+      "D": "F 可能是 S 和 T 兩者的共同祖先。\nF may be the common ancestor of S and T."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 13,
+    "section": "A",
+    "category": "生物多樣性和進化/Biodiversity and evolution",
+    "questionText": "指示：參考下圖，解答第 12 和 13 題。下圖顯示根據 DNA 序列建立的某屬甲蟲五個物種 P、Q、R、S 和 T 的系統發生樹。\n\n以下哪些推論是正確的？\n(1) Q 與 S 的最近共同祖先比 Q 與 R 的最近共同祖先生活在較早的時期。\n(2) 比較同一基因的鹼基序列時，P 與 Q 之間的差異數目很可能少於 P 與 T 之間的差異數目。\n(3) 由於 R 單獨位於一個分支，R 是五個物種中最原始的物種。\nDirections: Questions 12 and 13 refer to the diagram below, which shows a phylogenetic tree of five species of a genus of beetle, P, Q, R, S and T, constructed from DNA sequences.\n\nWhich of the following deductions are correct?\n(1) The most recent common ancestor of Q and S lived earlier than that of Q and R.\n(2) When the base sequences of the same gene are compared, the number of differences between P and Q is likely to be smaller than that between P and T.\n(3) As R is on a branch by itself, R is the most primitive of the five species.",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 14,
+    "section": "A",
+    "category": "生物多樣性和進化/Biodiversity and evolution",
+    "questionText": "下圖顯示某種蜥蜴的一個種群在約二百萬年前隨浮木到達一個海島後的變化。以下哪項最能支持島上的蜥蜴已成為一個新物種？\nThe diagram below shows the changes in a population of a lizard after it reached an island on floating wood about two million years ago. Which of the following best supports that the lizards on the island have become a new species?",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "島上蜥蜴的體型和體色與大陸的蜥蜴不同。\nThe lizards on the island differ from those on the mainland in body size and body colour.",
+      "B": "島上蜥蜴與大陸蜥蜴交配所產生的後代不育。\nThe offspring produced by crossing the island lizards with the mainland lizards are infertile.",
+      "C": "島上蜥蜴之間交配，能產生有生殖能力的後代。\nCrosses between island lizards produce fertile offspring.",
+      "D": "島上蜥蜴與大陸蜥蜴在地理上已隔離了二百萬年。\nThe island lizards and the mainland lizards have been geographically isolated for two million years."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 15,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "下圖顯示某校 200 名學生的兩項特徵：圖 I 為右手手掌闊度的分布；圖 II 為能否嘗出苯硫脲（PTC）苦味的人數。以下哪項是根據以上資料最合理的推論？\nThe graphs below show two characteristics of 200 students in a school: Graph I shows the distribution of the width of the right palm; Graph II shows the number of students who can or cannot taste the bitterness of phenylthiocarbamide (PTC). Which of the following is the most reasonable deduction based on the above information?",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "手掌闊度屬連續變異，因此不受遺傳因素影響。\nPalm width shows continuous variation, so it is not affected by genetic factors.",
+      "B": "能否嘗出 PTC 的苦味屬不連續變異，因此完全不受環境因素影響。\nThe ability to taste PTC shows discontinuous variation, so it is not affected by environmental factors at all.",
+      "C": "手掌闊度可能由多個基因和環境因素共同決定，而能否嘗出 PTC 的苦味可能主要由一個基因決定。\nPalm width is probably determined by several genes together with environmental factors, while the ability to taste PTC is probably mainly determined by one gene.",
+      "D": "能嘗出 PTC 苦味的學生較多，所以能嘗出苦味的等位基因是顯性的。\nMore students can taste PTC, so the allele for tasting the bitterness is dominant."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 16,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "指示：參考下表，解答第 16 至 18 題。某種甲蟲的體色有黑色和啡色兩種，由體染色體上的一對等位基因控制。下表顯示四組雜交的結果。\n\n以下哪個組合正確顯示顯性的體色，以及能作為證據的雜交？\nDirections: Questions 16 to 18 refer to the table below. The body colour of a species of beetle is either black or brown and is controlled by a pair of alleles on an autosome. The table below shows the results of four crosses.\n\nWhich of the following combinations correctly shows the dominant body colour and the cross(es) that provide evidence for it?",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "顯性體色：黑色；證據：雜交 2 和 3\nDominant body colour: black; evidence: crosses 2 and 3",
+      "B": "顯性體色：黑色；證據：只有雜交 4\nDominant body colour: black; evidence: cross 4 only",
+      "C": "顯性體色：啡色；證據：只有雜交 1\nDominant body colour: brown; evidence: cross 1 only",
+      "D": "顯性體色：黑色；證據：雜交 3 和 4\nDominant body colour: black; evidence: crosses 3 and 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 17,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "指示：參考下表，解答第 16 至 18 題。某種甲蟲的體色有黑色和啡色兩種，由體染色體上的一對等位基因控制。下表顯示四組雜交的結果。\n\n從雜交 3 的後代中隨機選出一隻黑色甲蟲，與從雜交 4 的後代中隨機選出的一隻黑色甲蟲交配。牠們的後代是啡色的概率是多少？\nDirections: Questions 16 to 18 refer to the table below. The body colour of a species of beetle is either black or brown and is controlled by a pair of alleles on an autosome. The table below shows the results of four crosses.\n\nA black beetle is randomly selected from the offspring of cross 3 and is crossed with a black beetle randomly selected from the offspring of cross 4. What is the probability that an offspring of this cross is brown?",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "1/8",
+      "B": "1/6",
+      "C": "1/4",
+      "D": "1/3"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 18,
+    "section": "A",
+    "category": "基礎遺傳學/Basic genetics",
+    "questionText": "指示：參考下表，解答第 16 至 18 題。某種甲蟲的體色有黑色和啡色兩種，由體染色體上的一對等位基因控制。下表顯示四組雜交的結果。\n\n研究人員把雜交 3 的一隻黑色後代 W 與雜交 1 的一隻啡色甲蟲交配，得到 4 隻後代，全部是黑色。以下哪項推論最合理？\nDirections: Questions 16 to 18 refer to the table below. The body colour of a species of beetle is either black or brown and is controlled by a pair of alleles on an autosome. The table below shows the results of four crosses.\n\nResearchers crossed a black offspring W from cross 3 with a brown beetle from cross 1. Four offspring were obtained and all of them were black. Which of the following deductions is the most reasonable?",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "W 必定是純合子。\nW must be homozygous.",
+      "B": "W 必定是雜合子，因為牠的親代都是雜合子。\nW must be heterozygous because both of its parents are heterozygous.",
+      "C": "這結果不能提供任何有關 W 基因型的資料。\nThis result provides no information about the genotype of W.",
+      "D": "W 很可能是純合子，但由於後代數目少，仍不能排除 W 是雜合子。\nW is probably homozygous, but as the number of offspring is small, the possibility that W is heterozygous cannot be ruled out."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 19,
+    "section": "A",
+    "category": "生命分子/Molecules of life",
+    "questionText": "指示：參考下圖，解答第 19 和 20 題。下圖顯示人體消化和吸收脂肪的部分過程。\n\n以下哪項正確描述步驟 2？\nDirections: Questions 19 and 20 refer to the diagram below, which shows part of the processes of digestion and absorption of fat in humans.\n\nWhich of the following correctly describes step 2?",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "水解作用，每個脂肪分子消耗三個水分子\nHydrolysis, using three water molecules per fat molecule",
+      "B": "縮合作用，每個脂肪分子釋出三個水分子\nCondensation, releasing three water molecules per fat molecule",
+      "C": "水解作用，每個脂肪分子消耗一個水分子\nHydrolysis, using one water molecule per fat molecule",
+      "D": "水解作用，斷開脂肪分子內的肽鍵\nHydrolysis, breaking the peptide bonds in the fat molecule"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 20,
+    "section": "A",
+    "category": "營養和消化/Nutrition and digestion",
+    "questionText": "指示：參考下圖，解答第 19 和 20 題。下圖顯示人體消化和吸收脂肪的部分過程。\n\n以下哪些有關上圖的描述是正確的？\n(1) 步驟 1 把脂肪分子分解成較細小的分子。\n(2) 酶 E 由胰臟分泌，在小腸內發揮作用。\n(3) 結構 L 是乳糜管。\nDirections: Questions 19 and 20 refer to the diagram below, which shows part of the processes of digestion and absorption of fat in humans.\n\nWhich of the following descriptions about the diagram above are correct?\n(1) Step 1 breaks down fat molecules into smaller molecules.\n(2) Enzyme E is secreted by the pancreas and acts in the small intestine.\n(3) Structure L is a lacteal.",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 21,
+    "section": "A",
+    "category": "營養和消化/Nutrition and digestion",
+    "questionText": "某種疾病令患者小腸的絨毛變得短而扁平。以下哪項最可能是這疾病的後果？\nA disease causes the villi in the small intestine of patients to become short and flattened. Which of the following is most likely a consequence of this disease?",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "口腔內的澱粉不能被消化\nStarch in the mouth cavity cannot be digested",
+      "B": "膽汁的分泌量減少\nThe amount of bile secreted decreases",
+      "C": "糞便變得乾硬，因為食物中的食用纖維增加\nFaeces become dry and hard because the dietary fibre in food increases",
+      "D": "體重下降，因為吸收已消化食物的表面積減少\nBody weight decreases because the surface area for absorbing digested food is reduced"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 22,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "一名學生上台演講前十分緊張，腎上腺素分泌增加。以下哪些有關腎上腺素的描述是正確的？\n(1) 腎上腺素經血漿運送，可同時影響多個靶器官。\n(2) 腎上腺素刺激肝把糖原轉變成葡萄糖。\n(3) 腎上腺素由腎上腺分泌後，經導管運送入血液。\nA student was very nervous before giving a speech on stage, and the secretion of adrenaline increased. Which of the following descriptions about adrenaline are correct?\n(1) Adrenaline is transported in blood plasma and can affect several target organs at the same time.\n(2) Adrenaline stimulates the liver to convert glycogen into glucose.\n(3) After being secreted by the adrenal glands, adrenaline is carried into the blood through ducts.",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 23,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考以下探究，解答第 23 至 25 題。學生以下圖的方法量度同學 K 的反應時間。同伴手持一把 30 cm 長的尺，把尺的零點對準 K 張開的拇指和食指之間，然後在沒有預告的情況下放手；K 要盡快用拇指和食指夾住尺，學生記錄尺下落的距離（距離越大，表示反應時間越長）。K 依次在以下三種情況下各進行 10 次試驗：\n情況 I：K 看着尺，看見尺下落便夾住。\n情況 II：K 閉上眼，同伴放手的同時拍一下手。\n情況 III：K 閉上眼，同伴放手的同時用另一隻手輕觸 K 的肩膀。\n\n以下哪些是這探究需要保持恆定的變量？\n(1) K 用來夾尺的手\n(2) 同伴每次握尺後至放手前所等待的時間\n(3) 尺開始下落時零點的位置\nDirections: Questions 23 to 25 refer to the following investigation. Students measured the reaction time of a classmate K using the method shown in the diagram below. A partner held a 30 cm ruler with the zero mark between K's open thumb and index finger, and then released it without warning. K had to catch the ruler between the thumb and index finger as quickly as possible. The distance the ruler fell was recorded (the greater the distance, the longer the reaction time). K carried out 10 trials under each of the following three conditions in turn:\nCondition I: K watched the ruler and caught it when seeing it fall.\nCondition II: K closed the eyes, and the partner clapped once at the moment of releasing the ruler.\nCondition III: K closed the eyes, and the partner lightly touched K's shoulder with the other hand at the moment of releasing the ruler.\n\nWhich of the following are variables that need to be kept constant in this investigation?\n(1) The hand K uses to catch the ruler\n(2) The time the partner waits after holding the ruler before releasing it in each trial\n(3) The position of the zero mark when the ruler starts to fall",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 24,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考以下探究，解答第 23 至 25 題。學生以下圖的方法量度同學 K 的反應時間。同伴手持一把 30 cm 長的尺，把尺的零點對準 K 張開的拇指和食指之間，然後在沒有預告的情況下放手；K 要盡快用拇指和食指夾住尺，學生記錄尺下落的距離（距離越大，表示反應時間越長）。K 依次在以下三種情況下各進行 10 次試驗：\n情況 I：K 看着尺，看見尺下落便夾住。\n情況 II：K 閉上眼，同伴放手的同時拍一下手。\n情況 III：K 閉上眼，同伴放手的同時用另一隻手輕觸 K 的肩膀。\n\n結果顯示，K 在情況 I、II 和 III 的平均下落距離分別是 19.6 cm、16.2 cm 和 14.8 cm。以下哪項是根據這結果最恰當的結論？\nDirections: Questions 23 to 25 refer to the following investigation. Students measured the reaction time of a classmate K using the method shown in the diagram below. A partner held a 30 cm ruler with the zero mark between K's open thumb and index finger, and then released it without warning. K had to catch the ruler between the thumb and index finger as quickly as possible. The distance the ruler fell was recorded (the greater the distance, the longer the reaction time). K carried out 10 trials under each of the following three conditions in turn:\nCondition I: K watched the ruler and caught it when seeing it fall.\nCondition II: K closed the eyes, and the partner clapped once at the moment of releasing the ruler.\nCondition III: K closed the eyes, and the partner lightly touched K's shoulder with the other hand at the moment of releasing the ruler.\n\nThe results showed that the mean distances fallen by the ruler for K under conditions I, II and III were 19.6 cm, 16.2 cm and 14.8 cm respectively. Which of the following is the most appropriate conclusion based on these results?",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "皮膚內的感受器比眼和耳內的感受器更敏感。\nThe receptors in the skin are more sensitive than those in the eyes and ears.",
+      "B": "所有人對觸碰刺激的反應都比對聲音和光的反應快。\nAll people respond to touch faster than to sound and light.",
+      "C": "在這探究中，K 在情況 III 下的平均反應時間最短。\nIn this investigation, the mean reaction time of K was the shortest under condition III.",
+      "D": "觸碰刺激引起的神經脈衝不需經過中樞神經系統，所以反應最快。\nThe nerve impulses initiated by touch do not need to pass through the central nervous system, so the response is the fastest."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 25,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考以下探究，解答第 23 至 25 題。學生以下圖的方法量度同學 K 的反應時間。同伴手持一把 30 cm 長的尺，把尺的零點對準 K 張開的拇指和食指之間，然後在沒有預告的情況下放手；K 要盡快用拇指和食指夾住尺，學生記錄尺下落的距離（距離越大，表示反應時間越長）。K 依次在以下三種情況下各進行 10 次試驗：\n情況 I：K 看着尺，看見尺下落便夾住。\n情況 II：K 閉上眼，同伴放手的同時拍一下手。\n情況 III：K 閉上眼，同伴放手的同時用另一隻手輕觸 K 的肩膀。\n\n以下哪項改動最能提高這探究比較三種刺激的有效性？\nDirections: Questions 23 to 25 refer to the following investigation. Students measured the reaction time of a classmate K using the method shown in the diagram below. A partner held a 30 cm ruler with the zero mark between K's open thumb and index finger, and then released it without warning. K had to catch the ruler between the thumb and index finger as quickly as possible. The distance the ruler fell was recorded (the greater the distance, the longer the reaction time). K carried out 10 trials under each of the following three conditions in turn:\nCondition I: K watched the ruler and caught it when seeing it fall.\nCondition II: K closed the eyes, and the partner clapped once at the moment of releasing the ruler.\nCondition III: K closed the eyes, and the partner lightly touched K's shoulder with the other hand at the moment of releasing the ruler.\n\nWhich of the following modifications can best improve the validity of this investigation in comparing the three stimuli?",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "每種情況的試驗次數由 10 次增加至 20 次\nIncrease the number of trials for each condition from 10 to 20",
+      "B": "把三種情況的試驗以隨機次序交替進行\nCarry out the trials of the three conditions alternately in a random order",
+      "C": "改用 50 cm 長的尺\nUse a 50 cm ruler instead",
+      "D": "由 K 自己放手並用另一隻手夾住尺\nLet K release the ruler and catch it with the other hand"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 26,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "一名男子在意外中脊髓在背部中段（胸部高度）完全斷裂（斷裂位置低於控制手臂的神經、高於控制腿部的神經），腦部沒有受損。以下哪些描述是正確的？\n(1) 敲擊他的膝蓋下方時，仍可出現膝躍反射。\n(2) 用針輕刺他的腳，他不會感到痛。\n(3) 他不能隨意移動手臂。\nA man's spinal cord was completely severed in the middle of the back (at chest level) in an accident (below the nerves to the arms and above the nerves to the legs). His brain was not injured. Which of the following descriptions are correct?\n(1) When the area just below his knee is tapped, the knee jerk reflex can still occur.\n(2) When his foot is pricked lightly with a pin, he does not feel pain.\n(3) He cannot move his arms voluntarily.",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 27,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考下圖，解答第 27 和 28 題。下圖顯示人類視網膜內三類視錐細胞 X、Y 和 Z 對不同波長的光的相對吸收程度。\n\n以 590 nm 的光照射視網膜時，三類視錐細胞受刺激的程度如何？\nDirections: Questions 27 and 28 refer to the graph below, which shows the relative absorption of light of different wavelengths by three types of cone cells, X, Y and Z, in the human retina.\n\nWhen the retina is illuminated with light of 590 nm, to what extent are the three types of cone cells stimulated?",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "X：低；Y：低；Z：高\nX: low; Y: low; Z: high",
+      "B": "X：不受刺激；Y：高；Z：低\nX: not stimulated; Y: high; Z: low",
+      "C": "X：不受刺激；Y：不受刺激；Z：高\nX: not stimulated; Y: not stimulated; Z: high",
+      "D": "X：不受刺激；Y：低；Z：高\nX: not stimulated; Y: low; Z: high"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 28,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考下圖，解答第 27 和 28 題。下圖顯示人類視網膜內三類視錐細胞 X、Y 和 Z 對不同波長的光的相對吸收程度。\n\n某人天生缺少視錐細胞 Y，其他視錐細胞正常。以下哪個組合是正確的？\nDirections: Questions 27 and 28 refer to the graph below, which shows the relative absorption of light of different wavelengths by three types of cone cells, X, Y and Z, in the human retina.\n\nA person was born without cone cells Y, while the other cone cells are normal. Which of the following combinations is correct?",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "能看見 450 nm 的光：能；能憑顏色分辨 560 nm 和 620 nm 的光：不能\nCan see light of 450 nm: yes; can distinguish light of 560 nm and 620 nm by colour: no",
+      "B": "能看見 450 nm 的光：能；能憑顏色分辨 560 nm 和 620 nm 的光：能\nCan see light of 450 nm: yes; can distinguish light of 560 nm and 620 nm by colour: yes",
+      "C": "能看見 450 nm 的光：不能；能憑顏色分辨 560 nm 和 620 nm 的光：能\nCan see light of 450 nm: no; can distinguish light of 560 nm and 620 nm by colour: yes",
+      "D": "能看見 450 nm 的光：不能；能憑顏色分辨 560 nm 和 620 nm 的光：不能\nCan see light of 450 nm: no; can distinguish light of 560 nm and 620 nm by colour: no"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 29,
+    "section": "A",
+    "category": "生殖、生長和發育/Reproduction, growth and development",
+    "questionText": "考慮以下兩個陳述：\nI　母體和胎兒的血液在胎盤內不會混合。\nII　抗體可以經胎盤由母體進入胎兒。\n以下哪項是正確的？\nConsider the following two statements:\nI　The blood of the mother and that of the fetus do not mix in the placenta.\nII　Antibodies can pass from the mother to the fetus through the placenta.\nWhich of the following is correct?",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "I 和 II 均正確，且 II 能解釋 I。\nBoth I and II are correct, and II explains I.",
+      "B": "I 和 II 均正確，但 II 不能解釋 I。\nBoth I and II are correct, but II does not explain I.",
+      "C": "只有 I 正確。\nOnly I is correct.",
+      "D": "只有 II 正確。\nOnly II is correct."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 30,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考以下探究，解答第 30 和 31 題。學生把綠豆幼苗分成五組，每組三個托盤，每托盤 20 株。四組幼苗分別從一側照射藍光、綠光、紅光或白光 6 小時，另一組放在黑暗中。學生量度每托盤幼苗莖部彎向光源的平均角度，結果如下表所示。\n\n根據以上結果，以下哪項推論最合理？\nDirections: Questions 30 and 31 refer to the following investigation. A student divided mung bean seedlings into five groups, with three trays per group and 20 seedlings per tray. Four groups were illuminated from one side with blue, green, red or white light respectively for 6 hours, while the remaining group was kept in darkness. The student measured the mean angle by which the stems of the seedlings in each tray bent towards the light source. The results are shown in the table below.\n\nBased on the above results, which of the following deductions is the most reasonable?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "紅光抑制幼苗產生生長素。\nRed light inhibits the production of auxin in the seedlings.",
+      "B": "白光所引起的彎曲最大，所以白光最有效。\nWhite light causes the greatest bending, so it is the most effective.",
+      "C": "幼苗內負責偵測單向光的物質主要吸收藍光。\nThe substance in the seedlings that detects unilateral light mainly absorbs blue light.",
+      "D": "在黑暗中的幼苗沒有生長。\nThe seedlings in darkness did not grow."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 31,
+    "section": "A",
+    "category": "協調和反應/Coordination and response",
+    "questionText": "指示：參考以下探究，解答第 30 和 31 題。學生把綠豆幼苗分成五組，每組三個托盤，每托盤 20 株。四組幼苗分別從一側照射藍光、綠光、紅光或白光 6 小時，另一組放在黑暗中。學生量度每托盤幼苗莖部彎向光源的平均角度，結果如下表所示。\n\n以下哪項有關這探究的描述是正確的？\nDirections: Questions 30 and 31 refer to the following investigation. A student divided mung bean seedlings into five groups, with three trays per group and 20 seedlings per tray. Four groups were illuminated from one side with blue, green, red or white light respectively for 6 hours, while the remaining group was kept in darkness. The student measured the mean angle by which the stems of the seedlings in each tray bent towards the light source. The results are shown in the table below.\n\nWhich of the following descriptions about this investigation is correct?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "這探究的因變量是光的顏色。\nThe dependent variable of this investigation is the colour of light.",
+      "B": "黑暗組的結果顯示，幼苗在沒有光時不能產生生長素。\nThe results of the darkness group show that the seedlings cannot produce auxin in the absence of light.",
+      "C": "每種光用三個托盤，可以提高結果的有效性。\nUsing three trays for each type of light improves the validity of the results.",
+      "D": "黑暗組用以顯示幼苗的彎曲是由單向光引起的。\nThe darkness group is used to show that the bending of the seedlings is caused by unilateral light."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 32,
+    "section": "A",
+    "category": "生態系/Ecosystems",
+    "questionText": "指示：參考下圖，解答第 32 和 33 題。下圖顯示新界某條溪流的食物網。\n\n以下哪組生物全部都佔多於一個營養級？\nDirections: Questions 32 and 33 refer to the diagram below, which shows a food web in a stream in the New Territories.\n\nIn which of the following groups do all the organisms occupy more than one trophic level?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "溪蟹、魚和翠鳥\nFreshwater crab, fish and kingfisher",
+      "B": "魚和石蠅若蟲\nFish and stonefly nymph",
+      "C": "淡水螺和溪蟹\nFreshwater snail and freshwater crab",
+      "D": "蜉蝣若蟲和翠鳥\nMayfly nymph and kingfisher"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 33,
+    "section": "A",
+    "category": "生態系/Ecosystems",
+    "questionText": "指示：參考下圖，解答第 32 和 33 題。下圖顯示新界某條溪流的食物網。\n\n若一種只感染蜉蝣若蟲的病原體令大部分蜉蝣若蟲死亡，短期內以下哪種生物的數量最可能上升？\nDirections: Questions 32 and 33 refer to the diagram below, which shows a food web in a stream in the New Territories.\n\nIf a pathogen that infects only mayfly nymphs killed most of them, the population of which of the following organisms is most likely to increase in the short term?",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "石蠅若蟲\nStonefly nymph",
+      "B": "藻類\nAlgae",
+      "C": "石蛾幼蟲\nCaddisfly larva",
+      "D": "翠鳥\nKingfisher"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 34,
+    "section": "A",
+    "category": "生態系/Ecosystems",
+    "questionText": "指示：參考下圖，解答第 34 和 35 題。下圖顯示非洲草原上水牛、蜱和牛椋鳥之間的關係。蜱附在水牛身上吸血；牛椋鳥站在水牛身上啄食蜱。\n\n以下哪個組合正確顯示蜱與水牛之間，以及牛椋鳥與蜱之間的關係？\nDirections: Questions 34 and 35 refer to the diagram below, which shows the relationships among buffaloes, ticks and oxpeckers on an African grassland. Ticks attach to buffaloes and suck their blood. Oxpeckers stand on buffaloes and peck at the ticks.\n\nWhich of the following combinations correctly shows the relationship between ticks and buffaloes, and that between oxpeckers and ticks?",
+    "imageUrl": "q34.png",
+    "options": {
+      "A": "蜱與水牛：寄生；牛椋鳥與蜱：捕食\nTicks and buffaloes: parasitism; oxpeckers and ticks: predation",
+      "B": "蜱與水牛：捕食；牛椋鳥與蜱：寄生\nTicks and buffaloes: predation; oxpeckers and ticks: parasitism",
+      "C": "蜱與水牛：寄生；牛椋鳥與蜱：互利共生\nTicks and buffaloes: parasitism; oxpeckers and ticks: mutualism",
+      "D": "蜱與水牛：偏利共生；牛椋鳥與蜱：捕食\nTicks and buffaloes: commensalism; oxpeckers and ticks: predation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 35,
+    "section": "A",
+    "category": "生物多樣性和進化/Biodiversity and evolution",
+    "questionText": "指示：參考下圖，解答第 34 和 35 題。下圖顯示非洲草原上水牛、蜱和牛椋鳥之間的關係。蜱附在水牛身上吸血；牛椋鳥站在水牛身上啄食蜱。\n\n牧民長期在水牛身上噴灑殺蜱劑，數年後殺蜱劑的效用下降。以下哪些有關這現象的解釋是正確的？\n(1) 殺蜱劑令蜱發生突變，產生抗性。\n(2) 在開始使用殺蜱劑之前，蜱種群中已有少數個體帶有抗性等位基因。\n(3) 抗性等位基因在蜱種群中的頻率逐代上升。\nDirections: Questions 34 and 35 refer to the diagram below, which shows the relationships among buffaloes, ticks and oxpeckers on an African grassland. Ticks attach to buffaloes and suck their blood. Oxpeckers stand on buffaloes and peck at the ticks.\n\nHerders sprayed an acaricide (a pesticide that kills ticks) on buffaloes for a long time. After several years, the acaricide became less effective. Which of the following explanations about this phenomenon are correct?\n(1) The acaricide caused mutations in the ticks, making them resistant.\n(2) Before the acaricide was used, a few individuals in the tick population already carried the resistance allele.\n(3) The frequency of the resistance allele in the tick population increased generation after generation.",
+    "imageUrl": "q35.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 36,
+    "section": "A",
+    "category": "健康與疾病/Health and diseases",
+    "questionText": "一名男子被懷疑染有狂犬病病毒的狗咬傷後，醫生立即為他注射抗狂犬病抗體，並在之後數星期內為他接種數劑狂犬病疫苗。以下哪些描述是正確的？\n(1) 注射抗體能立即提供保護，這屬被動免疫。\n(2) 疫苗刺激他的淋巴細胞產生記憶細胞。\n(3) 注射抗體所提供的保護比接種疫苗所提供的保護持久。\nA man was bitten by a dog suspected to carry the rabies virus. A doctor immediately injected him with antibodies against rabies and gave him several doses of rabies vaccine over the following weeks. Which of the following descriptions are correct?\n(1) The injection of antibodies provides immediate protection, which is passive immunity.\n(2) The vaccine stimulates his lymphocytes to produce memory cells.\n(3) The protection provided by the injection of antibodies lasts longer than that provided by the vaccine.",
+    "imageUrl": "q36.png",
+    "options": {
+      "A": "只有 (1) 和 (2)\n(1) and (2) only",
+      "B": "只有 (1) 和 (3)\n(1) and (3) only",
+      "C": "只有 (2) 和 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 和 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  }
+]

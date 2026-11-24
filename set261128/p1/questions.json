@@ -1,0 +1,499 @@
+{
+ "paperTitleZh": "全新模擬卷 — 試卷一",
+ "paperTitle": "Mock Examination — Paper 1",
+ "durationMinutes": 135,
+ "totalMarks": 105,
+ "questions": [
+  {
+   "questionNumber": 1,
+   "section": "甲部(1)",
+   "categoryZh": "二次三項式的因式分解及由此解二次方程",
+   "categoryEn": "Factorizing a Quadratic Trinomial and Hence Solving a Quadratic Equation",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "因式分解 $2x^{2}+5x-3$ 。",
+     "questionTextEn": "Factorize $2x^{2}+5x-3$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，解方程 $2x^{2}+5x-3=0$ 。",
+     "questionTextEn": "Hence, solve the equation $2x^{2}+5x-3=0$ .",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 2,
+   "section": "甲部(1)",
+   "categoryZh": "三個同類二次根式的加減及由此求它的平方",
+   "categoryEn": "Combining Like Surds and Hence Finding the Square",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "化簡 $\\sqrt{50}-\\sqrt{18}+\\sqrt{8}$ ，答案須為最簡二次根式。",
+     "questionTextEn": "Simplify $\\sqrt{50}-\\sqrt{18}+\\sqrt{8}$ , giving the answer as a surd in its simplest form.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求 $\\left(\\sqrt{50}-\\sqrt{18}+\\sqrt{8}\\right)^{2}$ 的值。",
+     "questionTextEn": "Hence, find the value of $\\left(\\sqrt{50}-\\sqrt{18}+\\sqrt{8}\\right)^{2}$ .",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 3,
+   "section": "甲部(1)",
+   "categoryZh": "把單利本利和公式中的年利率變為公式的主項並由此求值",
+   "categoryEn": "Making the Interest Rate the Subject of the Simple Interest Formula",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知以單利計算的本利和為 $A=P(1+rn)$ ，其中 $P$ 為本金、 $r$ 為年利率而 $n$ 為年期。把 $r$ 變為這條公式的主項。",
+     "questionTextEn": "The amount under simple interest is $A=P(1+rn)$ , where $P$ is the principal, $r$ is the interest rate per annum and $n$ is the number of years. Make $r$ the subject of the formula.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求當 $A=6500$ 、 $P=5000$ 及 $n=6$ 時 $r$ 的值。",
+     "questionTextEn": "Hence, find the value of $r$ when $A=6500$ , $P=5000$ and $n=6$ .",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 4,
+   "section": "甲部(1)",
+   "categoryZh": "等腰三角形中由一腰上的高所成的角求頂角、底角及該高與底邊所成的角",
+   "categoryEn": "Angles of an Isosceles Triangle Determined by an Altitude on a Leg",
+   "difficultyGrade": "A-",
+   "figureSpecId": "F56-Q4",
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圖中 $\\triangle ABC$ 是一個等腰三角形的支架，其中 $AB=AC$ 。$D$ 是 $AC$ 上一點，使 $BD\\perp AC$ 。已知 $\\angle ABD=24^{\\circ}$ 。求 $\\angle BAC$ 。",
+     "questionTextEn": "In the figure, $\\triangle ABC$ is an isosceles triangular support in which $AB=AC$ . $D$ is a point on $AC$ such that $BD\\perp AC$ . It is given that $\\angle ABD=24^{\\circ}$ . Find $\\angle BAC$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求 $\\angle ABC$ 及 $\\angle DBC$ 。",
+     "questionTextEn": "Hence, find $\\angle ABC$ and $\\angle DBC$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 5,
+   "section": "甲部(1)",
+   "categoryZh": "由圓內接正六邊形的邊長求六邊形的面積及圓內而六邊形外的部分的面積",
+   "categoryEn": "The Area of a Regular Hexagon Inscribed in a Circle and the Remaining Region",
+   "difficultyGrade": "A-",
+   "figureSpecId": "F56-Q5",
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圖中的正六邊形內接於一個圓，而這個正六邊形的邊長為 $6$ cm。求這個正六邊形的面積，答案以根式表示。",
+     "questionTextEn": "In the figure, the regular hexagon is inscribed in a circle and the side of the hexagon is $6$ cm. Find the area of the hexagon, giving the answer as a surd.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求圓內而正六邊形以外的部分的面積，答案準確至三位有效數字。",
+     "questionTextEn": "Find the area of the region inside the circle but outside the hexagon, correct to $3$ significant figures.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 6,
+   "section": "甲部(1)",
+   "categoryZh": "由兩批貨品各自的利潤率及虧損率求總售價及整體利潤率",
+   "categoryEn": "The Total Selling Price and the Overall Profit Percent of Two Batches of Goods",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某商店以 $8000$ 元購入甲貨品而以 $12000$ 元購入乙貨品。甲貨品以 $25\\%$ 的利潤率售出，而乙貨品以 $10\\%$ 的虧損率售出。求這兩批貨品的總售價。",
+     "questionTextEn": "A shop buys article A for $8000$ dollars and article B for $12000$ dollars. Article A is sold at a profit of $25\\%$ while article B is sold at a loss of $10\\%$ . Find the total selling price of the two articles.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求該商店在這兩批貨品上的整體利潤率。",
+     "questionTextEn": "Hence, find the overall profit percent of the shop on the two articles.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 7,
+   "section": "甲部(1)",
+   "categoryZh": "由六個數據求平均數與中位數並由整體加上一個常數後的平均數反求該常數及新的眾數",
+   "categoryEn": "The Mean and Median of Six Data and the Effect of Adding a Constant",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知六個數據為 $7$ 、 $9$ 、 $12$ 、 $12$ 、 $15$ 及 $17$ 。求這組數據的平均數及中位數。",
+     "questionTextEn": "The six data $7$ , $9$ , $12$ , $12$ , $15$ and $17$ are given. Find the mean and the median of the data.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若把每個數據都加上 $k$ ，所得的新數據的平均數為 $20$ 。求 $k$ 的值及新數據的眾數。",
+     "questionTextEn": "If $k$ is added to each of the data, the mean of the new data is $20$ . Find the value of $k$ and the mode of the new data.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 8,
+   "section": "甲部(1)",
+   "categoryZh": "由二次方程有兩個相等的實根求參數的值及一個關於重根是否為正數的聲稱",
+   "categoryEn": "A Quadratic Equation with Equal Roots and a Claim about the Sign of the Root",
+   "difficultyGrade": "A",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知二次方程 $x^{2}-(k+2)x+9=0$ 有兩個相等的實根，其中 $k$ 為實數。求 $k$ 的值。",
+     "questionTextEn": "It is given that the quadratic equation $x^{2}-(k+2)x+9=0$ has two equal real roots, where $k$ is a real number. Find the values of $k$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有人聲稱：對於在 (a) 所求得的每一個 $k$ 的值，該方程的重根都是正數。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Someone claims that for each of the values of $k$ found in (a), the repeated root of the equation is positive. Do you agree? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 9,
+   "section": "甲部(1)",
+   "categoryZh": "由三角形的三個頂點求三條邊的長、證明它是直角三角形並求面積",
+   "categoryEn": "The Sides of a Triangle from Its Vertices, a Proof of a Right Angle and the Area",
+   "difficultyGrade": "A",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在以米為單位的直角坐標平面上，一塊三角形園地的三個頂點為 $A(1,2)$ 、 $B(7,2)$ 及 $C(7,10)$ 。求 $AB$ 、 $BC$ 及 $AC$ 的長。",
+     "questionTextEn": "In a rectangular coordinate plane with metre as unit, the three vertices of a triangular garden are $A(1,2)$ , $B(7,2)$ and $C(7,10)$ . Find the lengths of $AB$ , $BC$ and $AC$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，證明 $\\triangle ABC$ 是一個直角三角形，並求這塊園地的面積。",
+     "questionTextEn": "Hence, prove that $\\triangle ABC$ is a right-angled triangle and find the area of the garden.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 10,
+   "section": "甲部(2)",
+   "categoryZh": "聲音強度與距離的平方成反變：求關係式、指定距離的強度及由強度反求距離",
+   "categoryEn": "Sound Intensity Varying Inversely as the Square of the Distance",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某一點的聲音強度 $I$ 與該點至音源的距離 $d$ 的平方成反變。已知當 $d=4$ m 時 $I=50$ 單位。求 $I$ 關於 $d$ 的關係式。",
+     "questionTextEn": "The sound intensity $I$ at a point varies inversely as the square of the distance $d$ between the point and the source. When $d=4$ m, $I=50$ units. Express $I$ in terms of $d$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求當 $d=10$ m 時 $I$ 的值。",
+     "questionTextEn": "Find the value of $I$ when $d=10$ m.",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "若某一點的聲音強度為 $2$ 單位，求該點至音源的距離。",
+     "questionTextEn": "If the sound intensity at a point is $2$ units, find the distance between the point and the source.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 11,
+   "section": "甲部(2)",
+   "categoryZh": "由正方體木塊削出最大的球：正方體及球的體積及削去部分所佔的百分率",
+   "categoryEn": "Carving the Largest Sphere out of a Cube",
+   "difficultyGrade": "A",
+   "figureSpecId": "F56-Q11",
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圖中的擺設由一塊正方體的木塊削成一個最大的球。已知該正方體的棱長為 $12$ cm。求這塊正方體木塊的體積。",
+     "questionTextEn": "The ornament in the figure is made by carving the largest possible sphere out of a cubical block of wood. The length of an edge of the cube is $12$ cm. Find the volume of the cubical block.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求所削成的球的體積，答案以 $\\pi$ 表示。",
+     "questionTextEn": "Find the volume of the sphere carved, giving the answer in terms of $\\pi$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "由此，求削去部分的體積佔原來正方體體積的百分率，答案準確至三位有效數字。",
+     "questionTextEn": "Hence, find the percentage of the volume of the original cube that is carved away, correct to $3$ significant figures.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 12,
+   "section": "甲部(2)",
+   "categoryZh": "機器按固定百分率折舊：指定年數後的價值、價值首次低於原價一半的年數及一個關於首五年與其後五年折舊額的聲稱",
+   "categoryEn": "Depreciation of a Machine at a Fixed Percentage per Year",
+   "difficultyGrade": "A+",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一部機器的原價為 $80000$ 元，而它的價值每年按 $15\\%$ 折舊。求 $3$ 年後這部機器的價值，答案準確至最接近的元。",
+     "questionTextEn": "The original value of a machine is $80000$ dollars and its value depreciates at $15\\%$ per annum. Find the value of the machine after $3$ years, correct to the nearest dollar.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求這部機器的價值首次低於原價的一半所需的年數。",
+     "questionTextEn": "Find the number of years needed for the value of the machine to be less than half of its original value for the first time.",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "有人聲稱：這部機器在首 $5$ 年內的總折舊額多於其後 $5$ 年內的總折舊額的兩倍。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Someone claims that the total depreciation of the machine in the first $5$ years is more than twice the total depreciation in the next $5$ years. Do you agree? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 13,
+   "section": "甲部(2)",
+   "categoryZh": "兩個分母為一減餘弦與一加餘弦的分式之和的恆等式的證明、由此求值及解一條三角方程",
+   "categoryEn": "An Identity Involving Two Fractions with Denominators 1 - cos and 1 + cos",
+   "difficultyGrade": "A",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "證明 $\\dfrac{1}{1-\\cos\\theta}+\\dfrac{1}{1+\\cos\\theta}=\\dfrac{2}{\\sin^{2}\\theta}$ ，其中 $\\sin\\theta$ 不等於 $0$ 。",
+     "questionTextEn": "Prove that $\\dfrac{1}{1-\\cos\\theta}+\\dfrac{1}{1+\\cos\\theta}=\\dfrac{2}{\\sin^{2}\\theta}$ , where $\\sin\\theta$ is not $0$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知 $\\cos\\theta=\\dfrac{3}{5}$ 。由此，求 $\\dfrac{1}{1-\\cos\\theta}+\\dfrac{1}{1+\\cos\\theta}$ 的值。",
+     "questionTextEn": "It is given that $\\cos\\theta=\\dfrac{3}{5}$ . Hence, find the value of $\\dfrac{1}{1-\\cos\\theta}+\\dfrac{1}{1+\\cos\\theta}$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "解方程 $\\dfrac{1}{1-\\cos\\theta}+\\dfrac{1}{1+\\cos\\theta}=4$ ，其中 $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ 。",
+     "questionTextEn": "Solve the equation $\\dfrac{1}{1-\\cos\\theta}+\\dfrac{1}{1+\\cos\\theta}=4$ , where $0^{\\circ}\\le\\theta\\le 360^{\\circ}$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 14,
+   "section": "甲部(2)",
+   "categoryZh": "正四角錐中求斜高、一個側面與底面所成的角、一條側棱的長及側棱與底面所成的角",
+   "categoryEn": "A Right Pyramid: Slant Height, Dihedral Angle, Lateral Edge and Its Inclination",
+   "difficultyGrade": "A",
+   "figureSpecId": "F56-Q14",
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圖中 $VABCD$ 是一個正四角錐形的帳幕，其中底面 $ABCD$ 是一個邊長為 $10$ cm 的正方形而帳幕的高 $VO=12$ cm，$O$ 為底面的中心。設 $M$ 為 $AB$ 的中點。求斜高 $VM$ 的長。",
+     "questionTextEn": "In the figure, $VABCD$ is a tent in the shape of a right pyramid whose base $ABCD$ is a square of side $10$ cm and whose height $VO$ is $12$ cm, where $O$ is the centre of the base. Let $M$ be the mid-point of $AB$ . Find the slant height $VM$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求側面 $VAB$ 與底面 $ABCD$ 所成的角，答案準確至三位有效數字。",
+     "questionTextEn": "Find the angle between the face $VAB$ and the base $ABCD$ , correct to $3$ significant figures.",
+     "totalMarks": 2
+    },
+    {
+     "label": "c",
+     "questionTextZh": "求側棱 $VB$ 的長，答案準確至三位有效數字。",
+     "questionTextEn": "Find the length of the lateral edge $VB$ , correct to $3$ significant figures.",
+     "totalMarks": 2
+    },
+    {
+     "label": "d",
+     "questionTextZh": "求側棱 $VB$ 與底面 $ABCD$ 所成的角，答案準確至三位有效數字。",
+     "questionTextEn": "Find the angle between the lateral edge $VB$ and the base $ABCD$ , correct to $3$ significant figures.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 15,
+   "section": "乙部",
+   "categoryZh": "兩個複數之商的化簡及由此求它的平方的實部與虛部",
+   "categoryEn": "Simplifying a Quotient of Complex Numbers and Hence Finding a Square",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "把 $\\dfrac{10+5i}{1+2i}$ 化成 $a+bi$ 的形式，其中 $a$ 及 $b$ 為實數而 $i$ 為虛數單位。",
+     "questionTextEn": "Express $\\dfrac{10+5i}{1+2i}$ in the form $a+bi$ , where $a$ and $b$ are real numbers and $i$ is the imaginary unit.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求 $\\left(\\dfrac{10+5i}{1+2i}\\right)^{2}$ 的實部及虛部。",
+     "questionTextEn": "Hence, find the real part and the imaginary part of $\\left(\\dfrac{10+5i}{1+2i}\\right)^{2}$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 16,
+   "section": "乙部",
+   "categoryZh": "由成等比的三個數之和及積求這三個數",
+   "categoryEn": "Three Numbers in Geometric Sequence Given Their Sum and Product",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "已知三個正數成等比數列，它們的和為 $21$ 而它們的積為 $216$ 。求這三個數之中位於中間的一個。",
+     "questionTextEn": "Three positive numbers are in geometric sequence. Their sum is $21$ and their product is $216$ . Find the middle one of the three numbers.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求這三個數。",
+     "questionTextEn": "Hence, find the three numbers.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 17,
+   "section": "乙部",
+   "categoryZh": "由圓的一般式求圓心與半徑並判斷一個關於一條直線與圓相切的宣稱",
+   "categoryEn": "The Centre and Radius of a Circle and a Claim about a Tangent Line",
+   "difficultyGrade": "A+",
+   "figureSpecId": null,
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "在坐標平面上，圓 $C$ 的方程為 $x^{2}+y^{2}-4x-2y-20=0$ 。求 $C$ 的圓心的坐標及半徑。",
+     "questionTextEn": "In the rectangular coordinate plane, the equation of the circle $C$ is $x^{2}+y^{2}-4x-2y-20=0$ . Find the coordinates of the centre and the radius of $C$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "某人宣稱：直線 $4x-3y-5=0$ 與圓 $C$ 相切。該宣稱是否正確？試解釋你的答案。",
+     "questionTextEn": "Someone claims that the straight line $4x-3y-5=0$ is a tangent to the circle $C$ . Is the claim correct? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 18,
+   "section": "乙部",
+   "categoryZh": "由兩種飼料的營養下限寫出約束條件、求可行區域的頂點並求最低成本",
+   "categoryEn": "Minimizing the Cost of a Feed Mixture under Two Nutrient Constraints",
+   "difficultyGrade": "A+",
+   "figureSpecId": "F56-Q18",
+   "totalMarks": 9,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某農場以甲料及乙料配製飼料。每包甲料含蛋白質 $2$ 單位及纖維 $1$ 單位，而每包乙料含蛋白質 $1$ 單位及纖維 $2$ 單位。為確保牲畜的營養足夠，農場規定每批飼料所含的蛋白質最少為 $20$ 單位，而所含的纖維最少為 $22$ 單位。設每批飼料用 $x$ 包甲料及 $y$ 包乙料，其中 $x$ 及 $y$ 皆為非負的實數。寫出 $x$ 及 $y$ 所須滿足的所有不等式。",
+     "questionTextEn": "A farm prepares a feed from feed A and feed B. Each bag of feed A contains $2$ units of protein and $1$ unit of fibre, while each bag of feed B contains $1$ unit of protein and $2$ units of fibre. The farm requires each batch of feed to contain at least $20$ units of protein and at least $22$ units of fibre. Let $x$ bags of feed A and $y$ bags of feed B be used in each batch, where $x$ and $y$ are non-negative real numbers. Write down all the inequalities that $x$ and $y$ must satisfy.",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "由此，求圖中可行區域的三個頂點的坐標。",
+     "questionTextEn": "Hence, find the coordinates of the three vertices of the feasible region shown in the figure.",
+     "totalMarks": 3
+    },
+    {
+     "label": "c",
+     "questionTextZh": "已知每包甲料的成本為 $30$ 元而每包乙料的成本為 $20$ 元。求配製一批飼料的最低總成本，以及相應的甲料及乙料的包數。",
+     "questionTextEn": "The cost of each bag of feed A is $30$ dollars and the cost of each bag of feed B is $20$ dollars. Find the lowest total cost of preparing a batch of feed and the corresponding numbers of bags of feed A and feed B.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 19,
+   "section": "乙部",
+   "categoryZh": "由河岸上兩個觀測點的夾角求對岸一點至兩點連線的距離的證明、由此求距離、兩段視線的長，以及一個關於兩角同時增加一成的聲稱",
+   "categoryEn": "Finding the Distance to an Inaccessible Point from Two Observation Stations",
+   "difficultyGrade": "A+",
+   "figureSpecId": "F56-Q19",
+   "totalMarks": 12,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "一條筆直的河流把兩岸分開，而兩岸的岸線互相平行。一名測量員要量度對岸一棵大樹至己方岸線的距離，可是河水湍急而他無法渡河，故他只可以在己方的岸上量度角度及距離。圖中，$A$ 及 $B$ 是同一岸上的兩個觀測點，而 $C$ 是對岸的那棵大樹；由於無法渡河，他無法直接量度 $C$ 至該岸的距離。已知 $AB=d$ 、 $\\angle BAC=\\alpha$ 及 $\\angle ABC=\\beta$ ，其中 $\\alpha$ 及 $\\beta$ 皆為銳角。設 $H$ 為 $C$ 在直線 $AB$ 上的垂足而 $CH=h$ 。證明 $h=\\dfrac{d\\sin\\alpha\\sin\\beta}{\\sin(\\alpha+\\beta)}$ 。",
+     "questionTextEn": "A straight river separates the two banks, and the two banks are parallel to each other. A surveyor wants to measure the distance between a tree on the opposite bank and his own bank, but the current is swift and he cannot cross the river, so he can only measure angles and distances on his own bank. In the figure, $A$ and $B$ are two observation stations on the same bank and $C$ is that tree on the opposite bank. As he cannot cross the river, he cannot measure the distance from $C$ to the bank directly. It is given that $AB=d$ , $\\angle BAC=\\alpha$ and $\\angle ABC=\\beta$ , where $\\alpha$ and $\\beta$ are acute angles. Let $H$ be the foot of perpendicular from $C$ to the line $AB$ and $CH=h$ . Prove that $h=\\dfrac{d\\sin\\alpha\\sin\\beta}{\\sin(\\alpha+\\beta)}$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b(i)",
+     "questionTextZh": "由此，求這棵大樹至該岸的距離 $h$ 。",
+     "questionTextEn": "Hence, find the distance $h$ between the tree and the bank.",
+     "totalMarks": 3
+    },
+    {
+     "label": "b(ii)",
+     "questionTextZh": "求兩條視線 $AC$ 及 $BC$ 的長。",
+     "questionTextEn": "Find the lengths of the two lines of sight $AC$ and $BC$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b(iii)",
+     "questionTextZh": "某人宣稱：若 $\\angle BAC$ 及 $\\angle ABC$ 各自增加 $10\\%$ 而 $AB$ 保持不變，則 $h$ 亦會增加 $10\\%$ 。該宣稱是否正確？試解釋你的答案。",
+     "questionTextEn": "Someone claims that if each of $\\angle BAC$ and $\\angle ABC$ is increased by $10\\%$ while $AB$ remains unchanged, then $h$ will also be increased by $10\\%$ . Is the claim correct? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  }
+ ]
+}

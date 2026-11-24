@@ -1,0 +1,313 @@
+{
+  "paperTitleZh": "企會財 全新模擬卷 — 卷二甲（會計單元）",
+  "paperTitle": "BAFS Mock — Paper 2A (Accounting)",
+  "durationMinutes": 150,
+  "totalMarks": 88,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "A",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "綠野單車店由東主林志明（Lam Chi Ming）經營。以下是 2026 年 9 月的交易：\n\n答題表\n交易 | 原始分錄簿 | 借記帳戶 | 貸記帳戶\n(1) 2 日：向疾風貿易賒購單車，定價 $18 000，獲 10% 交易折扣 |  |  | \n(2) 5 日：收到疾風貿易就退回的損壞單車發出的貸項通知單 |  |  | \n(3) 8 日：東主把私人儲蓄 $50 000 存入商號的銀行戶口，作為額外資本 |  |  | \n(4) 11 日：賒銷單車予騎樂單車會 |  |  | \n(5) 15 日：向恒達辦公設備賒購一部收銀機供店舖使用 |  |  | \n(6) 19 日：東主從店內取去一部單車自用 |  |  | \n(7) 24 日：騎樂單車會以支票清還欠款，並獲現金折扣 |  |  | \n(8) 30 日：把客戶周偉文的欠款撇銷為壞帳 |  |  | \n\n試：\n就每項交易，指出應記錄的原始分錄簿，以及需借記和需貸記的帳戶，把答案填入答題表。（8 分）",
+          "questionTextEn": "Green Field Cycle Shop is owned by Lam Chi Ming. The following transactions took place in September 2026:\n\nAnswer table\nTransaction | Book of original entry | Account debited | Account credited\n(1) 2nd: Bought bicycles on credit from Gale Trading, list price $18 000, less 10% trade discount |  |  | \n(2) 5th: Received a credit note from Gale Trading for faulty bicycles returned |  |  | \n(3) 8th: The owner paid $50 000 of his private savings into the business bank account as additional capital |  |  | \n(4) 11th: Sold bicycles on credit to Ride Joy Cycling Club |  |  | \n(5) 15th: Bought a cash register on credit from Hang Tat Office Equipment for shop use |  |  | \n(6) 19th: The owner took a bicycle from the shop for personal use |  |  | \n(7) 24th: Ride Joy Cycling Club settled its account by cheque and was given a cash discount |  |  | \n(8) 30th: Wrote off the debt owed by customer Chow Wai Man as a bad debt |  |  | \n\nREQUIRED:\nFor each transaction, identify the book of original entry in which it should be recorded and the accounts to be debited and credited. Fill in the answer table. (8 marks)",
+          "totalMarks": 8
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "A",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "海晴海產批發的財政年度於每年 12 月 31 日結束。貨車按行駛里數計算折舊：（成本 − 殘值）÷ 估計總行駛里數 × 該年行駛里數。\n\n貨車 A 於 2023 年 1 月 1 日以 $360 000 購入，估計殘值 $40 000，估計總行駛里數 200 000 公里。2023 年至 2025 年分別行駛 45 000、52 000 及 48 000 公里。2026 年 1 月 1 日至 6 月 30 日行駛 20 000 公里，並於 2026 年 6 月 30 日以支票 $150 000 售出。\n\n2026 年 7 月 1 日，商號購入冷藏貨車 B，相關開支如下表：\n\n貨車 B 的開支\n項目 | $\n定價（獲 5% 交易折扣） | 480 000\n安裝冷藏設備 | 38 000\n車身噴上公司標誌 | 6 500\n首次登記稅 | 22 000\n一年車輛牌照費 | 7 800\n一年綜合保險 | 9 600\n首次入油 | 1 200\n司機冷藏設備操作培訓 | 3 000\n\n貨車 B 估計殘值 $42 500，估計總行駛里數 240 000 公里。2026 年 7 月 1 日至 12 月 31 日行駛 28 000 公里。商號在 2026 年沒有其他貨車。\n\n試：\n編製報表計算貨車 B 需資本化的成本。（3 分）",
+          "questionTextEn": "Hoi Ching Seafood Wholesale has a financial year ending on 31 December. Motor vans are depreciated by mileage: (cost − residual value) ÷ estimated total mileage × mileage for the year.\n\nVan A was bought on 1 January 2023 for $360 000, with an estimated residual value of $40 000 and an estimated total mileage of 200 000 km. It ran 45 000, 52 000 and 48 000 km in 2023 to 2025 respectively. From 1 January to 30 June 2026 it ran 20 000 km, and it was sold for a cheque of $150 000 on 30 June 2026.\n\nOn 1 July 2026, the firm bought refrigerated Van B. The expenditure is shown in the table below.\n\nExpenditure on Van B\nItem | $\nList price (5% trade discount given) | 480 000\nInstallation of refrigeration unit | 38 000\nPainting company logo on the body | 6 500\nFirst registration tax | 22 000\nOne-year vehicle licence fee | 7 800\nOne-year comprehensive insurance | 9 600\nFirst tank of fuel | 1 200\nDriver training on the refrigeration unit | 3 000\n\nVan B has an estimated residual value of $42 500 and an estimated total mileage of 240 000 km. It ran 28 000 km from 1 July to 31 December 2026. The firm had no other motor vans in 2026.\n\nREQUIRED:\nPrepare a statement to calculate the cost of Van B to be capitalised. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "編製截至 2026 年 12 月 31 日止年度的累積折舊 – 貨車帳。（5 分）",
+          "questionTextEn": "Prepare the accumulated depreciation – motor vans account for the year ended 31 December 2026. (5 marks)",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "A",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "星河家品出售智能水壺，採用先進先出法為存貨估值。11 月份紀錄如下：\n\n智能水壺 2026 年 11 月存貨紀錄\n日期 | 交易\n11 月 1 日 | 期初存貨 300 個，每個成本 $52\n11 月 5 日 | 購入 500 個，每個 $55\n11 月 12 日 | 售出 450 個，每個 $90\n11 月 18 日 | 購入 400 個，每個 $58，另付購貨運費 $800\n11 月 25 日 | 售出 520 個，每個 $88\n\n11 月 30 日盤點時，發現 30 個 11 月 18 日購入的水壺外殼刮花，每個須花 $8 修理，修理後估計每個只能以 $45 售出。\n\n試：\n計算 2026 年 11 月 30 日期末存貨的價值。（3 分）",
+          "questionTextEn": "Star River Homeware sells smart bottles and values inventory using the first-in, first-out (FIFO) method. Its records for November are as follows:\n\nSmart bottle inventory records, November 2026\nDate | Transaction\n1 Nov | Opening inventory: 300 units at $52 each\n5 Nov | Bought 500 units at $55 each\n12 Nov | Sold 450 units at $90 each\n18 Nov | Bought 400 units at $58 each, plus carriage inwards of $800\n25 Nov | Sold 520 units at $88 each\n\nAt the stocktake on 30 November, 30 bottles bought on 18 November were found scratched. Each needs $8 of repairs and can then be sold for only $45.\n\nREQUIRED:\nCalculate the value of closing inventory on 30 November 2026. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "編製截至 2026 年 11 月 30 日止月份的損益表摘錄，列示至毛利。（3 分）",
+          "questionTextEn": "Prepare an extract of the income statement for the month ended 30 November 2026, showing up to gross profit. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c",
+          "questionTextZh": "簡單解釋為何上述 30 個水壺須以低於成本的金額入帳。（2 分）",
+          "questionTextEn": "Briefly explain why the 30 bottles above should be recorded at an amount below cost. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "A",
+      "categoryZh": "成本會計",
+      "categoryEn": "Cost Accounting",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "綠匙膳食生產並外送午餐飯盒，每盒售 $38。2026 年上半年的生產間接成本如下表：\n\n2026 年 1 月至 6 月生產間接成本\n月份 | 產量（盒） | 生產間接成本 $\n1 月 | 8 000 | 62 400\n2 月 | 6 000 | 52 800\n3 月 | 9 200 | 68 300\n4 月 | 11 000 | 76 800\n5 月 | 10 500 | 78 900\n6 月 | 7 000 | 57 600\n\n其他每盒成本：食材 $14.2、包裝 $1.5、直接人工 $6.0；外送平台每盒收取佣金 $1.0。除生產間接成本內的固定部分外，每月另有固定行政費用 $18 000。\n\n試：\n以高低法計算每盒變動生產間接成本及每月固定生產間接成本。（2 分）",
+          "questionTextEn": "Green Spoon Meals produces and delivers lunch boxes at $38 each. Production overheads for the first half of 2026 are shown in the table below.\n\nProduction overheads, January to June 2026\nMonth | Output (boxes) | Production overheads $\nJanuary | 8 000 | 62 400\nFebruary | 6 000 | 52 800\nMarch | 9 200 | 68 300\nApril | 11 000 | 76 800\nMay | 10 500 | 78 900\nJune | 7 000 | 57 600\n\nOther costs per box: food $14.2, packaging $1.5, direct labour $6.0; the delivery platform charges a commission of $1.0 per box. Apart from the fixed element of production overheads, there are fixed administrative expenses of $18 000 per month.\n\nREQUIRED:\nUsing the high-low method, calculate the variable production overhead per box and the fixed production overheads per month. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "計算每盒的邊際貢獻。（2 分）",
+          "questionTextEn": "Calculate the contribution margin per box. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "計算每月的損益兩平點數量。（2 分）",
+          "questionTextEn": "Calculate the monthly breakeven point in quantity. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "計算每月須售出多少盒飯盒，才可賺取目標利潤 $21 000。（2 分）",
+          "questionTextEn": "Calculate the number of boxes to be sold each month to earn a target profit of $21 000. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "A",
+      "categoryZh": "基礎會計",
+      "categoryEn": "Introduction to Accounting",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "柏宇補習中心由東主鄭柏宇（Cheng Pak Yu）經營，財政年度於 12 月 31 日結束。\n2026 年 12 月，中心收到學生預繳 2027 年 1 月至 3 月的學費 $96 000，簿記員把全數記作 2026 年的收益。試以一項會計原則或概念解釋這做法是否恰當。（2 分）",
+          "questionTextEn": "Pak Yu Tutorial Centre is owned by Cheng Pak Yu. Its financial year ends on 31 December.\nIn December 2026, the centre received $96 000 of tuition fees in advance for January to March 2027. The bookkeeper recorded the whole amount as revenue for 2026. Explain, with one accounting principle or concept, whether this treatment is appropriate. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "中心的物業於 2018 年以 $3 200 000 購入，現時市值約 $4 500 000。鄭柏宇認為物業升值是中心的收益，要求簿記員把物業按市值入帳，並把增值 $1 300 000 記入本年度的損益表。試以兩項會計原則或概念解釋為何不應這樣做。（4 分）",
+          "questionTextEn": "The centre's premises were bought in 2018 for $3 200 000 and are now worth about $4 500 000. Cheng Pak Yu regards the increase in value as income of the centre. He asks the bookkeeper to record the premises at market value and include the increase of $1 300 000 in this year's income statement. Explain, with two accounting principles or concepts, why this should not be done. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "B",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "凱揚科技有限公司的財政年度於 12 月 31 日結束。2026 年 1 月 1 日的股東資本如下：\n\n凱揚科技有限公司 2026 年 1 月 1 日股東資本\n | $\n普通股，每股 $2，繳足 | 1 600 000\n5% 優先股，每股 $1，繳足 | 400 000\n股本溢價 | 120 000\n普通盈餘儲備 | 180 000\n留存利潤 | 356 000\n\n2026 年的其他資料：\n(1) 2026 年 4 月 1 日，公司按每股 $2.60 發行 200 000 股普通股，股款已全數收妥。\n(2) 稅後淨利為 $412 000。\n(3) 2026 年 3 月宣派並派付 2025 年度末期普通股息每股 $0.10（按當時已發行股份計）。\n(4) 2026 年 9 月宣派並派付 2026 年度中期普通股息每股 $0.05（按當時已發行股份計），並派付全年優先股息。\n(5) 董事局議決撥備普通盈餘儲備 $60 000。\n(6) 2027 年 3 月 10 日，董事局宣派 2026 年度末期普通股息每股 $0.12。\n(7) 公司有 6% 債券 $900 000，於 2031 年到期。\n\n試：\n編製報表計算 2026 年 12 月 31 日的股東資本。（4 分）",
+          "questionTextEn": "Hoi Yeung Technology Limited has a financial year ending on 31 December. Its shareholders' funds on 1 January 2026 were as follows:\n\nHoi Yeung Technology Limited – shareholders' funds on 1 January 2026\n | $\nOrdinary shares of $2 each, fully paid | 1 600 000\n5% preference shares of $1 each, fully paid | 400 000\nShare premium | 120 000\nGeneral reserve | 180 000\nRetained profits | 356 000\n\nOther information for 2026:\n(1) On 1 April 2026, the company issued 200 000 ordinary shares at $2.60 each; all money was received.\n(2) Net profit after tax was $412 000.\n(3) In March 2026, a 2025 final ordinary dividend of $0.10 per share (on the shares then in issue) was declared and paid.\n(4) In September 2026, a 2026 interim ordinary dividend of $0.05 per share (on the shares then in issue) was declared and paid, and the full-year preference dividend was paid.\n(5) The board resolved to transfer $60 000 to general reserve.\n(6) On 10 March 2027, the board declared a 2026 final ordinary dividend of $0.12 per share.\n(7) The company has 6% debentures of $900 000, repayable in 2031.\n\nREQUIRED:\nPrepare a statement to calculate the shareholders' funds as at 31 December 2026. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "計算 2026 年 12 月 31 日的槓桿比率（至小數點後兩位）。（2 分）",
+          "questionTextEn": "Calculate the gearing ratio as at 31 December 2026 (to two decimal places). (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "以年終已發行普通股股數，計算 2026 年的每股盈利（至小數點後兩位）。（2 分）",
+          "questionTextEn": "Using the number of ordinary shares in issue at the year end, calculate the earnings per share for 2026 (to two decimal places). (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "建議一個可降低公司槓桿比率的方法，並解釋。（2 分）",
+          "questionTextEn": "Suggest one way to lower the company's gearing ratio and explain. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "B",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "方志強（Fong Chi Keung）、何美寶（Ho Mei Po）及莫子健（Mok Tsz Kin）合夥經營家品店「盈峰」，損益按 2:2:1 比率分配。三人決定於 2027 年 4 月 1 日解散合夥。2027 年 3 月 31 日的財務狀況表如下：\n\n盈峰 2027 年 3 月 31 日的財務狀況表\n | $ | $\n店舖裝置，淨值 |  | 186 000\n貨車，淨值 |  | 92 000\n存貨 | 74 000 | \n應收貨款 | 58 000 | \n銀行存款 | 26 000 | 158 000\n |  | 436 000\n資本帳 – 方志強／何美寶／莫子健 |  | 160 000 / 120 000 / 30 000\n往來帳 – 方志強／何美寶／莫子健 |  | 12 000 / 8 000 / (10 000)\n何美寶的貸款 |  | 40 000\n應付貨款 |  | 64 000\n應計工資 |  | 12 000\n |  | 436 000\n\n解散時的資料：\n(1) 店舖裝置售得 $98 000。\n(2) 莫子健以協定價 $80 000 接收貨車。\n(3) 60% 存貨售得 $52 000；其餘存貨由方志強以協定價 $24 000 接收。\n(4) 收回應收貨款 $54 500，其餘無法收回。\n(5) 一名顧客提出保用索償，合夥支付 $6 000；此負債以往未有入帳。\n(6) 應付貨款以 $61 500 全數清還。\n(7) 應計工資及何美寶的貸款全數以銀行存款清還。\n(8) 變產費用 $4 800 以銀行存款支付。\n(9) 往來帳結餘轉入資本帳。所有合夥人均有能力償還債務。\n\n試：\n編製變產帳。（5 分）",
+          "questionTextEn": "Fong Chi Keung, Ho Mei Po and Mok Tsz Kin are partners in \"Ying Fung\", a homeware shop, sharing profits and losses in the ratio of 2:2:1. They decided to dissolve the partnership on 1 April 2027. The statement of financial position as at 31 March 2027 was as follows:\n\nYing Fung – Statement of financial position as at 31 March 2027\n | $ | $\nShop fittings, net |  | 186 000\nMotor van, net |  | 92 000\nInventory | 74 000 | \nTrade receivables | 58 000 | \nCash at bank | 26 000 | 158 000\n |  | 436 000\nCapital accounts – Fong / Ho / Mok |  | 160 000 / 120 000 / 30 000\nCurrent accounts – Fong / Ho / Mok |  | 12 000 / 8 000 / (10 000)\nLoan from Ho |  | 40 000\nTrade payables |  | 64 000\nAccrued wages |  | 12 000\n |  | 436 000\n\nInformation on dissolution:\n(1) Shop fittings were sold for $98 000.\n(2) Mok took over the motor van at an agreed value of $80 000.\n(3) 60% of the inventory was sold for $52 000; the rest was taken over by Fong at an agreed value of $24 000.\n(4) $54 500 was collected from trade receivables; the rest could not be collected.\n(5) A customer made a warranty claim, and the partnership paid $6 000. This liability had not been recorded.\n(6) Trade payables were settled in full for $61 500.\n(7) Accrued wages and the loan from Ho were repaid in full from the bank.\n(8) Realisation expenses of $4 800 were paid from the bank.\n(9) Current account balances were transferred to the capital accounts. All partners are able to pay their debts.\n\nREQUIRED:\nPrepare the realisation account. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "b",
+          "questionTextZh": "編製合夥人多欄式資本帳，列示解散合夥。（5 分）",
+          "questionTextEn": "Prepare the partners' capital accounts in columnar form to show the dissolution. (5 marks)",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "B",
+      "categoryZh": "成本會計",
+      "categoryEn": "Cost Accounting",
+      "difficultyGrade": "難",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "晴嵐陶瓷生產陶瓷杯，採用吸收成本法，以機器小時計算預定固定生產間接成本吸收率。截至 2026 年 9 月 30 日止季度的資料如下：\n\n預算：固定生產間接成本 $216 000，機器小時 7 200 小時；每隻杯需 0.2 機器小時。\n實際：生產 33 000 隻，售出 30 000 隻，每隻售價 $48；季初沒有存貨。\n每隻變動生產成本：直接原料 $9.5、直接人工 $7.0、變動生產間接成本 $2.5。\n實際固定生產間接成本 $219 600。\n銷售佣金為售價的 5%；固定銷售及行政費用 $168 000。\n\n試：\n計算 (i) 每隻杯吸收的固定生產間接成本；(ii) 每隻杯的生產成本；(iii) 本季少吸收的固定生產間接成本。（3 分）",
+          "questionTextEn": "Ching Laam Ceramics makes ceramic mugs. It uses absorption costing, with a predetermined fixed production overhead absorption rate based on machine hours. Information for the quarter ended 30 September 2026:\n\nBudget: fixed production overheads $216 000; 7 200 machine hours; each mug needs 0.2 machine hours.\nActual: 33 000 mugs produced, 30 000 sold at $48 each; no opening inventory.\nVariable production cost per mug: direct materials $9.5, direct labour $7.0, variable production overheads $2.5.\nActual fixed production overheads were $219 600.\nSales commission is 5% of selling price; fixed selling and administrative expenses are $168 000.\n\nREQUIRED:\nCalculate (i) the fixed production overheads absorbed per mug; (ii) the production cost per mug; (iii) the under-absorbed fixed production overheads for the quarter. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "按吸收成本法，編製截至 2026 年 9 月 30 日止季度的損益表。（5 分）",
+          "questionTextEn": "Prepare the income statement for the quarter ended 30 September 2026 under absorption costing. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "c",
+          "questionTextZh": "輔以相關計算，解釋若改用邊際成本法，本季淨利會有何分別。（2 分）",
+          "questionTextEn": "Explain, with supporting calculations, how the net profit for the quarter would differ under marginal costing. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "d",
+          "questionTextZh": "以配比概念簡單解釋，為何吸收成本法把部分固定生產間接成本結轉至下季。（2 分）",
+          "questionTextEn": "Briefly explain, with the matching concept, why absorption costing carries part of the fixed production overheads forward to the next quarter. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "C",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "難",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "高志偉（Ko Chi Wai）經營體育用品店「動力體育」。2026 年 12 月 31 日晚上，店舖地庫貨倉水浸，部分存貨及會計紀錄損毀。以下是可取得的資料（見表 T1 及 T2）：\n\n動力體育 2026 年 1 月 1 日的資產及負債\n | $\n店舖裝置，按成本 | 180 000\n累積折舊 – 店舖裝置 | 54 000\n存貨 | 46 000\n應收貨款 | 21 500\n預付租金 | 6 000\n銀行存款 | 38 200\n手頭現金 | 2 300\n應付貨款 | 33 600\n應計電費 | 1 400\n\n2026 年銀行存款摘要\n收入 | $ | 支出 | $\n存入現銷收入 | 186 400 | 支付供應商 | 404 600\n向客戶收款 | 412 000 | 租金 | 78 000\n |  | 電費 | 9 800\n |  | 購入店舖裝置（2026 年 7 月 1 日） | 24 000\n |  | 東主提用 | 36 000\n | 598 400 |  | 552 400\n\n其他資料：\n(1) 所有現銷收入均存入銀行，但在存款前已從收入中支付兼職工資 $30 000 及雜費 $4 200。2026 年 12 月 31 日手頭現金 $2 800。\n(2) 全年所有貨品均按成本加成 60% 出售。\n(3) 2026 年 12 月 20 日，商號按銷售或退回方式把售價 $4 800 的貨品送交一間學校，簿記員已把它記作賒銷。截至 2026 年 12 月 31 日，學校尚未決定是否購買。應收帳款分類帳顯示 2026 年 12 月 31 日應收貨款為 $26 300（已包括上述款項）。\n(4) 年內高志偉取去售價 $3 200 的貨品自用，未有入帳。\n(5) 2026 年的銷貨折扣為 $3 100，購貨折扣為 $2 600。2026 年 12 月 31 日應付貨款為 $29 400。\n(6) 水浸後點算，店內未受損存貨按成本計為 $28 400；店內其餘存貨全部報廢（送交學校的貨品不受影響）。保險公司同意賠償存貨損失的 60%，款項將於 2027 年收到。\n(7) 月租 $6 000，2026 年支付的租金已繳付至 2027 年 2 月 28 日。\n(8) 2026 年 12 月 31 日應計電費為 $1 600。\n(9) 店舖裝置按成本每年 15% 計算折舊，按持有月數計算。\n\n試：\n編製截至 2026 年 12 月 31 日止年度的損益表，須列示存貨損失。（9 分）",
+          "questionTextEn": "Ko Chi Wai runs \"Dynamic Sports\", a sporting goods shop. On the night of 31 December 2026, the basement storeroom was flooded and some inventory and accounting records were destroyed. The following information is available (see Tables T1 and T2):\n\nDynamic Sports – assets and liabilities on 1 January 2026\n | $\nShop fittings, at cost | 180 000\nAccumulated depreciation – shop fittings | 54 000\nInventory | 46 000\nTrade receivables | 21 500\nPrepaid rent | 6 000\nCash at bank | 38 200\nCash in hand | 2 300\nTrade payables | 33 600\nAccrued electricity | 1 400\n\nSummary of cash at bank for 2026\nReceipts | $ | Payments | $\nCash sales banked | 186 400 | Payments to suppliers | 404 600\nReceipts from credit customers | 412 000 | Rent | 78 000\n |  | Electricity | 9 800\n |  | Purchase of shop fittings (1 July 2026) | 24 000\n |  | Drawings | 36 000\n | 598 400 |  | 552 400\n\nOther information:\n(1) All cash sales were banked, but part-time wages of $30 000 and general expenses of $4 200 were paid out of the takings before banking. Cash in hand on 31 December 2026 was $2 800.\n(2) All goods were sold at a uniform mark-up of 60% on cost throughout the year.\n(3) On 20 December 2026, goods with a selling price of $4 800 were sent to a school on a sale-or-return basis and the bookkeeper recorded them as a credit sale. By 31 December 2026, the school had not decided whether to buy. The sales ledger showed trade receivables of $26 300 on 31 December 2026 (including this amount).\n(4) During the year, Ko took goods with a selling price of $3 200 for personal use, which were not recorded.\n(5) Discounts allowed and discounts received in 2026 were $3 100 and $2 600 respectively. Trade payables on 31 December 2026 were $29 400.\n(6) After the flood, undamaged inventory in the shop was counted at a cost of $28 400; all other inventory in the shop was scrapped (the goods sent to the school were not affected). The insurance company agreed to compensate 60% of the inventory loss, to be received in 2027.\n(7) Monthly rent is $6 000. Rent paid in 2026 covered up to 28 February 2027.\n(8) Accrued electricity on 31 December 2026 was $1 600.\n(9) Shop fittings are depreciated at 15% per annum on cost, according to the number of months held.\n\nREQUIRED:\nPrepare the income statement for the year ended 31 December 2026, showing the inventory loss. (9 marks)",
+          "totalMarks": 9
+        },
+        {
+          "label": "b",
+          "questionTextZh": "編製 2026 年 12 月 31 日的財務狀況表。（7 分）",
+          "questionTextEn": "Prepare the statement of financial position as at 31 December 2026. (7 marks)",
+          "totalMarks": 7
+        },
+        {
+          "label": "c",
+          "questionTextZh": "簡單解釋為何送交學校的貨品不應在 2026 年確認為銷貨。（2 分）",
+          "questionTextEn": "Briefly explain why the goods sent to the school should not be recognised as sales in 2026. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "C",
+      "categoryZh": "財務會計",
+      "categoryEn": "Financial Accounting",
+      "difficultyGrade": "中難",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "卓域辦公用品有限公司的財政年度於 10 月 31 日結束。\n\n甲部\n2026 年 10 月 31 日，現金簿（銀行欄）顯示借方結餘 $48 360，與銀行月結單結餘不符。經核對後，發現以下事項（見表 T1）：\n\n只見於 2026 年 10 月銀行月結單的項目\n日期 | 項目 | $\n10 月 3 日 | 以自動轉帳繳付 2026 年 11 月 1 日至 2027 年 10 月 31 日的全年保險費 | 7 200\n10 月 16 日 | 客戶永昌文具直接存入的貸項轉帳 | 15 600\n10 月 24 日 | 銀行把另一客戶開出的支票錯誤記入本公司帳戶的借方 | 3 400\n10 月 31 日 | 銀行利息 | 140\n10 月 31 日 | 銀行手續費 | 260\n\n此外：\n(1) 支付予供應商恒信紙業的支票 $4 590，在現金簿誤記為 $5 490。\n(2) 未兌現支票共 $21 300。\n(3) 10 月 31 日存入銀行的支票 $9 750，尚未出現在月結單。\n\n同日的試算表不平衡，差額已記入暫記帳。簿記員其後發現以下錯誤：\n(i) 銷貨退回簿的總額 $2 360 未有過帳至總分類帳。\n(ii) 汽車維修費 $3 800 被借記汽車帳。（毋須調整折舊）\n(iii) 購貨折扣 $620 被錯誤過帳至銷貨折扣帳的借方。\n(iv) 賒銷予客戶栢文（Pak Man）的貨品 $5 400，在銷貨簿誤記為 $4 500。\n(v) 以現金支付的工資 $9 300 已正確記入現金簿，但過帳至工資帳時誤記為 $3 900。\n\n公司在更正上述錯誤及更新現金簿前，計算得本年度淨利為 $186 450。\n\n乙部\n一位客戶要求公司為其印製一批特別規格的宣傳冊。這訂單需要：\n‧直接人工 120 小時。現有員工按固定月薪受僱，本月尚有 70 小時閒置；其餘須安排超時工作，時薪 $90，超時按 1.5 倍計算。\n‧特種紙 300 令。公司存有剛好 300 令，當年以每令 $45 購入，現時重置成本為每令 $52。這批紙沒有其他用途，若不使用，可售予回收商每令 $10。\n\n試：\n編製 2026 年 10 月 31 日的銀行往來調節表，須由銀行存款帳更新後的結餘開始。（5 分）",
+          "questionTextEn": "Cheuk Wik Office Supplies Limited has a financial year ending on 31 October.\n\nPart A\nOn 31 October 2026, the cash book (bank column) showed a debit balance of $48 360, which did not agree with the bank statement. The following were found (see Table T1):\n\nItems appearing only on the bank statement for October 2026\nDate | Item | $\n3 Oct | Annual insurance premium for 1 November 2026 to 31 October 2027 paid by autopay | 7 200\n16 Oct | Credit transfer from customer Wing Cheong Stationery | 15 600\n24 Oct | A cheque drawn by another customer of the bank wrongly debited to the company's account | 3 400\n31 Oct | Bank interest | 140\n31 Oct | Bank charges | 260\n\nIn addition:\n(1) A cheque of $4 590 paid to supplier Hang Shun Paper was recorded as $5 490 in the cash book.\n(2) Unpresented cheques totalled $21 300.\n(3) Cheques of $9 750 deposited on 31 October had not yet appeared on the bank statement.\n\nThe trial balance on the same date did not agree and the difference was put to a suspense account. The bookkeeper later found the following errors:\n(i) The total of the returns inwards journal, $2 360, had not been posted to the general ledger.\n(ii) Motor van repairs of $3 800 had been debited to the motor vans account. (No adjustment to depreciation is required.)\n(iii) Discounts received of $620 had been wrongly posted to the debit side of the discounts allowed account.\n(iv) Goods of $5 400 sold on credit to customer Pak Man had been recorded as $4 500 in the sales journal.\n(v) Wages of $9 300 paid in cash were correctly entered in the cash book but posted to the wages account as $3 900.\n\nBefore correcting the errors and updating the cash book, the company calculated a net profit for the year of $186 450.\n\nPart B\nA customer has asked the company to print a batch of special brochures. The order needs:\n• 120 direct labour hours. Current staff are paid fixed monthly salaries and have 70 idle hours this month; the rest must be overtime at an hourly rate of $90, paid at 1.5 times.\n• 300 reams of special paper. The company holds exactly 300 reams, bought at $45 per ream; the replacement cost is now $52 per ream. The paper has no other use and could be sold to a recycler for $10 per ream if not used.\n\nREQUIRED:\nPrepare the bank reconciliation statement as at 31 October 2026, starting with the updated cash at bank balance. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "b",
+          "questionTextZh": "編製所需日記分錄以更正錯誤 (i) 至 (v)。毋須分錄說明。（6 分）",
+          "questionTextEn": "Prepare the journal entries to correct errors (i) to (v). Narrations are not required. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "c",
+          "questionTextZh": "編製報表計算經調整淨利。（3 分）",
+          "questionTextEn": "Prepare a statement to calculate the adjusted net profit. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "d(i)",
+          "questionTextZh": "計算這訂單的直接人工相關成本。（1 分）",
+          "questionTextEn": "Calculate the relevant cost of direct labour for the order. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "d(ii)",
+          "questionTextZh": "計算這訂單的特種紙相關成本。（1 分）",
+          "questionTextEn": "Calculate the relevant cost of the special paper for the order. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "e",
+          "questionTextZh": "簡單解釋為何購入特種紙時的成本 $45 每令與這訂單的決策無關。（2 分）",
+          "questionTextEn": "Briefly explain why the original cost of $45 per ream is irrelevant to the decision on this order. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ],
+  "subjectCode": "bafs",
+  "paperPart": "2A",
+  "sectionMarks": {
+    "A": 38,
+    "B": 32,
+    "C": 18
+  },
+  "answerRuleZh": "甲部及乙部各題均須作答。丙部選答一題。",
+  "answerRuleEn": "Answer ALL questions in Sections A and B. Answer ONE question in Section C."
+}

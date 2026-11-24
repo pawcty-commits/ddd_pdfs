@@ -1,0 +1,336 @@
+{
+  "paperTitleZh": "地理 全新模擬卷 — 卷二",
+  "paperTitle": "Geography Mock — Paper 2",
+  "durationMinutes": 75,
+  "totalMarks": 30,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "E",
+      "categoryZh": "動態的地球——香港的建造",
+      "categoryEn": "Dynamic Earth: The Building of Hong Kong",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "白鶴角（虛構）位於香港東部海岸，沿岸有一條道路白鶴道。圖 1a 為在當地蒐集的岩石樣本的照片描述，圖 1b 為白鶴角海岸的素描，圖 1c 為白鶴道旁一個削坡的橫切面，表 1 為 2015–2024 年白鶴道岩崩事故的記錄（虛構數據，只供練習），圖 1d 為該削坡的改善工程素描。\n\n圖 1a　照片描述：白鶴角的岩石樣本\n（文字描述，非真實照片）一塊灰綠色的岩石樣本，十分堅硬，用小刀刮不出痕。顆粒極細，肉眼看不見礦物晶體，但嵌有一些大小不一、帶棱角的深色岩石碎屑。樣本隱約可見一層層的細微分層。\n\n（圖 1b　白鶴角海岸的素描：見題目圖）\n\n（圖 1c　白鶴道旁削坡的橫切面：見題目圖）\n\n表 1　白鶴道平均月雨量及岩崩事故總數，2015–2024 年\n月份 | 平均月雨量（mm） | 岩崩事故（宗）\n一月 | 25 | 1\n二月 | 45 | 0\n三月 | 70 | 1\n四月 | 160 | 3\n五月 | 310 | 6\n六月 | 460 | 10\n七月 | 390 | 7\n八月 | 420 | 8\n九月 | 320 | 5\n十月 | 110 | 1\n十一月 | 40 | 0\n十二月 | 30 | 0\n全年 | 2380 | 42\n\n（圖 1d　2024 年削坡改善工程的素描：見題目圖）\n寫出圖 1a 所描述的岩石類型。（1 分）",
+          "questionTextEn": "Pak Hok Kok (fictional) is on the eastern coast of Hong Kong, with a coastal road, Pak Hok Road. Figure 1a is a photo description of a rock specimen collected there, Figure 1b is a field sketch of the coast at Pak Hok Kok, Figure 1c is a cross-section of a cut slope beside Pak Hok Road, Table 1 shows rockfall incidents on Pak Hok Road in 2015–2024 (fictional data, for practice only) and Figure 1d is a field sketch of improvement works on the slope.\n\nFigure 1a  Photo description: a rock specimen from Pak Hok Kok\n(Text description, not a real photograph) A greyish-green rock specimen that is very hard and cannot be scratched with a knife. It is extremely fine-grained with no mineral crystals visible to the naked eye, but contains angular, dark rock fragments of various sizes. Faint fine layering can be seen.\n\n(Figure 1b  Field sketch of the coast at Pak Hok Kok: see the question image)\n\n(Figure 1c  Cross-section of the cut slope beside Pak Hok Road: see the question image)\n\nTable 1  Mean monthly rainfall and total rockfall incidents on Pak Hok Road, 2015–2024\nMonth | Mean monthly rainfall (mm) | Rockfall incidents (number)\nJan | 25 | 1\nFeb | 45 | 0\nMar | 70 | 1\nApr | 160 | 3\nMay | 310 | 6\nJun | 460 | 10\nJul | 390 | 7\nAug | 420 | 8\nSep | 320 | 5\nOct | 110 | 1\nNov | 40 | 0\nDec | 30 | 0\nYear | 2380 | 42\n\n(Figure 1d  Field sketch of the slope improvement works in 2024: see the question image)\nIdentify the rock type described in Figure 1a. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考圖 1b，解釋狹長海灣的形成過程。（4 分）",
+          "questionTextEn": "With reference to Figure 1b, explain the formation of the narrow inlet. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "參考圖 1c，解釋為何這個削坡容易發生岩崩。（5 分）",
+          "questionTextEn": "With reference to Figure 1c, explain why this cut slope is prone to rockfall. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考表 1，解釋雨量與岩崩事故數目的關係。（4 分）",
+          "questionTextEn": "With reference to Table 1, explain the relationship between rainfall and the number of rockfall incidents. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "參考圖 1d，試討論圖中的工程措施是否減低白鶴道岩崩風險的最佳方法。（4 分）",
+          "questionTextEn": "With reference to Figure 1d, discuss whether the engineering measures shown are the best way to reduce the rockfall risk along Pak Hok Road. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "elective": "DE",
+      "electiveNameZh": "動態的地球——香港的建造",
+      "electiveNameEn": "Dynamic Earth: The Building of Hong Kong",
+      "imagePages": [
+        "p1q1_1.png",
+        "p1q1_2.png",
+        "p1q1_3.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "E",
+      "categoryZh": "天氣與氣候",
+      "categoryEn": "Weather and Climate",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "城市 X 位於長江中游（約 30°N），城市 Y 位於華南沿岸（約 22°N）（兩者均為虛構城市）。圖 2a 為六月中旬東亞天氣系統的略圖，圖 2b 為兩個城市的氣候圖，表 2 為城市 X 五個年份的夏季資料（虛構數據，只供練習）。\n\n（圖 2a　六月中旬東亞的天氣系統（示意）：見題目圖）\n\n（圖 2b　城市 X 及城市 Y 的氣候圖：見題目圖）\n\n表 2　城市 X 五個年份的夏季資料\n年份 | 六至七月西北太平洋副熱帶高壓脊線的平均位置 | 城市 X 六至七月雨量（mm） | 城市 X 梅雨期日數\n甲 | 18°N | 350 | 12\n乙 | 21°N | 780 | 48\n丙 | 22°N | 650 | 40\n丁 | 26°N | 300 | 15\n戊 | 28°N | 180 | 6\n參考圖 2b，描述城市 X 的降雨特徵。（2 分）",
+          "questionTextEn": "City X is in the middle reaches of the Changjiang (about 30°N) and City Y is on the South China coast (about 22°N) (both are fictional cities). Figure 2a is a sketch map of weather systems over East Asia in mid-June, Figure 2b shows climographs of the two cities and Table 2 shows summer data of City X in five years (fictional data, for practice only).\n\n(Figure 2a  Weather systems over East Asia in mid-June (schematic): see the question image)\n\n(Figure 2b  Climographs of City X and City Y: see the question image)\n\nTable 2  Summer data of City X in five years\nYear | Mean position of the ridge of the Western North Pacific Subtropical High, June–July | June–July rainfall in City X (mm) | Length of Meiyu period in City X (days)\nA | 18°N | 350 | 12\nB | 21°N | 780 | 48\nC | 22°N | 650 | 40\nD | 26°N | 300 | 15\nE | 28°N | 180 | 6\nWith reference to Figure 2b, describe the rainfall characteristics of City X. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考圖 2a，解釋城市 X 六月雨量特別多的原因。（4 分）",
+          "questionTextEn": "With reference to Figure 2a, explain why City X has particularly high rainfall in June. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "描述副熱帶高壓脊線位置與城市 X 六至七月雨量的關係。（2 分）",
+          "questionTextEn": "Describe the relationship between the position of the ridge of the subtropical high and the June–July rainfall of City X. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋(b)(i)所述的關係。（4 分）",
+          "questionTextEn": "Explain the relationship described in (b)(i). (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "城市 X 的緯度較城市 Y 高，但兩地七月平均氣溫同為 29°C。解釋原因。（2 分）",
+          "questionTextEn": "City X is at a higher latitude than City Y, yet both have a mean July temperature of 29°C. Explain why. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "試討論夏季季風為長江中游地區帶來的好處是否多於問題。（4 分）",
+          "questionTextEn": "Discuss whether the summer monsoon brings more benefits than problems to the middle reaches of the Changjiang. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "elective": "WC",
+      "electiveNameZh": "天氣與氣候",
+      "electiveNameEn": "Weather and Climate",
+      "imagePages": [
+        "p1q2_1.png",
+        "p1q2_2.png"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "E",
+      "categoryZh": "運輸發展、規劃與管理",
+      "categoryEn": "Transport Development, Planning and Management",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "峰田新市鎮（虛構）位於新界一個河谷，唯一的鐵路站峰田站位於新市鎮南端。圖 3a 為峰田新市鎮的略圖，表 3a 為居民在早上繁忙時間前往峰田站所用交通方式的比例，表 3b 為早上繁忙時間由屋邨 C 前往峰田站的交通情況（虛構數據，只供練習）。圖 3b 為政府提出的交通改善建議。\n\n（圖 3a　峰田新市鎮略圖：見題目圖）\n\n表 3a　居民早上繁忙時間前往峰田站的交通方式比例\n交通方式 | 2015 年（%） | 2024 年（%）\n步行 | 28 | 18\n單車 | 3 | 4\n專線小巴 | 24 | 27\n巴士 | 35 | 33\n私家車（上落客） | 10 | 18\n\n表 3b　早上繁忙時間由屋邨 C 前往峰田站的交通情況\n項目 | 2019 年 | 2024 年\n巴士行車時間（分鐘） | 11 | 21\n專線小巴行車時間（分鐘） | 10 | 19\n私家車行車時間（分鐘） | 8 | 16\n峰田路平均車速（km／小時） | 28 | 14\n\n（圖 3b　峰田新市鎮的交通改善建議：見題目圖）\n描述峰田新市鎮屋邨的分佈與峰田站的位置關係。（3 分）",
+          "questionTextEn": "Fung Tin New Town (fictional) is in a river valley in the New Territories. Its only railway station, Fung Tin Station, is at the southern end of the town. Figure 3a is a sketch map of the town, Table 3a shows the modal split of residents’ trips to Fung Tin Station in the morning peak hours, and Table 3b shows the traffic conditions from Estate C to the station in the morning peak hours (fictional data, for practice only). Figure 3b shows the transport improvements proposed by the government.\n\n(Figure 3a  Sketch map of Fung Tin New Town: see the question image)\n\nTable 3a  Modal split of residents’ trips to Fung Tin Station in the morning peak hours\nMode | 2015 (%) | 2024 (%)\nWalking | 28 | 18\nBicycle | 3 | 4\nGreen minibus | 24 | 27\nBus | 35 | 33\nPrivate car (drop-off) | 10 | 18\n\nTable 3b  Traffic conditions from Estate C to Fung Tin Station in the morning peak hours\nItem | 2019 | 2024\nBus journey time (minutes) | 11 | 21\nGreen minibus journey time (minutes) | 10 | 19\nPrivate car journey time (minutes) | 8 | 16\nAverage speed on Fung Tin Road (km/h) | 28 | 14\n\n(Figure 3b  Proposed transport improvements in Fung Tin New Town: see the question image)\nDescribe the distribution of housing estates in Fung Tin New Town in relation to the location of Fung Tin Station. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋為何屋邨 C 及屋邨 D 的居民須依賴路面接駁交通前往峰田站。（3 分）",
+          "questionTextEn": "Explain why residents of Estates C and D have to rely on road-based feeder transport to reach Fung Tin Station. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "參考表 3a，描述及解釋 2015–2024 年居民前往峰田站的交通方式的轉變。（4 分）",
+          "questionTextEn": "With reference to Table 3a, describe and explain the changes in the modes of transport used by residents to reach Fung Tin Station between 2015 and 2024. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考表 3b 及圖 3a，解釋 2019–2024 年由屋邨 C 前往峰田站的行車時間增加的原因。（4 分）",
+          "questionTextEn": "With reference to Table 3b and Figure 3a, explain why the journey times from Estate C to Fung Tin Station increased between 2019 and 2024. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "參考圖 3b，試討論在峰田路設置繁忙時間巴士專線，是否改善峰田新市鎮居民前往鐵路站交通的最有效建議。（4 分）",
+          "questionTextEn": "With reference to Figure 3b, discuss whether a peak-hour bus-only lane on Fung Tin Road is the most effective proposal for improving residents’ access to the railway station in Fung Tin New Town. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "elective": "TR",
+      "electiveNameZh": "運輸發展、規劃與管理",
+      "electiveNameEn": "Transport Development, Planning and Management",
+      "imagePages": [
+        "p1q3_1.png",
+        "p1q3_2.png",
+        "p1q3_3.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "E",
+      "categoryZh": "珠江三角洲區域研習",
+      "categoryEn": "A Regional Study of the Zhujiang Delta",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "城市 P 是珠江三角洲一個虛構的工業城市。表 4a 為城市 P 的人口資料，表 4b 為城市 P 一個城中村與全市平均情況的比較，圖 4 為 2010–2023 年城市 P 外來工人的資料（虛構數據，只供練習）。\n\n表 4a　城市 P 的人口\n年份 | 常住人口（萬人） | 外來人口佔常住人口的百分比（%）\n1990 | 120 | 35\n2000 | 420 | 72\n2010 | 820 | 82\n2020 | 1050 | 70\n\n表 4b　城市 P 一個城中村與全市平均的比較（2022 年）\n項目 | 城中村 | 城市 P 平均\n樓宇平均高度（層） | 7 | 18\n樓宇之間的距離（m） | 1–3 | 15 或以上\n外來人口佔居民百分比（%） | 90 | 70\n每月租金（元人民幣／平方米） | 25 | 75\n人均休憩用地（平方米） | 0.3 | 6\n\n（圖 4　城市 P 外來工人數目及從事製造業的百分比，2010–2023 年：見題目圖）\n參考表 4a，解釋 1990–2010 年城市 P 外來人口急速增加的原因。（5 分）",
+          "questionTextEn": "City P is a fictional industrial city in the Zhujiang Delta. Table 4a shows population data of City P, Table 4b compares a village-in-the-city in City P with the city average, and Figure 4 shows data on migrant workers in City P in 2010–2023 (fictional data, for practice only).\n\nTable 4a  Population of City P\nYear | Resident population (in ten thousands) | Migrants as % of resident population\n1990 | 120 | 35\n2000 | 420 | 72\n2010 | 820 | 82\n2020 | 1050 | 70\n\nTable 4b  A village-in-the-city compared with the City P average (2022)\nItem | Village-in-the-city | City P average\nAverage building height (storeys) | 7 | 18\nDistance between buildings (m) | 1–3 | 15 or more\nMigrants as % of residents | 90 | 70\nMonthly rent (RMB per square metre) | 25 | 75\nOpen space per person (square metres) | 0.3 | 6\n\n(Figure 4  Migrant workers in City P and percentage employed in manufacturing, 2010–2023: see the question image)\nWith reference to Table 4a, explain why the migrant population of City P increased rapidly between 1990 and 2010. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "描述城中村的居住環境。（2 分）",
+          "questionTextEn": "Describe the living environment of the village-in-the-city. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋城中村在珠江三角洲城市形成的原因。（5 分）",
+          "questionTextEn": "Explain why villages-in-the-city have formed in cities of the Zhujiang Delta. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "描述 2010–2023 年城市 P 外來工人的轉變。（2 分）",
+          "questionTextEn": "Describe the changes in migrant workers in City P between 2010 and 2023. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "試討論把城中村清拆重建為高樓住宅及商業區，是否有利城市 P 的可持續發展。（4 分）",
+          "questionTextEn": "Discuss whether demolishing villages-in-the-city and redeveloping them into high-rise housing and commercial areas would benefit the sustainable development of City P. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "elective": "ZD",
+      "electiveNameZh": "珠江三角洲區域研習",
+      "electiveNameEn": "A Regional Study of the Zhujiang Delta",
+      "imagePages": [
+        "p1q4_1.png",
+        "p1q4_2.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "F",
+      "categoryZh": "動態的地球——香港的建造",
+      "categoryEn": "Dynamic Earth: The Building of Hong Kong",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋最後一次冰期結束以來的海平面變化如何塑造香港的海岸線。（6 分）",
+          "questionTextEn": "Explain how changes in sea level since the end of the last glacial period have shaped the coastline of Hong Kong. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "香港聯合國教科文組織世界地質公園既要保育地質景觀，又要發展旅遊。在多大程度上兩者可以同時達到？（6 分）",
+          "questionTextEn": "The Hong Kong UNESCO Global Geopark aims both to conserve geological landscapes and to develop tourism. To what extent can both aims be achieved at the same time? (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "elective": "DE",
+      "electiveNameZh": "動態的地球——香港的建造",
+      "electiveNameEn": "Dynamic Earth: The Building of Hong Kong",
+      "hasEssay": true
+    },
+    {
+      "questionNumber": 6,
+      "section": "F",
+      "categoryZh": "天氣與氣候",
+      "categoryEn": "Weather and Climate",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋香港夏季暴雨的成因。（6 分）",
+          "questionTextEn": "Explain the causes of rainstorms in Hong Kong in summer. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "「近年香港極端暴雨增加，主要是由氣候變化造成。」你在多大程度上同意這說法？（6 分）",
+          "questionTextEn": "\"The increase in extreme rainstorms in Hong Kong in recent years is mainly caused by climate change.\" To what extent do you agree with this statement? (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "elective": "WC",
+      "electiveNameZh": "天氣與氣候",
+      "electiveNameEn": "Weather and Climate",
+      "hasEssay": true
+    },
+    {
+      "questionNumber": 7,
+      "section": "F",
+      "categoryZh": "運輸發展、規劃與管理",
+      "categoryEn": "Transport Development, Planning and Management",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋為何香港居民的出行大多使用公共運輸。（6 分）",
+          "questionTextEn": "Explain why most trips made by Hong Kong residents use public transport. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "在多大程度上推廣電動車能解決香港與運輸有關的環境問題？（6 分）",
+          "questionTextEn": "To what extent can promoting electric vehicles solve the transport-related environmental problems of Hong Kong? (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "elective": "TR",
+      "electiveNameZh": "運輸發展、規劃與管理",
+      "electiveNameEn": "Transport Development, Planning and Management",
+      "hasEssay": true
+    },
+    {
+      "questionNumber": 8,
+      "section": "F",
+      "categoryZh": "珠江三角洲區域研習",
+      "categoryEn": "A Regional Study of the Zhujiang Delta",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋城際鐵路及跨江通道等運輸基建的發展如何促進珠江三角洲的區域融合。（6 分）",
+          "questionTextEn": "Explain how the development of transport infrastructure such as intercity railways and cross-river links has promoted regional integration in the Zhujiang Delta. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "在多大程度上「一小時生活圈」能縮窄珠江三角洲核心城市（如廣州、深圳）與外圍城市（如肇慶、江門）之間的發展差距？（6 分）",
+          "questionTextEn": "To what extent can the \"one-hour living circle\" narrow the development gap between core cities (e.g. Guangzhou, Shenzhen) and peripheral cities (e.g. Zhaoqing, Jiangmen) in the Zhujiang Delta? (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "elective": "ZD",
+      "electiveNameZh": "珠江三角洲區域研習",
+      "electiveNameEn": "A Regional Study of the Zhujiang Delta",
+      "hasEssay": true
+    }
+  ],
+  "subjectCode": "geog",
+  "paperNo": 2,
+  "sectionMarks": {
+    "E": 18,
+    "F": 12
+  },
+  "chooseRule": {
+    "E": 1,
+    "F": 1
+  },
+  "answerRuleZh": "戊部及己部各選答一題。所選兩題可來自相同或不同的選修單元。",
+  "answerRuleEn": "Answer ONE question from Section E and ONE question from Section F. The two questions may be from the same or different electives."
+}

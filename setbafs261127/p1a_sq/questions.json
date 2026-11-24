@@ -1,0 +1,100 @@
+{
+  "paperTitleZh": "企會財 全新模擬卷 — 卷一甲",
+  "paperTitle": "BAFS Mock — Paper 1A",
+  "durationMinutes": 60,
+  "totalMarks": 24,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "營商環境",
+      "categoryEn": "Business Environment",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "鄭家朗、黃詠詩及梁志恒計劃合作開辦「毛孩美容車」，以兩部流動美容車到客戶住所樓下為寵物提供美容服務，購車及改裝需資金 $1 200 000。鄭家朗及黃詠詩負責日常營運；梁志恒只出資，不打算參與管理。三人正考慮以普通合夥還是私人有限公司形式經營。\n解釋為何以私人有限公司形式經營對梁志恒較為有利。（2 分）",
+          "questionTextEn": "Cheng Ka Long, Wong Wing Sze and Leung Chi Hang plan to start \"Furry Pals Grooming Van\", using two mobile vans to groom pets downstairs from customers' homes. Buying and fitting out the vans needs $1 200 000. Cheng Ka Long and Wong Wing Sze will run daily operations; Leung Chi Hang will only provide capital and does not intend to take part in management. They are considering whether to operate as a general partnership or a private limited company.\nExplain why operating as a private limited company is more favourable to Leung Chi Hang. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "指出兩項有利「毛孩美容車」業務的社會因素。（2 分）",
+          "questionTextEn": "Identify two social factors favourable to the business of \"Furry Pals Grooming Van\". (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "大型連鎖寵物店亦提供寵物美容服務。解釋「毛孩美容車」作為中小企，相對大型連鎖寵物店的兩項優勢。（4 分）",
+          "questionTextEn": "Large pet store chains also provide grooming services. Explain two advantages \"Furry Pals Grooming Van\", as an SME, has over the large pet store chains. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "B",
+      "categoryZh": "個人理財",
+      "categoryEn": "Personal Financial Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "李俊彥，26 歲，單身，在一間會計師行任職。下表是他的每月收支：\n\n李俊彥每月收支\n項目 | $\n月薪（稅前） | 24 000\n強積金僱員供款 | 1 200\n租金（與朋友合租） | 7 800\n膳食 | 4 600\n交通 | 1 100\n手機及上網 | 400\n娛樂及購物 | 3 900\n保險 | 900\n計算李俊彥每月可儲蓄的金額。（1 分）",
+          "questionTextEn": "Lee Chun Yin, aged 26 and single, works in an accounting firm. The table below shows his monthly income and spending:\n\nMonthly income and spending of Lee Chun Yin\nItem | $\nMonthly salary | 24 000\nMPF employee contribution | 1 200\nRent (shared with a friend) | 7 800\nMeals | 4 600\nTransport | 1 100\nMobile and internet | 400\nEntertainment and shopping | 3 900\nInsurance | 900\nCalculate the amount Lee Chun Yin can save each month. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "指出一項他可以削減的非必要開支。（1 分）",
+          "questionTextEn": "Identify one non-essential expense he could cut. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "李俊彥打算把儲蓄用作投資。解釋他在選擇投資工具時應考慮的兩項因素。（4 分）",
+          "questionTextEn": "Lee Chun Yin plans to invest his savings. Explain two factors he should consider when choosing investment tools. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "指出李俊彥在現時人生階段的兩項財務需要。（2 分）",
+          "questionTextEn": "Identify two financial needs of Lee Chun Yin at his current life stage. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "B",
+      "categoryZh": "基礎管理",
+      "categoryEn": "Introduction to Management",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "程浩然是「晨曦設計工作室」的東主，聘有 12 名年輕設計師。他親自決定每個項目的所有細節，向設計師發出詳細指示，並不聽取他們的意見。近半年，設計師提出的新構思明顯減少，並有兩名設計師辭職。\n程浩然考慮改用民主式領導。解釋民主式領導較適合晨曦設計工作室的兩項原因。（4 分）",
+          "questionTextEn": "Ching Ho Yin owns Dawn Design Studio and employs 12 young designers. He decides every detail of each project himself, gives designers detailed instructions and does not listen to their views. In the past six months, designers have proposed far fewer new ideas, and two designers have resigned.\nChing Ho Yin is considering adopting a democratic leadership style. Explain two reasons why democratic leadership is more suitable for Dawn Design Studio. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "程浩然打算把項目的設計決定授權予兩名資深設計師。解釋這安排為工作室帶來的兩項好處。（4 分）",
+          "questionTextEn": "Ching Ho Yin plans to delegate project design decisions to two senior designers. Explain two benefits of this arrangement to the studio. (4 marks)",
+          "totalMarks": 4
+        }
+      ]
+    }
+  ],
+  "subjectCode": "bafs",
+  "paperPart": "1A",
+  "part": "B",
+  "answerRuleZh": "全部試題均須作答。",
+  "answerRuleEn": "Answer ALL questions."
+}

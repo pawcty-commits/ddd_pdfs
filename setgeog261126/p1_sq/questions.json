@@ -1,0 +1,310 @@
+{
+  "paperTitleZh": "地理 全新模擬卷 — 卷一",
+  "paperTitle": "Geography Mock — Paper 1",
+  "durationMinutes": 165,
+  "totalMarks": 66,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "實地考察",
+      "categoryEn": "Fieldwork",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一組中學生在澄峰新市鎮（虛構）進行實地考察，題目為「澄峰新市鎮鐵路站附近行人流量的空間差異」，假設為：「行人流量隨與鐵路站距離增加而減少。」學生沿甲路及乙路各設四個數據蒐集點（圖 1a），在某星期日下午 3 時至 4 時，於每個點點算 10 分鐘內經過的行人數目，結果見表 1。圖 1b 是點 B3 的實地素描。\n\n（圖 1a　澄峰新市鎮數據蒐集點：見題目圖）\n\n（圖 1b　點 B3 的實地素描：見題目圖）\n\n表 1　各數據蒐集點的行人數目\n數據蒐集點 | 與澄峰站的距離（m） | 10 分鐘內的行人數目\nA1 | 100 | 142\nA2 | 300 | 118\nA3 | 500 | 86\nA4 | 700 | 61\nB1 | 100 | 155\nB2 | 300 | 104\nB3 | 500 | 168\nB4 | 700 | 49\n描述學生在每個數據蒐集點點算行人數目時應採用的步驟，使不同點所得的數據可以互相比較。（4 分）",
+          "questionTextEn": "A group of secondary students conducted fieldwork in Ching Fung New Town (fictional) on the topic \"Spatial variation in pedestrian flow near the railway station of Ching Fung New Town\". Their hypothesis was: \"Pedestrian flow decreases with increasing distance from the railway station.\" The students set four data collection sites along each of Road A and Road B (Figure 1a). Between 3 p.m. and 4 p.m. on a Sunday, they counted the number of pedestrians passing each site in 10 minutes. The results are shown in Table 1. Figure 1b is a field sketch of site B3.\n\n(Figure 1a  Data collection sites in Ching Fung New Town: see the question image)\n\n(Figure 1b  Field sketch of site B3: see the question image)\n\nTable 1  Number of pedestrians at each site\nSite | Distance from Ching Fung Station (m) | Number of pedestrians in 10 minutes\nA1 | 100 | 142\nA2 | 300 | 118\nA3 | 500 | 86\nA4 | 700 | 61\nB1 | 100 | 155\nB2 | 300 | 104\nB3 | 500 | 168\nB4 | 700 | 49\nDescribe the procedures the students should adopt when counting pedestrians at each site so that the data collected at different sites are comparable. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考表 1，評估學生的假設是否成立。你須在答案中進行適當的數據處理。（5 分）",
+          "questionTextEn": "With reference to Table 1, evaluate whether the students’ hypothesis is valid. You should process the data appropriately in your answer. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "c",
+          "questionTextZh": "學生只在一個星期日下午 3 時至 4 時進行點算。試討論這個安排對考察結果可靠性的影響。（3 分）",
+          "questionTextEn": "The students carried out the counts only between 3 p.m. and 4 p.m. on one Sunday. Discuss how this arrangement affects the reliability of the fieldwork results. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "d",
+          "questionTextZh": "建議如何改善這次考察的設計，以提高結果的效度及可靠性。（6 分）",
+          "questionTextEn": "Suggest how the design of this fieldwork could be improved to enhance the validity and reliability of the results. (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 18,
+      "isFieldwork": true,
+      "imagePages": [
+        "p1q1_1.png",
+        "p1q1_2.png"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "C",
+      "categoryZh": "機會與風險",
+      "categoryEn": "Opportunities and Risks",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "2023 年 2 月 6 日，土耳其東南部先後發生兩次強烈地震，截至 2023 年 3 月底，土耳其及敘利亞合共超過 57 000 人死亡。圖 2a 為該區的板塊邊界略圖，表 2 為兩次地震的資料（資料來源：美國地質調查局，2023 年）。圖 2b 及圖 2c 為照片描述。\n\n（圖 2a　土耳其東南部板塊邊界略圖：見題目圖）\n\n表 2　兩次地震的資料\n | 地震 1 | 地震 2\n日期 | 2023 年 2 月 6 日 | 2023 年 2 月 6 日\n當地時間 | 04:17 | 13:24\n震級 | 7.8 | 7.5\n震源深度 | 淺源 | 淺源\n破裂的斷層 | 東安納托利亞斷層 | 恰爾達克斷層\n斷層破裂長度 | 約 350 km | 約 160 km\n斷層移動方式 | 以水平移動為主 | 以水平移動為主\n\n圖 2b　照片描述：倒塌的住宅大廈\n（文字描述，非真實照片）一幢約八層高的鋼筋混凝土住宅大廈完全倒塌，各層樓板層層疊壓在一起，只剩約兩層樓高的瓦礫。斷裂的柱內只見數條幼細鋼筋，混凝土碎塊中夾雜圓滑的河石。旁邊一幢設計相似的新建大廈則仍然屹立。\n\n圖 2c　照片描述：地震後的救援\n（文字描述，非真實照片）大雪中，居民以雙手及鏟搬開瓦礫找尋生還者。通往市鎮的公路出現大裂縫，數輛挖掘機停在路旁未能駛入。一名居民表示，震後第二日仍未見有救援隊到達。路邊有人圍着火堆取暖，附近未見臨時帳篷。\n指出東安納托利亞斷層屬哪一類板塊邊界。（1 分）",
+          "questionTextEn": "On 6 February 2023, two strong earthquakes struck southeastern Türkiye. By the end of March 2023, more than 57 000 people had died in Türkiye and Syria. Figure 2a is a sketch map of the plate boundaries in the region and Table 2 shows information on the two earthquakes (Source: United States Geological Survey, 2023). Figures 2b and 2c are photo descriptions.\n\n(Figure 2a  Sketch map of plate boundaries in southeastern Türkiye: see the question image)\n\nTable 2  Information on the two earthquakes\n | Earthquake 1 | Earthquake 2\nDate | 6 February 2023 | 6 February 2023\nLocal time | 04:17 | 13:24\nMagnitude | 7.8 | 7.5\nDepth of focus | Shallow | Shallow\nFault ruptured | East Anatolian Fault | Çardak Fault\nLength of fault rupture | About 350 km | About 160 km\nFault movement | Mainly horizontal | Mainly horizontal\n\nFigure 2b  Photo description: a collapsed residential block\n(Text description, not a real photograph) An eight-storey reinforced concrete residential block has completely collapsed, its floor slabs stacked on top of one another, leaving rubble only about two storeys high. Only a few thin steel bars can be seen in the broken columns, and the concrete fragments contain smooth river pebbles. A newer block of similar design next to it is still standing.\n\nFigure 2c  Photo description: rescue after the earthquake\n(Text description, not a real photograph) In heavy snow, residents use their hands and shovels to remove rubble in search of survivors. The highway into the town has large cracks, and several excavators are parked at the roadside, unable to get in. A resident says that no rescue team had arrived by the second day after the earthquake. People gather around fires at the roadside to keep warm, and no temporary tents can be seen nearby.\nIdentify the type of plate boundary along the East Anatolian Fault. (1 mark)",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋這類板塊邊界如何產生地震。（5 分）",
+          "questionTextEn": "Explain how earthquakes are produced at this type of plate boundary. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "參考圖 2a 及表 2，解釋為何這兩次地震對大範圍地區造成嚴重破壞。（4 分）",
+          "questionTextEn": "With reference to Figure 2a and Table 2, explain why the two earthquakes caused severe damage over an extensive area. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考圖 2b 及圖 2c，解釋人文因素如何令這次地震的死亡人數上升。（4 分）",
+          "questionTextEn": "With reference to Figures 2b and 2c, explain how human factors increased the death toll of the earthquakes. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "試討論嚴格執行建築規例是否減少土耳其東南部日後地震死亡人數的最有效方法。（4 分）",
+          "questionTextEn": "Discuss whether strict enforcement of building codes is the most effective way to reduce deaths from future earthquakes in southeastern Türkiye. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18
+    },
+    {
+      "questionNumber": 3,
+      "section": "C",
+      "categoryZh": "建設一個可持續發展的城市",
+      "categoryEn": "Building a Sustainable City",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "石角新市鎮（虛構）自 1990 年代起發展。參考石角地形圖、圖 3a 及圖 3b。\n\n（石角地形圖：撳「睇地圖」）\n\n（圖 3a　石角新市鎮的土地利用分區規劃：見題目圖）\n\n（圖 3b　鐵路延線及南坑一帶發展建議：見題目圖）\n參考地形圖，解釋為何格網方格 4171 及 4271 一帶適合發展為新市鎮。（4 分）",
+          "questionTextEn": "Shek Kok New Town (fictional) has been developed since the 1990s. Refer to the map extract of Shek Kok, Figure 3a and Figure 3b.\n\n(Map extract of Shek Kok: tap “View map”)\n\n(Figure 3a  Land use zoning of Shek Kok New Town: see the question image)\n\n(Figure 3b  Proposed rail extension and development near Nam Hang: see the question image)\nWith reference to the map extract, explain why the area around grid squares 4171 and 4271 is suitable for new town development. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "描述圖 3a 所示石角新市鎮各類土地利用分區的分佈。（5 分）",
+          "questionTextEn": "Describe the distribution of the land use zones of Shek Kok New Town shown in Figure 3a. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "解釋石角新市鎮的土地利用分區規劃如何有助減少居民對私家車的依賴，並因而改善環境。（5 分）",
+          "questionTextEn": "Explain how the land use zoning of Shek Kok New Town helps to reduce residents’ reliance on private cars and hence improve the environment. (5 marks)",
+          "totalMarks": 5
+        },
+        {
+          "label": "c",
+          "questionTextZh": "參考圖 3b 及地形圖，試討論把鐵路延伸至南坑村並在南坑一帶發展住宅，是否有利石角新市鎮的可持續發展。（4 分）",
+          "questionTextEn": "With reference to Figure 3b and the map extract, discuss whether extending the railway to Nam Hang Tsuen and developing housing near Nam Hang would be beneficial to the sustainable development of Shek Kok New Town. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "usesMap": true,
+      "mapImage": "map.png",
+      "imagePages": [
+        "p1q3_1.png",
+        "p1q3_2.png"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "C",
+      "categoryZh": "對抗饑荒",
+      "categoryEn": "Combating Famine",
+      "difficultyGrade": "中",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "馬達加斯加南部長期受糧食短缺困擾。2021 年，當地出現約 40 年來最嚴重的乾旱，超過一百萬人面對糧食不安全。圖 4a 為當地某氣象站的氣候資料，圖 4b 為當地一個農村的素描，圖 4c 為照片描述。\n\n（圖 4a　馬達加斯加南部某氣象站的氣候資料（虛構數據，只供練習）：見題目圖）\n\n（圖 4b　馬達加斯加南部某農村的素描：見題目圖）\n\n圖 4c　照片描述：當地一個農業計劃\n（文字描述，非真實照片）農民在一排排木薯及高粱之間除草，田邊種有一行行劍麻及仙人掌作圍籬。田的一角有一個大型雨水收集缸，黑色膠喉由水缸伸延至每行作物的根部。旁邊的告示牌寫着「社區種子庫：借出種子，收成後歸還」。\n參考圖 4a，描述及解釋當地的氣候如何限制農作物生產。（6 分）",
+          "questionTextEn": "Southern Madagascar has long suffered from food shortages. In 2021 the region experienced its worst drought in about 40 years, and more than 1 million people faced food insecurity. Figure 4a shows climatic data of a weather station in the region, Figure 4b is a field sketch of a farming village there, and Figure 4c is a photo description.\n\n(Figure 4a  Climatic data of a weather station in southern Madagascar (fictional data, for practice only): see the question image)\n\n(Figure 4b  Field sketch of a farming village in southern Madagascar: see the question image)\n\nFigure 4c  Photo description: a farming project in the region\n(Text description, not a real photograph) Farmers are weeding between rows of cassava and sorghum, with rows of sisal and cactus planted as hedges around the field. In one corner there is a large rainwater storage tank, from which black plastic pipes run to the roots of each row of crops. A signboard nearby reads \"Community seed bank: borrow seeds, return them after harvest\".\nWith reference to Figure 4a, describe and explain how the climate of the region limits crop production. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考圖 4b，解釋當地的人文因素如何加劇糧食短缺。（4 分）",
+          "questionTextEn": "With reference to Figure 4b, explain how human factors in the region worsen food shortages. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考圖 4c，解釋圖中的措施如何有助改善當地的糧食供應。（4 分）",
+          "questionTextEn": "With reference to Figure 4c, explain how the measures shown help to improve food supply in the region. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "試討論推廣耐旱作物品種能否長遠解決馬達加斯加南部的糧食短缺問題。（4 分）",
+          "questionTextEn": "Discuss whether promoting drought-tolerant crop varieties can solve the food shortage problem in southern Madagascar in the long run. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "imagePages": [
+        "p1q4_1.png",
+        "p1q4_2.png"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "C",
+      "categoryZh": "氣候變化",
+      "categoryEn": "Climate Change",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 18,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "城市 M 是國家 K 一個位於大河三角洲的沿海城市（虛構），人口約九百萬。圖 5a 顯示 1980–2020 年城市 M 的氣溫距平及相對海平面變化，表 5 顯示 2000–2020 年城市 M 相對海平面上升的成因（虛構數據，只供練習），圖 5b 為城市 M 的略圖，圖 5c 為照片描述。\n\n（圖 5a　城市 M 的氣溫距平及相對海平面變化，1980–2020 年：見題目圖）\n\n表 5　城市 M 相對海平面上升的成因（2000–2020 年平均）\n成因 | 平均上升速率（mm／年）\n海水熱膨脹 | 1.4\n冰川及冰蓋融化 | 1.9\n地面沉降 | 6.7\n合計 | 10.0\n\n（圖 5b　城市 M 略圖：見題目圖）\n\n圖 5c　照片描述：紅樹林恢復計劃\n（文字描述，非真實照片）潮退時，泥灘上種滿一排排約一米高的紅樹幼苗，幼苗後方是一道矮土堤，土堤後是村屋及魚塘。告示牌寫着：「紅樹林恢復計劃：2018 年起已種植 120 公頃」。\n描述圖 5a 所示城市 M 氣溫距平及相對海平面的變化趨勢。（4 分）",
+          "questionTextEn": "City M is a coastal city (fictional) on a large river delta in Country K, with a population of about 9 million. Figure 5a shows the temperature anomaly and relative sea level change in City M in 1980–2020, Table 5 shows the causes of relative sea level rise in City M in 2000–2020 (fictional data, for practice only), Figure 5b is a sketch map of City M and Figure 5c is a photo description.\n\n(Figure 5a  Temperature anomaly and relative sea level change in City M, 1980–2020: see the question image)\n\nTable 5  Causes of relative sea level rise in City M (mean for 2000–2020)\nCause | Mean rate of rise (mm/year)\nThermal expansion of seawater | 1.4\nMelting of glaciers and ice sheets | 1.9\nLand subsidence | 6.7\nTotal | 10.0\n\n(Figure 5b  Sketch map of City M: see the question image)\n\nFigure 5c  Photo description: a mangrove restoration project\n(Text description, not a real photograph) At low tide, rows of mangrove saplings about one metre tall cover the mudflat. Behind them is a low earth embankment, and behind that are village houses and fish ponds. A signboard reads: \"Mangrove restoration project: 120 hectares planted since 2018\".\nDescribe the trends of the temperature anomaly and relative sea level in City M shown in Figure 5a. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "參考表 5，解釋全球增溫如何令城市 M 的相對海平面上升。（4 分）",
+          "questionTextEn": "With reference to Table 5, explain how global warming causes relative sea level rise in City M. (4 marks)",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "參考圖 5b 及表 5，解釋為何城市 M 的相對海平面上升速率遠高於全球增溫所造成的上升速率。（3 分）",
+          "questionTextEn": "With reference to Figure 5b and Table 5, explain why the rate of relative sea level rise in City M is much higher than the rate caused by global warming. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(i)",
+          "questionTextZh": "解釋恢復紅樹林如何同時有助減緩及適應氣候變化。（3 分）",
+          "questionTextEn": "Explain how mangrove restoration helps both to mitigate and to adapt to climate change. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "c(ii)",
+          "questionTextZh": "試討論對城市 M 而言，限制抽取地下水是否比減少溫室氣體排放更能有效應付未來 30 年的相對海平面上升問題。（4 分）",
+          "questionTextEn": "Discuss whether, for City M, restricting groundwater extraction is more effective than reducing greenhouse gas emissions in tackling relative sea level rise over the next 30 years. (4 marks)",
+          "totalMarks": 4
+        }
+      ],
+      "marks": 18,
+      "imagePages": [
+        "p1q5_1.png",
+        "p1q5_2.png",
+        "p1q5_3.png"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "D",
+      "categoryZh": "改善河流環境",
+      "categoryEn": "Managing Rivers and Coastal Environments",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋城市化如何改變河盆的水文過程，以及河流流量過程線的形狀。（6 分）",
+          "questionTextEn": "Explain how urbanisation changes the hydrological processes of a drainage basin and the shape of the river hydrograph. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "「市區防洪應以河盆管理為主（例如增加透水路面、興建蓄洪設施），而非依賴渠化等河道工程。」在多大程度上你同意這說法？試舉例說明。（6 分）",
+          "questionTextEn": "\"Flood control in urban areas should rely mainly on drainage basin management (e.g. more permeable surfaces, flood storage facilities) rather than on channel engineering such as channelisation.\" To what extent do you agree? Illustrate your answer with examples. (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "hasEssay": true
+    },
+    {
+      "questionNumber": 7,
+      "section": "D",
+      "categoryZh": "工業區位的轉變",
+      "categoryEn": "Changing Industrial Location",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋為何自 2010 年代起，部分跨國資訊科技企業把組裝廠房由中國沿海地區遷往東南亞國家（例如越南）。（6 分）",
+          "questionTextEn": "Explain why, since the 2010s, some transnational IT corporations have relocated assembly plants from coastal China to Southeast Asian countries (e.g. Vietnam). (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "「自動化及先進科技已令廉價勞工不再是資訊科技組裝工業的重要區位因素。」在多大程度上你同意這說法？（6 分）",
+          "questionTextEn": "\"Automation and advanced technology have made cheap labour no longer an important location factor for IT assembly industries.\" To what extent do you agree with this statement? (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "hasEssay": true
+    },
+    {
+      "questionNumber": 8,
+      "section": "D",
+      "categoryZh": "消失中的綠色林冠",
+      "categoryEn": "Disappearing Green Canopy",
+      "difficultyGrade": "中上",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "解釋在熱帶雨林興建大型水壩及水力發電站如何影響雨林生態系統。（6 分）",
+          "questionTextEn": "Explain how the construction of large dams and hydroelectric power stations in tropical rainforests affects the rainforest ecosystem. (6 marks)",
+          "totalMarks": 6
+        },
+        {
+          "label": "b",
+          "questionTextZh": "試討論國際合作（例如以碳信用機制資助保育）在多大程度上能減少熱帶雨林的濫伐林木。（6 分）",
+          "questionTextEn": "Discuss to what extent international cooperation (e.g. funding conservation through carbon credit schemes) can reduce deforestation in tropical rainforests. (6 marks)",
+          "totalMarks": 6
+        }
+      ],
+      "marks": 12,
+      "hasEssay": true
+    }
+  ],
+  "subjectCode": "geog",
+  "paperNo": 1,
+  "part": "B",
+  "sectionMarks": {
+    "B": 18,
+    "C": 36,
+    "D": 12
+  },
+  "chooseRule": {
+    "B": "all",
+    "C": 2,
+    "D": 1
+  },
+  "answerRuleZh": "甲部及乙部各題均須作答。丙部選答兩題，丁部選答一題。",
+  "answerRuleEn": "Answer ALL questions in Sections A and B, any TWO questions in Section C and any ONE question in Section D."
+}

@@ -1,0 +1,464 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "把 $0.25\\ \\text{kg}$、溫度為 $80\\ ^{\\circ}\\text{C}$ 的糖漿倒進 $0.15\\ \\text{kg}$、溫度為 $20\\ ^{\\circ}\\text{C}$ 的水中，並充分攪拌。糖漿和水的比熱容量分別為 $2800\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$ 和 $4200\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$。假設沒有能量散失到周圍，混合後的最終溫度是多少？\n$0.25\\ \\text{kg}$ of syrup at $80\\ ^{\\circ}\\text{C}$ is poured into $0.15\\ \\text{kg}$ of water at $20\\ ^{\\circ}\\text{C}$ and stirred thoroughly. The specific heat capacities of syrup and water are $2800\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$ and $4200\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$ respectively. Assuming no energy is lost to the surroundings, what is the final temperature of the mixture?",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "$37.1\\ ^{\\circ}\\text{C}$",
+      "B": "$50.0\\ ^{\\circ}\\text{C}$",
+      "C": "$51.6\\ ^{\\circ}\\text{C}$",
+      "D": "$57.5\\ ^{\\circ}\\text{C}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "用一個 $50\\ \\text{W}$ 的電熱器加熱 $0.20\\ \\text{kg}$ 的固體物質 X，X 的溫度 $T$ 隨時間 $t$ 的變化如下圖所示。假設所有熱都被 X 吸收，X 的熔解比潛熱是多少？\nA $50\\ \\text{W}$ heater is used to heat $0.20\\ \\text{kg}$ of a solid substance X. The variation of the temperature $T$ of X with time $t$ is shown in the figure. Assuming all the heat is absorbed by X, what is the specific latent heat of fusion of X?",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "$2.0\\times10^{3}\\ \\text{J kg}^{-1}$",
+      "B": "$2.4\\times10^{4}\\ \\text{J kg}^{-1}$",
+      "C": "$1.2\\times10^{5}\\ \\text{J kg}^{-1}$",
+      "D": "$1.5\\times10^{5}\\ \\text{J kg}^{-1}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "以下哪些描述正確？\n(1) 乾冰（固態二氧化碳）在恆溫下昇華時，其內能增加。\n(2) 冰箱內的水在 $0\\ ^{\\circ}\\text{C}$ 凝固成冰時，水分子的平均動能減少。\n(3) 在壓力鍋內以 $120\\ ^{\\circ}\\text{C}$ 沸騰的水，其分子的平均動能比在開口鍋內以 $100\\ ^{\\circ}\\text{C}$ 沸騰的水大。\nWhich of the following statements is/are correct?\n(1) When dry ice (solid carbon dioxide) sublimes at constant temperature, its internal energy increases.\n(2) When water in a freezer solidifies into ice at $0\\ ^{\\circ}\\text{C}$, the average kinetic energy of the water molecules decreases.\n(3) The molecules of water boiling at $120\\ ^{\\circ}\\text{C}$ in a pressure cooker have a greater average kinetic energy than those of water boiling at $100\\ ^{\\circ}\\text{C}$ in an open pot.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 及 (2)\n(1) and (2) only",
+      "D": "只有 (1) 及 (3)\n(1) and (3) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "熱和氣體/Heat and Gases",
+    "questionText": "單車打氣筒內的空氣起初壓強為 $120\\ \\text{kPa}$，溫度為 $27\\ ^{\\circ}\\text{C}$。活塞迅速被推入，使空氣的體積減至原來的三分之一，溫度升至 $87\\ ^{\\circ}\\text{C}$。假設沒有空氣漏出，空氣的最終壓強是多少？\nThe air in a bicycle pump is initially at a pressure of $120\\ \\text{kPa}$ and a temperature of $27\\ ^{\\circ}\\text{C}$. The piston is pushed in quickly so that the volume of the air is reduced to one-third of its original value and its temperature rises to $87\\ ^{\\circ}\\text{C}$. Assuming no air leaks out, what is the final pressure of the air?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "$48.0\\ \\text{kPa}$",
+      "B": "$360\\ \\text{kPa}$",
+      "C": "$432\\ \\text{kPa}$",
+      "D": "$1160\\ \\text{kPa}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一個球被豎直向上拋出，$2.0\\ \\text{s}$ 後在拋出點被接住。不計空氣阻力，以下哪項有關這段時間的描述正確？\nA ball is thrown vertically upwards and is caught at the point of release $2.0\\ \\text{s}$ later. Neglecting air resistance, which of the following about this time interval is correct?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "平均速度為 $4.9\\ \\text{m s}^{-1}$，向上。\nThe average velocity is $4.9\\ \\text{m s}^{-1}$ upwards.",
+      "B": "球在最高點的加速度為零。\nThe acceleration of the ball at the highest point is zero.",
+      "C": "平均速度為零，而平均速率約為 $4.9\\ \\text{m s}^{-1}$。\nThe average velocity is zero and the average speed is about $4.9\\ \\text{m s}^{-1}$.",
+      "D": "平均速率為零。\nThe average speed is zero."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一輛玩具車由靜止開始沿一條斜道滑下（見下圖），斜道的傾角及摩擦力未知，但玩具車作勻加速運動。玩具車在第 2 秒內（即 $t=1.0\\ \\text{s}$ 至 $t=2.0\\ \\text{s}$）走了 $0.90\\ \\text{m}$。玩具車在首 $4.0\\ \\text{s}$ 內走了多遠？\nA toy car starts from rest and rolls down a ramp (see the figure). The angle of the ramp and the friction are unknown, but the car moves with uniform acceleration. During the 2nd second (from $t=1.0\\ \\text{s}$ to $t=2.0\\ \\text{s}$) the car travels $0.90\\ \\text{m}$. How far does the car travel in the first $4.0\\ \\text{s}$?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$3.6\\ \\text{m}$",
+      "B": "$4.8\\ \\text{m}$",
+      "C": "$7.2\\ \\text{m}$",
+      "D": "不能確定，因為斜道的傾角及摩擦力未知\nIt cannot be determined because the angle of the ramp and the friction are unknown."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一條平行於斜面的繩子把一個木箱以勻速沿粗糙斜面拉上（見下圖）。以下哪個自由體圖正確表示作用於木箱的力？（W：重量；R：法向反作用力；T：張力；f：摩擦力）\nA rope parallel to a rough slope pulls a wooden box up the slope at constant speed (see the figure). Which free-body diagram correctly shows the forces acting on the box? (W: weight; R: normal reaction; T: tension; f: friction)",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "自由體圖 A\nDiagram A",
+      "B": "自由體圖 B\nDiagram B",
+      "C": "自由體圖 C\nDiagram C",
+      "D": "自由體圖 D\nDiagram D"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "一名旅客用肩膊扛着一根長 $1.5\\ \\text{m}$、重 $10\\ \\text{N}$ 的均勻木棒，木棒前端掛着一個重 $60\\ \\text{N}$ 的袋，肩膊與前端相距 $0.50\\ \\text{m}$。旅客用手在木棒後端施加豎直的力，使木棒保持水平（見下圖）。手對木棒施加的力的大小和方向是甚麼？\nA traveller carries a uniform pole of length $1.5\\ \\text{m}$ and weight $10\\ \\text{N}$ on his shoulder. A bag of weight $60\\ \\text{N}$ hangs from the front end, and his shoulder is $0.50\\ \\text{m}$ from the front end. He applies a vertical force with his hand at the rear end to keep the pole horizontal (see the figure). What are the magnitude and direction of the force exerted by his hand on the pole?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$27.5\\ \\text{N}$，向上\n$27.5\\ \\text{N}$, upwards",
+      "B": "$27.5\\ \\text{N}$，向下\n$27.5\\ \\text{N}$, downwards",
+      "C": "$30.0\\ \\text{N}$，向下\n$30.0\\ \\text{N}$, downwards",
+      "D": "不能確定，因為肩膊的支持力未知\nIt cannot be determined because the shoulder's supporting force is unknown."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "兩個小球 X 和 Y 同時被水平拋出。X 從高度 $2h$ 以速率 $v$ 拋出，Y 從高度 $h$ 以速率 $2v$ 拋出（見下圖），兩球在互不阻擋的路徑上運動。不計空氣阻力，以下哪項必定正確？\nTwo small balls X and Y are projected horizontally at the same time. X is projected from a height of $2h$ with speed $v$, and Y from a height of $h$ with speed $2v$ (see the figure); the two balls move along paths that do not obstruct each other. Neglecting air resistance, which of the following must be correct?",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "X 先着地。\nX lands first.",
+      "B": "X 和 Y 的水平射程相同。\nX and Y have the same horizontal range.",
+      "C": "X 着地時的速率比 Y 大。\nX lands with a greater speed than Y.",
+      "D": "Y 先着地，而且水平射程較大。\nY lands first and has a greater horizontal range."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 10,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "質量 $3.0\\ \\text{kg}$ 和 $2.0\\ \\text{kg}$ 的兩個物體以輕繩跨過一個光滑的定滑輪連接，由靜止釋放（見下圖）。當 $3.0\\ \\text{kg}$ 的物體下降了 $0.80\\ \\text{m}$ 時，它的速率是多少？（不計空氣阻力）\nTwo objects of masses $3.0\\ \\text{kg}$ and $2.0\\ \\text{kg}$ are connected by a light string over a smooth fixed pulley and released from rest (see the figure). What is the speed of the $3.0\\ \\text{kg}$ object when it has descended $0.80\\ \\text{m}$? (Neglect air resistance.)",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "$1.77\\ \\text{m s}^{-1}$",
+      "B": "$2.29\\ \\text{m s}^{-1}$",
+      "C": "$2.80\\ \\text{m s}^{-1}$",
+      "D": "$3.96\\ \\text{m s}^{-1}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 11,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "兩個相同的箱子 X 和 Y 分別沿兩條光滑斜面，以平行於斜面的力勻速拉到同一高度的平台上（見下圖）。X 沿較平緩的斜面拉上，歷時 $10\\ \\text{s}$；Y 沿較陡的斜面拉上，歷時 $5\\ \\text{s}$。以下哪些正確？\n(1) 拉力對 X 和 Y 所做的功相同。\n(2) 拉 Y 的力比拉 X 的力大。\n(3) 拉 Y 的平均功率是拉 X 的兩倍。\nTwo identical boxes X and Y are pulled at constant speed up two smooth slopes to a platform at the same height, by forces parallel to the slopes (see the figure). X is pulled up the gentler slope in $10\\ \\text{s}$; Y is pulled up the steeper slope in $5\\ \\text{s}$. Which of the following is/are correct?\n(1) The work done by the pulling forces on X and on Y is the same.\n(2) The force pulling Y is greater than the force pulling X.\n(3) The average power of the force pulling Y is twice that pulling X.",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 12,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "接住一個快速飛來的板球時，守備員通常會把雙手隨球向後移（見下圖）。這樣做的主要原因是甚麼？\nWhen catching a fast cricket ball, a fielder usually moves his hands backwards with the ball (see the figure). What is the main reason for doing so?",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "減少球的動量改變。\nTo reduce the change in momentum of the ball.",
+      "B": "延長球與手的接觸時間，使平均撞擊力減少。\nTo lengthen the time of contact between the ball and the hands, reducing the average impact force.",
+      "C": "在手接觸球之前減低球的速率。\nTo reduce the speed of the ball before the hands touch it.",
+      "D": "減少手對球的衝量。\nTo reduce the impulse of the hands on the ball."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 13,
+    "section": "A",
+    "category": "力和運動/Force and Motion",
+    "questionText": "在一個沒有大氣的月球表面，一個物體以小於逃逸速率的高速率豎直向上射出，可升至與月球半徑相若的高度。取向上為正，以下哪個線圖最能表示物體由射出至到達最高點期間，其速度 $v$ 隨時間 $t$ 的變化？\nOn the surface of an airless moon, an object is projected vertically upwards with a high speed (less than the escape speed), so that it rises to a height comparable with the radius of the moon. Taking upwards as positive, which graph best shows the variation of its velocity $v$ with time $t$ from projection until it reaches its highest point?",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "線圖 A\nGraph A",
+      "B": "線圖 B\nGraph B",
+      "C": "線圖 C\nGraph C",
+      "D": "線圖 D\nGraph D"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 14,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一列縱波沿一條長彈簧向右傳播。下圖上方顯示彈簧上的質點 A 至 L 的平衡位置（相鄰兩點相距 $2.0\\ \\text{cm}$），下方顯示某一時刻它們的實際位置。在這時刻，哪個質點位於密部的中心？質點 A 正向哪個方向運動？\nA longitudinal wave travels to the right along a long spring. The upper part of the figure shows the equilibrium positions of particles A to L on the spring (adjacent particles $2.0\\ \\text{cm}$ apart); the lower part shows their actual positions at a certain instant. At this instant, which particle is at the centre of a compression, and in which direction is particle A moving?",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "E；向左\nE; to the left",
+      "B": "E；向右\nE; to the right",
+      "C": "A；向左\nA; to the left",
+      "D": "C；向右\nC; to the right"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 15,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一名學生站在距離一幅大牆 $60\\ \\text{m}$ 處拍手，調整節拍使每下拍手聲剛好與上一下拍手的回聲同時聽到（見下圖）。她在叫「1」的一下拍手時開動秒錶，在叫「20」的一下拍手時停錶，讀數為 $6.7\\ \\text{s}$。由此求得的聲速是多少？\nA student stands $60\\ \\text{m}$ from a large wall and claps, adjusting the rate so that each clap coincides with the echo of the previous clap (see the figure). She starts a stopwatch on the clap at which she counts \"1\" and stops it on the clap at which she counts \"20\". The reading is $6.7\\ \\text{s}$. What value of the speed of sound does this give?",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "$170\\ \\text{m s}^{-1}$",
+      "B": "$340\\ \\text{m s}^{-1}$",
+      "C": "$358\\ \\text{m s}^{-1}$",
+      "D": "$376\\ \\text{m s}^{-1}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 16,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "在水波槽中，直線水波由區域 P 垂直進入區域 Q（見下圖）。在 P 中，水波的波長為 $3.0\\ \\text{cm}$，波速為 $18\\ \\text{cm s}^{-1}$；在 Q 中，波速為 $12\\ \\text{cm s}^{-1}$。水波在 Q 中的波長和頻率分別是多少？\nIn a ripple tank, straight water waves pass normally from region P into region Q (see the figure). In P the wavelength is $3.0\\ \\text{cm}$ and the wave speed is $18\\ \\text{cm s}^{-1}$; in Q the wave speed is $12\\ \\text{cm s}^{-1}$. What are the wavelength and frequency of the waves in Q?",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "$4.5\\ \\text{cm}$；$6.0\\ \\text{Hz}$\n$4.5\\ \\text{cm}$; $6.0\\ \\text{Hz}$",
+      "B": "$2.0\\ \\text{cm}$；$4.0\\ \\text{Hz}$\n$2.0\\ \\text{cm}$; $4.0\\ \\text{Hz}$",
+      "C": "$3.0\\ \\text{cm}$；$4.0\\ \\text{Hz}$\n$3.0\\ \\text{cm}$; $4.0\\ \\text{Hz}$",
+      "D": "$2.0\\ \\text{cm}$；$6.0\\ \\text{Hz}$\n$2.0\\ \\text{cm}$; $6.0\\ \\text{Hz}$"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 17,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "在以下哪些情況中，波的傳播方向必定改變？\n(1) 聲波被一座懸崖反射。\n(2) 光線由空氣射入一塊玻璃。\n(3) 水波斜向由深水區進入淺水區。\nIn which of the following situations must the direction of travel of the wave change?\n(1) A sound wave is reflected by a cliff.\n(2) A light ray passes from air into a glass block.\n(3) Water waves travel obliquely from deep water into shallow water.",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一個音叉和一把小提琴先後對着同一個咪高峰發聲，下圖顯示示波器上兩者的訊號（示波器設定相同）。這兩個聲音有甚麼不同？\nA tuning fork and a violin sound in turn in front of the same microphone. The figure shows their signals on an oscilloscope (same settings). In what way do the two sounds differ?",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "音色（音品）\nQuality (timbre)",
+      "B": "音調\nPitch",
+      "C": "響度\nLoudness",
+      "D": "在空氣中的速率\nSpeed in air"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 19,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "物體放在一塊凹透鏡前 $24\\ \\text{cm}$ 處，在透鏡前 $8.0\\ \\text{cm}$ 處形成像。把凹透鏡換成一塊焦距數值相同的凸透鏡，物體位置不變。新的像是怎樣的？\nAn object is placed $24\\ \\text{cm}$ in front of a concave lens, and an image is formed $8.0\\ \\text{cm}$ in front of the lens. The concave lens is replaced by a convex lens with the same numerical value of focal length, with the object in the same position. What is the new image like?",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "在透鏡另一邊 $24\\ \\text{cm}$ 處的實像\nA real image $24\\ \\text{cm}$ from the lens on the other side",
+      "B": "在透鏡另一邊 $8.0\\ \\text{cm}$ 處的實像\nA real image $8.0\\ \\text{cm}$ from the lens on the other side",
+      "C": "在透鏡前 $8.0\\ \\text{cm}$ 處的虛像\nA virtual image $8.0\\ \\text{cm}$ in front of the lens",
+      "D": "在透鏡前 $24\\ \\text{cm}$ 處的虛像\nA virtual image $24\\ \\text{cm}$ in front of the lens"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 20,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "波長為 $600\\ \\text{nm}$ 的單色光垂直照射在一塊每毫米有 $500$ 條線的衍射光柵上，在光柵後的屏幕上形成亮點（見下圖）。以下哪些正確？\n(1) 屏幕上最多可見 $7$ 個亮點。\n(2) 若改用每毫米有 $1000$ 條線的光柵，第一級亮點的衍射角會加倍。\n(3) 若改用波長為 $400\\ \\text{nm}$ 的光（光柵不變），可見的亮點數目會增加。\nMonochromatic light of wavelength $600\\ \\text{nm}$ falls normally on a diffraction grating with $500$ lines per mm, producing bright spots on a screen behind it (see the figure). Which of the following is/are correct?\n(1) At most $7$ bright spots can be seen on the screen.\n(2) If a grating with $1000$ lines per mm is used instead, the angle of the first-order bright spot doubles.\n(3) If light of wavelength $400\\ \\text{nm}$ is used instead (same grating), the number of visible bright spots increases.",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 21,
+    "section": "A",
+    "category": "波動/Wave Motion",
+    "questionText": "一個光脈衝和一個聲脈衝分別由空氣進入一塊玻璃。與在空氣中比較，它們在玻璃中的速率有何改變？\nA light pulse and a sound pulse each pass from air into a glass block. Compared with in air, how do their speeds change in the glass?",
+    "imageUrl": "q21.png",
+    "options": {
+      "A": "兩者都減慢。\nBoth slow down.",
+      "B": "兩者都加快。\nBoth speed up.",
+      "C": "光減慢；聲音加快。\nLight slows down; sound speeds up.",
+      "D": "光加快；聲音減慢。\nLight speeds up; sound slows down."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 22,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一個帶電小球 Y 固定在一個光滑絕緣斜面的底部。另一個帶電小球 X 放在斜面上，在 X 與 Y 的連線沿斜面、相距 $r$ 處保持靜止（見下圖）。以下哪些正確？\n(1) X 和 Y 所帶電荷的正負號必定相同。\n(2) X 和 Y 所帶的電量必定相等。\n(3) 若 X 的電量加倍，X 新的平衡位置與 Y 相距 $\\sqrt2\\,r$。\nA small charged sphere Y is fixed at the bottom of a smooth insulating slope. Another small charged sphere X is placed on the slope and stays at rest at a distance $r$ from Y, with XY along the slope (see the figure). Which of the following is/are correct?\n(1) X and Y must carry charges of the same sign.\n(2) X and Y must carry equal amounts of charge.\n(3) If the charge on X is doubled, the new equilibrium position of X is at a distance $\\sqrt2\\,r$ from Y.",
+    "imageUrl": "q22.png",
+    "options": {
+      "A": "只有 (1) 及 (3)\n(1) and (3) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 23,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一個負點電荷 $-Q$ 固定於原點。取 $+x$ 方向為正，以下哪個線圖最能表示 $x$ 軸上（$x≠0$）的電場 $E$ 隨 $x$ 的變化？\nA negative point charge $-Q$ is fixed at the origin. Taking the $+x$ direction as positive, which graph best shows the variation of the electric field $E$ with $x$ along the $x$-axis ($x≠0$)?",
+    "imageUrl": "q23.png",
+    "options": {
+      "A": "線圖 A\nGraph A",
+      "B": "線圖 B\nGraph B",
+      "C": "線圖 C\nGraph C",
+      "D": "線圖 D\nGraph D"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 24,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "下圖電路中，電池的電動勢為 $12\\ \\text{V}$，內阻可略去。$R_1=2.0\\ \\text{k}\\Omega$，$R_2=4.0\\ \\text{k}\\Omega$，$R_3=6.0\\ \\text{k}\\Omega$，$R_4=3.0\\ \\text{k}\\Omega$。X 和 Y 之間的電勢差是多少？\nIn the circuit shown, the battery has an e.m.f. of $12\\ \\text{V}$ and negligible internal resistance. $R_1=2.0\\ \\text{k}\\Omega$, $R_2=4.0\\ \\text{k}\\Omega$, $R_3=6.0\\ \\text{k}\\Omega$ and $R_4=3.0\\ \\text{k}\\Omega$. What is the potential difference between X and Y?",
+    "imageUrl": "q24.png",
+    "options": {
+      "A": "$0$",
+      "B": "$4.0\\ \\text{V}$",
+      "C": "$8.0\\ \\text{V}$",
+      "D": "$12\\ \\text{V}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 25,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一個 $2200\\ \\text{W}$ 的電熱水壺接到 $220\\ \\text{V}$ 的電源。可用的保險絲有 $3\\ \\text{A}$、$5\\ \\text{A}$ 和 $13\\ \\text{A}$。以下哪項最恰當？\nA $2200\\ \\text{W}$ electric kettle is connected to a $220\\ \\text{V}$ supply. Fuses of $3\\ \\text{A}$, $5\\ \\text{A}$ and $13\\ \\text{A}$ are available. Which of the following is the most suitable?",
+    "imageUrl": "q25.png",
+    "options": {
+      "A": "把 $5\\ \\text{A}$ 的保險絲接在火線上\nA $5\\ \\text{A}$ fuse in the live wire",
+      "B": "把 $13\\ \\text{A}$ 的保險絲接在火線上\nA $13\\ \\text{A}$ fuse in the live wire",
+      "C": "把 $13\\ \\text{A}$ 的保險絲接在中性線上\nA $13\\ \\text{A}$ fuse in the neutral wire",
+      "D": "把 $3\\ \\text{A}$ 的保險絲接在火線上\nA $3\\ \\text{A}$ fuse in the live wire"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 26,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一部簡單直流電動機的矩形線圈在均勻磁場中轉動，並經換向器接上直流電源（見下圖）。設 $\\theta$ 為線圈平面與磁場方向的夾角。以下哪個線圖最能表示線圈轉動一周期間，作用於線圈的轉矩（力矩）隨 $\\theta$ 的變化？\nThe rectangular coil of a simple d.c. motor rotates in a uniform magnetic field and is connected to a d.c. supply through a commutator (see the figure). Let $\\theta$ be the angle between the plane of the coil and the direction of the magnetic field. Which graph best shows the variation of the torque (moment) on the coil with $\\theta$ during one revolution?",
+    "imageUrl": "q26.png",
+    "options": {
+      "A": "線圖 A\nGraph A",
+      "B": "線圖 B\nGraph B",
+      "C": "線圖 C\nGraph C",
+      "D": "線圖 D\nGraph D"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 27,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "三條長度相同的豎直管：銅管、沿長度方向切開一條縫的銅管，以及膠管。把三塊相同的強磁鐵分別由各管頂端靜止釋放（見下圖）。設磁鐵穿過銅管、有縫銅管及膠管所需的時間分別為 $t_C$、$t_S$ 和 $t_P$。以下哪項正確？\nThree vertical tubes have the same length: a copper tube, a copper tube with a slit cut along its length, and a plastic tube. Three identical strong magnets are released from rest at the top of the tubes (see the figure). Let the times taken by the magnets to pass through the copper tube, the slit copper tube and the plastic tube be $t_C$, $t_S$ and $t_P$ respectively. Which of the following is correct?",
+    "imageUrl": "q27.png",
+    "options": {
+      "A": "$t_C>t_S>t_P$",
+      "B": "$t_S>t_C>t_P$",
+      "C": "$t_C=t_S>t_P$",
+      "D": "$t_P>t_S>t_C$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 28,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一個 $5$ 匝的矩形線圈，大小為 $0.10\\ \\text{m}\\times0.20\\ \\text{m}$，總電阻為 $0.50\\ \\Omega$，以 $2.0\\ \\text{m s}^{-1}$ 的恆定速度向右穿過一個垂直紙面向內、$B=0.40\\ \\text{T}$ 的均勻磁場。磁場區域的闊度大於 $0.20\\ \\text{m}$。下圖顯示線圈在兩個時刻的位置：在時刻 P，線圈完全在磁場內；在時刻 Q，線圈正部分離開磁場。線圈在 P 和 Q 時的電流（從紙面前方看）分別是多少？\nA rectangular coil of $5$ turns, measuring $0.10\\ \\text{m}\\times0.20\\ \\text{m}$ and of total resistance $0.50\\ \\Omega$, moves to the right at a constant velocity of $2.0\\ \\text{m s}^{-1}$ through a uniform magnetic field $B=0.40\\ \\text{T}$ directed into the paper. The field region is wider than $0.20\\ \\text{m}$. The figure shows the coil at two instants: at instant P the coil is completely inside the field; at instant Q it is partly out of the field. What are the currents in the coil (as seen from the front of the paper) at P and at Q?",
+    "imageUrl": "q28.png",
+    "options": {
+      "A": "P：$0.80\\ \\text{A}$，順時針；Q：$0.80\\ \\text{A}$，順時針\nP: $0.80\\ \\text{A}$, clockwise; Q: $0.80\\ \\text{A}$, clockwise",
+      "B": "P：零；Q：$0.80\\ \\text{A}$，順時針\nP: zero; Q: $0.80\\ \\text{A}$, clockwise",
+      "C": "P：零；Q：$0.80\\ \\text{A}$，逆時針\nP: zero; Q: $0.80\\ \\text{A}$, anticlockwise",
+      "D": "P：零；Q：$1.6\\ \\text{A}$，順時針\nP: zero; Q: $1.6\\ \\text{A}$, clockwise"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 29,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一個 $48\\ \\Omega$ 的電阻器接到峰值電壓為 $24\\ \\text{V}$ 的正弦交流電源。以下哪些正確？\n(1) 流經電阻器的電流的方均根值約為 $0.35\\ \\text{A}$。\n(2) 電阻器消耗的平均功率為 $6.0\\ \\text{W}$。\n(3) 若電源的峰值電壓加倍，平均功率亦加倍。\nA $48\\ \\Omega$ resistor is connected to a sinusoidal a.c. supply of peak voltage $24\\ \\text{V}$. Which of the following is/are correct?\n(1) The r.m.s. current through the resistor is about $0.35\\ \\text{A}$.\n(2) The average power dissipated in the resistor is $6.0\\ \\text{W}$.\n(3) If the peak voltage of the supply is doubled, the average power also doubles.",
+    "imageUrl": "q29.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 30,
+    "section": "A",
+    "category": "電和磁/Electricity and Magnetism",
+    "questionText": "一個手機充電器內的變壓器把 $220\\ \\text{V}$ 的電源電壓降至 $5.0\\ \\text{V}$，輸出電流為 $2.0\\ \\text{A}$。變壓器的效率為 $80\\%$。原線圈中的電流是多少？\nThe transformer in a phone charger steps the $220\\ \\text{V}$ mains voltage down to $5.0\\ \\text{V}$, with an output current of $2.0\\ \\text{A}$. The efficiency of the transformer is $80\\%$. What is the current in the primary coil?",
+    "imageUrl": "q30.png",
+    "options": {
+      "A": "$0.0364\\ \\text{A}$",
+      "B": "$0.0455\\ \\text{A}$",
+      "C": "$0.0568\\ \\text{A}$",
+      "D": "$2.50\\ \\text{A}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 31,
+    "section": "A",
+    "category": "放射現象和核能/Radioactivity and Nuclear Energy",
+    "questionText": "一束 $\\alpha$ 粒子和一束 $\\beta$ 粒子以垂直於磁場的方向射入一個垂直紙面向內的均勻磁場。以下哪個圖最能表示它們的路徑？\nA beam of $\\alpha$ particles and a beam of $\\beta$ particles enter a uniform magnetic field directed into the paper, perpendicular to the field. Which diagram best shows their paths?",
+    "imageUrl": "q31.png",
+    "options": {
+      "A": "圖 A\nDiagram A",
+      "B": "圖 B\nDiagram B",
+      "C": "圖 C\nDiagram C",
+      "D": "圖 D\nDiagram D"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 32,
+    "section": "A",
+    "category": "放射現象和核能/Radioactivity and Nuclear Energy",
+    "questionText": "以下哪項有關 $\\beta$ 粒子和 $\\gamma$ 射線的描述正確？\nWhich of the following statements about $\\beta$ particles and $\\gamma$ rays is correct?",
+    "imageUrl": "q32.png",
+    "options": {
+      "A": "數毫米厚的鋁片可擋住 $\\beta$ 粒子，但大部分 $\\gamma$ 射線可穿過。\nA few millimetres of aluminium can stop $\\beta$ particles, but most $\\gamma$ rays pass through it.",
+      "B": "$\\gamma$ 射線會被磁場偏轉。\n$\\gamma$ rays are deflected by a magnetic field.",
+      "C": "$\\beta$ 粒子是電磁波。\n$\\beta$ particles are electromagnetic waves.",
+      "D": "$\\gamma$ 射線的電離本領比 $\\beta$ 粒子強。\n$\\gamma$ rays are more ionizing than $\\beta$ particles."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 33,
+    "section": "A",
+    "category": "放射現象和核能/Radioactivity and Nuclear Energy",
+    "questionText": "煙霧探測器中的鋂-241 會發生 $\\alpha$ 衰變：\n${}^{241}_{95}\\text{Am}\\rightarrow{}^{237}_{93}\\text{Np}+{}^{4}_{2}\\text{He}$\n已知質量：${}^{241}_{95}\\text{Am}$：$241.056829\\ \\text{u}$；${}^{237}_{93}\\text{Np}$：$237.048173\\ \\text{u}$；${}^{4}_{2}\\text{He}$：$4.002603\\ \\text{u}$。一個靜止的鋂-241 核衰變，以下哪些正確？\n(1) 衰變產物的總質量小於鋂-241 核的質量。\n(2) $\\alpha$ 粒子的動能約為 $5.54\\ \\text{MeV}$。\n(3) 鎿-237 核與 $\\alpha$ 粒子的動能相等。\nAmericium-241 in smoke detectors undergoes $\\alpha$ decay:\n${}^{241}_{95}\\text{Am}\\rightarrow{}^{237}_{93}\\text{Np}+{}^{4}_{2}\\text{He}$\nGiven masses: ${}^{241}_{95}\\text{Am}$: $241.056829\\ \\text{u}$; ${}^{237}_{93}\\text{Np}$: $237.048173\\ \\text{u}$; ${}^{4}_{2}\\text{He}$: $4.002603\\ \\text{u}$. A stationary americium-241 nucleus decays. Which of the following is/are correct?\n(1) The total mass of the decay products is less than the mass of the americium-241 nucleus.\n(2) The kinetic energy of the $\\alpha$ particle is about $5.54\\ \\text{MeV}$.\n(3) The neptunium-237 nucleus and the $\\alpha$ particle have equal kinetic energies.",
+    "imageUrl": "q33.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (3)\n(3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  }
+]

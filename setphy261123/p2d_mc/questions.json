@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "下圖顯示兩副眼鏡 X 和 Y 的處方，其焦強分別為 $-2.5\\ \\text{D}$ 和 $+1.25\\ \\text{D}$。配戴眼鏡時，不計眼鏡與眼的距離。以下哪些正確？\n(1) 配戴 X 的人是近視的。\n(2) 配戴 X 的人不戴眼鏡時，遠點在眼前 $40\\ \\text{cm}$。\n(3) Y 的鏡片是發散透鏡。\nThe figure shows the prescriptions of two pairs of glasses X and Y, of powers $-2.5\\ \\text{D}$ and $+1.25\\ \\text{D}$ respectively. Neglect the distance between the glasses and the eye. Which of the following is/are correct?\n(1) The wearer of X is short-sighted.\n(2) Without glasses, the far point of the wearer of X is $40\\ \\text{cm}$ in front of the eye.\n(3) The lens of Y is a diverging lens.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有 (1) 及 (2)\n(1) and (2) only",
+      "B": "只有 (1) 及 (3)\n(1) and (3) only",
+      "C": "只有 (2) 及 (3)\n(2) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "聽覺閾強度為 $1.0\\times10^{-12}\\ \\text{W m}^{-2}$。以下哪些正確？\n(1) 強度為 $1.0\\times10^{-6}\\ \\text{W m}^{-2}$ 的聲音，強度級為 $60\\ \\text{dB}$。\n(2) 聲音的強度加倍時，強度級增加約 $3\\ \\text{dB}$。\n(3) 強度級為 $0\\ \\text{dB}$ 的聲音完全沒有聲能。\nThe threshold of hearing is $1.0\\times10^{-12}\\ \\text{W m}^{-2}$. Which of the following is/are correct?\n(1) A sound of intensity $1.0\\times10^{-6}\\ \\text{W m}^{-2}$ has an intensity level of $60\\ \\text{dB}$.\n(2) When the intensity of a sound is doubled, its intensity level increases by about $3\\ \\text{dB}$.\n(3) A sound of intensity level $0\\ \\text{dB}$ carries no sound energy at all.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "下圖是腹部 A 型超聲波掃描的顯示，回波 X、Y、Z 分別來自脂肪與肌肉的分界面、肝臟前緣及肝臟後緣。以下哪些正確？\n(1) 其他條件相同時，分界面兩邊聲阻抗相差越大，反射的超聲波比例越大。\n(2) 由 Y 和 Z 之間的時間間隔及超聲波在肝臟中的速率，可求得肝臟的厚度。\n(3) 回波 Z 較小，表示肝臟後緣的分界面吸收了大部分超聲波。\nThe figure shows the display of an A-scan of the abdomen. Echoes X, Y and Z come from the fat–muscle boundary, the front surface of the liver and the back surface of the liver respectively. Which of the following is/are correct?\n(1) Other things being equal, the larger the difference in acoustic impedance across a boundary, the larger the fraction of ultrasound reflected.\n(2) The thickness of the liver can be found from the time interval between Y and Z and the speed of ultrasound in the liver.\n(3) Echo Z is smaller because the boundary at the back of the liver absorbs most of the ultrasound.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (2)\n(1) and (2) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "在內窺鏡中，用來傳送影像的光纖束必須是相干光纖束。這是因為\nIn an endoscope, the fibre bundle used to carry the image must be a coherent bundle. This is because",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "相干光纖束令光傳播得較快。\na coherent bundle makes light travel faster.",
+      "B": "各光纖在光纖束兩端的相對位置相同，影像才不會被打亂。\nthe relative positions of the fibres are the same at both ends of the bundle, so the image is not scrambled.",
+      "C": "相干光纖束可傳送較多光線照明。\na coherent bundle carries more light for illumination.",
+      "D": "相干光纖束可避免光在光纖中發生全內反射。\na coherent bundle prevents total internal reflection in the fibres."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "醫生要即時觀察病人心臟瓣膜的開合及血液流動，而不想令病人受電離輻射。最合適的方法是\nA doctor wishes to observe in real time the opening and closing of a patient's heart valves and the flow of blood, without exposing the patient to ionizing radiation. The most suitable method is",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "電腦斷層掃描（CT）。\ncomputed tomography (CT).",
+      "B": "X 射線照片。\nan X-ray radiograph.",
+      "C": "放射性核素造影。\nradionuclide imaging.",
+      "D": "超聲波掃描（包括多普勒超聲波）。\nultrasound scanning (including Doppler ultrasound)."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "軟組織和骨對某單色 X 射線的線性衰減係數分別為 $0.20\\ \\text{cm}^{-1}$ 和 $0.50\\ \\text{cm}^{-1}$。要使一塊骨對這 X 射線的衰減與 $4.0\\ \\text{cm}$ 厚的軟組織相同，骨的厚度 $x$ 應是多少？骨的半值厚度又是多少？（見下圖）\nThe linear attenuation coefficients of soft tissue and bone for a certain monochromatic X-ray beam are $0.20\\ \\text{cm}^{-1}$ and $0.50\\ \\text{cm}^{-1}$ respectively. What thickness $x$ of bone attenuates this X-ray beam by the same amount as $4.0\\ \\text{cm}$ of soft tissue, and what is the half-value thickness of bone? (See the figure.)",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "$1.6\\ \\text{cm}$；$1.39\\ \\text{cm}$\n$1.6\\ \\text{cm}$; $1.39\\ \\text{cm}$",
+      "B": "$1.6\\ \\text{cm}$；$3.47\\ \\text{cm}$\n$1.6\\ \\text{cm}$; $3.47\\ \\text{cm}$",
+      "C": "$10\\ \\text{cm}$；$1.39\\ \\text{cm}$\n$10\\ \\text{cm}$; $1.39\\ \\text{cm}$",
+      "D": "$10\\ \\text{cm}$；$3.47\\ \\text{cm}$\n$10\\ \\text{cm}$; $3.47\\ \\text{cm}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "為顯示一條直徑 $0.50\\ \\text{cm}$ 的血管，向血液注入含碘的造影劑，使血管中物質的線性衰減係數由 $0.20\\ \\text{cm}^{-1}$ 增至 $5.0\\ \\text{cm}^{-1}$。對於直穿血管直徑的 X 射線，注入造影劑前與注入後透射強度之比約為多少？\nTo show a blood vessel of diameter $0.50\\ \\text{cm}$, an iodine contrast medium is injected into the blood, raising the linear attenuation coefficient of the contents of the vessel from $0.20\\ \\text{cm}^{-1}$ to $5.0\\ \\text{cm}^{-1}$. For X-rays passing straight across the diameter of the vessel, what is the approximate ratio of the transmitted intensity before injection to that after injection?",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "$1.1$",
+      "B": "$2.4$",
+      "C": "$11$",
+      "D": "$25$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "醫學物理學/Medical Physics",
+    "questionText": "碘-131 用於治療甲狀腺疾病。它的物理半衰期為 $8.0$ 日，在甲狀腺中的生物半衰期為 $12$ 日。甲狀腺內碘-131 的放射強度降至原來的 $\\dfrac{1}{16}$ 需時多久？\nIodine-131 is used to treat thyroid disease. Its physical half-life is $8.0$ days and its biological half-life in the thyroid is $12$ days. How long does it take for the activity of iodine-131 in the thyroid to fall to $\\dfrac{1}{16}$ of its initial value?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "$4.8$ 日\n$4.8$ days",
+      "B": "$19.2$ 日\n$19.2$ days",
+      "C": "$32$ 日\n$32$ days",
+      "D": "$80$ 日\n$80$ days"
+    },
+    "correctAnswer": "B"
+  }
+]

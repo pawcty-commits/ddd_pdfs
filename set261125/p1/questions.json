@@ -1,0 +1,481 @@
+{
+ "paperTitleZh": "全新模擬卷 — 試卷一",
+ "paperTitle": "Mock Examination — Paper 1",
+ "durationMinutes": 135,
+ "totalMarks": 105,
+ "questions": [
+  {
+   "questionNumber": 1,
+   "section": "sectionA1",
+   "categoryZh": "公式主項變換",
+   "categoryEn": "Change of Subject",
+   "difficultyGrade": "B",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "",
+     "questionTextZh": "把 $\\dfrac{5+t}{2t-1}=m$ 的主項變換為 $t$ 。",
+     "questionTextEn": "Make $t$ the subject of the formula $\\dfrac{5+t}{2t-1}=m$ .",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 2,
+   "section": "sectionA1",
+   "categoryZh": "指數律",
+   "categoryEn": "Laws of Indices",
+   "difficultyGrade": "B",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "",
+     "questionTextZh": "化簡 $\\dfrac{(a^{-3}b^{2})^{-2}}{a^{4}b^{-5}}$ ，並以正指數表示答案。",
+     "questionTextEn": "Simplify $\\dfrac{(a^{-3}b^{2})^{-2}}{a^{4}b^{-5}}$ and express your answer with positive indices.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 3,
+   "section": "sectionA1",
+   "categoryZh": "因式分解",
+   "categoryEn": "Factorization",
+   "difficultyGrade": "B",
+   "figureSpecId": null,
+   "totalMarks": 3,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "把 $3x^{2}+5xy-2y^{2}$ 因式分解。",
+     "questionTextEn": "Factorize $3x^{2}+5xy-2y^{2}$ .",
+     "totalMarks": 1
+    },
+    {
+     "label": "b",
+     "questionTextZh": "把 $3x^{2}+5xy-2y^{2}-6x+2y$ 因式分解。",
+     "questionTextEn": "Factorize $3x^{2}+5xy-2y^{2}-6x+2y$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 4,
+   "section": "sectionA1",
+   "categoryZh": "一元一次方程的應用",
+   "categoryEn": "Applications of Linear Equations",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "",
+     "questionTextZh": "某工場製造甲、乙兩款木椅。製造每張甲款木椅需時 $45$ 分鐘，而製造每張乙款木椅需時 $30$ 分鐘。某星期該工場共製造 $260$ 張木椅，所用時間合共 $150$ 小時。求該星期製造甲款木椅的數目。",
+     "questionTextEn": "A workshop makes two models of wooden chairs, A and B. It takes $45$ minutes to make each chair of model A and $30$ minutes to make each chair of model B. In a certain week, the workshop made $260$ chairs in total, using $150$ hours altogether. Find the number of chairs of model A made in that week.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 5,
+   "section": "sectionA1",
+   "categoryZh": "一元一次不等式",
+   "categoryEn": "Linear Inequalities in One Unknown",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "求同時滿足 $\\dfrac{2x-1}{3}\\ge x-4$ 及 $18-5x<43$ 的 $x$ 的取值範圍。",
+     "questionTextEn": "Find the range of values of $x$ which satisfy both $\\dfrac{2x-1}{3}\\ge x-4$ and $18-5x<43$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有多少個整數滿足 (a) 中的兩個不等式？",
+     "questionTextEn": "How many integers satisfy both inequalities in (a)?",
+     "totalMarks": 1
+    }
+   ]
+  },
+  {
+   "questionNumber": 6,
+   "section": "sectionA1",
+   "categoryZh": "坐標變換與面積",
+   "categoryEn": "Transformations and Areas",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "點 $P$ 的坐標為 $(5,2)$ 。把 $P$ 對直線 $y=x$ 反射，得 $P'$ ；再把 $P'$ 向左平移 $10$ 單位，得 $P''$ 。寫出 $P'$ 及 $P''$ 的坐標。",
+     "questionTextEn": "The coordinates of the point $P$ are $(5,2)$ . $P$ is reflected with respect to the straight line $y=x$ to $P'$ . $P'$ is then translated leftwards by $10$ units to $P''$ . Write down the coordinates of $P'$ and $P''$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "設 $O$ 為原點。求 $\\triangle OPP''$ 的面積。",
+     "questionTextEn": "Let $O$ be the origin. Find the area of $\\triangle OPP''$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 7,
+   "section": "sectionA1",
+   "categoryZh": "統計圖表與概率",
+   "categoryEn": "Statistical Charts and Probability",
+   "difficultyGrade": "B+",
+   "figureSpecId": "F62-P1Q7R",
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "棒形圖顯示某班學生上月借閱圖書數目的分佈，其中代表借閱 $1$ 本的棒被墨水弄污了。若從該班隨機選出一名學生，該學生上月借閱最少 $3$ 本圖書的概率為 $\\dfrac{11}{40}$ 。求上月借閱 $1$ 本圖書的學生人數。",
+     "questionTextEn": "The bar chart shows the distribution of the numbers of books borrowed by the students of a class last month, where the bar representing $1$ book is covered by ink. If a student is randomly selected from the class, the probability that the student borrowed at least $3$ books last month is $\\dfrac{11}{40}$ . Find the number of students who borrowed $1$ book last month.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求該分佈的中位數及眾數。",
+     "questionTextEn": "Find the median and the mode of the distribution.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 8,
+   "section": "sectionA1",
+   "categoryZh": "部分變",
+   "categoryEn": "Partial Variation",
+   "difficultyGrade": "B+",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某印刷公司印製一批小冊子的成本 $\\$C$ 部分是常數，部分隨印製數量 $n$ 正變。印製 $200$ 本的成本為 $\\$3\\,400$ ，而印製 $500$ 本的成本為 $\\$7\\,000$ 。以 $n$ 表示 $C$ 。",
+     "questionTextEn": "The cost $\\$C$ of printing a batch of booklets by a printing company is partly constant and partly varies directly as the number of booklets $n$ printed. The cost of printing $200$ booklets is $\\$3\\,400$ and the cost of printing $500$ booklets is $\\$7\\,000$ . Express $C$ in terms of $n$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "若印製數量由 $500$ 本增加 $40\\%$ ，求成本的百分增加，答案準確至三位有效數字。",
+     "questionTextEn": "If the number of booklets printed is increased by $40\\%$ from $500$ , find the percentage increase in the cost, correct to 3 significant figures.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 9,
+   "section": "sectionA1",
+   "categoryZh": "近似與誤差",
+   "categoryEn": "Approximation and Errors",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 5,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "某條絲帶的長度以最接近的 $0.1$ m 量度為 $2.4$ m。求該絲帶長度的最小可能值。",
+     "questionTextEn": "The length of a ribbon is measured as $2.4$ m correct to the nearest $0.1$ m. Find the least possible length of the ribbon.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "有 $30$ 條這樣的絲帶，每條的長度均以最接近的 $0.1$ m 量度為 $2.4$ m。店員宣稱把這 $30$ 條絲帶的總長度以最接近的 $1$ m 量度時，結果可以是 $74$ m。該宣稱是否正確？試解釋你的答案。",
+     "questionTextEn": "There are $30$ such ribbons, each measured as $2.4$ m correct to the nearest $0.1$ m. A shop assistant claims that when the total length of the $30$ ribbons is measured correct to the nearest $1$ m, the result can be $74$ m. Is the claim correct? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 10,
+   "section": "sectionA2",
+   "categoryZh": "圓的性質與全等三角形",
+   "categoryEn": "Circle Properties and Congruent Triangles",
+   "difficultyGrade": "A-",
+   "figureSpecId": "F62-P1Q10R",
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圖中，$A$ 、 $B$ 、 $C$ 及 $D$ 位於以 $O$ 為圓心的圓上，其中 $AB\\parallel DC$ 。$AC$ 與 $BD$ 相交。證明 $\\triangle ADC\\cong\\triangle BCD$ 。",
+     "questionTextEn": "In the figure, $A$ , $B$ , $C$ and $D$ lie on the circle with centre $O$ , where $AB\\parallel DC$ . $AC$ and $BD$ intersect. Prove that $\\triangle ADC\\cong\\triangle BCD$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知圓的半徑為 $5$ cm 及 $\\angle ACD=35^{\\circ}$ 。求扇形 $OBC$ 的面積，以 $\\pi$ 表示答案。",
+     "questionTextEn": "It is given that the radius of the circle is $5$ cm and $\\angle ACD=35^{\\circ}$ . Find the area of the sector $OBC$ in terms of $\\pi$ .",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 11,
+   "section": "sectionA2",
+   "categoryZh": "統計（集中趨勢與離差）",
+   "categoryEn": "Central Tendency and Dispersion",
+   "difficultyGrade": "A-",
+   "figureSpecId": "F62-P1Q11R2",
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下面的莖葉圖顯示 $10$ 名學生某日做運動的時間（以分鐘計）的分佈，其中 $a$ 及 $b$ 為整數。\n莖（十位） | 葉（個位）\n$1\\mid 6\\quad 9$\n$2\\mid 3\\quad 5\\quad a$\n$3\\mid 1\\quad b\\quad 8$\n$4\\mid 2\\quad 7$\n已知該分佈的中位數為 $29.5$ 分鐘，而眾數為 $31$ 分鐘。求 $a$ 及 $b$ ，並求該分佈的平均值及標準差（標準差答案準確至三位有效數字）。",
+     "questionTextEn": "The stem-and-leaf diagram below shows the distribution of the times (in minutes) spent on exercise by $10$ students on a certain day, where $a$ and $b$ are integers.\nStem (tens) | Leaf (units)\n$1\\mid 6\\quad 9$\n$2\\mid 3\\quad 5\\quad a$\n$3\\mid 1\\quad b\\quad 8$\n$4\\mid 2\\quad 7$\nIt is given that the median and the mode of the distribution are $29.5$ minutes and $31$ minutes respectively. Find $a$ and $b$ , and find the mean and the standard deviation of the distribution (give the standard deviation correct to 3 significant figures).",
+     "totalMarks": 5
+    },
+    {
+     "label": "b",
+     "questionTextZh": "後來加入另一名學生的數據，其做運動的時間為 $30$ 分鐘。該分佈的標準差會增加還是減少？試解釋你的答案。",
+     "questionTextEn": "Later, the datum of another student, whose time spent on exercise is $30$ minutes, is added. Will the standard deviation of the distribution increase or decrease? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 12,
+   "section": "sectionA2",
+   "categoryZh": "球體與圓錐的求積",
+   "categoryEn": "Mensuration of Spheres and Cones",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "把一個半徑為 $6$ cm 的實心金屬球熔掉，再鑄成一個實心模型。該模型由一個實心半球及一個實心直立圓錐組成，兩者的底重合，且半徑均為 $6$ cm。假設熔鑄過程中沒有損失金屬。求該圓錐的高。",
+     "questionTextEn": "A solid metal sphere of radius $6$ cm is melted and recast into a solid model. The model consists of a solid hemisphere and a solid right circular cone, whose bases coincide and both have radius $6$ cm. Assume that there is no loss of metal. Find the height of the cone.",
+     "totalMarks": 3
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求該模型的總表面面積，答案準確至三位有效數字。",
+     "questionTextEn": "Find the total surface area of the model, correct to 3 significant figures.",
+     "totalMarks": 4
+    }
+   ]
+  },
+  {
+   "questionNumber": 13,
+   "section": "sectionA2",
+   "categoryZh": "圓的方程與切線",
+   "categoryEn": "Equations of Circles and Tangents",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 7,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "圓 $C$ 的圓心為 $K(-2,3)$ ，且 $C$ 通過點 $A(4,11)$ 。求 $C$ 的方程。",
+     "questionTextEn": "The centre of the circle $C$ is $K(-2,3)$ and $C$ passes through the point $A(4,11)$ . Find the equation of $C$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "求 $C$ 在 $A$ 的切線的方程。",
+     "questionTextEn": "Find the equation of the tangent to $C$ at $A$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "c(i)",
+     "questionTextZh": "(b) 中的切線與 $x$ 軸及 $y$ 軸分別相交於 $P$ 及 $Q$ 。寫出 $P$ 及 $Q$ 的坐標。",
+     "questionTextEn": "The tangent in (b) cuts the $x$-axis and the $y$-axis at $P$ and $Q$ respectively. Write down the coordinates of $P$ and $Q$ .",
+     "totalMarks": 1
+    },
+    {
+     "label": "c(ii)",
+     "questionTextZh": "設 $O$ 為原點。由此，求 $\\triangle OPQ$ 的外接圓的方程。",
+     "questionTextEn": "Let $O$ be the origin. Hence, find the equation of the circumcircle of $\\triangle OPQ$ .",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 14,
+   "section": "sectionA2",
+   "categoryZh": "餘式定理與因式定理",
+   "categoryEn": "Remainder and Factor Theorems",
+   "difficultyGrade": "A",
+   "figureSpecId": null,
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $f(x)=3x^{3}+px^{2}+qx-8$ ，其中 $p$ 及 $q$ 為常數。已知 $f(x)$ 可被 $x-2$ 整除。當 $f(x)$ 除以 $x+1$ 時，餘數為 $3$ 。求 $p$ 及 $q$ 。",
+     "questionTextEn": "Let $f(x)=3x^{3}+px^{2}+qx-8$ , where $p$ and $q$ are constants. It is given that $f(x)$ is divisible by $x-2$ . When $f(x)$ is divided by $x+1$ , the remainder is $3$ . Find $p$ and $q$ .",
+     "totalMarks": 3
+    },
+    {
+     "label": "b(i)",
+     "questionTextZh": "把 $f(x)$ 因式分解。",
+     "questionTextEn": "Factorize $f(x)$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(ii)",
+     "questionTextZh": "有人聲稱方程 $f(x^{2})=0$ 有四個實根。你是否同意？試解釋你的答案。",
+     "questionTextEn": "Someone claims that the equation $f(x^{2})=0$ has four real roots. Do you agree? Explain your answer.",
+     "totalMarks": 3
+    }
+   ]
+  },
+  {
+   "questionNumber": 15,
+   "section": "sectionB",
+   "categoryZh": "標準分與四分位數間距",
+   "categoryEn": "Standard Scores and Inter-quartile Range",
+   "difficultyGrade": "A-",
+   "figureSpecId": "F62-P1Q15R",
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "下表顯示某班 $20$ 名學生在一次小測中的分數分佈。求分數為 $8$ 分的學生的標準分，答案準確至三位有效數字。",
+     "questionTextEn": "The table shows the distribution of the scores of $20$ students of a class in a quiz. Find the standard score of a student who scored $8$ marks, correct to 3 significant figures.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "後來有兩名學生補考，分數分別為 $4$ 分及 $9$ 分。班主任聲稱把這兩個分數加入後，分佈的四分位數間距不變。此說法是否正確？試解釋你的答案。",
+     "questionTextEn": "Later, two students sat a make-up quiz and scored $4$ marks and $9$ marks respectively. The class teacher claims that after including these two scores, the inter-quartile range of the distribution remains unchanged. Is the claim correct? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 16,
+   "section": "sectionB",
+   "categoryZh": "組合概率與條件概率",
+   "categoryEn": "Probability with Combinations and Conditional Probability",
+   "difficultyGrade": "A-",
+   "figureSpecId": null,
+   "totalMarks": 4,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "盒中有 $6$ 個紅球及 $4$ 個白球。若同時從盒中隨機抽出 $4$ 個球，求最少抽得 $3$ 個紅球的概率。",
+     "questionTextEn": "A box contains $6$ red balls and $4$ white balls. If $4$ balls are drawn randomly from the box at the same time, find the probability that at least $3$ red balls are drawn.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b",
+     "questionTextZh": "已知抽出的 $4$ 個球中最少有 $3$ 個紅球，求 $4$ 個球全是紅球的概率。",
+     "questionTextEn": "Given that at least $3$ of the $4$ balls drawn are red, find the probability that all the $4$ balls are red.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 17,
+   "section": "sectionB",
+   "categoryZh": "二次函數的應用",
+   "categoryEn": "Applications of Quadratic Functions",
+   "difficultyGrade": "A",
+   "figureSpecId": "F62-P1Q17R",
+   "totalMarks": 6,
+   "parts": [
+    {
+     "label": "a",
+     "questionTextZh": "設 $f(x)=60x-3x^{2}$ 。求 $y=f(x)$ 的圖像的頂點的坐標。",
+     "questionTextEn": "Let $f(x)=60x-3x^{2}$ . Find the coordinates of the vertex of the graph of $y=f(x)$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(i)",
+     "questionTextZh": "嘉欣沿一道直牆用長 $30$ m 的圍欄圍成一個梯形花圃 $ABCD$ ，其中 $AB$ 為牆的一部分，$AB\\parallel DC$ ，$AD=BC=x$ m，且 $\\angle DAB=\\angle CBA=60^{\\circ}$ （見圖）。圍欄只用於 $AD$ 、 $DC$ 及 $CB$ 。以 $x$ 表示花圃的面積。",
+     "questionTextEn": "Ka-yan uses a fence of length $30$ m to enclose a trapezoidal flower bed $ABCD$ along a straight wall, where $AB$ is part of the wall, $AB\\parallel DC$ , $AD=BC=x$ m and $\\angle DAB=\\angle CBA=60^{\\circ}$ (see the figure). The fence is used for $AD$ , $DC$ and $CB$ only. Express the area of the flower bed in terms of $x$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(ii)",
+     "questionTextZh": "嘉欣相信花圃的面積可大於 $130$ m$^{2}$ 。嘉欣是否正確？試解釋你的答案。",
+     "questionTextEn": "Ka-yan believes that the area of the flower bed can be greater than $130$ m$^{2}$ . Is Ka-yan correct? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 18,
+   "section": "sectionB",
+   "categoryZh": "三角應用（立體）",
+   "categoryEn": "Applications of Trigonometry (3-D)",
+   "difficultyGrade": "A",
+   "figureSpecId": "F62-P1Q18R",
+   "totalMarks": 8,
+   "parts": [
+    {
+     "label": "a(i)",
+     "questionTextZh": "圖中所示的帳篷的形狀為一個三角柱 $ABCDEF$ ，其長方形底 $BCDE$ 位於水平地面上，兩個三角形端面 $ABC$ 及 $FED$ 均鉛垂於地面，且 $AF\\parallel BE\\parallel CD$ 。已知 $AB=1.5$ m、 $BC=2.4$ m、 $CA=2.1$ m 及 $BE=3$ m。求 $\\angle ABC$ 。",
+     "questionTextEn": "The tent in the figure is in the shape of a triangular prism $ABCDEF$ . Its rectangular base $BCDE$ lies on the horizontal ground, the two triangular end faces $ABC$ and $FED$ are vertical, and $AF\\parallel BE\\parallel CD$ . It is given that $AB=1.5$ m, $BC=2.4$ m, $CA=2.1$ m and $BE=3$ m. Find $\\angle ABC$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "a(ii)",
+     "questionTextZh": "求 $A$ 離地面的高度。",
+     "questionTextEn": "Find the height of $A$ above the ground.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(i)",
+     "questionTextZh": "求 $BF$ 的長度及 $\\angle FBC$ 。",
+     "questionTextEn": "Find the length of $BF$ and $\\angle FBC$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(ii)",
+     "questionTextZh": "露營者聲稱平面 $FBC$ 與地面之間的交角大於 $23^{\\circ}$ 。此說法是否成立？試解釋你的答案。",
+     "questionTextEn": "A camper claims that the angle between the plane $FBC$ and the ground is greater than $23^{\\circ}$ . Does this claim hold? Explain your answer.",
+     "totalMarks": 2
+    }
+   ]
+  },
+  {
+   "questionNumber": 19,
+   "section": "sectionB",
+   "categoryZh": "等比數列的應用",
+   "categoryEn": "Applications of Geometric Sequences",
+   "difficultyGrade": "A+",
+   "figureSpecId": null,
+   "totalMarks": 13,
+   "parts": [
+    {
+     "label": "a(i)",
+     "questionTextZh": "某病人按甲方案每天早上服藥一次，每次服用 $200$ mg。經過一天後，體內的藥量會減少 $r\\%$ 。設 $T_{n}$ mg 為第 $n$ 次服藥後即時的體內藥量，其中 $T_{1}=200$ 。已知 $T_{2}=320$ 。求 $r$ 。",
+     "questionTextEn": "A patient takes a drug once every morning under Plan A, with $200$ mg each time. After one day, the amount of the drug in the body decreases by $r\\%$ . Let $T_{n}$ mg be the amount of the drug in the body immediately after the $n$th dose, where $T_{1}=200$ . It is given that $T_{2}=320$ . Find $r$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "a(ii)",
+     "questionTextZh": "證明 $T_{n}=500(1-0.6^{n})$ 。",
+     "questionTextEn": "Prove that $T_{n}=500(1-0.6^{n})$ .",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(i)",
+     "questionTextZh": "以 $n$ 表示第 $(n+1)$ 次服藥前即時的體內藥量。",
+     "questionTextEn": "Express, in terms of $n$ , the amount of the drug in the body immediately before the $(n+1)$th dose.",
+     "totalMarks": 2
+    },
+    {
+     "label": "b(ii)",
+     "questionTextZh": "由此，求 $n$ 的最小值使得第 $(n+1)$ 次服藥前即時的體內藥量多於 $299$ mg。",
+     "questionTextEn": "Hence, find the least value of $n$ such that the amount of the drug in the body immediately before the $(n+1)$th dose exceeds $299$ mg.",
+     "totalMarks": 3
+    },
+    {
+     "label": "c",
+     "questionTextZh": "醫生考慮改用乙方案：每兩天早上服藥一次，每次服用 $315$ mg，而每經過一天，體內的藥量仍會減少 $40\\%$ 。醫生宣稱長遠而言，按乙方案每次服藥後即時的體內藥量會高於按甲方案的。試解釋該宣稱是否正確。",
+     "questionTextEn": "The doctor considers switching to Plan B: the drug is taken once every two days in the morning, with $315$ mg each time, and the amount of the drug in the body still decreases by $40\\%$ after each day. The doctor claims that in the long run, the amount of the drug in the body immediately after each dose under Plan B will be higher than that under Plan A. Explain whether the claim is correct.",
+     "totalMarks": 4
+    }
+   ]
+  }
+ ]
+}

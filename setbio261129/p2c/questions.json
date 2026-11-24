@@ -1,0 +1,67 @@
+{
+  "paperTitleZh": "生物 全新模擬卷 — 卷二 丙部 微生物與人類",
+  "paperTitle": "Biology Mock — Paper 2 Section C Microorganisms and Humans",
+  "durationMinutes": 60,
+  "totalMarks": 20,
+  "questions": [
+    {
+      "questionNumber": 3,
+      "section": "P2C",
+      "categoryZh": "微生物與人類",
+      "categoryEn": "Microorganisms and Humans",
+      "difficultyGrade": 3,
+      "figureSpecId": null,
+      "totalMarks": 20,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "參考圖 1，寫出青霉菌處於對數期和平穩期的大約時段。（2 分）",
+          "questionTextEn": "With reference to Figure 1, state the approximate periods during which the mould is in the log phase and in the stationary phase. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "解釋為什麼生物量在約 100 小時後不再增加。（3 分）",
+          "questionTextEn": "Explain why the biomass no longer increases after about 100 hours. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "青霉素主要在平穩期大量產生。提出青霉素對青霉菌在自然環境中的好處，並解釋為什麼在養分缺乏時才大量產生青霉素對青霉菌有利。（3 分）",
+          "questionTextEn": "Penicillin is mainly produced in large amounts in the stationary phase. Suggest how penicillin benefits the mould in its natural environment, and explain why producing large amounts of penicillin only when nutrients are scarce is advantageous to the mould. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iv)",
+          "questionTextZh": "工程師建議在 90 小時後持續加入少量葡萄糖。提出這做法對青霉素產量的影響，並加以解釋。（2 分）",
+          "questionTextEn": "An engineer suggested adding small amounts of glucose continuously after 90 hours. Suggest the effect of this on the penicillin yield, and explain. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "計算在 20°C 下，第 0 日至第 4 日乳酸菌數目增加了多少倍。（2 分）",
+          "questionTextEn": "Calculate how many times the number of lactic acid bacteria increased from day 0 to day 4 at 20°C. (2 marks)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "參考表 2，解釋在 20°C 下其他細菌的數目在第 2 日後下降的原因。（3 分）",
+          "questionTextEn": "With reference to Table 2, explain why the number of other bacteria at 20°C decreases after day 2. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "比較 4°C 和 20°C 的結果，並解釋兩者的差異。（3 分）",
+          "questionTextEn": "Compare the results at 4°C with those at 20°C, and explain the differences. (3 marks)",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(iv)",
+          "questionTextZh": "有人建議在家中製作泡菜時，首兩日放在室溫，然後放入雪櫃。根據表 2 評論這建議。（2 分）",
+          "questionTextEn": "Someone suggested that homemade kimchi should be kept at room temperature for the first two days and then put into a refrigerator. Comment on this suggestion based on Table 2. (2 marks)",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 C 能量和能源的使用（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective C (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P2CSQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "一個家庭每日需要把 $150\\ \\text{kg}$ 的水由 $20\\ ^{\\circ}\\text{C}$ 加熱至 $40\\ ^{\\circ}\\text{C}$。圖 2.3 顯示兩種方法的能量流程：(甲) 用燃煤發電廠的電力推動電熱水爐；(乙) 用煤氣熱水爐。各環節的效率如圖所示。水的比熱容量為 $4200\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$。\n解釋為何燃煤發電廠的效率遠低於 100%。",
+          "questionTextEn": "A family needs to heat $150\\ \\text{kg}$ of water from $20\\ ^{\\circ}\\text{C}$ to $40\\ ^{\\circ}\\text{C}$ every day. Figure 2.3 shows the energy flow for two methods: (I) an electric water heater using electricity from a coal-fired power station; (II) a town-gas water heater. The efficiencies of the stages are shown in the figure. The specific heat capacity of water is $4200\\ \\text{J kg}^{-1}\\ ^{\\circ}\\text{C}^{-1}$.\nExplain why the efficiency of a coal-fired power station is far below 100%.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求方法 (甲) 的整體效率，以及每日所需燃料的化學能。",
+          "questionTextEn": "Find the overall efficiency of method (I) and the chemical energy of the fuel needed per day.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求方法 (乙) 每日所需煤氣的化學能，並指出哪種方法消耗較少一次能源。（不計製造煤氣的損耗）",
+          "questionTextEn": "Find the chemical energy of town gas needed per day for method (II), and state which method uses less primary energy. (Ignore losses in producing town gas.)",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "寫出一個即使如此仍可能選用電熱水爐的理由。",
+          "questionTextEn": "Give one reason why an electric water heater might still be chosen.",
+          "totalMarks": 1
+        },
+        {
+          "label": "c",
+          "questionTextZh": "若方法 (甲) 改用性能係數為 $3.5$ 的熱泵熱水爐（電力來源不變），判斷它會否比方法 (乙) 消耗更少一次能源。（不計製造煤氣的損耗）試以計算支持你的答案。",
+          "questionTextEn": "If method (I) uses instead a heat-pump water heater of coefficient of performance $3.5$ (same electricity supply), determine whether it uses less primary energy than method (II). (Ignore losses in producing town gas.) Support your answer with calculation.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

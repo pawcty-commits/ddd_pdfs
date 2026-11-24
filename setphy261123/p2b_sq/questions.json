@@ -1,0 +1,49 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 B 原子世界（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective B (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P2BSQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "在圖 2.2 的裝置中，電子由靜止經電勢差 $V$ 加速後，垂直射向一塊晶體的表面，表面上相鄰兩行原子相距 $d=0.25\\ \\text{nm}$。在與晶體表面法線（即入射電子束的反方向）成角 $\\theta$ 的方向上，探測器量得反射電子強度的極大值。\n解釋為何在某些角度出現反射電子強度的極大值，可作為電子具有波動性質的證據。",
+          "questionTextEn": "In the set-up of Figure 2.2, electrons accelerated from rest through a potential difference $V$ strike the surface of a crystal normally. Adjacent rows of atoms on the surface are $d=0.25\\ \\text{nm}$ apart. A detector finds maxima in the intensity of reflected electrons at angle $\\theta$ to the normal to the surface (opposite to the incident beam).\nExplain why the existence of maxima in the intensity of reflected electrons at certain angles is evidence that electrons have wave properties.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "證明電子的德布羅意波長為 $\\lambda=\\dfrac{h}{\\sqrt{2m_eeV}}$。",
+          "questionTextEn": "Show that the de Broglie wavelength of the electrons is $\\lambda=\\dfrac{h}{\\sqrt{2m_eeV}}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "求 $V=150\\ \\text{V}$ 時電子的德布羅意波長。",
+          "questionTextEn": "Find the de Broglie wavelength of the electrons when $V=150\\ \\text{V}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "表面的原子行就像一塊反射式衍射光柵，第一級極大滿足 $d\\sin\\theta=\\lambda$。求 $V=150\\ \\text{V}$ 時第一級極大的 $\\theta$。",
+          "questionTextEn": "The rows of surface atoms act like a reflection diffraction grating, with the first-order maximum given by $d\\sin\\theta=\\lambda$. Find $\\theta$ for the first-order maximum when $V=150\\ \\text{V}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "一名學生說：「把 $V$ 加倍至 $300\\ \\text{V}$，第一級極大的角度會減半。」試以計算評論這說法。",
+          "questionTextEn": "A student says, \"Doubling $V$ to $300\\ \\text{V}$ will halve the angle of the first-order maximum.\" Comment on this statement with calculation.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

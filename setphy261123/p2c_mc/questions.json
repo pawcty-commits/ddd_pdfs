@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "一盞 LED 燈的電功率為 $8\\ \\text{W}$，發光效能為 $110\\ \\text{lm W}^{-1}$；一盞慳電膽的電功率為 $15\\ \\text{W}$，發光效能為 $55\\ \\text{lm W}^{-1}$。以下哪些正確？\n(1) 光通量表示燈每秒發出、按人眼敏感度計算的可見光量。\n(2) 電功率較大的那盞燈，發出的光通量較少。\n(3) 若兩盞燈每日都亮 $5$ 小時，慳電膽每日耗電較 LED 燈少。\nAn LED lamp has an electrical power of $8\\ \\text{W}$ and a luminous efficacy of $110\\ \\text{lm W}^{-1}$; a compact fluorescent lamp has an electrical power of $15\\ \\text{W}$ and a luminous efficacy of $55\\ \\text{lm W}^{-1}$. Which of the following is/are correct?\n(1) Luminous flux is the amount of visible light emitted by a lamp per second, weighted by the sensitivity of the eye.\n(2) The lamp with the greater electrical power gives out less luminous flux.\n(3) If both lamps are on for $5$ hours a day, the compact fluorescent lamp uses less electrical energy per day than the LED lamp.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "下表列出三部熱泵熱水爐的能源標籤資料（假設每部每年都運作 $1000$ 小時）：\nP：製熱量 $2.5\\ \\text{kW}$，每年耗電量 $600\\ \\text{kWh}$\nQ：製熱量 $4.0\\ \\text{kW}$，每年耗電量 $800\\ \\text{kWh}$\nR：製熱量 $3.0\\ \\text{kW}$，每年耗電量 $700\\ \\text{kWh}$\n哪部熱水爐的性能係數（COP）最高？\nThe table lists energy-label data for three heat-pump water heaters (each assumed to operate $1000$ hours per year):\nP: heating capacity $2.5\\ \\text{kW}$, annual energy consumption $600\\ \\text{kWh}$\nQ: heating capacity $4.0\\ \\text{kW}$, annual energy consumption $800\\ \\text{kWh}$\nR: heating capacity $3.0\\ \\text{kW}$, annual energy consumption $700\\ \\text{kWh}$\nWhich water heater has the highest coefficient of performance (COP)?",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "三部相同\nAll three are the same"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "一幅外牆由 $0.20\\ \\text{m}$ 厚的磚（熱導率 $0.80\\ \\text{W m}^{-1}\\ \\text{K}^{-1}$）和 $0.050\\ \\text{m}$ 厚的隔熱板（熱導率 $0.040\\ \\text{W m}^{-1}\\ \\text{K}^{-1}$）組成。牆內、外表面空氣層的熱阻分別為 $0.12\\ \\text{m}^{2}\\ \\text{K W}^{-1}$ 和 $0.04\\ \\text{m}^{2}\\ \\text{K W}^{-1}$。這幅牆的 U 值是多少？\nAn external wall consists of $0.20\\ \\text{m}$ of brick (thermal conductivity $0.80\\ \\text{W m}^{-1}\\ \\text{K}^{-1}$) and $0.050\\ \\text{m}$ of insulating board (thermal conductivity $0.040\\ \\text{W m}^{-1}\\ \\text{K}^{-1}$). The thermal resistances of the inside and outside surface air layers are $0.12\\ \\text{m}^{2}\\ \\text{K W}^{-1}$ and $0.04\\ \\text{m}^{2}\\ \\text{K W}^{-1}$ respectively. What is the U-value of the wall?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$0.602\\ \\text{W m}^{-2}\\ \\text{K}^{-1}$",
+      "B": "$0.667\\ \\text{W m}^{-2}\\ \\text{K}^{-1}$",
+      "C": "$0.800\\ \\text{W m}^{-2}\\ \\text{K}^{-1}$",
+      "D": "$4.80\\ \\text{W m}^{-2}\\ \\text{K}^{-1}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "在向西的窗戶貼上一種反光隔熱膜，可大大減少下午的冷氣負荷，而室內仍然光亮。這種隔熱膜主要是\nA reflective heat-control film on west-facing windows greatly reduces the air-conditioning load in the afternoon while the room stays bright. This film mainly",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "反射太陽光中的紅外線。\nreflects infrared radiation in sunlight.",
+      "B": "只吸收紫外線。\nabsorbs ultraviolet radiation only.",
+      "C": "反射大部分可見光。\nreflects most of the visible light.",
+      "D": "令玻璃的熱導率增加。\nincreases the thermal conductivity of the glass."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "在一小時內，風速有 $45$ 分鐘為 $5.0\\ \\text{m s}^{-1}$，其餘 $15$ 分鐘為 $11\\ \\text{m s}^{-1}$。一部風力渦輪機的葉片長 $15\\ \\text{m}$。空氣密度為 $1.2\\ \\text{kg m}^{-3}$。這小時內，風吹過葉片掃過的面積可提供的平均功率是多少？\nDuring one hour, the wind speed is $5.0\\ \\text{m s}^{-1}$ for $45$ minutes and $11\\ \\text{m s}^{-1}$ for the other $15$ minutes. A wind turbine has blades $15\\ \\text{m}$ long. The density of air is $1.2\\ \\text{kg m}^{-3}$. What is the average wind power available through the area swept by the blades during this hour?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$45.2\\ \\text{kW}$",
+      "B": "$116\\ \\text{kW}$",
+      "C": "$181\\ \\text{kW}$",
+      "D": "$362\\ \\text{kW}$"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "一輛不用插電的混合動力汽車（同時有汽油引擎和電動機）主要在市區走走停停的交通中行駛。以下哪些正確？\n(1) 煞車時，電動機可作發電機用，把車的部分動能轉為電能儲存在電池中。\n(2) 這類汽車的電池須定時接駁電源充電，否則不能運作。\n(3) 與在公路上勻速行駛比較，它在市區交通中可省下較大比例的燃料。\nA non-plug-in hybrid car (with both a petrol engine and an electric motor) is driven mainly in stop-start city traffic. Which of the following is/are correct?\n(1) During braking, the motor can act as a generator, converting part of the kinetic energy of the car into electrical energy stored in the battery.\n(2) The battery of this type of car must be regularly plugged into a power supply, otherwise the car cannot work.\n(3) Compared with cruising at constant speed on a highway, it saves a larger fraction of fuel in city traffic.",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "下圖顯示每核子結合能隨核子數的變化，圖上標出了氦-4、鐵-56 及鈾-235 的位置。以下哪些正確？\n(1) 鐵-56 是三者中最穩定的原子核。\n(2) 一個鈾-235 核裂變成兩個核子數約為 $117$ 的原子核時，釋放約 $200\\ \\text{MeV}$ 的能量。\n(3) 兩個氘核聚變成氦-4 時釋放能量，是因為氦-4 的每核子結合能較小。\nThe figure shows the variation of binding energy per nucleon with nucleon number, with the positions of helium-4, iron-56 and uranium-235 marked. Which of the following is/are correct?\n(1) Iron-56 is the most stable of the three nuclei.\n(2) When a uranium-235 nucleus splits into two nuclei of nucleon number about $117$, about $200\\ \\text{MeV}$ of energy is released.\n(3) Energy is released when two deuterium nuclei fuse into helium-4 because helium-4 has a smaller binding energy per nucleon.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (1) 及 (2)\n(1) and (2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "能量和能源的使用/Energy and Use of Energy",
+    "questionText": "以下哪些有關核裂變反應堆的描述正確？\n(1) 減速劑把中子減速，使中子更容易引發鈾-235 的裂變。\n(2) 把控制棒從反應堆核心抽出一些，裂變的速率會增加。\n(3) 用過的燃料棒從反應堆取出後可立即安全處理，因為裂變已經停止。\nWhich of the following statements about a nuclear fission reactor is/are correct?\n(1) The moderator slows down neutrons so that they are more likely to cause fission of uranium-235.\n(2) Withdrawing the control rods partly from the reactor core increases the rate of fission.\n(3) Spent fuel rods removed from the reactor can be handled safely at once because fission has stopped.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (3)\n(3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  }
+]

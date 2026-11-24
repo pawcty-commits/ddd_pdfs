@@ -1,0 +1,114 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "在 $\\alpha$ 粒子散射實驗中，以 $\\alpha$ 粒子射向薄金屬箔。以下哪些正確？\n(1) 大部分 $\\alpha$ 粒子直線穿過金屬箔，顯示原子大部分是空間。\n(2) 若改用更薄的金箔，被反彈回來的 $\\alpha$ 粒子比例會增加。\n(3) 若改用同樣厚度的鋁箔，以大角度偏轉的 $\\alpha$ 粒子會減少。\nIn an $\\alpha$-particle scattering experiment, $\\alpha$ particles are fired at a thin metal foil. Which of the following is/are correct?\n(1) Most $\\alpha$ particles pass straight through the foil, showing that an atom is mostly empty space.\n(2) If a thinner gold foil is used, the fraction of $\\alpha$ particles bounced back increases.\n(3) If an aluminium foil of the same thickness is used, fewer $\\alpha$ particles are deflected through large angles.",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "在實驗室中，白光穿過一團冷的鈉蒸氣後射入分光鏡，在連續光譜中看見 $589\\ \\text{nm}$ 附近有暗線。以下哪些正確？\n(1) 暗線的波長與鈉的發射光譜中的亮線相同。\n(2) 鈉原子吸收了能量剛好等於兩個能級之差的光子。\n(3) 暗線完全沒有光，因為被吸收的光不會再發射出來。\nIn a laboratory, white light passes through cool sodium vapour and then enters a spectroscope. Dark lines are seen near $589\\ \\text{nm}$ in the continuous spectrum. Which of the following is/are correct?\n(1) The dark lines are at the same wavelengths as bright lines in the emission spectrum of sodium.\n(2) Sodium atoms absorb photons whose energies equal the difference between two energy levels.\n(3) The dark lines contain no light at all, because the absorbed light is never re-emitted.",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "某原子的能級可寫成 $E_n=-\\dfrac{k}{n^2}$（$n=1,2,3,\\dots$，$k$ 為常數）。由 $n=4$ 躍遷至 $n=2$ 時放出的光子能量為 $2.55\\ \\text{eV}$。要使一個處於 $n=3$ 能級的原子電離，最少需要多少能量？\nThe energy levels of an atom can be written as $E_n=-\\dfrac{k}{n^2}$ ($n=1,2,3,\\dots$, $k$ a constant). A transition from $n=4$ to $n=2$ emits a photon of energy $2.55\\ \\text{eV}$. What is the minimum energy needed to ionize an atom in the $n=3$ level?",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "$1.51\\ \\text{eV}$",
+      "B": "$2.55\\ \\text{eV}$",
+      "C": "$3.40\\ \\text{eV}$",
+      "D": "$13.6\\ \\text{eV}$"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "下圖顯示某種氣體原子的能級。原子起初都處於基態。以下哪項能使原子由基態激發？\nThe figure shows the energy levels of the atoms of a certain gas. The atoms are initially all in the ground state. Which of the following can excite an atom from the ground state?",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "能量為 $7.0\\ \\text{eV}$ 的光子\na photon of energy $7.0\\ \\text{eV}$",
+      "B": "動能為 $7.0\\ \\text{eV}$ 的電子\nan electron with kinetic energy $7.0\\ \\text{eV}$",
+      "C": "能量為 $5.0\\ \\text{eV}$ 的光子\na photon of energy $5.0\\ \\text{eV}$",
+      "D": "動能為 $5.0\\ \\text{eV}$ 的電子\nan electron with kinetic energy $5.0\\ \\text{eV}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "以能量為 $4.20\\ \\text{eV}$ 的光子照射某金屬，射出的光電子的最大動能為 $1.85\\ \\text{eV}$。這金屬的閾頻率是多少？\nPhotons of energy $4.20\\ \\text{eV}$ fall on a metal, and the maximum kinetic energy of the emitted photoelectrons is $1.85\\ \\text{eV}$. What is the threshold frequency of the metal?",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "$4.47\\times10^{14}\\ \\text{Hz}$",
+      "B": "$5.67\\times10^{14}\\ \\text{Hz}$",
+      "C": "$1.01\\times10^{15}\\ \\text{Hz}$",
+      "D": "$1.46\\times10^{15}\\ \\text{Hz}$"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "以波長 $500\\ \\text{nm}$ 的光照射某光電管的陰極，有光電流。若改用強度（每單位面積的功率）相同、波長為 $400\\ \\text{nm}$ 的光照射，光電子的最大動能及飽和光電流有何改變？\nLight of wavelength $500\\ \\text{nm}$ shines on the cathode of a photocell and a photocurrent flows. If light of wavelength $400\\ \\text{nm}$ with the same intensity (power per unit area) is used instead, how do the maximum kinetic energy of the photoelectrons and the saturation photocurrent change?",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "最大動能增加；飽和光電流減少\nMaximum KE increases; saturation current decreases",
+      "B": "最大動能增加；飽和光電流不變\nMaximum KE increases; saturation current unchanged",
+      "C": "最大動能不變；飽和光電流增加\nMaximum KE unchanged; saturation current increases",
+      "D": "最大動能增加；飽和光電流增加\nMaximum KE increases; saturation current increases"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "一粒中子和一粒電子具有相同的動能。以下哪些正確？\n(1) 中子的德布羅意波長較短。\n(2) 兩者的動量相同。\n(3) 中子的速率較小。\nA neutron and an electron have the same kinetic energy. Which of the following is/are correct?\n(1) The neutron has the shorter de Broglie wavelength.\n(2) They have the same momentum.\n(3) The neutron has the smaller speed.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (3)\n(3) only",
+      "C": "只有 (1) 及 (3)\n(1) and (3) only",
+      "D": "(1)、(2) 及 (3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "原子世界/Atomic World",
+    "questionText": "以下哪些有關納米科技的描述正確？\n(1) 一些衣物加入銀納米粒子，利用其極大的表面積殺菌。\n(2) 石墨烯是由單層碳原子以六邊形排列而成的材料。\n(3) 納米粒子必定安全，因為它們與大塊材料的成分相同。\nWhich of the following statements about nanotechnology is/are correct?\n(1) Silver nanoparticles are added to some clothing to kill bacteria, making use of their very large surface area.\n(2) Graphene is a material made of a single layer of carbon atoms arranged in hexagons.\n(3) Nanoparticles must be safe because they have the same composition as the bulk material.",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "只有 (1)\n(1) only",
+      "B": "只有 (2)\n(2) only",
+      "C": "只有 (3)\n(3) only",
+      "D": "只有 (1) 及 (2)\n(1) and (2) only"
+    },
+    "correctAnswer": "D"
+  }
+]

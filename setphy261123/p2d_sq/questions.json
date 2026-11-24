@@ -1,0 +1,49 @@
+{
+  "paperTitleZh": "物理 全新模擬卷 — 卷二 選修 D 醫學物理學（結構題）",
+  "paperTitle": "Physics Mock — Paper 2 Elective D (Structured)",
+  "durationMinutes": 60,
+  "totalMarks": 10,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "B",
+      "categoryZh": "",
+      "categoryEn": "",
+      "difficultyGrade": "hard",
+      "figureSpecId": "F2-P2DSQ",
+      "totalMarks": 10,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "一個體育館的大型 LED 顯示屏由許多發光點組成，相鄰兩點的中心相距 $10\\ \\text{mm}$。觀眾在距離屏幕 $L$ 處觀看（圖 2.4）。取可見光的波長為 $550\\ \\text{nm}$。\n解釋為何即使眼睛沒有任何缺陷，也不能分辨兩個非常接近的光點。寫出瑞利判據。",
+          "questionTextEn": "A large LED screen in a stadium consists of many light-emitting dots, with adjacent dot centres $10\\ \\text{mm}$ apart. A spectator watches from a distance $L$ from the screen (Figure 2.4). Take the wavelength of visible light as $550\\ \\text{nm}$.\nExplain why, even with no defects, the eye cannot resolve two very close points of light. State the Rayleigh criterion.",
+          "totalMarks": 2
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "在強光下瞳孔收細。這會令眼睛的最小分辨角變大還是變小？解釋你的答案。",
+          "questionTextEn": "In bright light the pupil becomes smaller. Does this make the minimum angle of resolution of the eye larger or smaller? Explain your answer.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "求眼睛的最小分辨角。",
+          "questionTextEn": "Find the minimum angle of resolution of the eye.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "觀眾最少要坐多遠，才不能再分辨屏幕上相鄰的發光點？",
+          "questionTextEn": "What is the least distance at which the spectator can no longer resolve adjacent dots on the screen?",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(iii)",
+          "questionTextZh": "場館聲稱：「坐在距離屏幕 $25\\ \\text{m}$ 以外的觀眾，都只會看到平滑、看不出發光點的畫面。」評論這聲稱。",
+          "questionTextEn": "The stadium claims: \"Spectators sitting more than $25\\ \\text{m}$ from the screen will see a smooth picture with no visible dots.\" Comment on this claim.",
+          "totalMarks": 2
+        }
+      ]
+    }
+  ]
+}

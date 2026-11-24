@@ -1,0 +1,314 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "A",
+    "category": "地圖技能/Map skills",
+    "questionText": "參閱石角（虛構地區）地形圖，回答第 1 至 6 題。\n在格網方格 4372 內可以找到以下哪些地物？\n(1) 學校\n(2) 墳場\n(3) 廟宇\nRefer to the map extract of Shek Kok (a fictional area). Answer Questions 1 to 6.\nWhich of the following features can be found in grid square 4372?\n(1) school\n(2) cemetery\n(3) temple",
+    "imageUrl": "q1.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B",
+    "mcType": "statements",
+    "usesMap": true,
+    "mapImage": "map.png"
+  },
+  {
+    "questionNumber": 2,
+    "section": "A",
+    "category": "地圖技能/Map skills",
+    "questionText": "參閱石角（虛構地區）地形圖，回答第 1 至 6 題。\n清溪由格網座標 430740 流至格網座標 436715。這段河道的平均坡度約為\nRefer to the map extract of Shek Kok (a fictional area). Answer Questions 1 to 6.\nChing Kai flows from grid reference 430740 to grid reference 436715. The average gradient of this section of the river is about",
+    "imageUrl": "q2.png",
+    "options": {
+      "A": "1:13",
+      "B": "1:14",
+      "C": "1:17",
+      "D": "1:19"
+    },
+    "correctAnswer": "C",
+    "mcType": "single",
+    "usesMap": true,
+    "mapImage": "map.png"
+  },
+  {
+    "questionNumber": 3,
+    "section": "A",
+    "category": "地圖技能/Map skills",
+    "questionText": "參閱石角（虛構地區）地形圖，回答第 1 至 6 題。\n以下哪些有關由鷹頭山三角網測站（格網座標 415741）沿山脊徑往獅背嶺（格網座標 446740）的描述是正確的？\n(1) 山脊徑途經的最低點位於格網方格 4374。\n(2) 清溪發源於山脊徑以北的山坡。\n(3) 由鷹頭山至山脊徑最低點的一段，小徑一直向下。\nRefer to the map extract of Shek Kok (a fictional area). Answer Questions 1 to 6.\nWhich of the following statements about the ridge trail from the trigonometrical station on Ying Tau Shan (grid reference 415741) to Si Pui Leng (grid reference 446740) are correct?\n(1) The lowest point along the ridge trail is in grid square 4374.\n(2) Ching Kai has its source on the slope north of the ridge trail.\n(3) From Ying Tau Shan to the lowest point of the ridge trail, the footpath descends all the way.",
+    "imageUrl": "q3.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B",
+    "mcType": "statements",
+    "usesMap": true,
+    "mapImage": "map.png"
+  },
+  {
+    "questionNumber": 4,
+    "section": "A",
+    "category": "地圖技能/Map skills",
+    "questionText": "參閱石角（虛構地區）地形圖，回答第 1 至 6 題。\n站在格網座標 424728 的瞭望台，可以與以下哪些地點互見？\n(1) 高程點 253（格網座標 436744）\n(2) 石角的高程點 172（格網座標 455709）\n(3) 石角站（格網座標 418711）\nRefer to the map extract of Shek Kok (a fictional area). Answer Questions 1 to 6.\nStanding at the lookout at grid reference 424728, which of the following places are intervisible with it?\n(1) spot height 253 (grid reference 436744)\n(2) spot height 172 at Shek Kok (grid reference 455709)\n(3) Shek Kok Station (grid reference 418711)",
+    "imageUrl": "q4.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(2)\n(2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "只有(2)及(3)\n(2) and (3) only"
+    },
+    "correctAnswer": "D",
+    "mcType": "statements",
+    "usesMap": true,
+    "mapImage": "map.png"
+  },
+  {
+    "questionNumber": 5,
+    "section": "A",
+    "category": "地圖技能/Map skills",
+    "questionText": "參閱石角（虛構地區）地形圖，回答第 1 至 6 題。\n以下哪些有關南坑村（格網方格 4372）的描述是正確的？\n(1) 村落有車路直達公眾碼頭。\n(2) 村落位於清溪東岸。\n(3) 村落大部分建築物位於 40 m 與 60 m 等高線之間。\nRefer to the map extract of Shek Kok (a fictional area). Answer Questions 1 to 6.\nWhich of the following statements about Nam Hang Tsuen (grid square 4372) are correct?\n(1) The village is directly accessible by road to the Public Pier.\n(2) The village is on the eastern bank of Ching Kai.\n(3) Most buildings of the village lie between the 40 m and 60 m contours.",
+    "imageUrl": "q5.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C",
+    "mcType": "statements",
+    "usesMap": true,
+    "mapImage": "map.png"
+  },
+  {
+    "questionNumber": 6,
+    "section": "A",
+    "category": "地圖技能/Map skills",
+    "questionText": "參閱石角（虛構地區）地形圖，回答第 1 至 6 題。\n以下哪些有關由公眾碼頭（格網座標 445708）望向鷹頭山三角網測站（格網座標 415741）的描述是正確的？\n(1) 方位角約為 318°。\n(2) 象限角為「北 48° 西」。\n(3) 三角網測站位於碼頭的西北面。\nRefer to the map extract of Shek Kok (a fictional area). Answer Questions 1 to 6.\nWhich of the following statements about looking from the Public Pier (grid reference 445708) towards the trigonometrical station on Ying Tau Shan (grid reference 415741) are correct?\n(1) The bearing is about 318°.\n(2) The reduced bearing is N 48° W.\n(3) The trigonometrical station is north-west of the pier.",
+    "imageUrl": "q6.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(3)\n(3) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "只有(2)及(3)\n(2) and (3) only"
+    },
+    "correctAnswer": "C",
+    "mcType": "statements",
+    "usesMap": true,
+    "mapImage": "map.png"
+  },
+  {
+    "questionNumber": 7,
+    "section": "A",
+    "category": "機會與風險/Opportunities and risks",
+    "questionText": "下圖顯示某地區三個板塊之間的板塊邊界。參考此圖，回答第 7 及 8 題。\n以下哪些描述是正確的？\n(1) 板塊 B 的密度較板塊 C 高。\n(2) 在板塊 B 與板塊 C 的邊界以東，震源深度大致向東增加。\n(3) Q 處火山的岩漿主要來自板塊 A 底部熔融的地殼。\nThe figure shows the plate boundaries between three plates in a region. Refer to it and answer Questions 7 and 8.\nWhich of the following statements are correct?\n(1) Plate B is denser than Plate C.\n(2) East of the boundary between Plate B and Plate C, the depth of earthquake foci generally increases eastwards.\n(3) The magma of the volcano at Q mainly comes from the melting of the crust at the base of Plate A.",
+    "imageUrl": "q7.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 8,
+    "section": "A",
+    "category": "機會與風險/Opportunities and risks",
+    "questionText": "下圖顯示某地區三個板塊之間的板塊邊界。參考此圖，回答第 7 及 8 題。\n以下哪一項正確指出 P、Q 及 R 的地貌？\nThe figure shows the plate boundaries between three plates in a region. Refer to it and answer Questions 7 and 8.\nWhich of the following correctly identifies the landforms at P, Q and R?",
+    "imageUrl": "q8.png",
+    "options": {
+      "A": "P 裂谷｜Q 火山島弧｜R 褶曲山脈\nP rift valley | Q volcanic island arc | R fold mountains",
+      "B": "P 海溝｜Q 大洋中脊｜R 褶曲山脈\nP ocean trench | Q mid-oceanic ridge | R fold mountains",
+      "C": "P 海溝｜Q 火山島弧｜R 褶曲山脈\nP ocean trench | Q volcanic island arc | R fold mountains",
+      "D": "P 海溝｜Q 火山島弧｜R 裂谷\nP ocean trench | Q volcanic island arc | R rift valley"
+    },
+    "correctAnswer": "C",
+    "mcType": "compare"
+  },
+  {
+    "questionNumber": 9,
+    "section": "A",
+    "category": "河流環境/River environments",
+    "questionText": "以下哪一項最能解釋河流下游的流量一般較上游大？\nWhich of the following best explains why the discharge of a river is usually greater in its lower course than in its upper course?",
+    "imageUrl": "q9.png",
+    "options": {
+      "A": "下游的蒸發量較低\nEvaporation is lower in the lower course",
+      "B": "河床坡度較陡，流速較快\nThe channel gradient is steeper and the velocity is higher",
+      "C": "河道較狹窄，水較深\nThe channel is narrower and deeper",
+      "D": "有支流匯入，集水區面積較大\nTributaries join the river and the catchment area is larger"
+    },
+    "correctAnswer": "D",
+    "mcType": "single"
+  },
+  {
+    "questionNumber": 10,
+    "section": "A",
+    "category": "河流環境/River environments",
+    "questionText": "下圖顯示某曲流河段的橫切面。以下哪些描述是正確的？\n(1) 最高流速一般出現在接近 X 岸的位置。\n(2) Y 岸主要受侵蝕，形成陡峭的河岸。\n(3) 長遠而言，河道會向 X 岸的方向移動。\nThe figure shows the cross-section of a meander bend. Which of the following statements are correct?\n(1) The maximum velocity usually occurs near bank X.\n(2) Bank Y is mainly eroded, forming a steep bank.\n(3) In the long run, the channel will shift towards bank X.",
+    "imageUrl": "q10.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 11,
+    "section": "A",
+    "category": "工業區位的轉變/Changing industrial location",
+    "questionText": "公司 K 是一家總部設於國家 P（已發展國家）的智能手機公司。2015 年，公司把組裝廠房由國家 Q 遷往國家 R（欠發達國家），研發部門則留在國家 P。參考以上資料，回答第 11 題及第 12 題。\n以下哪些可能是公司 K 把組裝廠房遷往國家 R 的原因？\n(1) 國家 R 的工資較低。\n(2) 國家 R 政府為外資提供稅務優惠。\n(3) 國家 R 鄰近鐵礦等原料產地。\nCompany K is a smartphone company headquartered in Country P (a developed country). In 2015 it relocated its assembly plant from Country Q to Country R (a less developed country), while its research and development (R&D) department remained in Country P. Refer to the information and answer Q11 and Q12.\nWhich of the following are possible reasons for Company K to relocate its assembly plant to Country R?\n(1) Wages in Country R are lower.\n(2) The government of Country R offers tax incentives to foreign investors.\n(3) Country R is near sources of raw materials such as iron ore.",
+    "imageUrl": "q11.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 12,
+    "section": "A",
+    "category": "工業區位的轉變/Changing industrial location",
+    "questionText": "公司 K 是一家總部設於國家 P（已發展國家）的智能手機公司。2015 年，公司把組裝廠房由國家 Q 遷往國家 R（欠發達國家），研發部門則留在國家 P。參考以上資料，回答第 11 題及第 12 題。\n下表顯示公司 K 遷廠前後每部智能手機的組裝成本。以下哪些描述是正確的？\n(1) 遷廠後，每部手機的總組裝成本下降了 12%。\n(2) 以金額計，勞工成本的下降幅度在各項目中最大。\n(3) 遷廠後，零件及物料成本佔總成本的百分比下降。\nCompany K is a smartphone company headquartered in Country P (a developed country). In 2015 it relocated its assembly plant from Country Q to Country R (a less developed country), while its research and development (R&D) department remained in Country P. Refer to the information and answer Q11 and Q12.\nThe table shows the assembly cost per smartphone of Company K before and after the relocation. Which of the following statements are correct?\n(1) After the relocation, the total assembly cost per phone fell by 12%.\n(2) In terms of amount, labour cost fell the most among all items.\n(3) After the relocation, the share of parts and materials in the total cost decreased.",
+    "imageUrl": "q12.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 13,
+    "section": "A",
+    "category": "建設一個可持續發展的城市/Building a sustainable city",
+    "questionText": "以下哪一項規劃措施最能幫助新市鎮達至「自給自足」？\nWhich of the following planning measures would best help a new town to become self-contained?",
+    "imageUrl": "q13.png",
+    "options": {
+      "A": "興建鐵路連接新市鎮與商業中心區\nBuilding a railway linking the new town with the CBD",
+      "B": "在新市鎮外圍劃設綠化地帶\nDesignating a green belt around the new town",
+      "C": "提高新市鎮住宅的建築密度\nRaising the building density of housing in the new town",
+      "D": "在新市鎮內提供就業機會及社區設施\nProviding job opportunities and community facilities within the new town"
+    },
+    "correctAnswer": "D",
+    "mcType": "single"
+  },
+  {
+    "questionNumber": 14,
+    "section": "A",
+    "category": "建設一個可持續發展的城市/Building a sustainable city",
+    "questionText": "以下哪些是高密度發展有助城市可持續發展的原因？\n(1) 縮短通勤距離，減少交通運輸的能源消耗。\n(2) 減少城市蔓延，保留較多郊野土地。\n(3) 必定改善街道層面的空氣質素。\nWhich of the following are reasons why high-density development can help a city to develop sustainably?\n(1) It shortens commuting distances and reduces energy consumption for transport.\n(2) It reduces urban sprawl and preserves more countryside.\n(3) It must improve air quality at street level.",
+    "imageUrl": "q14.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(2)\n(2) only",
+      "C": "只有(1)及(2)\n(1) and (2) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 15,
+    "section": "A",
+    "category": "對抗饑荒/Combating famine",
+    "questionText": "下圖為亞洲某山區農業活動的素描。以下哪些是圖中農業的特徵？\n(1) 屬勞工密集式耕作。\n(2) 資本投入較低。\n(3) 屬粗放式農業。\nThe figure is a field sketch of farming activity in a hilly area of Asia. Which of the following are characteristics of the farming shown?\n(1) It is labour-intensive farming.\n(2) Its capital input is low.\n(3) It is extensive farming.",
+    "imageUrl": "q15.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 16,
+    "section": "A",
+    "category": "對抗饑荒/Combating famine",
+    "questionText": "以下哪一項是長期依賴糧食援助對受援國農業的負面影響？\nWhich of the following is a negative impact on agriculture in a recipient country of relying on food aid in the long term?",
+    "imageUrl": "q16.png",
+    "options": {
+      "A": "大量免費糧食令本地糧價下跌，打擊農民的生產意欲\nLarge amounts of free food lower local food prices and discourage farmers from producing",
+      "B": "令土壤肥力下降\nIt lowers soil fertility",
+      "C": "令農業過度機械化\nIt causes over-mechanisation of farming",
+      "D": "令灌溉用水不足\nIt leads to a shortage of irrigation water"
+    },
+    "correctAnswer": "A",
+    "mcType": "single"
+  },
+  {
+    "questionNumber": 17,
+    "section": "A",
+    "category": "消失中的綠色林冠/Disappearing green canopy",
+    "questionText": "下圖顯示某熱帶雨林地區的林地變化。以下哪一項最能描述 2005–2020 年林地清除的分佈形態？\nThe figure shows forest change in a tropical rainforest area. Which of the following best describes the distribution pattern of forest clearance in 2005–2020?",
+    "imageUrl": "q17.png",
+    "options": {
+      "A": "集中在河流沿岸\nConcentrated along the river",
+      "B": "由保護區向外擴展\nSpreading outwards from the reserve",
+      "C": "平均分佈於整個地區\nEvenly distributed over the whole area",
+      "D": "由公路向兩旁伸延，呈「魚骨狀」\nExtending from both sides of the highway in a \"fishbone\" pattern"
+    },
+    "correctAnswer": "D",
+    "mcType": "single"
+  },
+  {
+    "questionNumber": 18,
+    "section": "A",
+    "category": "消失中的綠色林冠/Disappearing green canopy",
+    "questionText": "下圖為熱帶雨林一棵樹的素描。以下哪些有關 X、Y 及 Z 的描述是正確的？\n(1) X 幫助高大的樹木在淺薄的土壤中保持穩固。\n(2) Y 讓葉面上的雨水迅速流走。\n(3) Z 是寄生植物，從樹木吸取養分。\nThe figure is a field sketch of a tree in a tropical rainforest. Which of the following statements about X, Y and Z are correct?\n(1) X helps tall trees to stay stable in shallow soil.\n(2) Y allows rainwater on the leaf surface to drain away quickly.\n(3) Z is a parasitic plant that takes nutrients from the tree.",
+    "imageUrl": "q18.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "A",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 19,
+    "section": "A",
+    "category": "氣候變化/Climate change",
+    "questionText": "以下哪些是大氣中二氧化碳增加及全球增溫對海洋造成的影響？\n(1) 海水熱膨脹，令海平面上升。\n(2) 海水的溶氧量增加。\n(3) 海水吸收較多二氧化碳，酸度上升。\nWhich of the following are impacts on the oceans of increasing atmospheric carbon dioxide and global warming?\n(1) Thermal expansion of seawater raises sea level.\n(2) The amount of dissolved oxygen in seawater increases.\n(3) Seawater absorbs more carbon dioxide and becomes more acidic.",
+    "imageUrl": "q19.png",
+    "options": {
+      "A": "只有(1)及(2)\n(1) and (2) only",
+      "B": "只有(1)及(3)\n(1) and (3) only",
+      "C": "只有(2)及(3)\n(2) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "B",
+    "mcType": "statements"
+  },
+  {
+    "questionNumber": 20,
+    "section": "A",
+    "category": "氣候變化/Climate change",
+    "questionText": "以下哪些變化會令大氣吸收更多地面輻射（長波輻射）？\n(1) 大氣中的水汽增加\n(2) 冰蓋面積擴大\n(3) 夜間雲量增加\nWhich of the following changes would increase the amount of terrestrial (long-wave) radiation absorbed by the atmosphere?\n(1) an increase in water vapour in the atmosphere\n(2) an expansion of ice sheets\n(3) an increase in cloud cover at night",
+    "imageUrl": "q20.png",
+    "options": {
+      "A": "只有(1)\n(1) only",
+      "B": "只有(1)及(2)\n(1) and (2) only",
+      "C": "只有(1)及(3)\n(1) and (3) only",
+      "D": "(1)、(2)及(3)\n(1), (2) and (3)"
+    },
+    "correctAnswer": "C",
+    "mcType": "statements"
+  }
+]
