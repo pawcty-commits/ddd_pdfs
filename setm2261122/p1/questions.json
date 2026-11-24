@@ -1,0 +1,361 @@
+{
+  "paperTitleZh": "數學延伸部分 單元二（代數與微積分）全新模擬卷",
+  "paperTitle": "Mathematics Extended Part Module 2 (Algebra and Calculus) Mock",
+  "durationMinutes": 150,
+  "totalMarks": 100,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "section": "A",
+      "categoryZh": "二項式定理",
+      "categoryEn": "Binomial theorem",
+      "difficultyGrade": "easy",
+      "figureSpecId": null,
+      "totalMarks": 4,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "設 $k$ 為一正常數。已知在 $\\left(x^2+\\dfrac{k}{x}\\right)^6$ 的展開式中，常數項為 $1215$。\n求 $k$ 及在該展開式中 $x^3$ 的係數。",
+          "questionTextEn": "Let $k$ be a positive constant. It is given that the constant term in the expansion of $\\left(x^2+\\dfrac{k}{x}\\right)^6$ is $1215$.\nFind $k$ and the coefficient of $x^3$ in the expansion.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "section": "A",
+      "categoryZh": "從基本原理求導",
+      "categoryEn": "Differentiation from first principles",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "設 $f(x)=\\sqrt{\\sin x}$，其中 $0<x<\\pi$。\n證明 $f\\left(\\dfrac{\\pi}{6}+h\\right)-f\\left(\\dfrac{\\pi}{6}\\right)=\\dfrac{\\sin\\left(\\dfrac{\\pi}{6}+h\\right)-\\dfrac{1}{2}}{\\sqrt{\\sin\\left(\\dfrac{\\pi}{6}+h\\right)}+\\dfrac{1}{\\sqrt{2}}}$。",
+          "questionTextEn": "Let $f(x)=\\sqrt{\\sin x}$, where $0<x<\\pi$.\nProve that $f\\left(\\dfrac{\\pi}{6}+h\\right)-f\\left(\\dfrac{\\pi}{6}\\right)=\\dfrac{\\sin\\left(\\dfrac{\\pi}{6}+h\\right)-\\dfrac{1}{2}}{\\sqrt{\\sin\\left(\\dfrac{\\pi}{6}+h\\right)}+\\dfrac{1}{\\sqrt{2}}}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "從基本原理求 $f'\\left(\\dfrac{\\pi}{6}\\right)$。",
+          "questionTextEn": "Find $f'\\left(\\dfrac{\\pi}{6}\\right)$ from first principles.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "section": "A",
+      "categoryZh": "不定積分及曲線方程",
+      "categoryEn": "Indefinite integration and equation of a curve",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮曲線 $\\Gamma$，其中 $-\\dfrac{\\pi}{2}<x<\\dfrac{\\pi}{2}$。在 $\\Gamma$ 上的任意點 $(x,y)$，$\\Gamma$ 的切線的斜率為 $x\\sec^2 x$。已知 $\\Gamma$ 通過點 $\\left(\\dfrac{\\pi}{4},\\dfrac{\\pi}{4}\\right)$。\n求 $\\displaystyle\\int x\\sec^2 x\\,dx$。",
+          "questionTextEn": "Consider a curve $\\Gamma$, where $-\\dfrac{\\pi}{2}<x<\\dfrac{\\pi}{2}$. The slope of the tangent to $\\Gamma$ at any point $(x,y)$ on $\\Gamma$ is $x\\sec^2 x$. It is given that $\\Gamma$ passes through the point $\\left(\\dfrac{\\pi}{4},\\dfrac{\\pi}{4}\\right)$.\nFind $\\displaystyle\\int x\\sec^2 x\\,dx$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "某人宣稱 $\\Gamma$ 與 $x$ 軸相交。你是否同意？解釋你的答案。",
+          "questionTextEn": "Someone claims that $\\Gamma$ meets the $x$-axis. Do you agree? Explain your answer.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "section": "A",
+      "categoryZh": "行列式",
+      "categoryEn": "Determinants",
+      "difficultyGrade": "easy",
+      "figureSpecId": null,
+      "totalMarks": 3,
+      "parts": [
+        {
+          "label": "",
+          "questionTextZh": "設 $k$ 為一實數。定義 $A=\\begin{pmatrix}k&1\\\\2&k-1\\end{pmatrix}$ 及 $B=\\begin{pmatrix}1&k\\\\k&4\\end{pmatrix}$。\n若 $AB$ 是奇異，求 $k$ 的所有可取值。",
+          "questionTextEn": "Let $k$ be a real number. Define $A=\\begin{pmatrix}k&1\\\\2&k-1\\end{pmatrix}$ and $B=\\begin{pmatrix}1&k\\\\k&4\\end{pmatrix}$.\nIf $AB$ is singular, find all the possible values of $k$.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "section": "A",
+      "categoryZh": "數學歸納法",
+      "categoryEn": "Mathematical induction",
+      "difficultyGrade": "easy",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "利用數學歸納法，證明對所有正整數 $n$，$\\displaystyle\\sum_{k=1}^{n}\\frac{2k+1}{k^2(k+1)^2}=1-\\frac{1}{(n+1)^2}$。",
+          "questionTextEn": "Using mathematical induction, prove that $\\displaystyle\\sum_{k=1}^{n}\\frac{2k+1}{k^2(k+1)^2}=1-\\frac{1}{(n+1)^2}$ for all positive integers $n$.",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "利用 (a)，計算 $\\displaystyle\\sum_{k=20}^{99}\\frac{6k+3}{k^2(k+1)^2}$。",
+          "questionTextEn": "Using (a), evaluate $\\displaystyle\\sum_{k=20}^{99}\\frac{6k+3}{k^2(k+1)^2}$.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "section": "A",
+      "categoryZh": "三角恆等式及方程",
+      "categoryEn": "Trigonometric identities and equations",
+      "difficultyGrade": "easy",
+      "figureSpecId": null,
+      "totalMarks": 5,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "以 $\\tan x$ 表 $\\dfrac{1+\\sin 2x}{\\cos 2x}$，其中 $\\cos x$ 及 $\\cos 2x$ 均不為零。",
+          "questionTextEn": "Express $\\dfrac{1+\\sin 2x}{\\cos 2x}$ in terms of $\\tan x$, where $\\cos x$ and $\\cos 2x$ are both non-zero.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "利用 (a)，解方程 $\\dfrac{1+\\sin 2x}{\\cos 2x}=2+\\sqrt{3}$，其中 $0<x<\\dfrac{\\pi}{4}$。",
+          "questionTextEn": "Using (a), solve the equation $\\dfrac{1+\\sin 2x}{\\cos 2x}=2+\\sqrt{3}$, where $0<x<\\dfrac{\\pi}{4}$.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "section": "A",
+      "categoryZh": "矩陣的冪",
+      "categoryEn": "Powers of matrices",
+      "difficultyGrade": "medium",
+      "figureSpecId": null,
+      "totalMarks": 6,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "設 $P=\\begin{pmatrix}3&-3\\\\2&-2\\end{pmatrix}$ 及 $n$ 為一正整數。定義 $M=I+2P$，其中 $I$ 為 $2\\times 2$ 單位矩陣。\n求 $P^2$。",
+          "questionTextEn": "Let $P=\\begin{pmatrix}3&-3\\\\2&-2\\end{pmatrix}$ and $n$ be a positive integer. Define $M=I+2P$, where $I$ is the $2\\times 2$ identity matrix.\nFind $P^2$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "寫出 $P^n$，答案以 $P$ 表達。",
+          "questionTextEn": "Write down $P^n$, giving the answer in terms of $P$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "b",
+          "questionTextZh": "利用二項式定理，以 $n$ 表 $M^n$。",
+          "questionTextEn": "Using the binomial theorem, express $M^n$ in terms of $n$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "某人宣稱存在一正整數 $n$ 使得 $M^n$ 的主對角線上的元素之和為 $2026$。你是否同意？解釋你的答案。",
+          "questionTextEn": "Someone claims that there exists a positive integer $n$ such that the sum of the elements in the leading diagonal of $M^n$ is $2026$. Do you agree? Explain your answer.",
+          "totalMarks": 2
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "section": "A",
+      "categoryZh": "相關變率",
+      "categoryEn": "Related rates",
+      "difficultyGrade": "medium",
+      "figureSpecId": "X2-1-Q8",
+      "totalMarks": 7,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "考慮曲線 $C：y=\\dfrac{8}{x^2+4}$。$P$ 為 $C$ 上的一動點，其 $x$ 坐標為 $h$，其中 $h>0$。通過 $P$ 的垂直線與 $x$ 軸相交於點 $Q$。將原點記為 $O$。設 $A$ 為 $\\triangle OPQ$ 的面積（見圖 1）。\n求 $\\dfrac{dA}{dh}$。",
+          "questionTextEn": "Consider the curve $C: y=\\dfrac{8}{x^2+4}$. $P$ is a moving point on $C$ such that its $x$-coordinate is $h$, where $h>0$. The vertical line through $P$ meets the $x$-axis at the point $Q$. Denote the origin by $O$. Let $A$ be the area of $\\triangle OPQ$ (see Figure 1).\nFind $\\dfrac{dA}{dh}$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "假定 $h=\\sqrt{t+1}$，其中 $t$（$t\\ge 0$）為以秒量度的時間。某人宣稱在 $A$ 隨 $t$ 增加的期間內，$OP$ 的長度亦一直隨 $t$ 增加。你是否同意？解釋你的答案。",
+          "questionTextEn": "Suppose that $h=\\sqrt{t+1}$, where $t$ ($t\\ge 0$) is the time measured in seconds. Someone claims that during the period in which $A$ increases with $t$, the length of $OP$ also keeps increasing with $t$. Do you agree? Explain your answer.",
+          "totalMarks": 5
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "section": "A",
+      "categoryZh": "代換積分法及旋轉體體積",
+      "categoryEn": "Integration by substitution and volume of solid of revolution",
+      "difficultyGrade": "medium",
+      "figureSpecId": "X2-1-Q9",
+      "totalMarks": 8,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "利用代換 $u=e^x$，證明 $\\displaystyle\\int\\frac{dx}{e^x+4e^{-x}}=\\frac12\\tan^{-1}\\frac{e^x}{2}+\\text{常數}$。",
+          "questionTextEn": "Using the substitution $u=e^x$, prove that $\\displaystyle\\int\\frac{dx}{e^x+4e^{-x}}=\\frac12\\tan^{-1}\\frac{e^x}{2}+\\text{constant}$.",
+          "totalMarks": 4
+        },
+        {
+          "label": "b",
+          "questionTextZh": "設 $R$ 為曲線 $y=\\dfrac{1}{\\sqrt{e^x+4e^{-x}}}$、$x$ 軸、直線 $x=\\ln 2$ 與直線 $x=\\ln\\left(2\\sqrt{3}\\right)$ 圍成的區域（見圖 2）。求 $R$ 繞 $x$ 軸旋轉所得的旋轉體的體積。",
+          "questionTextEn": "Let $R$ be the region bounded by the curve $y=\\dfrac{1}{\\sqrt{e^x+4e^{-x}}}$, the $x$-axis, the straight line $x=\\ln 2$ and the straight line $x=\\ln\\left(2\\sqrt{3}\\right)$ (see Figure 2). Find the volume of the solid of revolution generated by revolving $R$ about the $x$-axis.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "section": "B",
+      "categoryZh": "曲線描繪及旋轉體體積",
+      "categoryEn": "Curve sketching and volume of solid of revolution",
+      "difficultyGrade": "hard",
+      "figureSpecId": null,
+      "totalMarks": 13,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "對所有 $x\\in\\mathbf{R}$，定義 $f(x)=\\dfrac{(x-1)^2}{x^2+1}$。將 $y=f(x)$ 的圖像記為 $G$。\n求 $f'(x)$ 及 $f''(x)$。",
+          "questionTextEn": "Define $f(x)=\\dfrac{(x-1)^2}{x^2+1}$ for all $x\\in\\mathbf{R}$. Denote the graph of $y=f(x)$ by $G$.\nFind $f'(x)$ and $f''(x)$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b",
+          "questionTextZh": "求 $G$ 的極大點、極小點及拐點。",
+          "questionTextEn": "Find the maximum point(s), minimum point(s) and point(s) of inflexion of $G$.",
+          "totalMarks": 4
+        },
+        {
+          "label": "c",
+          "questionTextZh": "求 $G$ 的漸近線，並描繪 $G$ 的草圖。",
+          "questionTextEn": "Find the asymptote(s) of $G$, and sketch $G$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "d",
+          "questionTextZh": "設 $R$ 為 $G$、$x$ 軸與 $y$ 軸圍成的區域。求 $R$ 繞 $x$ 軸旋轉所得的旋轉體的體積。",
+          "questionTextEn": "Let $R$ be the region bounded by $G$, the $x$-axis and the $y$-axis. Find the volume of the solid of revolution generated by revolving $R$ about the $x$-axis.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "section": "B",
+      "categoryZh": "遞推公式及定積分性質",
+      "categoryEn": "Reduction formula and properties of definite integrals",
+      "difficultyGrade": "hard",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a",
+          "questionTextZh": "對所有非負整數 $n$，定義 $I_n=\\displaystyle\\int_0^1(1-x^2)^n\\,dx$。\n利用分部積分法，證明對所有正整數 $n$，$(2n+1)I_n=2nI_{n-1}$。",
+          "questionTextEn": "For any non-negative integer $n$, define $I_n=\\displaystyle\\int_0^1(1-x^2)^n\\,dx$.\nUsing integration by parts, prove that $(2n+1)I_n=2nI_{n-1}$ for all positive integers $n$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b",
+          "questionTextZh": "計算 $I_3$。",
+          "questionTextEn": "Evaluate $I_3$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "c",
+          "questionTextZh": "利用 (b)，計算 $\\displaystyle\\int_0^{\\pi}\\sin^7 x\\,dx$。",
+          "questionTextEn": "Using (b), evaluate $\\displaystyle\\int_0^{\\pi}\\sin^7 x\\,dx$.",
+          "totalMarks": 4
+        },
+        {
+          "label": "d",
+          "questionTextZh": "證明對所有非負整數 $n$，$\\displaystyle\\int_{-1}^{1}(1+x)^2(1-x^2)^n\\,dx=\\frac{4(n+2)}{2n+3}\\,I_n$。",
+          "questionTextEn": "Prove that $\\displaystyle\\int_{-1}^{1}(1+x)^2(1-x^2)^n\\,dx=\\frac{4(n+2)}{2n+3}\\,I_n$ for all non-negative integers $n$.",
+          "totalMarks": 4
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "section": "B",
+      "categoryZh": "矩陣的冪及三角函數",
+      "categoryEn": "Powers of matrices and trigonometric functions",
+      "difficultyGrade": "hard",
+      "figureSpecId": null,
+      "totalMarks": 13,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "設 $0<\\theta<\\pi$ 及 $M=\\begin{pmatrix}2\\cos\\theta&-1\\\\1&0\\end{pmatrix}$。將 $2\\times 2$ 單位矩陣記為 $I$。\n求 $|M|$。",
+          "questionTextEn": "Let $0<\\theta<\\pi$ and $M=\\begin{pmatrix}2\\cos\\theta&-1\\\\1&0\\end{pmatrix}$. Denote the $2\\times 2$ identity matrix by $I$.\nFind $|M|$.",
+          "totalMarks": 1
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "利用數學歸納法，證明對所有正整數 $n$，$M^n=\\dfrac{1}{\\sin\\theta}\\begin{pmatrix}\\sin(n+1)\\theta&-\\sin n\\theta\\\\\\sin n\\theta&-\\sin(n-1)\\theta\\end{pmatrix}$。",
+          "questionTextEn": "Using mathematical induction, prove that $M^n=\\dfrac{1}{\\sin\\theta}\\begin{pmatrix}\\sin(n+1)\\theta&-\\sin n\\theta\\\\\\sin n\\theta&-\\sin(n-1)\\theta\\end{pmatrix}$ for all positive integers $n$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(iii)",
+          "questionTextZh": "證明對所有正整數 $n$，$M^n+\\left(M^{-1}\\right)^n=2\\cos(n\\theta)\\,I$。",
+          "questionTextEn": "Prove that $M^n+\\left(M^{-1}\\right)^n=2\\cos(n\\theta)\\,I$ for all positive integers $n$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "計算 $\\begin{pmatrix}1&-1\\\\1&0\\end{pmatrix}^{100}$。",
+          "questionTextEn": "Evaluate $\\begin{pmatrix}1&-1\\\\1&0\\end{pmatrix}^{100}$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "已知 $\\cos\\dfrac{2\\pi}{5}=\\dfrac{\\sqrt{5}-1}{4}$。設 $Q=\\begin{pmatrix}\\dfrac{\\sqrt{5}-1}{2}&-1\\\\1&0\\end{pmatrix}$。求有多少個正整數 $n$，其中 $1\\le n\\le 2026$，使得 $Q^n+\\left(Q^{-1}\\right)^n=-\\dfrac{1+\\sqrt{5}}{2}I$。",
+          "questionTextEn": "It is given that $\\cos\\dfrac{2\\pi}{5}=\\dfrac{\\sqrt{5}-1}{4}$. Let $Q=\\begin{pmatrix}\\dfrac{\\sqrt{5}-1}{2}&-1\\\\1&0\\end{pmatrix}$. Find the number of positive integers $n$, where $1\\le n\\le 2026$, such that $Q^n+\\left(Q^{-1}\\right)^n=-\\dfrac{1+\\sqrt{5}}{2}I$.",
+          "totalMarks": 3
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "section": "B",
+      "categoryZh": "外心、垂心及形心",
+      "categoryEn": "Circumcentre, orthocentre and centroid",
+      "difficultyGrade": "hard",
+      "figureSpecId": null,
+      "totalMarks": 12,
+      "parts": [
+        {
+          "label": "a(i)",
+          "questionTextZh": "設 $O$ 為 $\\triangle ABC$ 的外心。設 $\\overrightarrow{OA}=\\mathbf{a}$、$\\overrightarrow{OB}=\\mathbf{b}$ 及 $\\overrightarrow{OC}=\\mathbf{c}$。定義點 $H$ 使得 $\\overrightarrow{OH}=\\mathbf{a}+\\mathbf{b}+\\mathbf{c}$。\n證明 $\\overrightarrow{AH}\\cdot\\overrightarrow{BC}=0$。",
+          "questionTextEn": "Let $O$ be the circumcentre of $\\triangle ABC$. Let $\\overrightarrow{OA}=\\mathbf{a}$, $\\overrightarrow{OB}=\\mathbf{b}$ and $\\overrightarrow{OC}=\\mathbf{c}$. Define the point $H$ such that $\\overrightarrow{OH}=\\mathbf{a}+\\mathbf{b}+\\mathbf{c}$.\nProve that $\\overrightarrow{AH}\\cdot\\overrightarrow{BC}=0$.",
+          "totalMarks": 3
+        },
+        {
+          "label": "a(ii)",
+          "questionTextZh": "設 $G$ 為 $\\triangle ABC$ 的形心。證明 $H$ 為 $\\triangle ABC$ 的垂心，並證明 $O$、$G$ 及 $H$ 共線。",
+          "questionTextEn": "Let $G$ be the centroid of $\\triangle ABC$. Prove that $H$ is the orthocentre of $\\triangle ABC$, and prove that $O$, $G$ and $H$ are collinear.",
+          "totalMarks": 4
+        },
+        {
+          "label": "b(i)",
+          "questionTextZh": "點 $A$、點 $B$ 及點 $C$ 的坐標分別為 $(-3,-2,-2)$、$(1,5,3)$ 及 $(9,1,-5)$。已知點 $D(3,1,-2)$ 為 $\\triangle ABC$ 的外心。利用 (a)，求 $\\triangle ABC$ 的垂心 $K$ 的坐標。",
+          "questionTextEn": "The coordinates of the points $A$, $B$ and $C$ are $(-3,-2,-2)$, $(1,5,3)$ and $(9,1,-5)$ respectively. It is given that the point $D(3,1,-2)$ is the circumcentre of $\\triangle ABC$. Using (a), find the coordinates of the orthocentre $K$ of $\\triangle ABC$.",
+          "totalMarks": 2
+        },
+        {
+          "label": "b(ii)",
+          "questionTextZh": "$AK$ 的延線與 $BC$ 相交於點 $F$，並與 $\\triangle ABC$ 的外接圓再相交於點 $P$。求 $KF:FP$。",
+          "questionTextEn": "$AK$ produced meets $BC$ at the point $F$, and meets the circumcircle of $\\triangle ABC$ again at the point $P$. Find $KF:FP$.",
+          "totalMarks": 3
+        }
+      ]
+    }
+  ]
+}
