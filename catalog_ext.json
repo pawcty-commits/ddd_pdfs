@@ -3,23 +3,23 @@
   "baseUrl": "https://cdn.jsdelivr.net/gh/pawcty-commits/ddd_pdfs@main",
   "papers": [
     {
-      "id": "setm1261108_p1",
+      "id": "setm2261122_p1",
       "title": "今日試卷",
-      "subject": "數學延伸部分 單元一（微積分與統計）/ Mathematics M1",
-      "subjectCode": "m1",
+      "subject": "數學延伸部分 單元二（代數與微積分）/ Mathematics M2",
+      "subjectCode": "m2",
       "paperNo": 1,
       "part": "",
       "type": "longQuestion",
-      "examDate": "2026-11-08",
+      "examDate": "2026-11-22",
       "timedExam": true,
       "source": "both",
       "durationMinutes": 150,
       "examStartTime": "08:30",
       "examEndTime": "11:00",
-      "jsonPath": "setm1261108/p1/questions.json",
-      "imageBaseUrl": "setm1261108/p1",
-      "markingSchemeUrl": "setm1261108/p1/markingscheme_{lang}.pdf",
-      "pdfUrl": "setm1261108/p1/paper_{lang}.pdf"
+      "jsonPath": "setm2261122/p1/questions.json",
+      "imageBaseUrl": "setm2261122/p1",
+      "markingSchemeUrl": "setm2261122/p1/markingscheme_{lang}.pdf",
+      "pdfUrl": "setm2261122/p1/paper_{lang}.pdf"
     }
   ]
 }
