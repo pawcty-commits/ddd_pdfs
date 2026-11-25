@@ -324,8 +324,8 @@
      "Saying the 60/60 rule means 'stop for 60 minutes after listening for 60 minutes'"
     ]
    },
-   "no": 1,
    "pdf": "speaking/ENG4-002_1.1.pdf",
+   "no": 1,
    "pdfVer": 2
   },
   {
@@ -651,8 +651,8 @@
      "The whole group agrees and nobody mentions any disadvantages"
     ]
    },
-   "no": 2,
    "pdf": "speaking/ENG4-002_1.2.pdf",
+   "no": 2,
    "pdfVer": 2
   },
   {
@@ -972,8 +972,8 @@
      "Describing the swap shelf as 'selling second-hand things'"
     ]
    },
-   "no": 3,
    "pdf": "speaking/ENG4-002_1.3.pdf",
+   "no": 3,
    "pdfVer": 2
   },
   {
@@ -2318,8 +2318,8 @@
      "Point 3 goes back to self-photo studios"
     ]
    },
-   "no": 7,
    "pdf": "speaking/ENG4-004_1.1.pdf",
+   "no": 7,
    "pdfVer": 2
   },
   {
@@ -2648,8 +2648,8 @@
      "Only reading out HK$10, HK$30 and HK$15 without saying what they mean"
     ]
    },
-   "no": 8,
    "pdf": "speaking/ENG4-004_1.2.pdf",
+   "no": 8,
    "pdfVer": 2
   },
   {
@@ -2968,8 +2968,8 @@
      "Each member lists activities without comparing or deciding"
     ]
    },
-   "no": 9,
    "pdf": "speaking/ENG4-004_1.3.pdf",
+   "no": 9,
    "pdfVer": 2
   },
   {
@@ -3302,8 +3302,8 @@
      "Stressing 'spoiler' wrongly, or using the word without explaining what it means"
     ]
    },
-   "no": 10,
    "pdf": "speaking/ENG4-005_1.1.pdf",
+   "no": 10,
    "pdfVer": 2
   },
   {
@@ -3629,8 +3629,8 @@
      "Turning the topic into 'should elderly people use phones'"
     ]
    },
-   "no": 11,
    "pdf": "speaking/ENG4-005_1.2.pdf",
+   "no": 11,
    "pdfVer": 2
   },
   {
@@ -3958,8 +3958,8 @@
      "Saying the government should pull down all playgrounds, which goes beyond the situation (one park)"
     ]
    },
-   "no": 12,
    "pdf": "speaking/ENG4-005_1.3.pdf",
+   "no": 12,
    "pdfVer": 2
   },
   {
@@ -4277,8 +4277,8 @@
      "Mispronouncing 'tutorial' or 'budget'"
     ]
    },
-   "no": 13,
    "pdf": "speaking/ENG4-006_1.1.pdf",
+   "no": 13,
    "pdfVer": 2
   },
   {
@@ -4594,8 +4594,8 @@
      "Mispronouncing 'disposable' or 'maintenance'"
     ]
    },
-   "no": 14,
    "pdf": "speaking/ENG4-006_1.2.pdf",
+   "no": 14,
    "pdfVer": 2
   },
   {
@@ -4924,8 +4924,8 @@
      "Mispronouncing 'short-sightedness' or 'concentrate'"
     ]
    },
-   "no": 15,
    "pdf": "speaking/ENG4-006_1.3.pdf",
+   "no": 15,
    "pdfVer": 2
   },
   {
@@ -5228,8 +5228,8 @@
      "Saying only \"be careful\" for the last point without giving real rules"
     ]
    },
-   "no": 16,
    "pdf": "speaking/ENG4-007_1.1.pdf",
+   "no": 16,
    "pdfVer": 2
   },
   {
@@ -5538,8 +5538,8 @@
      "Treating the charity idea as cancelling the gift swap"
     ]
    },
-   "no": 17,
    "pdf": "speaking/ENG4-007_1.2.pdf",
+   "no": 17,
    "pdfVer": 2
   },
   {
@@ -5857,8 +5857,3648 @@
      "Stressing priority on the first syllable or saying carriage with three syllables"
     ]
    },
-   "no": 18,
    "pdf": "speaking/ENG4-007_1.3.pdf",
+   "no": 18,
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-008",
+   "code": "1.1",
+   "title": "Is Anyone Listening? A School Radio Show Fights for Its Audience",
+   "partA": {
+    "sourceIntro": "This article appeared in an online magazine for secondary school students:",
+    "title": "Is Anyone Listening? A School Radio Show Fights for Its Audience",
+    "text": "At 1:05 p.m. every school day, the speakers in the canteen of a secondary school in Sha Tin come to life with the words \"Good afternoon, everyone, and welcome to today's lunchtime show!\" A pop song starts, and the student-run radio programme begins.\n\nThe problem is that fewer and fewer students are listening. When the school's radio club surveyed 260 students last term, only 15% said they listened on most days, and about four in ten said they could not hear the show clearly over the noise in the canteen. \"Most of us just put our earphones in and watch videos on our phones,\" admitted Hugo, an S3 student.\n\nThe club's chairperson, Joanne Lui (S5), believes the content is the real issue. \"For years we've done exactly the same thing: three songs, a few school announcements and the weather. Students can get all of that on their phones,\" she explained.\n\nNow the club is planning a complete makeover of the programme. Ideas include a song request box, a weekly quiz with small prizes, birthday messages for classmates, and interviews in which teachers talk about their school days. Some members would also like students to host short shows themselves.\n\nNot everyone is enthusiastic about the changes. A few teachers worry that live shows could go wrong, while some students say they would prefer a quiet lunch. \"If it's too loud or silly, people will complain,\" warned one S6 student.\n\nJoanne, however, remains optimistic. \"Radio is about people and their stories, not just music,\" she said. \"If students hear their friends on air, they'll start listening again.\"",
+    "visual": null,
+    "scenario": "At your school, the lunchtime radio show is also played in the canteen, and it is losing listeners. As members of the radio club, your group has been asked to recommend how the show should change next term.",
+    "prompts": [
+     "why many students no longer listen to the lunchtime radio show",
+     "which of the ideas in the article would attract the most listeners and which might cause problems",
+     "how the new show could keep listeners without disturbing students who want a quiet lunch",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What kind of radio programme would you enjoy listening to?",
+     "What do you usually do during lunchtime at school?",
+     "Do you prefer a quiet lunchtime or a lively one?",
+     "Should students be allowed to choose the songs played at school?",
+     "Why do some students wear earphones instead of chatting with friends at lunch?",
+     "Do you think radio is still popular with young people?",
+     "Which is a better way to share school news: the school radio or social media?",
+     "Is it important for students to have their own media, like a school radio or magazine?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-008_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-008_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-008_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-008_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "improving a student-run lunchtime radio show played in the school canteen",
+    "topicArea": "Entertainment & Media",
+    "textType": "online article",
+    "taskType": "make recommendations",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組係學校廣播學會成員（你哋學校嘅午膳節目喺飯堂播），要建議下學期節目點樣改：先講同學點解唔再聽，再評估學會邊啲新點子最吸引聽眾、邊啲可能有問題，最後講新節目點樣留住聽眾，又唔會騷擾想靜靜食飯嘅同學。",
+    "taskFocusEn": "As members of the radio club (your school's show is played in the canteen), recommend how the show should change next term: explain why students stopped listening, judge which new ideas would attract listeners and which might cause problems, and suggest how to keep listeners without disturbing students who want a quiet lunch.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "飯堂太嘈，聽唔清楚",
+       "內容沉悶，年年都係幾首歌、宣佈同天氣",
+       "同學寧願戴耳筒睇手機片",
+       "手機已經有晒歌同資訊，唔需要廣播",
+       "播嘅歌唔啱同學口味",
+       "主持人都係嗰幾個，同學覺得同自己冇關係"
+      ],
+      "ideasEn": [
+       "The canteen is too noisy, so students can't hear the show.",
+       "The content is boring: the same songs, announcements and weather every year.",
+       "Students would rather put on earphones and watch videos.",
+       "Their phones already give them music and news.",
+       "The songs don't match what students like.",
+       "The hosts are always the same few people, so others don't feel connected."
+      ],
+      "materialLinks": [
+       "could not hear the show clearly over the noise in the canteen",
+       "Most of us just put our earphones in and watch videos on our phones",
+       "three songs, a few school announcements and the weather"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "點歌箱最吸引：同學聽到自己揀嘅歌；但要先檢查歌詞",
+       "每週問答有細禮物，同學會留心聽；但飯堂嘈，可能聽唔清題目",
+       "生日祝福：聽到朋友個名好開心；但有人唔想個名被讀出，或者被人笑",
+       "老師訪問：同學好奇老師讀書時嘅事；但可能太長、太悶",
+       "學生主持短節目：朋友會捧場；但老師擔心直播會出錯",
+       "太嘈或者太無聊嘅環節會令想靜嘅同學投訴"
+      ],
+      "ideasEn": [
+       "The song request box would be most popular, but the lyrics need checking first.",
+       "A weekly quiz with prizes makes people listen, but the canteen may be too noisy to hear the questions.",
+       "Birthday messages are fun, but some students may not want their names read out.",
+       "Teacher interviews make students curious, but they could be too long or boring.",
+       "Student hosts bring their friends in, but teachers worry that live shows could go wrong.",
+       "Parts that are too loud or silly will make students who want quiet complain."
+      ],
+      "materialLinks": [
+       "a song request box, a weekly quiz with small prizes, birthday messages for classmates",
+       "Some members would also like students to host short shows themselves",
+       "A few teachers worry that live shows could go wrong"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "調低音量，或者只喺飯堂一邊開喇叭，另一邊做靜區",
+       "唔好播成個午飯：例如只播頭 15 分鐘，之後靜返",
+       "熱鬧環節（問答、點歌）同輕鬆環節（輕音樂、老師分享）分開唔同日子",
+       "同時喺學校網站直播，想聽嘅同學可以戴耳筒聽",
+       "學生節目預先錄好，老師可以先聽，唔怕直播出錯",
+       "定期做簡單問卷，問同學覺得太嘈定啱啱好"
+      ],
+      "ideasEn": [
+       "Turn the volume down, or keep one side of the canteen as a quiet area.",
+       "Don't play for the whole lunch, maybe just the first 15 minutes.",
+       "Put lively parts and calm parts, like soft music, on different days.",
+       "Stream the show online too, so fans can listen with earphones.",
+       "Record student shows first, so teachers can check them.",
+       "Ask students regularly whether the show is too loud."
+      ],
+      "materialLinks": [
+       "some students say they would prefer a quiet lunch",
+       "If it's too loud or silly, people will complain",
+       "If students hear their friends on air, they'll start listening again"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "canteen",
+      "note": "can-TEEN，重音喺第二音節；學校飯堂",
+      "noteEn": "can-TEEN, stress on the 2nd syllable; the school dining hall"
+     },
+     {
+      "word": "chairperson",
+      "note": "CHAIR-per-son，重音喺第一音節；主席",
+      "noteEn": "CHAIR-per-son, stress on the 1st syllable; the leader of a club"
+     },
+     {
+      "word": "announcements",
+      "note": "a-NOUNCE-ments，重音喺第二音節；宣佈、通告",
+      "noteEn": "a-NOUNCE-ments, stress on the 2nd syllable; official messages to everyone"
+     },
+     {
+      "word": "surveyed",
+      "note": "sur-VEYED，做動詞時重音喺第二音節；做問卷調查",
+      "noteEn": "sur-VEYED, stress on the 2nd syllable as a verb; asked many people questions"
+     },
+     {
+      "word": "programme",
+      "note": "PRO-gram，重音喺第一音節，尾音唔讀 me；節目",
+      "noteEn": "PRO-gram, stress on the 1st syllable; a show on radio or TV"
+     },
+     {
+      "word": "request",
+      "note": "re-QUEST，重音喺第二音節；點播、要求",
+      "noteEn": "re-QUEST, stress on the 2nd syllable; asking for something, like a song"
+     },
+     {
+      "word": "makeover",
+      "note": "MAKE-o-ver，重音喺第一音節；大改造",
+      "noteEn": "MAKE-o-ver, stress on the 1st syllable; a big change to make something better"
+     },
+     {
+      "word": "enthusiastic",
+      "note": "en-thoo-zee-AS-tic，重音喺第四音節；熱衷、好有興趣",
+      "noteEn": "en-thoo-zee-AS-tic, stress on the 4th syllable; very excited and interested"
+     },
+     {
+      "word": "optimistic",
+      "note": "op-ti-MIS-tic，重音喺第三音節；樂觀",
+      "noteEn": "op-ti-MIS-tic, stress on the 3rd syllable; hopeful about the future"
+     },
+     {
+      "word": "on air",
+      "note": "on AIR，重音喺 air；正在廣播",
+      "noteEn": "on AIR, stress on air; being broadcast on radio"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "類型：音樂、清談、體育、故事",
+       "點解：輕鬆、學到嘢、好笑"
+      ],
+      "pointsEn": [
+       "Type: music, talk, sport or stories",
+       "Why: relaxing, useful or funny"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "同朋友食飯傾偈、溫書做功課",
+       "睇手機、參加學會活動"
+      ],
+      "pointsEn": [
+       "Eat and chat with friends, or study",
+       "Use my phone or join club activities"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "靜：想休息、溫書",
+       "熱鬧：同朋友玩、聽歌放鬆"
+      ],
+      "pointsEn": [
+       "Quiet: to rest or study",
+       "Lively: to have fun and relax with friends"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "好處：同學更有興趣、有參與感",
+       "問題：歌詞內容要篩選、口味唔同"
+      ],
+      "pointsEn": [
+       "Good: students feel more interested and involved",
+       "Problem: lyrics need checking; tastes differ"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "想自己揀睇咩聽咩",
+       "累、唔想講嘢，或者唔熟身邊人"
+      ],
+      "pointsEn": [
+       "They want to choose their own content",
+       "They feel tired or shy"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "少咗：多數用串流平台、短片",
+       "仍有人聽：坐車、直播、主持人吸引"
+      ],
+      "pointsEn": [
+       "Less popular: most use streaming apps and videos",
+       "Still some listeners: on the go, live hosts"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "校園電台：全校同時聽到、有人聲、有氣氛",
+       "社交媒體：隨時睇、可以留言、有相"
+      ],
+      "pointsEn": [
+       "Radio: everyone hears it together, with real voices",
+       "Social media: read anytime, comment, see photos"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "俾學生表達意見、練溝通技巧",
+       "增加歸屬感，學校更有凝聚力"
+      ],
+      "pointsEn": [
+       "Students can share ideas and practise speaking",
+       "Builds school spirit and a sense of belonging"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係逐項讀出材料嘅新點子，冇講邊個最吸引、邊個有問題",
+     "要點 1 只講「飯堂太嘈」一個原因，冇再引伸",
+     "淨係講點樣令節目熱鬧，冇理想靜靜食飯嘅同學",
+     "四個人輪流講自己嘅意見，冇回應組員或者一齊定出建議"
+    ],
+    "pitfallsEn": [
+     "Only reading out the new ideas without saying which work best and which may cause problems",
+     "Giving only one reason for prompt 1 (the noisy canteen) without developing it",
+     "Only talking about making the show lively and forgetting students who want a quiet lunch",
+     "Taking turns to give opinions without responding to each other or agreeing on recommendations"
+    ]
+   },
+   "no": 19,
+   "pdf": "speaking/ENG4-008_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-008",
+   "code": "1.2",
+   "title": "Low Battery? What to Know Before You Rent a Power Bank",
+   "partA": {
+    "sourceIntro": "This page appeared on a consumer advice website:",
+    "title": "Low Battery? What to Know Before You Rent a Power Bank",
+    "text": "Rental power bank machines can now be found in convenience stores, shopping centres, restaurants and even some universities across Hong Kong. One large service alone has more than 5,000 stations in the city.\n\nHow does it work?\n1. Scan the QR code on the machine with an app.\n2. Pay a deposit or link a credit card, and a power bank pops out.\n3. Charge your phone on the go, then return the power bank to any station of the same service.\n\nWhat do users say?\n\"I'm out from 7 a.m. to 10 p.m. Once my phone died and I couldn't pay for anything or find my way. A rental power bank saved me.\" – Carmen, 17\n\"I don't want to carry a heavy power bank around every day.\" – Wing, 19\n\"Fifteen dollars here, twenty dollars there – it adds up. Buying my own would have been cheaper.\" – Toby, 16\n\nBefore you rent\n• Check the price. Fees can be different from machine to machine, even for the same service, and some apps only show the price after you scan.\n• Check the map. In a recent test, some apps showed the wrong location for return stations, which could mean wasted trips and paying for extra time.\n• Check the battery. Make sure the power bank is charged before you walk away.\n\nOur view: Renting is handy in an emergency, but if you rent every week, owning a power bank may make more sense.",
+    "visual": null,
+    "scenario": "Your class newsletter is writing a guide for students on everyday spending. Your group has been asked to discuss power bank rental services in Hong Kong.",
+    "prompts": [
+     "why power bank rental services have become so popular",
+     "the benefits and drawbacks of renting a power bank instead of owning one",
+     "whether your school should let a company put a power bank rental machine on campus for students to pay and use",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What do you usually use your phone for when you are out?",
+     "Do you usually carry a power bank?",
+     "Have you ever been in trouble because your phone ran out of battery?",
+     "Do you think people worry too much about their phone batteries?",
+     "Should shopping centres offer free phone charging?",
+     "Why do some people prefer renting things to buying them?",
+     "Which is more important when choosing a phone: battery life or camera quality?",
+     "Will people still need power banks ten years from now?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-008_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-008_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-008_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-008_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "renting shared power banks instead of owning one",
+    "topicArea": "Technology",
+    "textType": "website",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組為班報嘅「學生日常開支指南」討論香港嘅共享充電寶租借服務：講點解咁流行、租用同自己買充電寶嘅好處同壞處，同埋你哋中學應唔應該俾公司喺校內放一部要俾錢嘅租借機。",
+    "taskFocusEn": "For your class newsletter's guide to everyday spending, discuss power bank rental services in Hong Kong: why they are popular, the benefits and drawbacks of renting instead of owning one, and whether your school should let a company put a paid rental machine on campus.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "香港人成日出街，一日用手機好耐",
+       "手機要用嚟付款、搵路、搭車，冇電好麻煩",
+       "租借機好多：便利店、商場、餐廳都有",
+       "唔使帶重嘢，用完喺任何一個站還",
+       "掃 QR code 就用到，好方便",
+       "遊客同上班族臨時需要"
+      ],
+      "ideasEn": [
+       "Hongkongers are out all day and use their phones a lot.",
+       "We need phones to pay, find our way and take transport.",
+       "There are machines everywhere: convenience stores, malls and restaurants.",
+       "You don't need to carry anything, and you can return it at any station.",
+       "You just scan a QR code, so it's very easy.",
+       "Tourists and office workers sometimes need power suddenly."
+      ],
+      "materialLinks": [
+       "convenience stores, shopping centres, restaurants and even some universities",
+       "Once my phone died and I couldn't pay for anything or find my way"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "好處：緊急時救命，唔會失聯",
+       "好處：唔使日日帶重嘅充電寶",
+       "壞處：成日租，錢會越積越多",
+       "壞處：收費唔清楚，唔同機價錢唔同",
+       "壞處：地圖錯，可能白行一趟，兼要俾多咗時間嘅錢",
+       "壞處：要俾按金或者綁信用卡，學生未必有"
+      ],
+      "ideasEn": [
+       "Benefit: it helps in an emergency, so you can still contact people.",
+       "Benefit: you don't have to carry a heavy power bank every day.",
+       "Drawback: if you rent often, the cost adds up.",
+       "Drawback: prices aren't clear and change from machine to machine.",
+       "Drawback: wrong maps could mean a wasted trip and paying for extra time.",
+       "Drawback: you need a deposit or a credit card, which students may not have."
+      ],
+      "materialLinks": [
+       "I don't want to carry a heavy power bank around every day",
+       "Fifteen dollars here, twenty dollars there – it adds up",
+       "some apps showed the wrong location for return stations"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "應該：放學有活動，要聯絡家長",
+       "應該：方便學生，唔使問老師借充電",
+       "唔應該：鼓勵學生上堂用手機",
+       "唔應該：學生每次都要俾錢，學校不如提供免費充電",
+       "唔應該：學校要諗放喺邊、邊個負責同公司聯絡",
+       "折衷：只放喺圖書館或者校務處附近"
+      ],
+      "ideasEn": [
+       "Yes: students staying late need to contact their parents.",
+       "Yes: students wouldn't need to borrow chargers from teachers.",
+       "No: it could encourage students to use phones in class.",
+       "No: students pay every time, so free charging points would be better.",
+       "No: the school must decide where it goes and who deals with the company.",
+       "Middle way: only put one near the library or the school office."
+      ],
+      "materialLinks": [
+       "Renting is handy in an emergency"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "rental",
+      "note": "REN-tal，重音喺第一音節；租用",
+      "noteEn": "REN-tal, stress on the 1st syllable; paying to use something for a short time"
+     },
+     {
+      "word": "deposit",
+      "note": "de-POS-it，重音喺第二音節；按金",
+      "noteEn": "de-POS-it, stress on the 2nd syllable; money you pay first and get back later"
+     },
+     {
+      "word": "convenience",
+      "note": "con-VEEN-yence，重音喺第二音節；方便（convenience store 便利店）",
+      "noteEn": "con-VEEN-yence, stress on the 2nd syllable; being easy and useful"
+     },
+     {
+      "word": "universities",
+      "note": "yoo-ni-VER-si-ties，重音喺第三音節；大學",
+      "noteEn": "yoo-ni-VER-si-ties, stress on the 3rd syllable; places for higher education"
+     },
+     {
+      "word": "emergency",
+      "note": "i-MER-gen-cy，重音喺第二音節；緊急情況",
+      "noteEn": "i-MER-gen-cy, stress on the 2nd syllable; a sudden, serious problem"
+     },
+     {
+      "word": "location",
+      "note": "lo-CAY-tion，重音喺第二音節；位置",
+      "noteEn": "lo-CAY-tion, stress on the 2nd syllable; the place where something is"
+     },
+     {
+      "word": "station",
+      "note": "STAY-shun，重音喺第一音節；站（租借機或者歸還嘅地方）",
+      "noteEn": "STAY-shun, stress on the 1st syllable; a place where you rent or return a power bank"
+     },
+     {
+      "word": "charged",
+      "note": "CHARJD，一個音節，唔好讀成 char-ged；已經充咗電",
+      "noteEn": "CHARJD, one syllable, not char-ged; filled with power"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "聽歌、睇片、打機",
+       "搵路、付款、同朋友傾偈"
+      ],
+      "pointsEn": [
+       "Music, videos or games",
+       "Maps, payments or chatting with friends"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "帶：安心、出街耐",
+       "唔帶：太重、會忘記"
+      ],
+      "pointsEn": [
+       "Yes: it makes me feel safe",
+       "No: too heavy or I forget"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "搵唔到朋友、搵唔到路",
+       "冇得俾錢、搭唔到車"
+      ],
+      "pointsEn": [
+       "Couldn't find friends or the way",
+       "Couldn't pay or take transport"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "係：一見低電就緊張",
+       "唔係：手機真係好重要，付款搵路都靠佢"
+      ],
+      "pointsEn": [
+       "Yes: people panic at low battery",
+       "No: we really need phones to pay and travel"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "應該：吸引客人留耐啲、多消費",
+       "問題：成本、插座唔夠、安全"
+      ],
+      "pointsEn": [
+       "Yes: customers stay longer and spend more",
+       "Problem: cost, few sockets, safety"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "只係偶然用，買唔抵",
+       "唔使保養、唔佔地方"
+      ],
+      "pointsEn": [
+       "They only need it sometimes",
+       "No need to store or repair it"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "電池：成日用、出街耐",
+       "相機：影相分享、記錄生活"
+      ],
+      "pointsEn": [
+       "Battery: heavy daily use",
+       "Camera: sharing photos and memories"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "電池技術會進步，可能唔使",
+       "手機功能越來越多，仍然需要"
+      ],
+      "pointsEn": [
+       "Better batteries may make them unnecessary",
+       "Phones will do more, so still needed"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "要點 2 只講好處或者只講壞處，冇兩邊比較",
+     "將「租充電寶」講成「買充電寶」，搞混咗租同擁有",
+     "照讀材料三位用家嘅說話，冇用自己例子引伸",
+     "要點 3 只答「應該／唔應該」，冇講原因；或者講成大學，唔係自己中學"
+    ],
+    "pitfallsEn": [
+     "Talking about only benefits or only drawbacks for prompt 2",
+     "Mixing up renting a power bank and buying one",
+     "Reading out the three users' comments without adding own examples",
+     "Only saying yes or no for prompt 3 without reasons, or talking about universities instead of your own school"
+    ]
+   },
+   "no": 20,
+   "pdf": "speaking/ENG4-008_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-008",
+   "code": "1.3",
+   "title": "Summer Jobs for Students",
+   "partA": {
+    "sourceIntro": "These advertisements appeared on a job website for students:",
+    "title": "Summer Jobs for Students",
+    "text": "Café Team Member (Tseung Kwan O)\nJoin our friendly team at a busy café two minutes from the MTR station. You will take orders, serve customers and keep the shop clean. We will teach you how to make coffee, and you get a free drink every shift.\n• HK$60 per hour\n• 6-hour shifts, 5 days a week, including weekends\n• All of July and August\nLunchtime gets very busy, so you need to work quickly and stay calm.\nApply: tko.cafe@example.hk\n\nSummer Science Class Helper (Kowloon Tong)\nDo you enjoy working with children? Help our teachers run fun science classes for P1 to P3 pupils. You will set up simple experiments, look after small groups and tidy the classroom.\n• HK$75 per hour\n• Weekday mornings, 9:00 a.m. – 1:00 p.m.\n• Six weeks, starting 6 July\nYou must be patient. Experience with children is a plus.\nApply: science.helper@example.hk\n\nEvent Assistant (Different Venues)\nWork at big exhibitions around Hong Kong, from toy shows to food fairs. You will check tickets, give directions to visitors and help to set up stands.\n• HK$70 per hour\n• 10-hour days, about 12 days over the summer\n• Dates are sent one week before each event\nThere is a lot of standing and some lifting, but every event is different and you will meet lots of new people!\nApply: events.team@example.hk",
+    "visual": null,
+    "scenario": "Your classmate Bonnie, who lives in Tseung Kwan O, wants a summer job after her DSE exams to save money for university. Your group has been asked to help her choose the best of these three jobs.",
+    "prompts": [
+     "what Bonnie could gain from each job",
+     "how the jobs compare in pay, hours, travel and how hard the work is",
+     "which job Bonnie should choose and why",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Have you ever helped out at a shop, a class or an event?",
+     "Would you take a job that is far from your home?",
+     "Do you enjoy spending time with young children?",
+     "Why do some students want to start working right after their exams?",
+     "Why do many young people feel nervous before their first job?",
+     "Is it a good idea to work at the same place as a friend?",
+     "Which is better for students: one long summer job or a few short ones?",
+     "Will summer jobs still be popular with Hong Kong students in ten years?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-008_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-008_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-008_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-008_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "choosing a summer job for a classmate after the DSE exams",
+    "topicArea": "Work & Money",
+    "textType": "advertisement",
+    "taskType": "choose the best option",
+    "hkLocal": true,
+    "decisionRequired": true,
+    "unfamiliar": false,
+    "multiText": true,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組要幫住喺將軍澳、想儲錢讀大學嘅同學 Bonnie，喺三份暑期工（咖啡店店員、兒童科學班助手、展覽活動助理）入面揀一份：先講每份工可以俾佢咩，再比較人工、工時、交通同辛苦程度，最後一致決定揀邊份同講原因。",
+    "taskFocusEn": "Help your classmate Bonnie, who lives in Tseung Kwan O and wants to save for university, choose one of three summer jobs (café worker, science class helper or event assistant): say what each job offers her, compare pay, hours, travel and how hard the work is, and agree on the best choice.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "咖啡店：學沖咖啡、招呼客人，練溝通",
+       "咖啡店：做足七、八月，三份入面總收入最多，啱儲錢讀大學",
+       "科學班：時薪最高，又有教小朋友嘅經驗，將來想讀教育有用",
+       "科學班：只做朝早，下晝仲有時間休息或者學其他嘢",
+       "展覽：每次活動都唔同，可以識好多新朋友",
+       "展覽：大約得 12 日，暑假仲有時間去旅行或者陪屋企人"
+      ],
+      "ideasEn": [
+       "Café: she can learn to make coffee and talk to customers.",
+       "Café: working all of July and August, she would earn the most in total.",
+       "Science class: the best hourly pay and real experience of teaching children.",
+       "Science class: she only works in the morning, so her afternoons are free.",
+       "Events: every event is different and she can meet lots of new people.",
+       "Events: only about 12 days, so she still has time for a trip or her family."
+      ],
+      "materialLinks": [
+       "We will teach you how to make coffee",
+       "Help our teachers run fun science classes for P1 to P3 pupils",
+       "every event is different and you will meet lots of new people"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "人工：科學班時薪 $75 最高，咖啡店 $60 最低；但計埋工時，咖啡店總收入最多",
+       "工時：咖啡店連週末都要返；展覽一日做 10 個鐘，好長",
+       "交通：咖啡店喺將軍澳，近佢屋企；科學班要搭港鐵去九龍塘；展覽每次喺唔同場地，路程唔一定",
+       "辛苦程度：展覽要企成日兼搬嘢；咖啡店午飯時間好忙",
+       "安排：展覽日子一星期前先通知，好難預早計劃；其餘兩份時間固定",
+       "科學班要好有耐性，小朋友嘈或者唔聽話會好攰"
+      ],
+      "ideasEn": [
+       "Pay: the science class pays most per hour and the café least, but the café gives the most in total.",
+       "Hours: the café includes weekends, and event days are 10 hours long.",
+       "Travel: the café is near home; the class is in Kowloon Tong; event venues change.",
+       "Hard work: events mean standing all day and lifting; the café is very busy at lunch.",
+       "Planning: event dates come only a week before; the other two have fixed times.",
+       "The science class needs patience, and noisy children can be tiring."
+      ],
+      "materialLinks": [
+       "6-hour shifts, 5 days a week, including weekends",
+       "10-hour days, about 12 days over the summer",
+       "Dates are sent one week before each event",
+       "Work at big exhibitions around Hong Kong",
+       "There is a lot of standing and some lifting",
+       "Lunchtime gets very busy, so you need to work quickly and stay calm"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "揀咖啡店：近屋企、總收入最多，最啱儲錢讀大學",
+       "揀科學班：時薪最高、只做朝早，又學到同小朋友相處嘅技巧",
+       "揀展覽：日數少、好玩，暑假仲可以休息",
+       "兩份一齊做：朝早科學班，再做幾日展覽（日子唔撞先得）",
+       "要先問清楚 Bonnie 最想要錢、經驗定休息，再排先後",
+       "唔揀展覽：日子唔固定，總收入可能係最少"
+      ],
+      "ideasEn": [
+       "Café: it's near her home and pays the most in total.",
+       "Science class: best hourly pay, mornings only and useful skills with children.",
+       "Events: only a few days and fun, so she can still rest.",
+       "She could do two: the science class plus some event days, if the dates don't clash.",
+       "It depends on whether Bonnie wants money, experience or rest most.",
+       "Not the events job: the dates aren't fixed and it may pay the least in total."
+      ],
+      "materialLinks": [
+       "Experience with children is a plus",
+       "All of July and August"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "café",
+      "note": "KAF-ay（英式）／ka-FAY（美式），兩個音節；咖啡店",
+      "noteEn": "KAF-ay (British) or ka-FAY (American), two syllables; a small coffee shop"
+     },
+     {
+      "word": "shifts",
+      "note": "SHIFTS，單音節，尾音 -fts 要讀清楚；更（返工時段）",
+      "noteEn": "SHIFTS, one syllable, say the -fts clearly; set periods of work"
+     },
+     {
+      "word": "calm",
+      "note": "KAHM，單音節，l 唔發音；冷靜",
+      "noteEn": "KAHM, one syllable, silent l; relaxed and not upset"
+     },
+     {
+      "word": "experiments",
+      "note": "ik-SPE-ri-ments，重音喺第二音節；實驗",
+      "noteEn": "ik-SPE-ri-ments, stress on the 2nd syllable; science tests you try out"
+     },
+     {
+      "word": "patient",
+      "note": "PAY-shunt，重音喺第一音節；有耐性",
+      "noteEn": "PAY-shunt, stress on the 1st syllable; able to wait without getting angry"
+     },
+     {
+      "word": "exhibitions",
+      "note": "ek-si-BI-shuns，重音喺第三音節，h 唔發音；展覽",
+      "noteEn": "ek-si-BI-shuns, stress on the 3rd syllable, silent h; big public shows"
+     },
+     {
+      "word": "directions",
+      "note": "di-REK-shuns，重音喺第二音節；指路",
+      "noteEn": "di-REK-shuns, stress on the 2nd syllable; telling people the way"
+     },
+     {
+      "word": "assistant",
+      "note": "a-SIS-tunt，重音喺第二音節；助理",
+      "noteEn": "a-SIS-tunt, stress on the 2nd syllable; a helper at work"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "幫屋企人睇舖、學校開放日、義工活動",
+       "做咗咩、學到咩"
+      ],
+      "pointsEn": [
+       "A family shop, school open day or volunteering",
+       "What you did and learned"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "車程、車費同時間",
+       "值唔值：人工高、學到嘢就值"
+      ],
+      "pointsEn": [
+       "Travel time and fares",
+       "Worth it if the pay or experience is good"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "鍾意：佢哋可愛、好玩",
+       "唔鍾意：好嘈、要好有耐性"
+      ],
+      "pointsEn": [
+       "Yes: they are fun and cute",
+       "No: noisy and need lots of patience"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "儲錢讀大學、買自己想要嘅嘢",
+       "唔想得閒冇嘢做、想試吓獨立"
+      ],
+      "pointsEn": [
+       "Save for university or buy things",
+       "Avoid boredom and feel independent"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "怕做錯嘢、唔識應付客人",
+       "唔熟同事同新環境"
+      ],
+      "pointsEn": [
+       "Afraid of mistakes or difficult customers",
+       "New colleagues and a new place"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "好：互相照應、冇咁緊張",
+       "壞：傾偈分心；有爭執會影響友誼"
+      ],
+      "pointsEn": [
+       "Good: help each other and feel less nervous",
+       "Bad: chatting too much; fights can hurt friendship"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "一份長工：穩定、學得深、賺得多",
+       "幾份短工：試多啲、時間有彈性"
+      ],
+      "pointsEn": [
+       "One long job: steady, learn more, earn more",
+       "Short jobs: try more things, flexible time"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "會：學生仲想賺錢同有經驗",
+       "未必：多咗機器做嘢、多咗其他賺錢方法"
+      ],
+      "pointsEn": [
+       "Yes: students still want money and experience",
+       "Maybe not: more machines and other ways to earn"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "四個人各自介紹一份工，冇比較，亦冇回應組員",
+     "冇理 Bonnie 住將軍澳、想儲錢讀大學呢兩樣情況",
+     "只比較時薪，冇計工時同總收入（時薪最低嘅咖啡店其實總收入最多）",
+     "最後冇一致決定，或者冇講揀嗰份工嘅原因"
+    ],
+    "pitfallsEn": [
+     "Each person describes one job without comparing or responding to others",
+     "Ignoring that Bonnie lives in Tseung Kwan O and wants to save for university",
+     "Comparing only hourly pay, not hours and total pay (the café pays least per hour but most in total)",
+     "Not agreeing on a final choice, or not giving reasons for it"
+    ]
+   },
+   "no": 21,
+   "pdf": "speaking/ENG4-008_1.3.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-009",
+   "code": "1.1",
+   "title": "Neighbourhood Lifesavers: Be Ready to Help",
+   "partA": {
+    "sourceIntro": "This text appeared on the website of a local volunteer group:",
+    "title": "Neighbourhood Lifesavers: Be Ready to Help",
+    "text": "Would You Know What to Do?\n\nAn old man falls down at a bus stop and does not get up. People stop and look, but nobody steps forward to help a stranger. Before an ambulance arrives, the first few minutes can make a big difference.\n\nWe are Neighbourhood Lifesavers, a team of volunteer nurses, students and former teachers in Sha Tin. Last year we asked 500 people in our area what they would do in a situation like this. Just 20% said they would feel confident giving first aid. Their main reasons for not helping were:\n- \"I'm afraid of doing something wrong and making it worse.\"\n- \"I don't know how to use an AED.\"\n- \"Someone else will probably help.\"\n- \"I'm worried about being blamed.\"\n\nThe good news is that you don't need to be a doctor. An AED is a machine that can give a shock to help a person's heart beat normally again, and it tells you what to do at every step. Every MTR station has them, and a government website shows where many others are.\n\nOur free two-hour sessions teach you how to call 999, do chest presses to keep blood moving (CPR), use an AED and help someone with food stuck in their throat. You will not get a certificate, but most people leave feeling ready to act.\n\n\"I used to walk past and hope someone else would help,\" says Hailey, 16. \"Now I'd know what to do first.\"\n\n\"Two hours isn't enough,\" one parent told us. \"I'd be scared I'd forget everything.\"\n\nBring our campaign to your school: invite@example.hk",
+    "visual": null,
+    "scenario": "Your school's First Aid Club is working with Neighbourhood Lifesavers on a first aid campaign for people who live, work or study in the area around your school, including students at your own school. The volunteers will run the training sessions, and your group has been asked to plan the campaign.",
+    "prompts": [
+     "why many people do not help when a stranger suddenly needs help in public",
+     "which groups of people the campaign should mainly try to reach",
+     "what activities the campaign should include to deal with people's worries about making mistakes or forgetting what they learn",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "What did you learn about safety when you were in primary school?",
+     "Have you ever seen someone fall or get hurt in the street?",
+     "What would you do if a classmate got hurt during a PE lesson?",
+     "Why do some people film an accident instead of helping?",
+     "Should all secondary students learn first aid at school?",
+     "Should all restaurants have staff trained in first aid?",
+     "Which is more useful to learn: first aid or swimming?",
+     "Will technology make it easier for ordinary people to save lives?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-009_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-009_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-009_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-009_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "a district campaign to get people to learn basic first aid and help strangers in emergencies",
+    "topicArea": "Society",
+    "textType": "website",
+    "taskType": "plan an event or campaign",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "hypothetical",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "小組係學校急救學會成員，同義工團體合作，為學校附近住、返工或者讀書嘅人（包括本校同學）策劃急救推廣活動：先分析點解路人唔出手，再決定主要對象，最後設計可以減輕「怕做錯、怕唔記得」嘅活動。",
+    "taskFocusEn": "As First Aid Club members working with a volunteer group, you plan a first aid campaign for people who live, work or study near your school: why people do not help, who to target, and activities that ease their worries.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "怕做錯令情況更差",
+       "唔識用 AED、冇學過急救",
+       "以為其他人會幫手（旁觀者心態）",
+       "怕之後俾人怪責或者要負責",
+       "趕時間、覺得唔關自己事",
+       "太突然，嚇親唔知點反應"
+      ],
+      "ideasEn": [
+       "They are afraid of doing something wrong and making it worse",
+       "They have never learned first aid or how to use an AED",
+       "They think someone else will help",
+       "They worry about being blamed if something goes wrong",
+       "They are in a hurry or think it is not their business",
+       "They panic because it happens so suddenly"
+      ],
+      "materialLinks": [
+       "I'm afraid of doing something wrong and making it worse",
+       "Someone else will probably help",
+       "Just 20% said they would feel confident giving first aid",
+       "I'm worried about being blamed"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "本校同學：學得快，可以帶返屋企教家人",
+       "照顧長者嘅家人或者外傭",
+       "商場、餐廳、港鐵附近店舖職員",
+       "運動隊、教練、行山人士",
+       "家長，特別係有細路嘅家庭"
+      ],
+      "ideasEn": [
+       "Students at our school learn quickly and can teach their families",
+       "Family members or helpers who look after elderly people",
+       "Staff in shops, restaurants and malls",
+       "Sports teams, coaches and hikers",
+       "Parents with young children"
+      ],
+      "materialLinks": [
+       "old man falls down at a bus stop",
+       "Every MTR station has them"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "用假人實際練 CPR，練到有信心先唔怕做錯",
+       "喺商場或者港鐵站外示範用 AED，講明部機會逐步指示",
+       "短片或者社交媒體挑戰，教打 999 講咩",
+       "真人分享（例如 Hailey）減少驚嘅感覺",
+       "定期溫習班，解決「兩個鐘唔夠、會唔記得」",
+       "設計小卡或者手機提示，列出主要步驟"
+      ],
+      "ideasEn": [
+       "Hands-on CPR practice with dummies so people are less afraid of mistakes",
+       "AED demonstrations outside malls or MTR stations to show the machine gives instructions",
+       "Short videos or social media challenges on calling 999",
+       "Real stories from people like Hailey to reduce fear",
+       "Regular refresher sessions so people do not forget",
+       "Pocket cards or phone reminders with the main steps"
+      ],
+      "materialLinks": [
+       "I'm afraid of doing something wrong and making it worse",
+       "Two hours isn't enough",
+       "I'd be scared I'd forget everything",
+       "it tells you what to do at every step"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "ambulance",
+      "note": "AM-byu-lunce，重音喺第一音節；救護車",
+      "noteEn": "AM-byu-lunce, stress on the 1st syllable; an emergency vehicle that takes sick people to hospital"
+     },
+     {
+      "word": "volunteer",
+      "note": "vol-un-TEER，重音喺最後；義工",
+      "noteEn": "vol-un-TEER, stress on the last syllable; someone who works without pay to help others"
+     },
+     {
+      "word": "AED",
+      "note": "ay-ee-DEE，逐個字母讀；自動體外心臟去顫器（電擊幫心臟回復正常跳動）",
+      "noteEn": "ay-ee-DEE, say each letter; a machine that gives a shock to help the heart beat normally"
+     },
+     {
+      "word": "CPR",
+      "note": "see-pee-AR，逐個字母讀；心肺復甦法",
+      "noteEn": "see-pee-AR, say each letter; pressing on the chest to keep blood moving"
+     },
+     {
+      "word": "campaign",
+      "note": "cam-PAIN，重音喺第二音節；推廣活動",
+      "noteEn": "cam-PAIN, stress on the 2nd syllable; planned activities to make people do something"
+     },
+     {
+      "word": "certificate",
+      "note": "ser-TIF-i-kit，重音喺第二音節；證書",
+      "noteEn": "ser-TIF-i-kit, stress on the 2nd syllable; an official paper showing you passed a course"
+     },
+     {
+      "word": "throat",
+      "note": "THROHT，th 要咬舌；喉嚨",
+      "noteEn": "THROHT, put your tongue between your teeth for th; the inside of your neck"
+     },
+     {
+      "word": "confident",
+      "note": "CON-fi-dent，重音喺第一音節；有信心",
+      "noteEn": "CON-fi-dent, stress on the 1st syllable; sure that you can do something"
+     },
+     {
+      "word": "stranger",
+      "note": "STRAYN-jer，重音喺第一音節；陌生人",
+      "noteEn": "STRAYN-jer, stress on the 1st syllable; a person you do not know"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "例如過馬路、火警演習、游水安全",
+       "仲記得乜、有冇用過"
+      ],
+      "pointsEn": [
+       "Road safety, fire drills or water safety",
+       "What you still remember or have used"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "發生咩事、喺邊度",
+       "你同其他人點反應"
+      ],
+      "pointsEn": [
+       "What happened and where",
+       "How you and other people reacted"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "叫老師、唔好亂郁傷者",
+       "用急救箱、需要時打 999"
+      ],
+      "pointsEn": [
+       "Tell the teacher and do not move the classmate",
+       "Use the first aid kit or call 999 if serious"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "好奇、想放上網",
+       "唔識幫，以為拍片可以做證據"
+      ],
+      "pointsEn": [
+       "Curious or want to post it online",
+       "Do not know how to help or want evidence"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "有用嘅生活技能，隨時用得着",
+       "課時緊，可以放喺活動課或者課外"
+      ],
+      "pointsEn": [
+       "It is a useful life skill",
+       "Timetables are busy, so use activity lessons or after school"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "人多、食物易令人哽親",
+       "培訓要錢要時間，小店未必負擔到"
+      ],
+      "pointsEn": [
+       "Many customers and choking can happen with food",
+       "Training costs time and money for small shops"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "游水救自己，急救救別人",
+       "揀一樣再講理由"
+      ],
+      "pointsEn": [
+       "Swimming protects yourself; first aid helps others",
+       "Choose one and give reasons"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "手機 app 顯示 AED 位置、教步驟",
+       "科技幫唔到，最緊要係有人願意出手"
+      ],
+      "pointsEn": [
+       "Apps can show AED locations and give instructions",
+       "Technology cannot replace people who are willing to act"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係逐點讀出網站四個唔幫手原因，冇講活動點樣解決",
+     "將要點 2 講成「所有人」，冇揀主要對象同講理由",
+     "建議咗活動但冇回應「怕做錯」同家長「兩個鐘唔夠、會唔記得」嘅擔心",
+     "以為急救班等於醫生訓練，講到要讀醫先幫到手"
+    ],
+    "pitfallsEn": [
+     "Just reading out the four reasons from the website without linking them to campaign activities",
+     "Saying the campaign is for 'everyone' instead of choosing main target groups with reasons",
+     "Suggesting activities without answering the worries about mistakes and the parent's worry about forgetting",
+     "Talking as if people need medical training to help"
+    ]
+   },
+   "no": 22,
+   "pdf": "speaking/ENG4-009_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-009",
+   "code": "1.2",
+   "title": "Shirt or Tracksuit? Tai Po School Lets Students Choose",
+   "partA": {
+    "sourceIntro": "This article appeared in a local newspaper:",
+    "title": "Shirt or Tracksuit? Tai Po School Lets Students Choose",
+    "text": "At the gate of a Tai Po secondary school each morning, you now see two kinds of students: some in white shirts and ties, others in blue tracksuits.\n\nSince September, students have been free to choose daily between the formal uniform and their PE kit. Nobody has to wear PE kit, but the formal uniform is still required for school photos, speech day and visits outside school.\n\n\"After football at lunch, my shirt was always wet with sweat in class,\" said Form 2 student Jasper Choi. \"In a tracksuit, I can play as hard as I like and still feel comfortable.\"\n\nNot every student has made the switch. \"When I'm wearing a shirt and tie, I feel focused, but in a tracksuit I feel as if I'm relaxing on the sofa at home,\" said Form 5 student Hazel Yip, who has worn her PE kit only twice.\n\nParents are divided as well. \"Tracksuits just go in with the rest of the laundry, so there's no more ironing shirts late at night,\" said Mrs Tsoi, whose two sons study at the school.\n\nOne father, however, pointed out a hidden cost. \"My daughter now wants three sets, because one set starts to smell after a hot, sticky day, and they aren't cheap.\"\n\nSome former students are worried about the school's reputation. A man who graduated in 1998 was surprised when he noticed students on a bus last month.\n\n\"Our uniform used to tell everyone who we were,\" he explained. \"In those tracksuits, I can't even recognise which school they come from.\"",
+    "visual": null,
+    "scenario": "Your school's Parent-Teacher Association is thinking of asking the school to let students choose between the formal uniform and PE kit on any school day. Before it decides, it has invited your group to discuss the idea and give students' views.",
+    "prompts": [
+     "what the school uniform means to students and to a school",
+     "the advantages and disadvantages of letting students wear PE kit on any school day",
+     "whether your group supports the idea, and when the formal uniform should still be worn",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Do you like your school uniform?",
+     "Have you ever forgotten to bring your PE kit to school?",
+     "Do you think school uniforms help students focus on learning?",
+     "Why do some schools have very strict uniform rules?",
+     "Should students help to design their school uniform?",
+     "Should schools let students wear their own clothes once a month?",
+     "Which matters more to a school's image: its uniform or its students' behaviour?",
+     "Will most Hong Kong schools still have uniforms in twenty years?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-009_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-009_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-009_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-009_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "letting secondary students choose PE kit instead of the formal uniform on any school day",
+    "topicArea": "Education & School",
+    "textType": "newspaper article",
+    "taskType": "give opinions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "家長教師會考慮建議學校畀學生每日自由揀着正式校服定體育服（唔係強制），邀請小組代表學生講意見：校服對學生同學校有咩意義、自由着體育服嘅好處同壞處，最後表態支唔支持，同講幾時仍然要着正式校服。",
+    "taskFocusEn": "The Parent-Teacher Association may ask the school to let students choose PE kit or the formal uniform each day. Discuss what uniforms mean, the advantages and disadvantages, whether you support it and when formal uniform is still needed.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "代表學校身份，有歸屬感",
+       "人人一樣，唔使比較衣著",
+       "着得整齊，令人準備好學習、守紀律",
+       "街坊同外人靠校服認得學校，關乎形象",
+       "傳統、舊生回憶",
+       "校外活動容易認出學生，安全啲"
+      ],
+      "ideasEn": [
+       "It shows which school we belong to and builds pride",
+       "Everyone looks the same, so no one compares clothes",
+       "Smart clothes help students feel ready to learn",
+       "People recognise a school by its uniform, so it affects its image",
+       "It is a tradition that former students remember",
+       "Teachers can find students easily on trips"
+      ],
+      "materialLinks": [
+       "Our uniform used to tell everyone who we were",
+       "When I'm wearing a shirt and tie, I feel focused",
+       "Some former students are worried about the school's reputation"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "好處：天氣熱，體育服透氣舒服",
+       "好處：小息、午飯做完運動唔使成身汗上堂",
+       "好處：易洗唔使熨，家長慳時間",
+       "壞處：上堂心態鬆咗，似喺屋企",
+       "壞處：流汗會臭，要買多幾套，反而貴",
+       "壞處：街外人認唔出係邊間學校"
+      ],
+      "ideasEn": [
+       "PE kit is cooler and more comfortable in hot weather",
+       "Students can play at lunch without a sweaty shirt in class",
+       "Tracksuits are easy to wash with no ironing",
+       "Students may feel too relaxed to focus in lessons",
+       "Tracksuits smell after hot days, so families buy extra sets",
+       "People outside may not recognise the school"
+      ],
+      "materialLinks": [
+       "my shirt was always wet with sweat in class",
+       "Tracksuits just go in with the rest of the laundry",
+       "I feel as if I'm relaxing on the sofa at home",
+       "My daughter now wants three sets",
+       "I can't even recognise which school they come from"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "支持，因為係自由選擇，唔想着嘅可以照着恤衫",
+       "有條件支持：只限夏天或者有體育堂嘅日子",
+       "反對：校服代表學校，唔好隨便改",
+       "拍校照、頒獎禮、校外參觀一定要着正式校服",
+       "考試、週會或者有嘉賓嗰日都要着正式校服"
+      ],
+      "ideasEn": [
+       "Support it, because students can still choose shirts",
+       "Support it only in summer or on PE days",
+       "Oppose it, because the uniform represents the school",
+       "Formal uniform for photos, speech day and school visits",
+       "Formal uniform on exam days or when guests visit"
+      ],
+      "materialLinks": [
+       "students have been free to choose daily between the formal uniform and their PE kit",
+       "the formal uniform is still required for school photos, speech day and visits outside school"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "uniform",
+      "note": "YOO-ni-form，重音喺第一音節；校服",
+      "noteEn": "YOO-ni-form, stress on the 1st syllable; special clothes all students wear"
+     },
+     {
+      "word": "tracksuit",
+      "note": "TRACK-soot，重音喺第一音節；運動套裝",
+      "noteEn": "TRACK-soot, stress on the 1st syllable; a sports jacket and trousers"
+     },
+     {
+      "word": "formal",
+      "note": "FOR-mul，重音喺第一音節；正式",
+      "noteEn": "FOR-mul, stress on the 1st syllable; smart and for serious occasions"
+     },
+     {
+      "word": "ironing",
+      "note": "EYE-er-ning，重音喺第一音節，唔好讀成 eye-RON-ing；熨衫",
+      "noteEn": "EYE-er-ning, stress on the 1st syllable, not eye-RON-ing; making clothes flat with a hot iron"
+     },
+     {
+      "word": "laundry",
+      "note": "LAWN-dree，重音喺第一音節；要洗嘅衫",
+      "noteEn": "LAWN-dree, stress on the 1st syllable; clothes that need washing"
+     },
+     {
+      "word": "reputation",
+      "note": "rep-yoo-TAY-shun，重音喺第三音節；名聲",
+      "noteEn": "rep-yoo-TAY-shun, stress on the 3rd syllable; what people think of someone or something"
+     },
+     {
+      "word": "daughter",
+      "note": "DAW-ter，gh 唔讀；女兒",
+      "noteEn": "DAW-ter, the gh is silent; a person's female child"
+     },
+     {
+      "word": "recognise",
+      "note": "REK-ug-nize，重音喺第一音節；認得",
+      "noteEn": "REK-ug-nize, stress on the 1st syllable; to know who or what someone is"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "鍾唔鍾意、點解（顏色、物料）",
+       "夏天定冬天校服好啲"
+      ],
+      "pointsEn": [
+       "Whether you like it and why: colour, material",
+       "Summer or winter uniform, which is better"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "發生咩事、老師點處理",
+       "之後點樣提自己"
+      ],
+      "pointsEn": [
+       "What happened and what the teacher did",
+       "How you remind yourself now"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "大家一樣，唔使比較衣著",
+       "衫同專心冇乜關係"
+      ],
+      "pointsEn": [
+       "Everyone looks the same, so no clothes competition",
+       "Clothes have little to do with focus"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "保持紀律、學校形象",
+       "傳統、方便老師管理"
+      ],
+      "pointsEn": [
+       "To keep discipline and a good image",
+       "Tradition and easier management"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "學生最知咩舒服、更有歸屬感",
+       "可能意見太多、難決定"
+      ],
+      "pointsEn": [
+       "Students know what is comfortable and feel more involved",
+       "Too many opinions may make it hard to decide"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "放鬆、表達個性",
+       "可能變成鬥名牌、有壓力"
+      ],
+      "pointsEn": [
+       "A chance to relax and show personality",
+       "May lead to brand competition and pressure"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "校服係第一印象",
+       "學生點樣對人先真正代表學校"
+      ],
+      "pointsEn": [
+       "A uniform gives the first impression",
+       "How students behave really shows the school"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "傳統會保留，但款式會更舒服",
+       "可能更多學校放寬規定"
+      ],
+      "pointsEn": [
+       "Uniforms will stay but become more comfortable",
+       "More schools may relax their rules"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係重複材料入面 Jasper 同 Hazel 講嘅說話，冇加自己意見",
+     "只講好處，冇回應同學、家長同舊生嘅擔心",
+     "要點 3 只講支持定反對，冇講幾時仍然要着正式校服",
+     "將題目講成「強制全日着體育服」或者「取消校服」，其實係學生自己揀"
+    ],
+    "pitfallsEn": [
+     "Repeating what Jasper and Hazel said without adding your own view",
+     "Only talking about benefits without answering the worries of students, parents and former students",
+     "In prompt 3, only saying yes or no without saying when formal uniform is still needed",
+     "Talking as if PE kit would be compulsory or uniforms removed, when students can choose"
+    ]
+   },
+   "no": 23,
+   "pdf": "speaking/ENG4-009_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-009",
+   "code": "1.3",
+   "title": "Lights Out at Eleven? The Debate Over Hong Kong's Night Signs",
+   "partA": {
+    "sourceIntro": "This article appeared in an online magazine:",
+    "title": "Lights Out at Eleven? The Debate Over Hong Kong's Night Signs",
+    "text": "Hong Kong's glowing signs appear on postcards and in films worldwide. But for people who live next to them, the lights can be a real problem.\n\n\"A huge video screen across the road shines into my bedroom until after midnight,\" says Wong Siu-ling, who lives in Mong Kok. \"Even with thick curtains, I can't sleep properly.\"\n\nScientists call this light pollution: too much light from lamps, signs and screens at night. Bright lights can disturb residents' sleep, and they can also make birds that fly at night lose their way. Local university researchers have described Hong Kong as one of the world's most light-polluted cities.\n\nHong Kong already has a voluntary scheme for this, but it is not a law. Since 2016, thousands of shops, malls and offices have promised to switch off lights used for decoration and advertising from 11 p.m. or midnight until 7 a.m. Now some residents want a law that every business must follow, even shops that are still open.\n\nSupporters say such a law would save electricity, help residents sleep and let city children see a few more stars.\n\nBusiness owners, however, see things differently. \"If our sign goes dark, people think we're closed,\" says Mr Lo, who runs a late-night noodle shop in Jordan. \"My busiest time is after eleven.\"\n\nSome people in the tourism industry also worry that visitors come to Hong Kong partly for its famous night views. And a few residents say that brightly lit streets make them feel safer walking home late.\n\nSo should the city become darker?",
+    "visual": null,
+    "scenario": "Your school's Environmental Club is writing an article for the school magazine about whether all businesses, even those still open, should be required by law to switch off their outdoor signs, including shop name signs, advertising lights and screens, from 11 p.m. to 7 a.m. Your group has been asked to discuss the advantages and disadvantages, and give your group's view on whether there should be such a law.",
+    "prompts": [
+     "the advantages of switching off these signs and lights from 11 p.m. to 7 a.m.",
+     "the disadvantages for businesses, tourism and people's safety",
+     "whether switching off should become a law or stay a free choice for businesses",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Which part of Hong Kong do you like most at night?",
+     "Have you ever seen the stars clearly in Hong Kong?",
+     "What does your family do at home to save electricity?",
+     "Why do shops use bright signs to attract customers?",
+     "Do you think big video screens on buildings are a good idea?",
+     "Should buildings use fewer lights during festivals like Christmas?",
+     "Which is more important: saving energy or keeping the city lively?",
+     "Will Hong Kong become a darker city at night in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-009_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-009_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-009_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-009_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "whether all businesses should be required by law to switch off outdoor signs from 11 p.m. to 7 a.m.",
+    "topicArea": "Environment",
+    "textType": "magazine article",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "環境學會為校刊寫文章：如果立法要求所有商戶（包括仲營業嘅）晚上 11 點至朝早 7 點熄晒戶外招牌（包括舖名招牌、廣告燈同屏幕），有咩好處同壞處；最後講小組立場：應該立法，定係維持而家嘅自願計劃。",
+    "taskFocusEn": "For the Environmental Club's magazine article, discuss the advantages and disadvantages of a law making all businesses, even open ones, switch off outdoor signs and lights from 11 p.m. to 7 a.m., then say whether your group supports a law or the current voluntary scheme.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "慳電、減少碳排放",
+       "附近居民瞓得好啲",
+       "少啲雀鳥、昆蟲受影響",
+       "市區都可以見到星",
+       "慳商舖電費"
+      ],
+      "ideasEn": [
+       "It saves electricity and cuts carbon emissions",
+       "Nearby residents can sleep better",
+       "It causes less harm to birds and insects",
+       "Children in the city can see more stars",
+       "Shops pay lower electricity bills"
+      ],
+      "materialLinks": [
+       "save electricity, help residents sleep",
+       "make birds that fly at night lose their way",
+       "let city children see a few more stars"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "夜晚做生意嘅舖頭會流失客人",
+       "遊客嚟睇夜景，旅遊業受影響",
+       "街道暗咗，有人覺得冇咁安全",
+       "節日燈飾冇咗，冇氣氛",
+       "難執法、要人巡查"
+      ],
+      "ideasEn": [
+       "Late-night shops may lose customers",
+       "Tourists come for the night views, so tourism may suffer",
+       "Darker streets may feel less safe",
+       "Festive lights and atmosphere may be lost",
+       "A law would be hard to check and enforce"
+      ],
+      "materialLinks": [
+       "If our sign goes dark, people think we're closed",
+       "visitors come to Hong Kong partly for its famous night views",
+       "brightly lit streets make them feel safer"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "立法：自願做唔夠，有人仍然照開",
+       "維持自願：俾商舖彈性，夜間生意唔受影響",
+       "折衷：只限住宅附近強制",
+       "獎勵代替懲罰，例如表揚或者減電費",
+       "夜市、旅遊區可以豁免或者遲啲熄"
+      ],
+      "ideasEn": [
+       "Make it a law, because voluntary promises are not enough",
+       "Keep it voluntary to give late-night businesses flexibility",
+       "Only require it near homes",
+       "Use rewards instead of punishment",
+       "Let tourist and night-market areas switch off later"
+      ],
+      "materialLinks": [
+       "Hong Kong already has a voluntary scheme for this, but it is not a law",
+       "Now some residents want a law that every business must follow, even shops that are still open"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "pollution",
+      "note": "puh-LOO-shun，重音喺第二音節；污染",
+      "noteEn": "puh-LOO-shun, stress on the 2nd syllable; harm to air, water or the environment"
+     },
+     {
+      "word": "decoration",
+      "note": "dek-uh-RAY-shun，重音喺第三音節；裝飾",
+      "noteEn": "dek-uh-RAY-shun, stress on the 3rd syllable; things that make a place look nice"
+     },
+     {
+      "word": "advertising",
+      "note": "AD-ver-ty-zing，重音喺第一音節；廣告",
+      "noteEn": "AD-ver-ty-zing, stress on the 1st syllable; telling people to buy things"
+     },
+     {
+      "word": "midnight",
+      "note": "MID-nite，重音喺第一音節；午夜十二點",
+      "noteEn": "MID-nite, stress on the 1st syllable; 12 o'clock at night"
+     },
+     {
+      "word": "residents",
+      "note": "REZ-i-dents，重音喺第一音節；居民",
+      "noteEn": "REZ-i-dents, stress on the 1st syllable; people who live in a place"
+     },
+     {
+      "word": "tourism",
+      "note": "TOOR-iz-um，重音喺第一音節；旅遊業",
+      "noteEn": "TOOR-iz-um, stress on the 1st syllable; the business of visitors and travel"
+     },
+     {
+      "word": "electricity",
+      "note": "ee-lek-TRIS-i-tee，重音喺第三音節；電力",
+      "noteEn": "ee-lek-TRIS-i-tee, stress on the 3rd syllable; power from the electric supply"
+     },
+     {
+      "word": "voluntary",
+      "note": "VOL-un-tuh-ree，重音喺第一音節；自願",
+      "noteEn": "VOL-un-tuh-ree, stress on the 1st syllable; done by choice, not because of a law"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "例如海旁、旺角、山頂",
+       "嗰度夜晚有咩特別"
+      ],
+      "pointsEn": [
+       "For example, the harbourfront, Mong Kok or the Peak",
+       "What makes it special at night"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "喺邊度、同邊個睇",
+       "市區難見，郊外先見到"
+      ],
+      "pointsEn": [
+       "Where and with whom",
+       "Hard in the city, easier in the countryside"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "熄燈、拔插頭、冷氣調高溫度",
+       "邊個提大家做"
+      ],
+      "pointsEn": [
+       "Switch off lights, unplug chargers, set the air-con higher",
+       "Who reminds the family"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "容易俾人見到、吸引注意",
+       "顯示仲開緊門、品牌形象"
+      ],
+      "pointsEn": [
+       "Easy to see and catches attention",
+       "Shows the shop is open and builds its image"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "好處：提供資訊、令城市熱鬧",
+       "壞處：太光照入屋、分散司機注意力"
+      ],
+      "pointsEn": [
+       "They give information and make the city lively",
+       "Too bright for homes and may distract drivers"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "節日氣氛重要，可以縮短開燈時間",
+       "用慳電燈泡"
+      ],
+      "pointsEn": [
+       "Festive mood matters, but lights can be on for shorter",
+       "Use energy-saving bulbs"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "慳能源保護環境",
+       "熱鬧夜生活幫經濟"
+      ],
+      "pointsEn": [
+       "Saving energy protects the environment",
+       "A lively night life helps the economy"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "環保意識提高、新科技燈",
+       "商業城市仍然要燈光"
+      ],
+      "pointsEn": [
+       "People care more about the environment and lighting improves",
+       "A business city will still need lights"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講好處或者淨係講壞處，冇比較兩邊",
+     "將題目講成「熄晒所有燈、包括街燈同住宅燈」",
+     "要點 3 冇講清楚揀「立法」定「自願」同理由",
+     "逐段讀出材料引述，冇加例子"
+    ],
+    "pitfallsEn": [
+     "Only giving advantages or only giving disadvantages",
+     "Talking as if all lights, including street lights, would be switched off",
+     "Not clearly choosing between a law and a voluntary scheme in prompt 3",
+     "Reading out the quotes in the article without adding examples"
+    ]
+   },
+   "no": 24,
+   "pdf": "speaking/ENG4-009_1.3.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-010",
+   "code": "1.1",
+   "title": "Running Together: Young People Find Friends on the Promenade",
+   "partA": {
+    "sourceIntro": "This article appeared in a local newspaper:",
+    "title": "Running Together: Young People Find Friends on the Promenade",
+    "text": "Every Thursday evening, about 50 people gather on the waterfront promenade in Tseung Kwan O for a free five-kilometre run. Most participants are in their teens or twenties, and many first came alone.\n\nThe group was started last spring by university student Ruby Kwan. \"I wanted to improve my fitness, but running by myself was boring,\" she explained. \"Now people come for the exercise and stay for the conversation.\" After each run, many members continue chatting over bubble tea at a nearby café.\n\nSimilar running groups have become popular with young people in many cities. Members say that a regular meeting time and a supportive crowd give them the motivation they lack on their own. \"If I don't show up, someone messages me,\" said Form 6 student Brian Chiu, 17. \"That's why running has finally become part of my weekly routine.\"\n\nThe organisers keep things simple and safe. Runners join a slow, medium or fast group according to their pace, so beginners are never left behind, and an experienced volunteer always jogs at the back of each group.\n\nThere are concerns, too. Some parents are uncomfortable with teenagers exercising in the evening alongside adults they hardly know. Some residents also complain that large groups block narrow paths shared with walkers. Brian's mother admits she was nervous at first. \"Now that I know he's with a group and home by nine, I'm more relaxed,\" she said.\n\nRuby hopes more schools will form their own groups. \"You don't need special talent,\" she said. \"You just need a pair of running shoes and someone to run with.\"",
+    "visual": null,
+    "scenario": "Your school's Sports Club wants to start a weekly running group for Form Four to Form Six students. Your group has been asked to plan a short presentation to the principal and PE teachers about the idea.",
+    "prompts": [
+     "why running groups have become popular with young people",
+     "how the school group should be different from the group in the article",
+     "what details about the running group the presentation should include",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "How often do you exercise outside school?",
+     "Have you ever joined a club or group outside school?",
+     "Is it easy for teenagers to make new friends outside school?",
+     "Why do some young people find it hard to exercise regularly?",
+     "Is it safe for teenagers to join activities with adults they do not know?",
+     "Should schools open their playgrounds to students at weekends?",
+     "Which is better for exercise: early in the morning or in the evening?",
+     "Will running become more popular among young people in Hong Kong?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-010_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-010_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-010_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-010_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "young people joining social running groups and starting a school running group",
+    "topicArea": "Youth & Lifestyle",
+    "textType": "newspaper article",
+    "taskType": "plan a presentation",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "學校體育學會想為中四至中六同學開一個每星期跑步小組，小組要向校長同體育老師做一個簡短 presentation 介紹呢個構思。重點係講清楚點解有價值、學校小組同文章入面嘅公開跑步組有咩唔同（時間、參加者、帶隊、路線），同埋交代具體安排，唔係淨係介紹跑步有益。",
+    "taskFocusEn": "Your school's Sports Club wants to start a weekly running group for Form Four to Form Six students. Your group is planning a short presentation to the principal and PE teachers. Explain why the group is worthwhile, how it will be different from the public group in the article (time, members, leaders and route), and give clear practical details. Do not just say running is healthy.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "一個人做運動好悶，一班人一齊有動力",
+       "固定時間，變成每星期嘅習慣",
+       "可以識新朋友，跑完一齊傾偈",
+       "免費、唔使特別技術，門檻低",
+       "有人會 message 你，唔好意思缺席",
+       "減壓，溫書之後放鬆一下"
+      ],
+      "ideasEn": [
+       "Exercising alone is boring, but a group keeps you motivated",
+       "A fixed time helps running become a weekly habit",
+       "You can make new friends and chat after the run",
+       "It is free and you don't need special skills",
+       "Someone messages you if you miss it, so you don't skip",
+       "It reduces stress after a long day of studying"
+      ],
+      "materialLinks": [
+       "a regular meeting time and a supportive crowd give them the motivation they lack on their own",
+       "people come for the exercise and stay for the conversation"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "時間：放學後、天黑前跑，唔係夜晚",
+       "參加者：淨係本校學生，唔同陌生成年人一齊跑",
+       "帶隊：體育老師或者有急救證書嘅老師跟隊",
+       "路線：揀闊啲嘅路或者學校跑道，唔阻行人",
+       "人數：細組（約十人），唔係 50 人一齊跑",
+       "跑完：定時解散直接返屋企，唔使去 café"
+      ],
+      "ideasEn": [
+       "Time: after school before dark, not at night",
+       "Members: only our students, no adult strangers",
+       "Leaders: PE teachers or teachers with first-aid training",
+       "Route: wide paths or the school track, so we don't block walkers",
+       "Size: small groups of about ten, not 50 people together",
+       "Finish: a fixed end time and students go straight home"
+      ],
+      "materialLinks": [
+       "Some parents are uncomfortable with teenagers exercising in the evening alongside adults they hardly know",
+       "block narrow paths shared with walkers"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "第一次點開始：熱身、教基本技巧、試跑",
+       "點報名、名額幾多、要唔要家長同意書",
+       "點分組：按速度分快中慢組，有高年級隊長包尾",
+       "要帶咩：跑步鞋、水、運動衫",
+       "天氣差或者考試前點安排：取消或者暫停",
+       "點樣衡量成功：試一個學期、收同學意見"
+      ],
+      "ideasEn": [
+       "How the first session starts: warm-up, basic skills, a short test run",
+       "How to sign up, how many places, and whether a parent's form is needed",
+       "Groups by speed: slow, medium and fast, with a senior captain at the back",
+       "What to bring: running shoes, water and sports clothes",
+       "Bad weather or exams: cancel or take a break",
+       "How to judge success: try it for one term and collect feedback"
+      ],
+      "materialLinks": [
+       "Runners join a slow, medium or fast group according to their pace, so beginners are never left behind",
+       "an experienced volunteer always jogs at the back of each group"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "promenade",
+      "note": "prom-uh-NAHD，重音喺最後；海濱長廊",
+      "noteEn": "prom-uh-NAHD, stress on the last syllable; a wide path by the sea"
+     },
+     {
+      "word": "participants",
+      "note": "par-TI-si-pants，重音喺第二音節；參加者",
+      "noteEn": "par-TI-si-pants, stress on the 2nd syllable; people who take part"
+     },
+     {
+      "word": "motivation",
+      "note": "moh-ti-VAY-shun，重音喺第三音節；動力",
+      "noteEn": "moh-ti-VAY-shun, stress on the 3rd syllable; the reason or energy to do something"
+     },
+     {
+      "word": "routine",
+      "note": "roo-TEEN，重音喺第二音節，唔好讀成 ROO-tin；日常習慣",
+      "noteEn": "roo-TEEN, stress on the 2nd syllable; things you do regularly"
+     },
+     {
+      "word": "supportive",
+      "note": "suh-POR-tiv，重音喺第二音節；支持人、鼓勵人嘅",
+      "noteEn": "suh-POR-tiv, stress on the 2nd syllable; helpful and encouraging"
+     },
+     {
+      "word": "experienced",
+      "note": "ik-SPEER-ee-unst，重音喺第二音節；有經驗嘅",
+      "noteEn": "ik-SPEER-ee-unst, stress on the 2nd syllable; having done something many times"
+     },
+     {
+      "word": "volunteer",
+      "note": "vol-un-TEER，重音喺最後；義工",
+      "noteEn": "vol-un-TEER, stress on the last syllable; someone who helps without pay"
+     },
+     {
+      "word": "organisers",
+      "note": "OR-guh-ny-zerz，重音喺第一音節；搞手",
+      "noteEn": "OR-guh-ny-zerz, stress on the 1st syllable; people who plan and run an activity"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講次數同做咩運動",
+       "同邊個、喺邊度做"
+      ],
+      "pointsEn": [
+       "How often and what kind of exercise",
+       "Who with and where"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "講一個例子：興趣班、球隊、義工",
+       "學到咩、識到咩朋友"
+      ],
+      "pointsEn": [
+       "One example: a class, team or volunteer group",
+       "What you learned or who you met"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "學校以外少機會識人",
+       "興趣活動、網上群組可以幫到"
+      ],
+      "pointsEn": [
+       "Few chances to meet people outside school",
+       "Hobby groups and online groups can help"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "功課多、冇時間、好攰",
+       "一個人做好悶、冇人提醒"
+      ],
+      "pointsEn": [
+       "Too much homework, no time, too tired",
+       "Boring alone and nobody reminds them"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "視乎活動、地點、有冇人帶隊",
+       "要話俾屋企人知去邊、幾點返"
+      ],
+      "pointsEn": [
+       "It depends on the activity, place and leader",
+       "Tell your family where you are going and when you'll be back"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "多地方做運動、唔使去街",
+       "要人睇管、清潔，學校成本高咗"
+      ],
+      "pointsEn": [
+       "More space to exercise safely",
+       "Needs staff to supervise and clean"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "早上：涼、精神好",
+       "夜晚：放學後得閒、有伴"
+      ],
+      "pointsEn": [
+       "Morning: cooler and you feel fresh",
+       "Evening: more free time and friends can join"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "海濱、跑步徑多咗",
+       "社交媒體、跑步活動帶動"
+      ],
+      "pointsEn": [
+       "More waterfront paths and running routes",
+       "Social media and running events make it popular"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講跑步對身體好，冇講點解要喺學校開小組",
+     "冇講學校小組同文章嗰組有咩唔同，例如時間、參加者、帶隊",
+     "要點三淨係講日子時間，冇講報名、分組、天氣差點算",
+     "四個人輪流讀材料例子，冇互相回應或者補充"
+    ],
+    "pitfallsEn": [
+     "Only saying running is good for health without explaining why the school needs a group",
+     "Not explaining how the school group would be different from the group in the article",
+     "Only giving the day and time for the last point, without sign-up, groups or bad weather plans",
+     "Taking turns to read examples from the article without responding to each other"
+    ]
+   },
+   "no": 25,
+   "pdf": "speaking/ENG4-010_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-010",
+   "code": "1.2",
+   "title": "Subscribed and Forgotten: Are You Paying for Things You Don't Use?",
+   "partA": {
+    "sourceIntro": "This article appeared in an online magazine for young people:",
+    "title": "Subscribed and Forgotten: Are You Paying for Things You Don't Use?",
+    "text": "Music, videos, cloud storage, mobile games, language apps – for many young people, life now runs on monthly subscriptions. But are they good value?\n\nWhen a local youth consumer group asked 450 people aged 16 to 25 in Hong Kong about their spending, the average person had four subscriptions. More than 200 of them said they had at least one subscription they had not used in the past month. About one in three had to pay after forgetting to cancel a free trial.\n\n\"Each subscription looked cheap, so I never thought about it,\" said university student Yvonne Cheuk. \"Then I checked my bank account and found I was paying almost three hundred dollars a month.\"\n\nSupporters say subscriptions are often the better deal. A music app gives users millions of songs for a small monthly fee, students can get discounts, and family plans let several people share the cost. \"I'd rather pay a little each month than buy expensive software I'll only use for one school project,\" said Form 5 student Jacky Ng.\n\nCritics say companies make subscriptions easy to start but hard to stop. Some apps hide the cancel button deep in the settings, and prices can go up at renewal time. Over a year, the total can be surprisingly high, and users never actually own anything they have paid for.\n\nThe group suggests checking your bank account every month and setting a phone reminder a few days before a free trial ends.",
+    "visual": null,
+    "scenario": "Your class is holding a debate on the motion 'Young people would be better off without paid subscriptions.' Your group has been asked to prepare arguments for and against the motion.",
+    "prompts": [
+     "why so many young people sign up for subscription services",
+     "what arguments could be used to support the motion",
+     "what arguments could be used to oppose the motion",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Have you ever stopped using an app that you used to like?",
+     "What would you check before paying for an app?",
+     "Do you think free trials are a good way to attract customers?",
+     "Why do people keep paying for things they no longer use?",
+     "Should friends share online accounts to save money?",
+     "Do young people spend too much money on entertainment?",
+     "Which is more useful for students: a music app or a video app?",
+     "Should there be stricter rules for apps that young people pay for?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-010_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-010_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-010_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-010_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "monthly subscription services and whether they are good value for young people",
+    "topicArea": "Consumer",
+    "textType": "online article",
+    "taskType": "prepare debate arguments",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "班上辯論「年輕人冇咗付費訂閱會過得更好」，小組要準備正反雙方論點。好嘅討論會用材料數字同例子支持兩邊，再加自己經驗，唔係一面倒。",
+    "taskFocusEn": "Your class is debating the motion 'Young people would be better off without paid subscriptions.' Your group needs arguments for both sides. A good discussion uses the figures and examples in the article, adds personal experience, and does not only support one side.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "方便，一撳就有，唔使出街買",
+       "每個月少少錢，覺得唔貴",
+       "免費試用好吸引",
+       "朋友都用，想一齊睇、一齊玩",
+       "學生優惠、家庭計劃",
+       "選擇多：幾百萬首歌、好多劇集"
+      ],
+      "ideasEn": [
+       "It is convenient – one click and you have it",
+       "A small monthly fee does not feel expensive",
+       "Free trials are very attractive",
+       "Friends use it, so you want to watch or play together",
+       "Student discounts and family plans",
+       "Huge choice: millions of songs and many shows"
+      ],
+      "materialLinks": [
+       "A music app gives users millions of songs for a small monthly fee",
+       "students can get discounts, and family plans let several people share the cost"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "好多人訂咗但冇用",
+       "忘記取消免費試用被扣錢",
+       "每個睇落好平，一年加埋好大數目",
+       "取消掣收埋，好難停",
+       "續期嗰陣可能會加價",
+       "俾錢但永遠唔係擁有"
+      ],
+      "ideasEn": [
+       "Many people pay for things they don't use",
+       "People are charged after forgetting to cancel free trials",
+       "Each one looks cheap, but the yearly total is high",
+       "The cancel button is hidden, so it is hard to stop",
+       "Prices can go up when you renew",
+       "You pay but never own anything"
+      ],
+      "materialLinks": [
+       "More than 200 of them said they had at least one subscription they had not used in the past month",
+       "About one in three had to pay after forgetting to cancel a free trial",
+       "Some apps hide the cancel button deep in the settings"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "比一次過買平：例如軟件、歌",
+       "短期用就訂，用完取消",
+       "家庭計劃、學生優惠，分擔費用",
+       "學習 app 幫到讀書",
+       "問題係用家冇管理好，唔係訂閱本身",
+       "設提醒、每月檢查就唔會浪費"
+      ],
+      "ideasEn": [
+       "Cheaper than buying things one by one, e.g. software or songs",
+       "Subscribe only when you need it, then cancel",
+       "Family plans and student discounts share the cost",
+       "Learning apps can help with studies",
+       "The problem is poor management, not subscriptions themselves",
+       "Reminders and monthly checks prevent waste"
+      ],
+      "materialLinks": [
+       "I'd rather pay a little each month than buy expensive software I'll only use for one school project",
+       "setting a phone reminder a few days before a free trial ends"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "subscription",
+      "note": "sub-SKRIP-shun，重音喺第二音節；訂閱",
+      "noteEn": "sub-SKRIP-shun, stress on the 2nd syllable; paying regularly to use a service"
+     },
+     {
+      "word": "consumer",
+      "note": "kun-SOO-mer，重音喺第二音節；消費者",
+      "noteEn": "kun-SOO-mer, stress on the 2nd syllable; a person who buys things"
+     },
+     {
+      "word": "renewal",
+      "note": "ri-NYOO-ul，重音喺第二音節；續期（訂閱期滿再自動開始）",
+      "noteEn": "ri-NYOO-ul, stress on the 2nd syllable; when a plan starts again for a new period"
+     },
+     {
+      "word": "cancel",
+      "note": "KAN-sul，重音喺第一音節；取消",
+      "noteEn": "KAN-sul, stress on the 1st syllable; to stop something"
+     },
+     {
+      "word": "discounts",
+      "note": "DIS-kounts，重音喺第一音節；折扣",
+      "noteEn": "DIS-kounts, stress on the 1st syllable; lower prices"
+     },
+     {
+      "word": "software",
+      "note": "SOFT-wair，重音喺第一音節；電腦軟件",
+      "noteEn": "SOFT-wair, stress on the 1st syllable; computer programs"
+     },
+     {
+      "word": "critics",
+      "note": "KRI-tiks，重音喺第一音節；批評者",
+      "noteEn": "KRI-tiks, stress on the 1st syllable; people who say something is bad"
+     },
+     {
+      "word": "supporters",
+      "note": "suh-POR-terz，重音喺第二音節；支持者",
+      "noteEn": "suh-POR-terz, stress on the 2nd syllable; people who agree with an idea"
+     },
+     {
+      "word": "free trial",
+      "note": "free TRY-ul，主要重音喺 TRY；免費試用",
+      "noteEn": "free TRY-ul, main stress on TRY; using something for free for a short time"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講一個 app 同幾時開始唔用",
+       "悶咗、有更好嘅、開始要俾錢"
+      ],
+      "pointsEn": [
+       "Name the app and when you stopped",
+       "Got bored, found a better one, or it cost money"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "價錢、有冇免費試用",
+       "評分、朋友推介、會唔會常用"
+      ],
+      "pointsEn": [
+       "The price and whether there is a free trial",
+       "Reviews, friends' advice and how often you'd use it"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "opinion",
+      "points": [
+       "可以試先買，好公平",
+       "但好多人唔記得取消"
+      ],
+      "pointsEn": [
+       "You can try before paying, which is fair",
+       "But many people forget to cancel"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "懶、唔記得、怕麻煩",
+       "覺得之後可能會用"
+      ],
+      "pointsEn": [
+       "Lazy, forgetful or it's too much trouble",
+       "They think they might use it later"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "慳錢、方便",
+       "可能違反條款、私隱問題"
+      ],
+      "pointsEn": [
+       "It saves money and is convenient",
+       "May break the rules and cause privacy problems"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "遊戲、演唱會、串流服務",
+       "視乎有冇預算"
+      ],
+      "pointsEn": [
+       "Games, concerts and streaming services",
+       "It depends on whether they have a budget"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "音樂：溫書、搭車聽",
+       "影片：學嘢、放鬆"
+      ],
+      "pointsEn": [
+       "Music: for studying and travelling",
+       "Videos: for learning and relaxing"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "要：易取消、加價要早通知",
+       "唔使：用家自己負責"
+      ],
+      "pointsEn": [
+       "Yes: easy cancelling and early price notices",
+       "No: users should check for themselves"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "成組都講同一邊，冇準備反方論點",
+     "淨係重複材料數字，冇解釋代表咩",
+     "將題目講成「年輕人唔應該用手機／上網」，離開咗訂閱服務",
+     "冇用例子，例如冇講具體邊類服務或者自己經驗"
+    ],
+    "pitfallsEn": [
+     "The whole group only argues one side and has no points for the other side",
+     "Repeating the figures from the article without saying what they mean",
+     "Turning the topic into 'young people should not use phones', instead of subscriptions",
+     "No examples, e.g. not naming any kind of service or personal experience"
+    ]
+   },
+   "no": 26,
+   "pdf": "speaking/ENG4-010_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-010",
+   "code": "1.3",
+   "title": "Homemade or Shop-Bought? How Four Hongkongers Prepare Festival Food",
+   "partA": {
+    "sourceIntro": "These profiles appeared on a website about Hong Kong festivals:",
+    "title": "Homemade or Shop-Bought? How Four Hongkongers Prepare Festival Food",
+    "text": "Agnes Yuen, 68, retired cook\nEvery Lunar New Year, Agnes spends two whole days making turnip cake – which is actually made from white radish – for her big family. Her grandchildren help to wash the radishes and stir the mixture. \"It's hard work, and my kitchen gets very hot,\" she says. \"But it's the only time all of us cook together.\"\n\nWilson Fok, 17, Form 5 student\nWilson's family buys rice dumplings for the Dragon Boat Festival from a shop near their home. \"Both my parents work long hours, and our kitchen is tiny,\" he says. \"The shop ones taste good, and we only buy what we need, so nothing goes to waste.\"\n\nMabel Siu, 36, office worker\nLast December, Mabel and her seven-year-old daughter joined a weekend workshop at a community centre to make sweet rice balls for the Winter Solstice Festival. It cost $150 each. \"The teacher explained what the festival means, which I never really knew,\" she says. \"It wasn't cheap, but my daughter still talks about it.\"\n\nDickson Lo, 24, graphic designer\nDickson taught himself to make snow-skin mooncakes by watching online videos. \"My first ones fell apart, and I wasted a lot of ingredients,\" he laughs. \"Now I make them with friends every Mid-Autumn Festival. We try new flavours like chocolate and mango, and give boxes to our neighbours.\"",
+    "visual": null,
+    "scenario": "Your class is doing a project on how Hong Kong people celebrate traditional festivals today. Your group has been asked to discuss whether families should make festival food at home or buy it from shops.",
+    "prompts": [
+     "how families in Hong Kong usually get their festival food today",
+     "the advantages and disadvantages of making festival food at home",
+     "how families could make preparing festival food easier or more enjoyable",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Which traditional festival do you enjoy most?",
+     "Have you ever helped to make food for a festival?",
+     "Which festival food would you like to eat all year round?",
+     "Why do people like to share food during festivals?",
+     "Do you think festival food in Hong Kong is too expensive?",
+     "Is it wasteful to buy a lot of food for festivals?",
+     "Which is more important during a festival: the food or the activities?",
+     "How might festival food in Hong Kong change in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-010_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-010_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-010_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-010_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "making traditional festival food at home versus buying it",
+    "topicArea": "Culture & Tradition",
+    "textType": "profile cards",
+    "taskType": "discuss pros & cons",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": true,
+    "irTypes": [
+     "personal",
+     "personal",
+     "hypothetical",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "班上做專題研究香港人點樣慶祝傳統節日，小組要討論家庭應該自己整節日食物定係買。先講而家香港家庭通常點樣準備節日食物，再比較喺屋企整嘅好處同壞處。可以用四張人物卡做例子，最後提出令整節日食物更容易、更開心嘅方法。",
+    "taskFocusEn": "Your class project looks at how Hong Kong people celebrate traditional festivals today. Your group discusses whether families should make festival food at home or buy it. Start with how families usually get festival food today, then compare the advantages and disadvantages of making it at home. Use the four profiles as examples and suggest ways to make preparing festival food easier or more fun.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "大部分去餅店、街市、超市買現成",
+       "酒樓、酒店訂月餅、糉",
+       "網上訂、送貨上門",
+       "親戚朋友送",
+       "少數家庭仍然自己整，例如蘿蔔糕",
+       "公司、學校派"
+      ],
+      "ideasEn": [
+       "Most families buy them ready-made from bakeries, markets or supermarkets",
+       "Many order mooncakes or rice dumplings from restaurants or hotels",
+       "Some order online and get them delivered",
+       "Relatives and friends give them as gifts",
+       "Some families still make them at home, like turnip cake",
+       "Some get them from their company or school"
+      ],
+      "materialLinks": [
+       "buys rice dumplings for the Dragon Boat Festival from a shop near their home",
+       "spends two whole days making turnip cake"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "好處：一家人相處、傳承",
+       "好處：可以學節日意義",
+       "好處：可以控制材料同口味、送俾人",
+       "壞處：花時間、好辛苦、廚房好熱",
+       "壞處：失敗會浪費材料",
+       "壞處：未必平過買，例如上堂要錢"
+      ],
+      "ideasEn": [
+       "Advantage: family time and passing on traditions",
+       "Advantage: you learn what the festival means",
+       "Advantage: you choose ingredients and flavours, and can give them as gifts",
+       "Disadvantage: it takes time, is tiring and the kitchen gets hot",
+       "Disadvantage: failures waste ingredients",
+       "Disadvantage: not always cheaper, e.g. classes cost money"
+      ],
+      "materialLinks": [
+       "It's hard work, and my kitchen gets very hot",
+       "My first ones fell apart, and I wasted a lot of ingredients",
+       "It wasn't cheap, but my daughter still talks about it"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "分工：親戚朋友一齊整、每人做一部分",
+       "整少啲、揀簡單食譜",
+       "睇網上片學",
+       "參加社區工作坊",
+       "試新口味令年輕人有興趣",
+       "整完送俾鄰居、朋友"
+      ],
+      "ideasEn": [
+       "Share the work with relatives or friends",
+       "Make smaller amounts or choose simple recipes",
+       "Learn from online videos",
+       "Join a community workshop",
+       "Try new flavours to interest young people",
+       "Give some to neighbours and friends"
+      ],
+      "materialLinks": [
+       "joined a weekend workshop at a community centre",
+       "taught himself to make snow-skin mooncakes by watching online videos",
+       "give boxes to our neighbours"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "turnip cake",
+      "note": "TUR-nip cake，重音喺 TUR；蘿蔔糕",
+      "noteEn": "TUR-nip cake, stress on TUR; a cake made from white radish"
+     },
+     {
+      "word": "radishes",
+      "note": "RAD-i-shiz，重音喺第一音節；蘿蔔",
+      "noteEn": "RAD-i-shiz, stress on the 1st syllable; white root vegetables"
+     },
+     {
+      "word": "dumplings",
+      "note": "DUMP-lingz，重音喺第一音節；粽、餃子類食物",
+      "noteEn": "DUMP-lingz, stress on the 1st syllable; food wrapped around a filling"
+     },
+     {
+      "word": "ingredients",
+      "note": "in-GREE-dee-unts，重音喺第二音節；材料",
+      "noteEn": "in-GREE-dee-unts, stress on the 2nd syllable; things used to make food"
+     },
+     {
+      "word": "workshop",
+      "note": "WURK-shop，重音喺第一音節；工作坊",
+      "noteEn": "WURK-shop, stress on the 1st syllable; a class where you make something"
+     },
+     {
+      "word": "snow-skin mooncakes",
+      "note": "SNOW-skin MOON-cakes，重音喺 SNOW 同 MOON；冰皮月餅",
+      "noteEn": "SNOW-skin MOON-cakes, stress on SNOW and MOON; soft, chilled mooncakes not baked in an oven"
+     },
+     {
+      "word": "flavours",
+      "note": "FLAY-verz，重音喺第一音節；口味",
+      "noteEn": "FLAY-verz, stress on the 1st syllable; different tastes"
+     },
+     {
+      "word": "festival",
+      "note": "FES-ti-vul，重音喺第一音節；節日",
+      "noteEn": "FES-ti-vul, stress on the 1st syllable; a special day to celebrate"
+     },
+     {
+      "word": "solstice",
+      "note": "SOL-stis，重音喺第一音節；Winter Solstice 即冬至",
+      "noteEn": "SOL-stis, stress on the 1st syllable; Winter Solstice is the shortest day of the year"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "講一個節日同點樣過",
+       "最鍾意嘅部分：食物、假期"
+      ],
+      "pointsEn": [
+       "Name one festival and how you celebrate",
+       "Favourite part: food or holiday"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "同邊個整、整咩",
+       "感覺點：好玩定好辛苦"
+      ],
+      "pointsEn": [
+       "Who you made it with and what",
+       "How it felt: fun or hard work"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "講一樣食物同點解鍾意",
+       "日日有會唔會冇咁特別"
+      ],
+      "pointsEn": [
+       "Name one food and why you like it",
+       "Would it feel less special?"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "一家人團聚、表達心意",
+       "好意頭、傳統習俗"
+      ],
+      "pointsEn": [
+       "It brings families together and shows care",
+       "Food has lucky meanings and is a tradition"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "包裝、品牌令價錢高",
+       "但節日一年一次"
+      ],
+      "pointsEn": [
+       "Packaging and brands make prices high",
+       "But festivals only happen once a year"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "買太多食唔晒",
+       "但送禮、分享係傳統"
+      ],
+      "pointsEn": [
+       "Buying too much means leftovers",
+       "But giving and sharing are traditions"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "食物：一家人圍埋食、有節日味道",
+       "活動：睇燈、行花市、玩遊戲"
+      ],
+      "pointsEn": [
+       "Food: family meals and festival flavours",
+       "Activities: lanterns, flower markets and games"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "更健康：少糖少油",
+       "網購、外賣多咗"
+      ],
+      "pointsEn": [
+       "Healthier: less sugar and oil",
+       "More online orders and delivery"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "四個人逐張讀人物卡，冇比較或者講好壞",
+     "淨係講好處，冇講壞處（或者倒轉）",
+     "將題目講成「邊樣節日食物最好食」，離開咗喺屋企整定買嘅比較",
+     "第三點冇提出實際方法，只係重複「應該保留傳統」"
+    ],
+    "pitfallsEn": [
+     "Each candidate reads one profile card without comparing or giving pros and cons",
+     "Only talking about advantages and not disadvantages, or the other way round",
+     "Turning it into 'which festival food is the tastiest' instead of making versus buying",
+     "No practical ideas for prompt 3, only repeating 'we should keep traditions'"
+    ]
+   },
+   "no": 27,
+   "pdf": "speaking/ENG4-010_1.3.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-011",
+   "code": "1.1",
+   "title": "Escape Rooms: Two Readers Disagree",
+   "partA": {
+    "sourceIntro": "These letters appeared in a local newspaper:",
+    "title": "Escape Rooms: Two Readers Disagree",
+    "text": "Not Just a Game\n\nDear Editor,\n\nLast Saturday, my twelve-year-old daughter went to an escape room in Kowloon Bay for a friend's birthday party, and she came home in tears. The room was dark and the music was loud, and halfway through, a staff member dressed as a ghost jumped out of a cupboard. Nobody had warned us parents that the theme was a \"haunted hospital\".\n\nI understand why these games are popular. Players work together to discover clues and solve puzzles before time runs out, often within 60 minutes. However, I have other concerns too. The room was on the ninth floor of an old industrial building with narrow stairs, and each ticket cost $230.\n\nI hope escape room businesses will provide clear age advice and inform customers about frightening themes before they book.\n\nAngela Fung, Tsing Yi\n\nGive Escape Rooms a Chance\n\nDear Editor,\n\nAs a youth worker, I have taken more than ten groups of teenagers to escape rooms. For an entire hour, nobody looks at a phone, because they need to listen to each other, share ideas and stay calm while the clock is ticking. Last month, the quietest girl in one group solved the final puzzle.\n\nNot every room is scary, since many have themes such as a detective's office, a space station or a toy shop at night. In the rooms I have visited, there was always an emergency button, and players could leave whenever they wanted.\n\nParents should ask questions before booking, but they should not treat escape rooms as dangerous.\n\nCyrus Shum, Tai Wai",
+    "visual": null,
+    "scenario": "Your school is holding an Open Day next month, when primary school students and their parents will visit. Your class plans to turn its classroom into an escape room that families can play together, and your group has been asked to plan the activity.",
+    "prompts": [
+     "what primary school students and their parents might each enjoy or worry about in an escape room",
+     "what theme to choose and what puzzles children and parents could solve together",
+     "how the activity should be run on the day, such as group sizes, time limits and helpers",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Do you like solving puzzles in your free time?",
+     "Have you ever tried an escape room?",
+     "Do you enjoy scary films or games?",
+     "Why are team games popular with young people?",
+     "Can group games help shy students speak up more?",
+     "Is a school Open Day a good way for parents to choose a school?",
+     "Do you prefer games that test speed or careful thinking?",
+     "Will people still pay for real-life games like escape rooms in ten years?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-011_1.1_q1_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q2_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q3_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q4_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q5_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q6_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q7_m.mp3",
+     "speaking/audio/ENG4-011_1.1_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-011_1.1_q1_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q2_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q3_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q4_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q5_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q6_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q7_f.mp3",
+     "speaking/audio/ENG4-011_1.1_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "planning a classroom escape room for a school Open Day after readers disagree about escape rooms",
+    "topicArea": "Entertainment & Media",
+    "textType": "two opposing letters",
+    "taskType": "plan an event or campaign",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": true,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "你哋班要喺學校開放日將課室變成密室逃脫，俾小學生同家長一家人一齊玩。小組要參考兩封讀者來信嘅正反意見，分別講小朋友同家長會鍾意或者擔心乜嘢、揀一家人可以一齊解嘅主題同謎題，同埋當日點樣安排（每組人數、時限、幫手）。",
+    "taskFocusEn": "Your class is turning its classroom into an escape room for families on the school Open Day. Use both letters to discuss what children and parents may each like or worry about, which theme and puzzles families can solve together, and how to run it on the day (group sizes, time limits, helpers).",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "同朋友合作解謎，有成功感",
+       "成個鐘唔使望手機，大家真係傾偈",
+       "細路可能怕黑、怕突然有人嚇",
+       "家長擔心房間鎖住、地方窄、太多人",
+       "題目太難解唔到，會覺得好失望"
+      ],
+      "ideasEn": [
+       "Solving puzzles as a team gives a sense of achievement",
+       "Players put their phones away and really talk to each other",
+       "Young children may be scared of the dark or sudden surprises",
+       "Parents may worry about locked doors and small, crowded rooms",
+       "Visitors may feel disappointed if the puzzles are too hard"
+      ],
+      "materialLinks": [
+       "nobody looks at a phone",
+       "a staff member dressed as a ghost jumped out of a cupboard",
+       "the quietest girl in one group solved the final puzzle"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "唔恐怖嘅主題，例如偵探辦公室、太空站",
+       "同學校有關嘅故事，例如搵返實驗室條鎖匙",
+       "謎題有深有淺：圖案、拼圖、簡單數學或英文",
+       "要家長同小朋友合作先解到嘅題目",
+       "順便介紹學校特色，例如校史、科學實驗"
+      ],
+      "ideasEn": [
+       "A non-scary theme such as a detective's office or a space station",
+       "A school story, like finding the lost key to the science lab",
+       "A mix of easy and harder puzzles: pictures, jigsaws, simple maths or English",
+       "Puzzles that parents and children must solve together",
+       "Puzzles that show off the school, like its history or a science experiment"
+      ],
+      "materialLinks": [
+       "many have themes such as a detective's office, a space station or a toy shop at night"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "門唔好真係鎖，有緊急掣或者同學隨時開門",
+       "燈光唔好太暗，唔好扮鬼嚇人",
+       "預約時段，每組限人數，玩 15 至 20 分鐘",
+       "有同學做主持，卡住就俾提示",
+       "開放日前試玩，安排好排隊位置同出口"
+      ],
+      "ideasEn": [
+       "Never really lock the door; keep an emergency button or a helper ready",
+       "Keep the room bright enough and avoid scary surprises",
+       "Use time slots, small groups and a 15- to 20-minute limit",
+       "Student helpers give hints when a group gets stuck",
+       "Test the room before Open Day and plan the queue and exits"
+      ],
+      "materialLinks": [
+       "there was always an emergency button, and players could leave whenever they wanted",
+       "often within 60 minutes"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "puzzle",
+      "note": "PUZ-zle，重音喺第一音節，zz 讀 /z/；謎題",
+      "noteEn": "PUZ-zle, stress on the 1st syllable; a game or problem you solve by thinking"
+     },
+     {
+      "word": "clues",
+      "note": "KLOOZ，一個音節，尾音係 /z/；線索",
+      "noteEn": "KLOOZ, one syllable, ends with a z sound; pieces of information that help you solve something"
+     },
+     {
+      "word": "haunted",
+      "note": "HAWN-tid，au 讀「柯」音，尾音 -tid；鬧鬼嘅",
+      "noteEn": "HAWN-tid, the au sounds like 'or'; having ghosts"
+     },
+     {
+      "word": "theme",
+      "note": "THEEM，th 要輕咬舌，唔好讀成 deem；主題",
+      "noteEn": "THEEM, put your tongue between your teeth; the main idea or subject"
+     },
+     {
+      "word": "industrial",
+      "note": "in-DUS-tree-ul，重音喺第二音節；工業嘅",
+      "noteEn": "in-DUS-tree-ul, stress on the 2nd syllable; related to factories"
+     },
+     {
+      "word": "emergency",
+      "note": "ih-MUR-jen-see，重音喺第二音節；緊急情況",
+      "noteEn": "ih-MUR-jen-see, stress on the 2nd syllable; a sudden dangerous situation"
+     },
+     {
+      "word": "frightening",
+      "note": "FRY-ten-ing，gh 唔發音；令人害怕嘅",
+      "noteEn": "FRY-ten-ing, the gh is silent; making you feel afraid"
+     },
+     {
+      "word": "cupboard",
+      "note": "KUB-erd，p 唔發音，讀 KUB-erd；櫃",
+      "noteEn": "KUB-erd, the p is silent; a piece of furniture with doors for storing things"
+     },
+     {
+      "word": "detective",
+      "note": "dih-TEK-tiv，重音喺第二音節；偵探",
+      "noteEn": "dih-TEK-tiv, stress on the 2nd syllable; a person who solves crimes or mysteries"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "數獨、拼圖、手機解謎遊戲",
+       "點解鍾意或者唔鍾意"
+      ],
+      "pointsEn": [
+       "Sudoku, jigsaws or puzzle apps",
+       "Why you enjoy them or not"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "同邊個去、咩主題",
+       "最難忘嘅一刻",
+       "未玩過：想唔想試"
+      ],
+      "pointsEn": [
+       "Who you went with and the theme",
+       "Your most memorable moment",
+       "If not, whether you would like to try"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "覺得刺激定係驚",
+       "舉一個例子"
+      ],
+      "pointsEn": [
+       "Exciting or frightening for you",
+       "Give one example"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "識朋友、有歸屬感",
+       "刺激、有輸贏",
+       "比網上遊戲多真實接觸"
+      ],
+      "pointsEn": [
+       "Making friends and feeling part of a group",
+       "Exciting, with winners and losers",
+       "More real contact than online games"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "要合作，自然要開口",
+       "有人會更緊張，只係跟住做"
+      ],
+      "pointsEn": [
+       "Teamwork means everyone has to talk",
+       "Some may feel more nervous and just follow"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "可以親身睇校園、見老師同學",
+       "一日睇唔到真實上堂情況"
+      ],
+      "pointsEn": [
+       "Parents can see the school and meet people",
+       "One day may not show real school life"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "快：限時遊戲要快",
+       "諗清楚：少錯、少走冤枉路"
+      ],
+      "pointsEn": [
+       "Speed: the clock is always ticking",
+       "Careful thinking: fewer mistakes and wasted time"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "VR 遊戲可能取代",
+       "人始終想同朋友見面玩"
+      ],
+      "pointsEn": [
+       "VR games might replace them",
+       "People will still want to meet and play together"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係重複兩封信嘅內容，冇計劃開放日實際點樣做",
+     "將小學生當成中學生，揀咗太恐怖嘅主題或者太難嘅謎題",
+     "只講安全，冇講排隊、計時同埋點樣俾提示",
+     "讀錯 puzzle、haunted、emergency 呢類主題詞"
+    ],
+    "pitfallsEn": [
+     "Only repeating the two letters without planning the actual activity",
+     "Choosing a theme or puzzles too scary or hard for young children",
+     "Talking only about safety and forgetting queues, time limits and hints",
+     "Mispronouncing key words such as puzzle, haunted and emergency"
+    ]
+   },
+   "no": 28,
+   "pdf": "speaking/ENG4-011_1.1.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-011",
+   "code": "1.2",
+   "title": "Hot Day? How to Keep Your Cool",
+   "partA": {
+    "sourceIntro": "These tips appeared on a health website for teenagers:",
+    "title": "Hot Day? How to Keep Your Cool",
+    "text": "Hong Kong summers are long, hot and humid, but school life does not stop for the weather. PE lessons, sports practice and outdoor trips often carry on even when the Hong Kong Observatory has issued the Very Hot Weather Warning. When a sports charity surveyed 320 secondary students about hot days at school, 43% said they rarely drank water during PE lessons, and about two in three said they had felt dizzy or very tired after outdoor activities.\n\n1. Sip water all day\nCarry a water bottle and take small sips throughout the day. Do not wait until you feel thirsty.\n\n2. Dress light\nLoose, light-coloured clothes help your body lose heat. Outdoors, a wide-brimmed hat or an umbrella gives you shade.\n\n3. Protect your skin\nUse sunscreen with an SPF of at least 30, and put more on after sweating.\n\n4. Plan around the sun\nIf you can, do outdoor activities in the morning or late afternoon, not at midday.\n\n5. Take breaks in the shade\nRest in a cool place during long games or practice. A short break is not a sign of weakness.\n\n6. Know the warning signs\nA headache, dizziness or feeling sick can mean your body is getting too hot. Stop, move to a cool place and tell a teacher straight away. Heatstroke is a medical emergency.\n\nSome students say a big bottle makes their school bag too heavy, or that they do not want to stop in front of their teammates. Looking out for each other can make a real difference.",
+    "visual": null,
+    "scenario": "Last week, several students at your school felt unwell after football practice on a hot afternoon. As members of the Student Health Team, your group has been asked to discuss how hot weather affects all kinds of school activities, not only football practice, and to suggest what students and the school can do.",
+    "prompts": [
+     "what problems hot weather causes for students during school activities",
+     "why some students do not look after themselves on hot days",
+     "what students and the school can do to keep everyone safe in hot weather",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Which season do you like best?",
+     "What do you usually do to stay cool in summer?",
+     "Do you enjoy doing sports outdoors?",
+     "Why do some teenagers not drink enough water?",
+     "Should PE lessons be moved indoors on very hot days?",
+     "Do you think air-conditioning is used too much in Hong Kong?",
+     "Which is better on a hot day: going to the beach or to a shopping mall?",
+     "What could make Hong Kong's streets cooler in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-011_1.2_q1_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q2_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q3_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q4_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q5_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q6_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q7_m.mp3",
+     "speaking/audio/ENG4-011_1.2_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-011_1.2_q1_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q2_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q3_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q4_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q5_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q6_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q7_f.mp3",
+     "speaking/audio/ENG4-011_1.2_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "staying safe in hot weather during school sports and outdoor activities",
+    "topicArea": "Health",
+    "textType": "list of tips",
+    "taskType": "discuss problems & solutions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "personal",
+     "opinion",
+     "opinion",
+     "opinion",
+     "comparison",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "上星期有同學熱天練波之後唔舒服，學生健康小組借呢件事，討論熱天上體育堂、練波同戶外活動一般會出現嘅問題（唔係只講嗰次事件），分析點解有同學唔照顧自己，再提出學生同學校可以做嘅解決方法。",
+    "taskFocusEn": "After students fell ill at football practice, the Student Health Team discusses hot-weather problems in school activities in general (not just that one event), why some students do not look after themselves, and what students and the school can do to keep everyone safe.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "頭暈、頭痛、好攰，嚴重可以中暑",
+       "喺外面太耐會曬傷",
+       "之後上堂冇精神、唔專心",
+       "練習或者比賽要中途停甚至取消",
+       "成身汗返課室，好唔舒服"
+      ],
+      "ideasEn": [
+       "Feeling dizzy, getting headaches or even heatstroke",
+       "Sunburn from staying outside too long",
+       "Students feel too tired to focus in later lessons",
+       "Practice or matches may have to stop or be cancelled",
+       "Students come back sweaty and uncomfortable in class"
+      ],
+      "materialLinks": [
+       "about two in three said they had felt dizzy or very tired after outdoor activities",
+       "PE lessons, sports practice and outdoor trips often carry on"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "唔想喺隊友面前停低，怕俾人笑",
+       "唔覺得口渴就唔飲水",
+       "水樽重，又唔想成日去廁所",
+       "覺得戴帽、搽防曬唔型或者麻煩",
+       "唔識分辨身體發出嘅警號"
+      ],
+      "ideasEn": [
+       "They do not want to stop in front of their teammates",
+       "They only drink when they feel thirsty",
+       "Bottles are heavy and they want to avoid toilet trips",
+       "Hats and sunscreen seem uncool or troublesome",
+       "They do not know the warning signs"
+      ],
+      "materialLinks": [
+       "43% said they rarely drank water during PE lessons",
+       "do not want to stop in front of their teammates"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "學生：帶水、分開幾次飲、着淺色衫、戴帽",
+       "學校：酷熱天氣警告時將體育堂搬入室內或者改時間",
+       "練習中定時休息，設遮陰位同飲水站",
+       "早會或者班主任課教警號，同學互相留意",
+       "老師同教練講明唔舒服就可以停"
+      ],
+      "ideasEn": [
+       "Students: bring water, sip often, wear light clothes and a hat",
+       "School: move PE indoors or change the time during the Very Hot Weather Warning",
+       "Regular breaks, shady areas and water stations during practice",
+       "Teach the warning signs and ask students to look out for each other",
+       "Teachers and coaches say it is fine to stop when unwell"
+      ],
+      "materialLinks": [
+       "Very Hot Weather Warning",
+       "A short break is not a sign of weakness",
+       "Looking out for each other can make a real difference"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "humid",
+      "note": "HYOO-mid，h 要讀出嚟，重音喺第一音節；潮濕",
+      "noteEn": "HYOO-mid, say the h, stress on the 1st syllable; hot and wet in the air"
+     },
+     {
+      "word": "Observatory",
+      "note": "ub-ZUR-vuh-tor-ee，重音喺第二音節，五個音節；天文台",
+      "noteEn": "ub-ZUR-vuh-tor-ee, stress on the 2nd syllable; the place that gives weather reports"
+     },
+     {
+      "word": "thirsty",
+      "note": "THUR-stee，th 要輕咬舌，唔好讀成 fur；口渴",
+      "noteEn": "THUR-stee, put your tongue between your teeth; needing a drink"
+     },
+     {
+      "word": "dizziness",
+      "note": "DIZ-ee-ness，重音喺第一音節；頭暈",
+      "noteEn": "DIZ-ee-ness, stress on the 1st syllable; feeling that things are spinning"
+     },
+     {
+      "word": "sunscreen",
+      "note": "SUN-skreen，重音喺第一音節；防曬霜",
+      "noteEn": "SUN-skreen, stress on the 1st syllable; cream that protects your skin from the sun"
+     },
+     {
+      "word": "wide-brimmed",
+      "note": "wide-BRIMD，單獨讀時重音喺 brimmed（放喺 hat 前面時 WIDE 會讀重啲）；闊邊（帽）",
+      "noteEn": "wide-BRIMD, stress on brimmed (before 'hat', WIDE is stronger); a hat with a wide edge"
+     },
+     {
+      "word": "heatstroke",
+      "note": "HEET-stroke，重音喺第一音節；中暑",
+      "noteEn": "HEET-stroke, stress on the 1st syllable; a serious illness caused by too much heat"
+     },
+     {
+      "word": "light-coloured",
+      "note": "light-KUL-erd，單獨讀時重音喺 KUL（放喺 clothes 前面時 LIGHT 會讀重啲）；淺色",
+      "noteEn": "light-KUL-erd, stress on KUL (before 'clothes', LIGHT is stronger); pale, not dark"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "最鍾意邊季、點解",
+       "嗰陣鍾意做嘅活動"
+      ],
+      "pointsEn": [
+       "Your favourite season and why",
+       "Activities you enjoy then"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "開冷氣、食雪糕、去商場",
+       "少啲出街"
+      ],
+      "pointsEn": [
+       "Air-con, ice cream or going to malls",
+       "Staying indoors more"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "personal",
+      "points": [
+       "打波、跑步、行山",
+       "熱天會唔會少咗做"
+      ],
+      "pointsEn": [
+       "Ball games, running or hiking",
+       "Whether you do less in hot weather"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "唔覺口渴、太忙",
+       "鍾意飲汽水多過清水",
+       "唔想去廁所"
+      ],
+      "pointsEn": [
+       "Not feeling thirsty or too busy",
+       "Preferring sweet drinks to water",
+       "Avoiding trips to the toilet"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "安全最重要",
+       "室內場地唔夠用"
+      ],
+      "pointsEn": [
+       "Safety comes first",
+       "Not enough indoor space"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "商場、巴士凍到要着外套",
+       "用電多，影響環境",
+       "熱天其實有需要"
+      ],
+      "pointsEn": [
+       "Malls and buses are too cold",
+       "Uses a lot of energy",
+       "Needed on very hot days"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "comparison",
+      "points": [
+       "海灘：可以游水，但係好曬",
+       "商場：有冷氣、舒服"
+      ],
+      "pointsEn": [
+       "Beach: swimming, but strong sun",
+       "Mall: cool and comfortable"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "多啲樹、多啲有蓋行人路",
+       "用淺色、反光嘅建築物料",
+       "噴霧、飲水機"
+      ],
+      "pointsEn": [
+       "More trees and covered walkways",
+       "Light-coloured buildings that reflect heat",
+       "Water fountains and misting fans"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "逐條讀出六個貼士，冇連返學校嘅實際問題",
+     "解決方法只講學生，冇講學校可以點做",
+     "講錯調查數字，例如將 43% 講成 43 個學生",
+     "第二點只係話同學「懶」，冇講其他原因"
+    ],
+    "pitfallsEn": [
+     "Reading out the six tips without linking them to problems at school",
+     "Giving solutions only for students and not for the school",
+     "Misreporting the survey, e.g. saying 43 students instead of 43%",
+     "Saying students are just lazy without giving other reasons"
+    ]
+   },
+   "no": 29,
+   "pdf": "speaking/ENG4-011_1.2.pdf",
+   "pdfVer": 2
+  },
+  {
+   "setId": "ENG4-011",
+   "code": "1.3",
+   "title": "Fridays Off: Design Firm Tests a Four-Day Week",
+   "partA": {
+    "sourceIntro": "This article appeared in a local newspaper:",
+    "title": "Fridays Off: Design Firm Tests a Four-Day Week",
+    "text": "A small design company in San Po Kong has given its 18 employees an extra day off every week without reducing their salaries.\n\nSince March, its staff have worked from Monday to Thursday only. According to the founder, the six-month experiment began after two of her most talented designers resigned to take less stressful jobs. \"Everyone was exhausted and making careless mistakes,\" she explained. \"We wanted to find out whether we could work more efficiently and finish the same amount of work in four days.\"\n\nThe results look positive. The company reports that employees are more focused, take fewer sick days, and most projects are delivered on time, partly because meetings have been shortened from an hour to 30 minutes and staff check emails only three times a day.\n\nDesigner Phoebe Chong, 27, spends her Fridays visiting her grandmother and attending a dance class. \"I return on Monday full of creative ideas,\" she said.\n\nThe change has brought problems too. Some staff now work ten-hour days to finish their tasks, and several clients have complained that it is inconvenient when nobody answers the phone on Fridays. \"If something urgent happens on a Friday, I have to wait until Monday,\" said a restaurant owner who uses the company's services.\n\nTrials of shorter working weeks have been held in countries such as the UK and Iceland. A local business lecturer pointed out that the idea may suit office jobs but would be far more difficult for hospitals, shops and public transport, which need staff every day.",
+    "visual": null,
+    "scenario": "Your school newspaper is preparing a special page on working life in Hong Kong, with quotes from students. Your group has been asked to discuss the four-day working week described in the article and give your own views; members do not have to agree.",
+    "prompts": [
+     "why some companies might want to try a four-day working week",
+     "what problems a four-day working week could cause and who would be affected",
+     "whether more companies in Hong Kong should try a four-day working week",
+     "anything else you think is important"
+    ]
+   },
+   "partB": {
+    "questions": [
+     "Do you look forward to Fridays?",
+     "Have you ever been too tired to do your schoolwork well?",
+     "Would you prefer four long school days or five shorter ones?",
+     "Why do some people answer work messages after office hours?",
+     "Do you think people work better when they have more rest?",
+     "Is it fair if some workers get a four-day week but others do not?",
+     "Should shops in Hong Kong close one day a week?",
+     "Will most people in Hong Kong work four days a week in the future?"
+    ],
+    "audio": [
+     "speaking/audio/ENG4-011_1.3_q1_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q2_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q3_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q4_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q5_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q6_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q7_m.mp3",
+     "speaking/audio/ENG4-011_1.3_q8_m.mp3"
+    ],
+    "audioF": [
+     "speaking/audio/ENG4-011_1.3_q1_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q2_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q3_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q4_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q5_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q6_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q7_f.mp3",
+     "speaking/audio/ENG4-011_1.3_q8_f.mp3"
+    ]
+   },
+   "meta": {
+    "topic": "a Hong Kong company trialling a four-day working week",
+    "topicArea": "Work & Money",
+    "textType": "newspaper article",
+    "taskType": "give opinions",
+    "hkLocal": true,
+    "decisionRequired": false,
+    "unfamiliar": false,
+    "multiText": false,
+    "irTypes": [
+     "personal",
+     "personal",
+     "comparison",
+     "opinion",
+     "opinion",
+     "opinion",
+     "opinion",
+     "abstract"
+    ]
+   },
+   "guide": {
+    "taskFocus": "校報專頁會引用學生對「一星期返四日工」嘅意見。小組要討論公司點解想試、會帶嚟咩問題（例如對員工或者客人），同埋香港應唔應該有更多公司試；組員唔使意見一致，但每人都要清楚講出自己嘅立場同理由。",
+    "taskFocusEn": "The school newspaper will quote students' views on a four-day working week. Discuss why companies try it, what problems it may cause (e.g. for workers or customers), and whether more Hong Kong companies should try it. You need not agree, but make your own view clear.",
+    "promptGuide": [
+     {
+      "prompt": 1,
+      "ideas": [
+       "員工太攰，容易出錯",
+       "留住好員工，唔想佢哋辭職",
+       "休息夠更專心、更有創意",
+       "病假少咗",
+       "吸引年輕人應徵，公司形象好"
+      ],
+      "ideasEn": [
+       "Tired workers make more mistakes",
+       "It helps keep good staff from leaving",
+       "Rested staff focus better and have more ideas",
+       "Staff take fewer sick days",
+       "It attracts young job seekers and improves the company's image"
+      ],
+      "materialLinks": [
+       "two of her most talented designers resigned to take less stressful jobs",
+       "employees are more focused, take fewer sick days"
+      ]
+     },
+     {
+      "prompt": 2,
+      "ideas": [
+       "每日做十個鐘，好攰",
+       "客人星期五搵唔到人",
+       "急事要等到星期一，可能失生意",
+       "開會時間短咗，溝通可能唔夠",
+       "其他公司嘅員工會覺得唔公平"
+      ],
+      "ideasEn": [
+       "Ten-hour days can be exhausting",
+       "Clients cannot reach anyone on Fridays",
+       "Urgent problems wait until Monday and business may be lost",
+       "Shorter meetings may mean less communication",
+       "Workers at other companies may feel it is unfair"
+      ],
+      "materialLinks": [
+       "Some staff now work ten-hour days",
+       "If something urgent happens on a Friday, I have to wait until Monday"
+      ]
+     },
+     {
+      "prompt": 3,
+      "ideas": [
+       "應該：員工健康好、屋企人相處時間多",
+       "應該：吸引人才，留住年輕員工",
+       "唔應該：醫院、商店、交通要每日有人，好難安排",
+       "唔應該：香港競爭大，客人期望隨時搵到人",
+       "折衷：自願參加、輪班、先喺細公司試"
+      ],
+      "ideasEn": [
+       "Yes: workers would be healthier and spend more time with family",
+       "Yes: it would help companies attract and keep young talent",
+       "No: hospitals, shops and transport need staff every day",
+       "No: Hong Kong is competitive and customers expect fast service",
+       "Middle way: let companies choose, use shifts or start with small firms"
+      ],
+      "materialLinks": [
+       "the idea may suit office jobs but would be far more difficult for hospitals, shops and public transport"
+      ]
+     }
+    ],
+    "topicVocab": [
+     {
+      "word": "experiment",
+      "note": "ik-SPER-ih-ment，重音喺第二音節；試驗",
+      "noteEn": "ik-SPER-ih-ment, stress on the 2nd syllable; a test to see what happens"
+     },
+     {
+      "word": "exhausted",
+      "note": "ig-ZAWS-tid，h 唔發音，重音喺第二音節；精疲力盡",
+      "noteEn": "ig-ZAWS-tid, the h is silent, stress on the 2nd syllable; very tired"
+     },
+     {
+      "word": "efficiently",
+      "note": "ih-FISH-ent-lee，重音喺第二音節；有效率咁",
+      "noteEn": "ih-FISH-ent-lee, stress on the 2nd syllable; without wasting time"
+     },
+     {
+      "word": "salaries",
+      "note": "SAL-uh-reez，重音喺第一音節；人工、薪金",
+      "noteEn": "SAL-uh-reez, stress on the 1st syllable; the money workers get each month"
+     },
+     {
+      "word": "Iceland",
+      "note": "ICE-lund，第一個音節讀 ICE，land 讀得輕；冰島",
+      "noteEn": "ICE-lund, say ICE clearly and keep land short; a country in northern Europe"
+     },
+     {
+      "word": "inconvenient",
+      "note": "in-kun-VEE-nee-unt，重音喺第三音節；唔方便",
+      "noteEn": "in-kun-VEE-nee-unt, stress on the 3rd syllable; causing trouble"
+     },
+     {
+      "word": "lecturer",
+      "note": "LEK-chur-er，重音喺第一音節；大學講師",
+      "noteEn": "LEK-chur-er, stress on the 1st syllable; a university teacher"
+     },
+     {
+      "word": "resigned",
+      "note": "rih-ZYND，s 讀 /z/，g 唔發音；辭職",
+      "noteEn": "rih-ZYND, the s sounds like z and the g is silent; left a job"
+     },
+     {
+      "word": "talented",
+      "note": "TAL-en-tid，重音喺第一音節；有天份嘅",
+      "noteEn": "TAL-en-tid, stress on the 1st syllable; very good at something"
+     }
+    ],
+    "irGuide": [
+     {
+      "q": 1,
+      "type": "personal",
+      "points": [
+       "期待：第二日唔使返學",
+       "未必：有補習、功課或者活動"
+      ],
+      "pointsEn": [
+       "Yes: no school the next day",
+       "Not always: tutoring, homework or activities"
+      ]
+     },
+     {
+      "q": 2,
+      "type": "personal",
+      "points": [
+       "考試前或者活動多嗰陣",
+       "結果點樣"
+      ],
+      "pointsEn": [
+       "Before exams or during busy weeks",
+       "What happened as a result"
+      ]
+     },
+     {
+      "q": 3,
+      "type": "comparison",
+      "points": [
+       "四日：多一日休息",
+       "五日：每日短啲、易專心"
+      ],
+      "pointsEn": [
+       "Four days: an extra day to rest",
+       "Five days: shorter days, easier to focus"
+      ]
+     },
+     {
+      "q": 4,
+      "type": "opinion",
+      "points": [
+       "怕老闆／客人唔滿意",
+       "手機隨時收到訊息",
+       "習慣、怕錯過重要嘢"
+      ],
+      "pointsEn": [
+       "Worried about the boss or clients",
+       "Phones make it easy to reach them",
+       "Habit, or fear of missing something"
+      ]
+     },
+     {
+      "q": 5,
+      "type": "opinion",
+      "points": [
+       "精神好、少出錯",
+       "休息太多可能會懶"
+      ],
+      "pointsEn": [
+       "More energy and fewer mistakes",
+       "Too much rest may make people lazy"
+      ]
+     },
+     {
+      "q": 6,
+      "type": "opinion",
+      "points": [
+       "唔同工作性質唔同",
+       "可以用其他方法補償"
+      ],
+      "pointsEn": [
+       "Different jobs work differently",
+       "Other rewards could make it fair"
+      ]
+     },
+     {
+      "q": 7,
+      "type": "opinion",
+      "points": [
+       "員工有得休息",
+       "顧客唔方便、少咗生意"
+      ],
+      "pointsEn": [
+       "Staff get a regular day off",
+       "Less convenient and less business"
+      ]
+     },
+     {
+      "q": 8,
+      "type": "abstract",
+      "points": [
+       "科技同 AI 可能幫手",
+       "香港長工時文化難改"
+      ],
+      "pointsEn": [
+       "Technology and AI may help",
+       "Hong Kong's long-hours culture is hard to change"
+      ]
+     }
+    ],
+    "pitfalls": [
+     "淨係講員工嘅好處，冇講對員工或者客人會帶嚟咩問題",
+     "第三點一句「香港唔得」就講完，冇分唔同行業或者提折衷方法",
+     "將「冇減人工」講成「人工減少」",
+     "讀錯 Iceland、experiment、exhausted"
+    ],
+    "pitfallsEn": [
+     "Only discussing benefits and not the problems for workers or customers",
+     "Saying it won't work in Hong Kong without looking at different jobs or middle ways",
+     "Saying pay was cut when the article says it was not",
+     "Mispronouncing Iceland, experiment and exhausted"
+    ]
+   },
+   "no": 30,
+   "pdf": "speaking/ENG4-011_1.3.pdf",
    "pdfVer": 2
   }
  ]
