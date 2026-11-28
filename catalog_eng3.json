@@ -63,6 +63,27 @@
         "script": "tapescript.pdf"
       },
       "audio": "audio.mp3"
+    },
+    {
+      "id": "ENG3-004",
+      "title": "Weather and climate",
+      "theme": "Weather and climate: the team behind The Sky Desk, a weekly weather programme on a Hong Kong radio station",
+      "examDate": "2026-11-29",
+      "examStartTime": "09:15",
+      "examEndTime": "12:10",
+      "pdfOpenHours": 14,
+      "dir": "eng3/ENG3-004",
+      "pdfs": {
+        "partA": "partA_qab.pdf",
+        "b1df": "partB1_datafile.pdf",
+        "b1qab": "partB1_qab.pdf",
+        "b2df": "partB2_datafile.pdf",
+        "b2qab": "partB2_qab.pdf",
+        "msA": "partA_markingscheme.pdf",
+        "msB": "partB_markingscheme.pdf",
+        "script": "tapescript.pdf"
+      },
+      "audio": "audio.mp3"
     }
   ]
 }
